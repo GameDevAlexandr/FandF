@@ -1,0 +1,125 @@
+
+1-stinky.png
+size: 523,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hip L
+  rotate: false
+  xy: 426, 202
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 2, 28
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: true
+  xy: 126, 83
+  size: 203, 86
+  orig: 203, 86
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 2, 288
+  size: 215, 233
+  orig: 215, 233
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 350, 178
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 426, 232
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+Rear leg
+  rotate: false
+  xy: 272, 160
+  size: 76, 132
+  orig: 76, 132
+  offset: 0, 0
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 272, 38
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+Sfera 2
+  rotate: false
+  xy: 457, 141
+  size: 59, 59
+  orig: 68, 68
+  offset: 4, 5
+  index: -1
+Sfera 3
+  rotate: true
+  xy: 126, 5
+  size: 76, 81
+  orig: 86, 86
+  offset: 5, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 214, 60
+  size: 226, 56
+  orig: 226, 56
+  offset: 0, 0
+  index: -1
+Stand for
+  rotate: true
+  xy: 344, 310
+  size: 211, 73
+  orig: 211, 73
+  offset: 0, 0
+  index: -1
+bandage L
+  rotate: true
+  xy: 394, 61
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 419, 364
+  size: 157, 102
+  orig: 157, 102
+  offset: 0, 0
+  index: -1
+rubber band R
+  rotate: true
+  xy: 394, 39
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+tube L
+  rotate: false
+  xy: 2, 58
+  size: 122, 228
+  orig: 122, 228
+  offset: 0, 0
+  index: -1
+tube R
+  rotate: false
+  xy: 219, 294
+  size: 123, 227
+  orig: 123, 227
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+2 clockwork.png
+size: 517,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 419, 353
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 234, 23
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 190, 242
+  size: 191, 100
+  orig: 191, 100
+  offset: 0, 0
+  index: -1
+Bust
+  rotate: true
+  xy: 135, 39
+  size: 194, 93
+  orig: 194, 93
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 190, 348
+  size: 223, 99
+  orig: 223, 99
+  offset: 0, 0
+  index: -1
+Elbow L
+  rotate: true
+  xy: 432, 190
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: true
+  xy: 432, 131
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: true
+  xy: 380, 169
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: true
+  xy: 380, 96
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+Glass Dome
+  rotate: true
+  xy: 6, 15
+  size: 218, 123
+  orig: 218, 123
+  offset: 0, 0
+  index: -1
+Hend L
+  rotate: false
+  xy: 6, 239
+  size: 86, 272
+  orig: 86, 272
+  offset: 0, 0
+  index: -1
+Hend R
+  rotate: false
+  xy: 98, 239
+  size: 86, 272
+  orig: 86, 272
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 387, 244
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 430, 249
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+Knee R
+  rotate: false
+  xy: 442, 6
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+KneeL
+  rotate: false
+  xy: 442, 51
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Sfera
+  rotate: false
+  xy: 380, 34
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 190, 453
+  size: 295, 58
+  orig: 295, 58
+  offset: 0, 0
+  index: -1
+Shin L
+  rotate: false
+  xy: 234, 110
+  size: 67, 126
+  orig: 67, 126
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: false
+  xy: 307, 110
+  size: 67, 126
+  orig: 67, 126
+  offset: 0, 0
+  index: -1
+Taz
+  rotate: true
+  xy: 334, 31
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+Vertel L
+  rotate: false
+  xy: 432, 96
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Vertel R
+  rotate: false
+  xy: 468, 96
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Wire
+  rotate: true
+  xy: 473, 256
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+vertel 2L
+  rotate: false
+  xy: 491, 494
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+vertel 2R
+  rotate: false
+  xy: 135, 16
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

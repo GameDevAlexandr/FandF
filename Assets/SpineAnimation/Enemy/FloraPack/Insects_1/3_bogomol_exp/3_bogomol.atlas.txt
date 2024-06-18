@@ -1,0 +1,265 @@
+
+3_bogomol.png
+size: 580,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 354, 170
+  size: 48, 135
+  orig: 377, 670
+  offset: 91, 370
+  index: -1
+Arm L  det 1
+  rotate: true
+  xy: 151, 219
+  size: 31, 86
+  orig: 377, 670
+  offset: 110, 334
+  index: -1
+Arm R
+  rotate: false
+  xy: 515, 218
+  size: 48, 137
+  orig: 377, 670
+  offset: 240, 371
+  index: -1
+Arm R det1
+  rotate: false
+  xy: 376, 240
+  size: 33, 83
+  orig: 377, 670
+  offset: 238, 334
+  index: -1
+Back
+  rotate: false
+  xy: 262, 16
+  size: 109, 90
+  orig: 377, 670
+  offset: 137, 346
+  index: -1
+Foot L
+  rotate: true
+  xy: 150, 507
+  size: 67, 253
+  orig: 377, 670
+  offset: 48, 125
+  index: -1
+Foot R
+  rotate: true
+  xy: 6, 35
+  size: 70, 250
+  orig: 377, 670
+  offset: 259, 128
+  index: -1
+Head
+  rotate: true
+  xy: 487, 29
+  size: 55, 51
+  orig: 377, 670
+  offset: 158, 411
+  index: -1
+Head deet C
+  rotate: false
+  xy: 454, 112
+  size: 28, 52
+  orig: 377, 670
+  offset: 173, 419
+  index: -1
+Layer 2
+  rotate: true
+  xy: 377, 34
+  size: 78, 55
+  orig: 377, 670
+  offset: 148, 358
+  index: -1
+Leg L
+  rotate: true
+  xy: 266, 256
+  size: 91, 104
+  orig: 377, 670
+  offset: 78, 253
+  index: -1
+Leg R
+  rotate: true
+  xy: 150, 353
+  size: 79, 117
+  orig: 377, 670
+  offset: 212, 250
+  index: -1
+Rear leg L
+  rotate: false
+  xy: 470, 228
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+Rear leg L2
+  rotate: true
+  xy: 409, 523
+  size: 51, 156
+  orig: 51, 156
+  offset: 0, 0
+  index: -1
+Rear leg R
+  rotate: false
+  xy: 377, 329
+  size: 34, 103
+  orig: 34, 103
+  offset: 0, 0
+  index: -1
+Rear leg R2
+  rotate: false
+  xy: 515, 361
+  size: 51, 156
+  orig: 51, 156
+  offset: 0, 0
+  index: -1
+Rear thigh L
+  rotate: true
+  xy: 354, 118
+  size: 46, 94
+  orig: 377, 670
+  offset: 119, 233
+  index: -1
+Rear thigh R
+  rotate: false
+  xy: 417, 238
+  size: 47, 93
+  orig: 377, 670
+  offset: 212, 233
+  index: -1
+Sfers 1
+  rotate: false
+  xy: 438, 16
+  size: 38, 44
+  orig: 377, 670
+  offset: 171, 497
+  index: -1
+Sfers 2
+  rotate: true
+  xy: 438, 66
+  size: 40, 43
+  orig: 377, 670
+  offset: 168, 301
+  index: -1
+Shouilden
+  rotate: false
+  xy: 150, 438
+  size: 263, 63
+  orig: 377, 670
+  offset: 57, 143
+  index: -1
+Shoulder L
+  rotate: true
+  xy: 495, 153
+  size: 59, 73
+  orig: 377, 670
+  offset: 115, 360
+  index: -1
+Shoulder R
+  rotate: true
+  xy: 488, 90
+  size: 57, 73
+  orig: 377, 670
+  offset: 204, 360
+  index: -1
+Upper body
+  rotate: true
+  xy: 266, 120
+  size: 98, 82
+  orig: 377, 670
+  offset: 139, 361
+  index: -1
+back 2
+  rotate: false
+  xy: 151, 256
+  size: 101, 91
+  orig: 377, 670
+  offset: 140, 242
+  index: -1
+belt
+  rotate: false
+  xy: 419, 337
+  size: 90, 180
+  orig: 377, 670
+  offset: 145, 154
+  index: -1
+det 1 L
+  rotate: true
+  xy: 47, 10
+  size: 19, 32
+  orig: 377, 670
+  offset: 166, 396
+  index: -1
+det 1 R
+  rotate: true
+  xy: 243, 224
+  size: 26, 60
+  orig: 377, 670
+  offset: 193, 441
+  index: -1
+det 2 L
+  rotate: true
+  xy: 309, 224
+  size: 26, 60
+  orig: 377, 670
+  offset: 155, 440
+  index: -1
+det 2 R
+  rotate: true
+  xy: 6, 9
+  size: 20, 35
+  orig: 377, 670
+  offset: 188, 396
+  index: -1
+mouth
+  rotate: false
+  xy: 139, 13
+  size: 14, 16
+  orig: 377, 670
+  offset: 180, 407
+  index: -1
+press
+  rotate: true
+  xy: 273, 375
+  size: 57, 85
+  orig: 377, 670
+  offset: 159, 304
+  index: -1
+taz
+  rotate: true
+  xy: 151, 112
+  size: 100, 109
+  orig: 377, 670
+  offset: 139, 224
+  index: -1
+yea L
+  rotate: true
+  xy: 85, 11
+  size: 18, 24
+  orig: 377, 670
+  offset: 161, 426
+  index: -1
+yeaR
+  rotate: false
+  xy: 115, 6
+  size: 18, 23
+  orig: 377, 670
+  offset: 193, 424
+  index: -1
+Сlaw L
+  rotate: false
+  xy: 6, 344
+  size: 138, 230
+  orig: 377, 670
+  offset: 2, 294
+  index: -1
+Сlaw R
+  rotate: false
+  xy: 6, 111
+  size: 139, 227
+  orig: 377, 670
+  offset: 233, 295
+  index: -1

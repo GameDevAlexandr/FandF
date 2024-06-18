@@ -1,0 +1,97 @@
+
+1 голем экспорт.png
+size: 433,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHAIN LEFT 1
+  rotate: false
+  xy: 400, 106
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+CHAIN LEFT 2
+  rotate: true
+  xy: 299, 14
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+CHAIN1
+  rotate: false
+  xy: 273, 8
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+CHAIN2
+  rotate: true
+  xy: 361, 114
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 240, 6
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 240, 118
+  size: 78, 119
+  orig: 78, 119
+  offset: 0, 0
+  index: -1
+LEFT HAND 1
+  rotate: true
+  xy: 361, 145
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+LEFT HAND 2
+  rotate: true
+  xy: 240, 40
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+LEFT HAND 3
+  rotate: false
+  xy: 2, 2
+  size: 117, 194
+  orig: 117, 194
+  offset: 0, 0
+  index: -1
+RIGHT HAND 1
+  rotate: false
+  xy: 380, 197
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+RIGHT HAND 2
+  rotate: true
+  xy: 336, 28
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+RIGHT HAND 3
+  rotate: false
+  xy: 121, 2
+  size: 117, 194
+  orig: 117, 194
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 198
+  size: 376, 66
+  orig: 376, 66
+  offset: 0, 0
+  index: -1

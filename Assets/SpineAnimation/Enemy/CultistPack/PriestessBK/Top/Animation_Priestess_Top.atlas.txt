@@ -1,0 +1,90 @@
+
+Animation_Priestess_Top.png
+size: 459,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BALL7
+  rotate: true
+  xy: 359, 317
+  size: 21, 22
+  orig: 862, 987
+  offset: 623, 675
+  index: -1
+BLIK LANT 2
+  rotate: false
+  xy: 309, 313
+  size: 40, 72
+  orig: 862, 987
+  offset: 616, 574
+  index: -1
+BLIK LANT1
+  rotate: true
+  xy: 143, 10
+  size: 11, 53
+  orig: 862, 987
+  offset: 609, 584
+  index: -1
+HAND R 1
+  rotate: false
+  xy: 143, 31
+  size: 64, 51
+  orig: 862, 987
+  offset: 602, 711
+  index: -1
+HAND R 2
+  rotate: false
+  xy: 309, 395
+  size: 51, 54
+  orig: 862, 987
+  offset: 618, 703
+  index: -1
+HANR R back
+  rotate: true
+  xy: 359, 348
+  size: 37, 43
+  orig: 862, 987
+  offset: 626, 711
+  index: -1
+LANTERN
+  rotate: false
+  xy: 197, 164
+  size: 102, 285
+  orig: 862, 987
+  offset: 580, 510
+  index: -1
+LANTERN LIGHT
+  rotate: false
+  xy: 10, 92
+  size: 177, 357
+  orig: 862, 987
+  offset: 536, 458
+  index: -1
+LANTERN SHINE
+  rotate: true
+  xy: 10, 13
+  size: 69, 123
+  orig: 862, 987
+  offset: 595, 544
+  index: -1
+Layer 827
+  rotate: true
+  xy: 370, 425
+  size: 24, 33
+  orig: 862, 987
+  offset: 606, 708
+  index: -1
+SPIRIT LIL
+  rotate: false
+  xy: 309, 277
+  size: 77, 26
+  orig: 862, 987
+  offset: 697, 538
+  index: -1
+SPIRIT3
+  rotate: false
+  xy: 217, 12
+  size: 150, 142
+  orig: 862, 987
+  offset: 674, 649
+  index: -1

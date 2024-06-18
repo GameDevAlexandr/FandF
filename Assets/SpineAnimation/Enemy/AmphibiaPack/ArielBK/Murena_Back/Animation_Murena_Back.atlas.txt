@@ -1,0 +1,349 @@
+
+Animation_Murena_Back.png
+size: 1825,1825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARMOUR ARM R
+  rotate: true
+  xy: 1531, 302
+  size: 80, 94
+  orig: 862, 987
+  offset: 633, 585
+  index: -1
+ARMOUR LEG 1
+  rotate: false
+  xy: 1651, 793
+  size: 152, 199
+  orig: 862, 987
+  offset: 273, 413
+  index: -1
+ARMOUR LEG 2
+  rotate: true
+  xy: 1633, 652
+  size: 131, 177
+  orig: 862, 987
+  offset: 443, 438
+  index: -1
+ARMOUR R 1
+  rotate: true
+  xy: 1636, 218
+  size: 95, 68
+  orig: 862, 987
+  offset: 548, 581
+  index: -1
+BLADE SHINE
+  rotate: true
+  xy: 487, 33
+  size: 203, 273
+  orig: 862, 987
+  offset: 108, 558
+  index: -1
+BLIK CHEST ORB
+  rotate: false
+  xy: 1329, 293
+  size: 6, 14
+  orig: 862, 987
+  offset: 435, 716
+  index: -1
+BLIK SWORD
+  rotate: false
+  xy: 1524, 190
+  size: 102, 102
+  orig: 862, 987
+  offset: 53, 518
+  index: -1
+BODY
+  rotate: false
+  xy: 1355, 821
+  size: 286, 412
+  orig: 862, 987
+  offset: 270, 403
+  index: -1
+BODY SHINE L
+  rotate: false
+  xy: 1048, 69
+  size: 211, 204
+  orig: 862, 987
+  offset: 228, 589
+  index: -1
+BODY SHINE R
+  rotate: false
+  xy: 750, 266
+  size: 269, 205
+  orig: 862, 987
+  offset: 349, 593
+  index: -1
+BONES
+  rotate: true
+  xy: 1696, 522
+  size: 120, 93
+  orig: 862, 987
+  offset: 367, 564
+  index: -1
+CHAOS 1
+  rotate: false
+  xy: 10, 246
+  size: 730, 572
+  orig: 862, 987
+  offset: 115, 381
+  index: -1
+CHAOS 2
+  rotate: false
+  xy: 882, 1243
+  size: 729, 572
+  orig: 862, 987
+  offset: 116, 381
+  index: -1
+CHEST ORB1
+  rotate: false
+  xy: 1621, 1246
+  size: 19, 19
+  orig: 862, 987
+  offset: 424, 711
+  index: -1
+CHEST SHINE
+  rotate: true
+  xy: 1048, 11
+  size: 48, 51
+  orig: 862, 987
+  offset: 410, 695
+  index: -1
+CORSET
+  rotate: false
+  xy: 750, 481
+  size: 269, 292
+  orig: 862, 987
+  offset: 309, 423
+  index: -1
+CORSET SHINE
+  rotate: true
+  xy: 1621, 1510
+  size: 305, 180
+  orig: 862, 987
+  offset: 297, 443
+  index: -1
+ELBOW
+  rotate: true
+  xy: 750, 783
+  size: 35, 46
+  orig: 862, 987
+  offset: 280, 597
+  index: -1
+EYE1
+  rotate: false
+  xy: 1798, 1470
+  size: 17, 30
+  orig: 862, 987
+  offset: 428, 802
+  index: -1
+EYE2
+  rotate: false
+  xy: 1324, 742
+  size: 18, 31
+  orig: 862, 987
+  offset: 414, 800
+  index: -1
+FINGER
+  rotate: false
+  xy: 10, 14
+  size: 34, 36
+  orig: 862, 987
+  offset: 637, 655
+  index: -1
+GLOBAL SHINE
+  rotate: false
+  xy: 10, 828
+  size: 862, 987
+  orig: 862, 987
+  offset: 0, 0
+  index: -1
+HAND L 1
+  rotate: false
+  xy: 1561, 530
+  size: 125, 112
+  orig: 862, 987
+  offset: 165, 569
+  index: -1
+HAND L 2
+  rotate: false
+  xy: 1635, 323
+  size: 67, 100
+  orig: 862, 987
+  offset: 264, 594
+  index: -1
+HEAD
+  rotate: false
+  xy: 10, 60
+  size: 467, 176
+  orig: 862, 987
+  offset: 199, 768
+  index: -1
+HEAD SHINE L
+  rotate: false
+  xy: 1029, 529
+  size: 285, 244
+  orig: 862, 987
+  offset: 189, 743
+  index: -1
+HEAD SHINE R
+  rotate: false
+  xy: 1029, 283
+  size: 290, 236
+  orig: 862, 987
+  offset: 388, 751
+  index: -1
+LEG 1
+  rotate: false
+  xy: 1324, 529
+  size: 227, 151
+  orig: 862, 987
+  offset: 136, 381
+  index: -1
+LEG 2
+  rotate: true
+  xy: 1621, 1275
+  size: 225, 167
+  orig: 862, 987
+  offset: 206, 465
+  index: -1
+LEG 3
+  rotate: true
+  xy: 770, 10
+  size: 246, 135
+  orig: 862, 987
+  offset: 481, 455
+  index: -1
+LEG 4
+  rotate: true
+  xy: 915, 11
+  size: 245, 123
+  orig: 862, 987
+  offset: 506, 399
+  index: -1
+RIGHT HAND
+  rotate: false
+  xy: 1373, 17
+  size: 177, 106
+  orig: 862, 987
+  offset: 535, 582
+  index: -1
+SHINE LEFT HAND
+  rotate: false
+  xy: 1631, 433
+  size: 114, 79
+  orig: 862, 987
+  offset: 196, 586
+  index: -1
+SHOULDER L 1
+  rotate: true
+  xy: 1714, 235
+  size: 88, 73
+  orig: 862, 987
+  offset: 304, 702
+  index: -1
+SHOULDER L 2
+  rotate: true
+  xy: 806, 784
+  size: 34, 36
+  orig: 862, 987
+  offset: 367, 711
+  index: -1
+SHOULDER R
+  rotate: true
+  xy: 1531, 392
+  size: 127, 90
+  orig: 862, 987
+  offset: 463, 678
+  index: -1
+SPEAR BACK LEG
+  rotate: true
+  xy: 1524, 147
+  size: 33, 26
+  orig: 862, 987
+  offset: 722, 724
+  index: -1
+SPEAR BOT
+  rotate: true
+  xy: 1712, 333
+  size: 90, 65
+  orig: 862, 987
+  offset: 690, 742
+  index: -1
+SPEAR LEGS
+  rotate: true
+  xy: 1560, 100
+  size: 80, 74
+  orig: 862, 987
+  offset: 666, 695
+  index: -1
+SPEAR ORB
+  rotate: false
+  xy: 1755, 452
+  size: 60, 60
+  orig: 862, 987
+  offset: 710, 763
+  index: -1
+SPEAR SHINE 1
+  rotate: false
+  xy: 1329, 317
+  size: 192, 202
+  orig: 862, 987
+  offset: 641, 687
+  index: -1
+SPEAR SHINE 2
+  rotate: true
+  xy: 882, 783
+  size: 450, 463
+  orig: 862, 987
+  offset: 412, 524
+  index: -1
+SPEAR TOP
+  rotate: false
+  xy: 1373, 133
+  size: 141, 174
+  orig: 862, 987
+  offset: 703, 780
+  index: -1
+STAFF BACK
+  rotate: false
+  xy: 1560, 12
+  size: 74, 78
+  orig: 862, 987
+  offset: 659, 666
+  index: -1
+STAFF TOP
+  rotate: false
+  xy: 1651, 1002
+  size: 153, 263
+  orig: 862, 987
+  offset: 515, 396
+  index: -1
+SWORD
+  rotate: true
+  xy: 1355, 690
+  size: 121, 268
+  orig: 862, 987
+  offset: 116, 597
+  index: -1
+WINGS
+  rotate: true
+  xy: 1269, 46
+  size: 227, 94
+  orig: 862, 987
+  offset: 308, 627
+  index: -1
+aperture1
+  rotate: true
+  xy: 1644, 50
+  size: 73, 68
+  orig: 862, 987
+  offset: 176, 591
+  index: -1
+aperture2
+  rotate: true
+  xy: 1644, 133
+  size: 75, 72
+  orig: 862, 987
+  offset: 173, 597
+  index: -1

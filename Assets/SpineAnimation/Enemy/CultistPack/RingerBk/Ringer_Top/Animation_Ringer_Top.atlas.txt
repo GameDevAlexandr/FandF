@@ -1,0 +1,27 @@
+
+Animation_Ringer_Top.png
+size: 453,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM R 2
+  rotate: false
+  xy: 10, 346
+  size: 119, 97
+  orig: 862, 987
+  offset: 524, 599
+  index: -1
+GLOW R
+  rotate: false
+  xy: 270, 323
+  size: 173, 120
+  orig: 862, 987
+  offset: 470, 528
+  index: -1
+ORB 1
+  rotate: false
+  xy: 139, 328
+  size: 121, 115
+  orig: 862, 987
+  offset: 468, 563
+  index: -1

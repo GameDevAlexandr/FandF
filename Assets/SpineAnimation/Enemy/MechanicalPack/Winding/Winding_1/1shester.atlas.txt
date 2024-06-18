@@ -1,0 +1,195 @@
+
+1shester.png
+size: 333,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 258, 225
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 238, 69
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 6, 204
+  size: 121, 82
+  orig: 121, 82
+  offset: 0, 0
+  index: -1
+Detal L kor
+  rotate: false
+  xy: 6, 23
+  size: 66, 84
+  orig: 87, 101
+  offset: 9, 11
+  index: -1
+Detal R kor
+  rotate: false
+  xy: 6, 113
+  size: 67, 85
+  orig: 87, 101
+  offset: 6, 11
+  index: -1
+DetalR
+  rotate: false
+  xy: 174, 53
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+Finger L kor
+  rotate: false
+  xy: 142, 132
+  size: 35, 74
+  orig: 87, 101
+  offset: 52, 4
+  index: -1
+Finger R kor
+  rotate: false
+  xy: 133, 212
+  size: 36, 74
+  orig: 87, 101
+  offset: 50, 4
+  index: -1
+Foot L
+  rotate: false
+  xy: 183, 156
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: false
+  xy: 246, 155
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 79, 121
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 175, 226
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 309, 212
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 309, 172
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+Sfera
+  rotate: false
+  xy: 214, 21
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 6, 292
+  size: 174, 35
+  orig: 325, 577
+  offset: 78, 128
+  index: -1
+Taz
+  rotate: true
+  xy: 78, 33
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+Tick
+  rotate: false
+  xy: 172, 24
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+Tick R
+  rotate: true
+  xy: 289, 252
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+body bsck
+  rotate: true
+  xy: 246, 100
+  size: 49, 66
+  orig: 49, 66
+  offset: 0, 0
+  index: -1
+circl
+  rotate: false
+  xy: 281, 40
+  size: 22, 23
+  orig: 55, 60
+  offset: 18, 18
+  index: -1
+head
+  rotate: false
+  xy: 113, 21
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+shester
+  rotate: false
+  xy: 113, 55
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+shoulders
+  rotate: false
+  xy: 186, 289
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+tube C
+  rotate: true
+  xy: 183, 101
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+tube L
+  rotate: false
+  xy: 248, 32
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+tube R
+  rotate: false
+  xy: 288, 294
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1

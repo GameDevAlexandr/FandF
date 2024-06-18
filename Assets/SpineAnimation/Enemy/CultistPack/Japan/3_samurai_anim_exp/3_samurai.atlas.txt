@@ -1,0 +1,244 @@
+
+3_samurai.png
+size: 1114,1114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body  low
+  rotate: false
+  xy: 945, 195
+  size: 66, 115
+  orig: 702, 1035
+  offset: 325, 383
+  index: -1
+Det
+  rotate: false
+  xy: 1071, 1069
+  size: 38, 43
+  orig: 702, 1035
+  offset: 398, 602
+  index: -1
+Elbow 2
+  rotate: false
+  xy: 2, 52
+  size: 107, 180
+  orig: 702, 1035
+  offset: 373, 675
+  index: -1
+Elbow 3
+  rotate: true
+  xy: 974, 312
+  size: 178, 78
+  orig: 702, 1035
+  offset: 185, 431
+  index: -1
+Shadow
+  rotate: true
+  xy: 506, 340
+  size: 425, 123
+  orig: 702, 1035
+  offset: 132, 13
+  index: -1
+Sharnir 11
+  rotate: true
+  xy: 631, 729
+  size: 36, 34
+  orig: 702, 1035
+  offset: 588, 541
+  index: -1
+arm 2
+  rotate: false
+  xy: 910, 613
+  size: 159, 108
+  orig: 702, 1035
+  offset: 315, 858
+  index: -1
+arm 3
+  rotate: true
+  xy: 910, 492
+  size: 119, 146
+  orig: 702, 1035
+  offset: 144, 486
+  index: -1
+arm1
+  rotate: false
+  xy: 856, 186
+  size: 87, 137
+  orig: 702, 1035
+  offset: 453, 502
+  index: -1
+body
+  rotate: true
+  xy: 111, 6
+  size: 210, 240
+  orig: 702, 1035
+  offset: 251, 515
+  index: -1
+cap
+  rotate: false
+  xy: 475, 57
+  size: 275, 128
+  orig: 702, 1035
+  offset: 222, 736
+  index: -1
+cloth
+  rotate: false
+  xy: 352, 263
+  size: 152, 456
+  orig: 702, 1035
+  offset: 285, 175
+  index: -1
+det cap
+  rotate: true
+  xy: 353, 17
+  size: 244, 120
+  orig: 702, 1035
+  offset: 238, 742
+  index: -1
+elbow1
+  rotate: false
+  xy: 851, 97
+  size: 76, 87
+  orig: 702, 1035
+  offset: 534, 477
+  index: -1
+glow1
+  rotate: false
+  xy: 357, 767
+  size: 309, 345
+  orig: 702, 1035
+  offset: 304, 608
+  index: -1
+glow2
+  rotate: true
+  xy: 668, 896
+  size: 216, 401
+  orig: 702, 1035
+  offset: 20, 520
+  index: -1
+glow3
+  rotate: true
+  xy: 668, 723
+  size: 171, 418
+  orig: 702, 1035
+  offset: 285, 52
+  index: -1
+hand 2
+  rotate: false
+  xy: 752, 25
+  size: 80, 61
+  orig: 702, 1035
+  offset: 184, 926
+  index: -1
+hand 3
+  rotate: true
+  xy: 1054, 402
+  size: 88, 58
+  orig: 702, 1035
+  offset: 374, 478
+  index: -1
+hand1
+  rotate: true
+  xy: 1013, 147
+  size: 78, 80
+  orig: 702, 1035
+  offset: 598, 540
+  index: -1
+sfera
+  rotate: false
+  xy: 752, 88
+  size: 97, 97
+  orig: 702, 1035
+  offset: 309, 696
+  index: -1
+sharni31
+  rotate: true
+  xy: 1075, 105
+  size: 40, 37
+  orig: 702, 1035
+  offset: 350, 482
+  index: -1
+sharnir 12
+  rotate: false
+  xy: 357, 721
+  size: 49, 44
+  orig: 702, 1035
+  offset: 511, 480
+  index: -1
+sharnir 13
+  rotate: true
+  xy: 929, 111
+  size: 73, 70
+  orig: 702, 1035
+  offset: 417, 594
+  index: -1
+sharnir 22
+  rotate: true
+  xy: 1001, 77
+  size: 68, 72
+  orig: 702, 1035
+  offset: 432, 822
+  index: -1
+sharnir 23
+  rotate: false
+  xy: 475, 2
+  size: 47, 53
+  orig: 702, 1035
+  offset: 272, 921
+  index: -1
+sharnir 32
+  rotate: false
+  xy: 929, 48
+  size: 65, 61
+  orig: 702, 1035
+  offset: 139, 441
+  index: -1
+sharnir 33
+  rotate: true
+  xy: 1013, 227
+  size: 83, 80
+  orig: 702, 1035
+  offset: 191, 591
+  index: -1
+spark1
+  rotate: false
+  xy: 631, 486
+  size: 277, 235
+  orig: 702, 1035
+  offset: 325, 628
+  index: -1
+spark2
+  rotate: true
+  xy: 631, 325
+  size: 159, 341
+  orig: 702, 1035
+  offset: 74, 570
+  index: -1
+spark3
+  rotate: true
+  xy: 506, 187
+  size: 136, 348
+  orig: 702, 1035
+  offset: 325, 113
+  index: -1
+sword 1
+  rotate: false
+  xy: 2, 721
+  size: 353, 391
+  orig: 702, 1035
+  offset: 324, 533
+  index: -1
+sword 3
+  rotate: false
+  xy: 210, 218
+  size: 140, 501
+  orig: 702, 1035
+  offset: 326, 70
+  index: -1
+sword2
+  rotate: false
+  xy: 2, 234
+  size: 206, 485
+  orig: 702, 1035
+  offset: 53, 532
+  index: -1

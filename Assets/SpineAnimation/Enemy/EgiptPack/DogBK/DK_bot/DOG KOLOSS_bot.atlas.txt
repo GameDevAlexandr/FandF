@@ -1,0 +1,48 @@
+
+DOG KOLOSS_bot.png
+size: 3163,1479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: true
+  xy: 2734, 367
+  size: 259, 181
+  orig: 259, 181
+  offset: 0, 0
+  index: -1
+Belt back
+  rotate: true
+  xy: 2933, 778
+  size: 251, 43
+  orig: 251, 43
+  offset: 0, 0
+  index: -1
+CHAOS
+  rotate: false
+  xy: 2, 2
+  size: 1364, 1475
+  orig: 1364, 1475
+  offset: 0, 0
+  index: -1
+CHAOS 2
+  rotate: false
+  xy: 1368, 2
+  size: 1364, 1475
+  orig: 1364, 1475
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: false
+  xy: 2734, 628
+  size: 197, 401
+  orig: 197, 401
+  offset: 0, 0
+  index: -1
+Layer 175
+  rotate: false
+  xy: 2734, 1031
+  size: 427, 446
+  orig: 427, 446
+  offset: 0, 0
+  index: -1

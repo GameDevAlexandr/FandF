@@ -1,0 +1,13 @@
+
+gold koloss.png
+size: 60,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE
+  rotate: false
+  xy: 2, 2
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1

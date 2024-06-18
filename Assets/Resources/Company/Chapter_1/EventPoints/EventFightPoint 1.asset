@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d26b7ed2b5d35469315395f1651f00, type: 3}
+  m_Name: EventFightPoint 1
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 433512749, guid: 8b6097331ce71544e83c6382b48c099f, type: 3}
+  _waves:
+  - enemyes:
+    - {fileID: 11400000, guid: ac2752bf1b98ada4681e56aa72d3dfc9, type: 2}
+  - enemyes:
+    - {fileID: 11400000, guid: ac2752bf1b98ada4681e56aa72d3dfc9, type: 2}
+  - enemyes:
+    - {fileID: 11400000, guid: ac2752bf1b98ada4681e56aa72d3dfc9, type: 2}
+  - enemyes:
+    - {fileID: 11400000, guid: ac2752bf1b98ada4681e56aa72d3dfc9, type: 2}
+  _reward:
+  - type: 0
+    pType: 0
+    fTipe: 0
+    cType: 0
+    level: 0
+    count: 50
+  - type: 0
+    pType: 0
+    fTipe: 0
+    cType: 1
+    level: 0
+    count: 5
+  - type: 0
+    pType: 0
+    fTipe: 0
+    cType: 21
+    level: 0
+    count: 1
+  _isEvent: 1
+  _index: 101

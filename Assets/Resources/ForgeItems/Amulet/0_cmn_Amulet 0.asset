@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 302cb442911705746bd9c3098d5a565c, type: 3}
+  m_Name: 0_cmn_Amulet 0
+  m_EditorClassIdentifier: 
+  _type: 12
+  _materialIndex: 0
+  _ammoType: 2
+  _level: 0
+  _isLast: 0
+  _icon: {fileID: 1010983758, guid: 10912fa65c8a5f045b1ed00b50af9eb0, type: 3}
+  _name: Common Amulet lv.1
+  _description: 
+  _strnght: 0.5
+  _figthPocket: 1
+  _spare: 0
+  _soulStrangth: 0.3

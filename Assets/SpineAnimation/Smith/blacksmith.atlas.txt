@@ -1,0 +1,223 @@
+
+blacksmith.png
+size: 2016,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAR
+  rotate: false
+  xy: 125, 56
+  size: 188, 59
+  orig: 188, 59
+  offset: 0, 0
+  index: -1
+BODY - Smart Object Group
+  rotate: false
+  xy: 1834, 513
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+BODY 2
+  rotate: true
+  xy: 1617, 178
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+CLOTH - Smart Object Group
+  rotate: false
+  xy: 377, 169
+  size: 349, 519
+  orig: 349, 519
+  offset: 0, 0
+  index: -1
+CLOTH 0
+  rotate: false
+  xy: 728, 170
+  size: 348, 518
+  orig: 348, 518
+  offset: 0, 0
+  index: -1
+CLOTH 2
+  rotate: false
+  xy: 2, 117
+  size: 373, 571
+  orig: 373, 571
+  offset: 0, 0
+  index: -1
+HAIR left
+  rotate: true
+  xy: 1480, 540
+  size: 148, 352
+  orig: 148, 352
+  offset: 0, 0
+  index: -1
+HAIR right
+  rotate: true
+  xy: 1078, 190
+  size: 174, 345
+  orig: 174, 345
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 1464, 13
+  size: 159, 193
+  orig: 159, 193
+  offset: 0, 0
+  index: -1
+HEAD 0
+  rotate: true
+  xy: 1794, 161
+  size: 158, 192
+  orig: 158, 192
+  offset: 0, 0
+  index: -1
+HEAD 2
+  rotate: true
+  xy: 377, 9
+  size: 158, 192
+  orig: 158, 192
+  offset: 0, 0
+  index: -1
+LEFT hand
+  rotate: false
+  xy: 1140, 3
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+LEFT hand 0
+  rotate: false
+  xy: 1425, 174
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+LEFT hand 2
+  rotate: true
+  xy: 1829, 321
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+LEFT1
+  rotate: true
+  xy: 1689, 374
+  size: 164, 138
+  orig: 164, 138
+  offset: 0, 0
+  index: -1
+LEGS
+  rotate: false
+  xy: 1078, 366
+  size: 400, 322
+  orig: 400, 322
+  offset: 0, 0
+  index: -1
+RIGHT 2
+  rotate: false
+  xy: 1333, 2
+  size: 129, 170
+  orig: 129, 170
+  offset: 0, 0
+  index: -1
+RIGHT HAND
+  rotate: false
+  xy: 1480, 360
+  size: 207, 178
+  orig: 207, 178
+  offset: 0, 0
+  index: -1
+RIGHT HAND 2
+  rotate: false
+  xy: 934, 2
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+RIGHT HAND0
+  rotate: false
+  xy: 728, 2
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+RIGHT1
+  rotate: false
+  xy: 1659, 5
+  size: 130, 171
+  orig: 130, 171
+  offset: 0, 0
+  index: -1
+armor left
+  rotate: false
+  xy: 571, 91
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+armor left0
+  rotate: true
+  xy: 634, 13
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+armor left01
+  rotate: false
+  xy: 1897, 130
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+armor right
+  rotate: false
+  xy: 2, 2
+  size: 121, 113
+  orig: 121, 113
+  offset: 0, 0
+  index: -1
+armor right0
+  rotate: false
+  xy: 1791, 96
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+armor right01
+  rotate: false
+  xy: 1791, 31
+  size: 104, 63
+  orig: 104, 63
+  offset: 0, 0
+  index: -1
+pocket0
+  rotate: false
+  xy: 315, 60
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+pocket1
+  rotate: true
+  xy: 125, 7
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+pocket2
+  rotate: true
+  xy: 571, 2
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+pocket2 - Smart Object Group
+  rotate: false
+  xy: 193, 10
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1

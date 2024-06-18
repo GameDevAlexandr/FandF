@@ -1,0 +1,153 @@
+
+Animation_Swords_Pack.png
+size: 1010,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 6, 316
+  size: 664, 327
+  orig: 677, 355
+  offset: 7, 15
+  index: -1
+EPIC!
+  rotate: false
+  xy: 911, 704
+  size: 45, 20
+  orig: 677, 355
+  offset: 394, 226
+  index: -1
+Icon_ItemIcon_Gem copy 3
+  rotate: false
+  xy: 899, 621
+  size: 33, 32
+  orig: 677, 355
+  offset: 200, 263
+  index: -1
+Icon_ItemIcon_Gold
+  rotate: true
+  xy: 923, 879
+  size: 49, 50
+  orig: 677, 355
+  offset: 64, 185
+  index: -1
+Icon_ShopIcon_Gem_01 copy 2
+  rotate: false
+  xy: 911, 830
+  size: 50, 43
+  orig: 677, 355
+  offset: 225, 87
+  index: -1
+Icon_ShopIcon_Gem_01 copy 3
+  rotate: false
+  xy: 911, 730
+  size: 48, 40
+  orig: 677, 355
+  offset: 131, 256
+  index: -1
+Image_Effect_Particle_03
+  rotate: false
+  xy: 911, 776
+  size: 48, 48
+  orig: 677, 355
+  offset: 45, 111
+  index: -1
+Image_Effect_Particle_04
+  rotate: true
+  xy: 958, 632
+  size: 39, 40
+  orig: 677, 355
+  offset: 301, 79
+  index: -1
+Image_Effect_Particle_04 copy
+  rotate: true
+  xy: 911, 659
+  size: 39, 41
+  orig: 677, 355
+  offset: 81, 251
+  index: -1
+LEGENDARY! copy
+  rotate: true
+  xy: 982, 677
+  size: 94, 20
+  orig: 677, 355
+  offset: 457, 226
+  index: -1
+Layer 1013 copy
+  rotate: true
+  xy: 899, 587
+  size: 28, 31
+  orig: 677, 355
+  offset: 163, 74
+  index: -1
+Layer 12
+  rotate: true
+  xy: 689, 910
+  size: 18, 228
+  orig: 677, 355
+  offset: 80, 42
+  index: -1
+Layer 12 copy
+  rotate: true
+  xy: 689, 983
+  size: 21, 297
+  orig: 677, 355
+  offset: 291, 17
+  index: -1
+Layer 12 copy 2
+  rotate: false
+  xy: 967, 723
+  size: 9, 150
+  orig: 677, 355
+  offset: 138, 140
+  index: -1
+Layer 12 copy 4
+  rotate: false
+  xy: 992, 777
+  size: 12, 227
+  orig: 677, 355
+  offset: 221, 0
+  index: -1
+Layer 12 copy 5
+  rotate: true
+  xy: 689, 884
+  size: 20, 227
+  orig: 677, 355
+  offset: 245, 107
+  index: -1
+Layer 7 copy
+  rotate: false
+  xy: 6, 649
+  size: 677, 355
+  orig: 677, 355
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 938, 596
+  size: 33, 30
+  orig: 677, 355
+  offset: 241, 153
+  index: -1
+SWORD'S PACK
+  rotate: false
+  xy: 689, 934
+  size: 288, 43
+  orig: 677, 355
+  offset: 329, 249
+  index: -1
+rayss_2
+  rotate: false
+  xy: 689, 489
+  size: 204, 197
+  orig: 677, 355
+  offset: 90, 72
+  index: -1
+sword
+  rotate: true
+  xy: 689, 692
+  size: 186, 216
+  orig: 677, 355
+  offset: 100, 79
+  index: -1

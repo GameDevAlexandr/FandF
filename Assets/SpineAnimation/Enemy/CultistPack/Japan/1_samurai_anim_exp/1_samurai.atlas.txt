@@ -1,0 +1,181 @@
+
+1_samurai.png
+size: 611,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloth
+  rotate: false
+  xy: 2, 235
+  size: 162, 374
+  orig: 525, 755
+  offset: 203, 140
+  index: -1
+Collar
+  rotate: false
+  xy: 2, 8
+  size: 176, 225
+  orig: 525, 755
+  offset: 194, 382
+  index: -1
+Elbow L
+  rotate: true
+  xy: 291, 195
+  size: 87, 106
+  orig: 525, 755
+  offset: 86, 378
+  index: -1
+Layer 804
+  rotate: true
+  xy: 166, 283
+  size: 326, 71
+  orig: 525, 755
+  offset: 115, 0
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 328, 25
+  size: 78, 79
+  orig: 83, 83
+  offset: 2, 2
+  index: -1
+Sharnir  3 R
+  rotate: false
+  xy: 418, 319
+  size: 63, 62
+  orig: 525, 755
+  offset: 363, 450
+  index: -1
+Sharnir 2
+  rotate: true
+  xy: 408, 8
+  size: 35, 33
+  orig: 525, 755
+  offset: 84, 369
+  index: -1
+Sharnir 3
+  rotate: true
+  xy: 418, 383
+  size: 63, 65
+  orig: 525, 755
+  offset: 133, 449
+  index: -1
+Shawl
+  rotate: false
+  xy: 399, 178
+  size: 192, 77
+  orig: 192, 77
+  offset: 0, 0
+  index: -1
+arm 2 R
+  rotate: true
+  xy: 490, 380
+  size: 79, 118
+  orig: 525, 755
+  offset: 374, 370
+  index: -1
+arm L
+  rotate: true
+  xy: 418, 257
+  size: 60, 61
+  orig: 525, 755
+  offset: 86, 323
+  index: -1
+det 1
+  rotate: false
+  xy: 239, 476
+  size: 40, 34
+  orig: 525, 755
+  offset: 341, 524
+  index: -1
+embow 2 R
+  rotate: true
+  xy: 291, 17
+  size: 87, 35
+  orig: 525, 755
+  offset: 352, 346
+  index: -1
+glow 1
+  rotate: true
+  xy: 490, 461
+  size: 148, 118
+  orig: 525, 755
+  offset: 3, 176
+  index: -1
+glow 2
+  rotate: true
+  xy: 440, 45
+  size: 131, 149
+  orig: 525, 755
+  offset: 322, 167
+  index: -1
+hand 2
+  rotate: false
+  xy: 386, 124
+  size: 52, 52
+  orig: 525, 755
+  offset: 288, 317
+  index: -1
+hand L
+  rotate: true
+  xy: 239, 555
+  size: 54, 48
+  orig: 525, 755
+  offset: 135, 287
+  index: -1
+hat
+  rotate: true
+  xy: 180, 2
+  size: 279, 109
+  orig: 525, 755
+  offset: 143, 598
+  index: -1
+lightning1
+  rotate: true
+  xy: 483, 276
+  size: 102, 108
+  orig: 525, 755
+  offset: 22, 174
+  index: -1
+lightning2
+  rotate: false
+  xy: 291, 106
+  size: 93, 87
+  orig: 525, 755
+  offset: 317, 198
+  index: -1
+sharnir 1
+  rotate: true
+  xy: 239, 450
+  size: 24, 28
+  orig: 525, 755
+  offset: 130, 311
+  index: -1
+sharnir 2 R
+  rotate: true
+  xy: 239, 512
+  size: 41, 43
+  orig: 525, 755
+  offset: 417, 348
+  index: -1
+sharybr 1 R
+  rotate: false
+  xy: 408, 88
+  size: 30, 34
+  orig: 525, 755
+  offset: 331, 342
+  index: -1
+sword 1
+  rotate: true
+  xy: 291, 448
+  size: 161, 197
+  orig: 161, 197
+  offset: 0, 0
+  index: -1
+sword2
+  rotate: false
+  xy: 239, 284
+  size: 177, 162
+  orig: 525, 755
+  offset: 16, 182
+  index: -1

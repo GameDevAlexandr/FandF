@@ -1,0 +1,55 @@
+
+claws.png
+size: 1502,1092
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT ON CLaWS
+  rotate: false
+  xy: 2, 490
+  size: 1211, 600
+  orig: 1211, 600
+  offset: 0, 0
+  index: -1
+claw 1 l
+  rotate: true
+  xy: 2, 51
+  size: 97, 167
+  orig: 97, 167
+  offset: 0, 0
+  index: -1
+claw 1 r
+  rotate: true
+  xy: 1182, 51
+  size: 97, 167
+  orig: 97, 167
+  offset: 0, 0
+  index: -1
+claw 2 l
+  rotate: true
+  xy: 1215, 150
+  size: 940, 285
+  orig: 940, 285
+  offset: 0, 0
+  index: -1
+claw 2 r
+  rotate: false
+  xy: 2, 203
+  size: 940, 285
+  orig: 940, 285
+  offset: 0, 0
+  index: -1
+claw3 l
+  rotate: true
+  xy: 944, 252
+  size: 236, 248
+  orig: 236, 248
+  offset: 0, 0
+  index: -1
+claw3 r
+  rotate: false
+  xy: 944, 2
+  size: 236, 248
+  orig: 236, 248
+  offset: 0, 0
+  index: -1

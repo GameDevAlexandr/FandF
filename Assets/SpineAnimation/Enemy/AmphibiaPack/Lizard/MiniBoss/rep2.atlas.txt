@@ -1,0 +1,90 @@
+
+rep2.png
+size: 559,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 6, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 44, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 6, 44
+  size: 262, 509
+  orig: 320, 512
+  offset: 1, 1
+  index: -1
+eye bot l_
+  rotate: true
+  xy: 168, 15
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+eye bot r
+  rotate: true
+  xy: 204, 15
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+eye top l
+  rotate: true
+  xy: 82, 13
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+eye top r
+  rotate: true
+  xy: 125, 13
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 240, 30
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 255, 30
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+l arm
+  rotate: true
+  xy: 274, 38
+  size: 116, 141
+  orig: 116, 141
+  offset: 0, 0
+  index: -1
+r arm
+  rotate: false
+  xy: 274, 411
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 274, 160
+  size: 245, 53
+  orig: 245, 53
+  offset: 0, 0
+  index: -1

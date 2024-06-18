@@ -1,0 +1,90 @@
+
+elem3.png
+size: 432,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 92
+  size: 182, 181
+  orig: 501, 501
+  offset: 149, 84
+  index: -1
+BOFY bot
+  rotate: false
+  xy: 360, 19
+  size: 39, 45
+  orig: 501, 501
+  offset: 203, 47
+  index: -1
+HAND L
+  rotate: true
+  xy: 253, 93
+  size: 62, 104
+  orig: 501, 501
+  offset: 106, 151
+  index: -1
+HEAD
+  rotate: false
+  xy: 2, 275
+  size: 218, 155
+  orig: 501, 501
+  offset: 177, 262
+  index: -1
+WORM
+  rotate: false
+  xy: 360, 66
+  size: 69, 75
+  orig: 501, 501
+  offset: 355, 303
+  index: -1
+hair 1
+  rotate: false
+  xy: 222, 286
+  size: 188, 144
+  orig: 501, 501
+  offset: 93, 270
+  index: -1
+hair 2
+  rotate: false
+  xy: 253, 227
+  size: 142, 57
+  orig: 501, 501
+  offset: 172, 379
+  index: -1
+hair 4
+  rotate: true
+  xy: 186, 101
+  size: 172, 65
+  orig: 501, 501
+  offset: 134, 377
+  index: -1
+hair 5
+  rotate: false
+  xy: 254, 17
+  size: 104, 74
+  orig: 501, 501
+  offset: 166, 316
+  index: -1
+hair3
+  rotate: false
+  xy: 253, 157
+  size: 111, 68
+  orig: 501, 501
+  offset: 220, 386
+  index: -1
+hand R
+  rotate: false
+  xy: 366, 143
+  size: 64, 82
+  orig: 501, 501
+  offset: 330, 147
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 20
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+meteor fire.png
+size: 1692,1692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 10
+  rotate: false
+  xy: 847, 522
+  size: 358, 579
+  orig: 959, 1732
+  offset: 216, 825
+  index: -1
+Frame 11
+  rotate: false
+  xy: 444, 1107
+  size: 416, 579
+  orig: 959, 1732
+  offset: 170, 823
+  index: -1
+Frame 12
+  rotate: false
+  xy: 6, 1102
+  size: 432, 584
+  orig: 959, 1732
+  offset: 178, 815
+  index: -1
+Frame 13
+  rotate: true
+  xy: 427, 14
+  size: 497, 569
+  orig: 959, 1732
+  offset: 168, 804
+  index: -1
+Frame 14
+  rotate: true
+  xy: 1002, 20
+  size: 496, 553
+  orig: 959, 1732
+  offset: 176, 801
+  index: -1
+Frame 15
+  rotate: true
+  xy: 6, 6
+  size: 503, 415
+  orig: 959, 1732
+  offset: 196, 795
+  index: -1
+Frame 16
+  rotate: true
+  xy: 1283, 616
+  size: 479, 403
+  orig: 959, 1732
+  offset: 217, 794
+  index: -1
+Frame 17
+  rotate: false
+  xy: 1211, 1089
+  size: 66, 15
+  orig: 959, 1732
+  offset: 468, 896
+  index: -1
+Frame 2
+  rotate: true
+  xy: 1561, 1571
+  size: 115, 118
+  orig: 959, 1732
+  offset: 66, 1468
+  index: -1
+Frame 3
+  rotate: false
+  xy: 1561, 468
+  size: 115, 142
+  orig: 959, 1732
+  offset: 180, 1278
+  index: -1
+Frame 4
+  rotate: false
+  xy: 1554, 1413
+  size: 128, 152
+  orig: 959, 1732
+  offset: 287, 1076
+  index: -1
+Frame 5
+  rotate: true
+  xy: 1294, 1530
+  size: 156, 254
+  orig: 959, 1732
+  offset: 311, 974
+  index: -1
+Frame 6
+  rotate: false
+  xy: 1294, 1101
+  size: 250, 423
+  orig: 959, 1732
+  offset: 293, 837
+  index: -1
+Frame 7
+  rotate: false
+  xy: 6, 515
+  size: 403, 581
+  orig: 959, 1732
+  offset: 141, 839
+  index: -1
+Frame 8
+  rotate: false
+  xy: 415, 517
+  size: 426, 579
+  orig: 959, 1732
+  offset: 141, 841
+  index: -1
+Frame 9
+  rotate: false
+  xy: 866, 1110
+  size: 422, 576
+  orig: 959, 1732
+  offset: 141, 832
+  index: -1

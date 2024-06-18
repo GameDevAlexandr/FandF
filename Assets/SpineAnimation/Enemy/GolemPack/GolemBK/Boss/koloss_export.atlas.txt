@@ -1,0 +1,271 @@
+
+koloss_export.png
+size: 2017,1986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BALLS of SOUL
+  rotate: true
+  xy: 2, 1950
+  size: 34, 116
+  orig: 34, 116
+  offset: 0, 0
+  index: -1
+BODY l
+  rotate: true
+  xy: 2, 1476
+  size: 297, 395
+  orig: 297, 395
+  offset: 0, 0
+  index: -1
+BODY l copy
+  rotate: true
+  xy: 771, 1352
+  size: 309, 408
+  orig: 309, 408
+  offset: 0, 0
+  index: -1
+BODY1
+  rotate: false
+  xy: 663, 940
+  size: 462, 410
+  orig: 462, 410
+  offset: 0, 0
+  index: -1
+BODY1 copy
+  rotate: false
+  xy: 1127, 838
+  size: 462, 410
+  orig: 462, 410
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 1304, 1651
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+HEAD L
+  rotate: false
+  xy: 832, 1668
+  size: 234, 202
+  orig: 234, 202
+  offset: 0, 0
+  index: -1
+HEAD R
+  rotate: false
+  xy: 1068, 1663
+  size: 234, 202
+  orig: 234, 202
+  offset: 0, 0
+  index: -1
+L WING 2
+  rotate: false
+  xy: 1800, 1571
+  size: 215, 280
+  orig: 215, 280
+  offset: 0, 0
+  index: -1
+LEFT WING
+  rotate: true
+  xy: 1181, 1250
+  size: 319, 659
+  orig: 319, 659
+  offset: 0, 0
+  index: -1
+R WING 2
+  rotate: true
+  xy: 1520, 1643
+  size: 213, 278
+  orig: 213, 278
+  offset: 0, 0
+  index: -1
+RIGHT WING
+  rotate: true
+  xy: 2, 1087
+  size: 319, 659
+  orig: 319, 659
+  offset: 0, 0
+  index: -1
+STONE1
+  rotate: false
+  xy: 854, 1872
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+STONE1 copy
+  rotate: false
+  xy: 974, 1872
+  size: 118, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+STONE2
+  rotate: true
+  xy: 1231, 1867
+  size: 117, 169
+  orig: 117, 169
+  offset: 0, 0
+  index: -1
+STONE2 L
+  rotate: true
+  xy: 1402, 1867
+  size: 117, 169
+  orig: 117, 169
+  offset: 0, 0
+  index: -1
+ef l
+  rotate: false
+  xy: 483, 1742
+  size: 186, 159
+  orig: 186, 159
+  offset: 0, 0
+  index: -1
+ef r
+  rotate: true
+  xy: 671, 1715
+  size: 186, 159
+  orig: 186, 159
+  offset: 0, 0
+  index: -1
+ef shine
+  rotate: false
+  xy: 2, 2
+  size: 1374, 420
+  orig: 1374, 420
+  offset: 0, 0
+  index: -1
+fragment1
+  rotate: true
+  xy: 1873, 1853
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+fragment10
+  rotate: false
+  xy: 120, 1947
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+fragment11
+  rotate: true
+  xy: 311, 1775
+  size: 155, 170
+  orig: 155, 170
+  offset: 0, 0
+  index: -1
+fragment12
+  rotate: true
+  xy: 277, 1939
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+fragment13
+  rotate: false
+  xy: 687, 1903
+  size: 165, 81
+  orig: 165, 81
+  offset: 0, 0
+  index: -1
+fragment14
+  rotate: false
+  xy: 173, 1942
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+fragment2
+  rotate: true
+  xy: 328, 1932
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+fragment3
+  rotate: true
+  xy: 1573, 1858
+  size: 126, 148
+  orig: 126, 148
+  offset: 0, 0
+  index: -1
+fragment4
+  rotate: true
+  xy: 2, 1814
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+fragment5
+  rotate: true
+  xy: 424, 1932
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+fragment5.5
+  rotate: true
+  xy: 1723, 1858
+  size: 126, 148
+  orig: 126, 148
+  offset: 0, 0
+  index: -1
+fragment6
+  rotate: false
+  xy: 1094, 1868
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: -1
+fragment7
+  rotate: true
+  xy: 139, 1782
+  size: 155, 170
+  orig: 155, 170
+  offset: 0, 0
+  index: -1
+fragment8
+  rotate: true
+  xy: 226, 1939
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+fragment9
+  rotate: false
+  xy: 520, 1903
+  size: 165, 81
+  orig: 165, 81
+  offset: 0, 0
+  index: -1
+portal
+  rotate: false
+  xy: 399, 1408
+  size: 370, 305
+  orig: 370, 305
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 2, 424
+  size: 829, 514
+  orig: 829, 514
+  offset: 0, 0
+  index: -1
+
+koloss_export2.png
+size: 1478,1157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHT and body
+  rotate: false
+  xy: 2, 2
+  size: 1474, 1153
+  orig: 1474, 1153
+  offset: 0, 0
+  index: -1

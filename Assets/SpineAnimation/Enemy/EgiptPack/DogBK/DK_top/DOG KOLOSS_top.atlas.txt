@@ -1,0 +1,272 @@
+
+DOG KOLOSS_top.png
+size: 2529,1227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM B L
+  rotate: true
+  xy: 272, 290
+  size: 150, 330
+  orig: 150, 330
+  offset: 0, 0
+  index: -1
+ARM b R
+  rotate: false
+  xy: 831, 202
+  size: 181, 288
+  orig: 181, 288
+  offset: 0, 0
+  index: -1
+Collar BACK
+  rotate: false
+  xy: 1038, 784
+  size: 1010, 441
+  orig: 1010, 441
+  offset: 0, 0
+  index: -1
+DECOR
+  rotate: false
+  xy: 1038, 566
+  size: 855, 216
+  orig: 855, 216
+  offset: 0, 0
+  index: -1
+DECOR 2
+  rotate: false
+  xy: 2, 442
+  size: 827, 286
+  orig: 827, 286
+  offset: 0, 0
+  index: -1
+EYE 1
+  rotate: true
+  xy: 1347, 37
+  size: 156, 164
+  orig: 156, 164
+  offset: 0, 0
+  index: -1
+EYE 2
+  rotate: true
+  xy: 1183, 33
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+Elbow L
+  rotate: false
+  xy: 2002, 27
+  size: 268, 268
+  orig: 268, 268
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: false
+  xy: 2, 172
+  size: 268, 268
+  orig: 268, 268
+  offset: 0, 0
+  index: -1
+FIRE L
+  rotate: false
+  xy: 595, 16
+  size: 218, 207
+  orig: 218, 207
+  offset: 0, 0
+  index: -1
+FIRE R
+  rotate: true
+  xy: 1668, 343
+  size: 221, 216
+  orig: 221, 216
+  offset: 0, 0
+  index: -1
+Finger 1 L
+  rotate: false
+  xy: 2449, 486
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+Finger 1 LDARK
+  rotate: false
+  xy: 2449, 355
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+Finger 1 R
+  rotate: true
+  xy: 1513, 3
+  size: 55, 125
+  orig: 55, 125
+  offset: 0, 0
+  index: -1
+Finger 2 L
+  rotate: false
+  xy: 1895, 649
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+Finger 2 LDARK
+  rotate: false
+  xy: 1513, 60
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+Finger 2 R
+  rotate: false
+  xy: 2421, 617
+  size: 94, 153
+  orig: 94, 153
+  offset: 0, 0
+  index: -1
+Finger 3 L
+  rotate: true
+  xy: 2421, 935
+  size: 161, 96
+  orig: 161, 96
+  offset: 0, 0
+  index: -1
+Finger 3 LDARK
+  rotate: true
+  xy: 2421, 772
+  size: 161, 96
+  orig: 161, 96
+  offset: 0, 0
+  index: -1
+Finger 3 R
+  rotate: false
+  xy: 2421, 1098
+  size: 106, 127
+  orig: 106, 127
+  offset: 0, 0
+  index: -1
+Finger 4 L
+  rotate: true
+  xy: 2, 14
+  size: 155, 274
+  orig: 155, 274
+  offset: 0, 0
+  index: -1
+Finger 4 LDARK
+  rotate: true
+  xy: 278, 14
+  size: 155, 274
+  orig: 155, 274
+  offset: 0, 0
+  index: -1
+HAND L
+  rotate: true
+  xy: 1668, 2
+  size: 293, 332
+  orig: 293, 332
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: true
+  xy: 831, 492
+  size: 236, 194
+  orig: 236, 194
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1895, 297
+  size: 287, 552
+  orig: 287, 552
+  offset: 0, 0
+  index: -1
+MEdal1
+  rotate: false
+  xy: 815, 25
+  size: 182, 175
+  orig: 182, 175
+  offset: 0, 0
+  index: -1
+MEdal2
+  rotate: false
+  xy: 999, 18
+  size: 182, 175
+  orig: 182, 175
+  offset: 0, 0
+  index: -1
+ORB
+  rotate: false
+  xy: 2272, 7
+  size: 215, 215
+  orig: 215, 215
+  offset: 0, 0
+  index: -1
+ORB 2
+  rotate: false
+  xy: 604, 225
+  size: 215, 215
+  orig: 215, 215
+  offset: 0, 0
+  index: -1
+Phalanx R
+  rotate: false
+  xy: 2449, 224
+  size: 71, 129
+  orig: 71, 129
+  offset: 0, 0
+  index: -1
+Rope L
+  rotate: true
+  xy: 272, 223
+  size: 65, 321
+  orig: 65, 321
+  offset: 0, 0
+  index: -1
+Rope R
+  rotate: true
+  xy: 272, 171
+  size: 50, 317
+  orig: 50, 317
+  offset: 0, 0
+  index: -1
+SHOULDER L
+  rotate: false
+  xy: 2, 730
+  size: 516, 495
+  orig: 516, 495
+  offset: 0, 0
+  index: -1
+SHOULDER R
+  rotate: false
+  xy: 520, 730
+  size: 516, 495
+  orig: 516, 495
+  offset: 0, 0
+  index: -1
+Scarf L
+  rotate: true
+  xy: 2050, 586
+  size: 639, 369
+  orig: 639, 369
+  offset: 0, 0
+  index: -1
+ScarfR
+  rotate: false
+  xy: 1027, 195
+  size: 639, 369
+  orig: 639, 369
+  offset: 0, 0
+  index: -1
+close1
+  rotate: false
+  xy: 1895, 590
+  size: 109, 57
+  orig: 109, 57
+  offset: 0, 0
+  index: -1
+close2
+  rotate: false
+  xy: 2272, 228
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1

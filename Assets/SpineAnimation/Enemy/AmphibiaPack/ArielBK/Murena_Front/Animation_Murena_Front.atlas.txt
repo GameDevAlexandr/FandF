@@ -1,0 +1,13 @@
+
+Animation_Murena_Front.png
+size: 71,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHEST SHINE
+  rotate: false
+  xy: 10, 10
+  size: 48, 51
+  orig: 862, 987
+  offset: 410, 695
+  index: -1

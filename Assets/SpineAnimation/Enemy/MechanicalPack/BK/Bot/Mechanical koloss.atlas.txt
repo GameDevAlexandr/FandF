@@ -1,0 +1,34 @@
+
+Mechanical koloss.png
+size: 374,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wire 10
+  rotate: false
+  xy: 136, 247
+  size: 95, 125
+  orig: 138, 188
+  offset: 41, 43
+  index: -1
+Wire 11
+  rotate: false
+  xy: 2, 8
+  size: 123, 181
+  orig: 138, 188
+  offset: 0, 0
+  index: -1
+Wire 12
+  rotate: false
+  xy: 127, 2
+  size: 109, 187
+  orig: 138, 188
+  offset: 1, 1
+  index: -1
+Wire 13
+  rotate: false
+  xy: 2, 191
+  size: 132, 181
+  orig: 138, 188
+  offset: 6, 3
+  index: -1

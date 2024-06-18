@@ -1,0 +1,188 @@
+
+1_mole.png
+size: 434,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 115
+  rotate: true
+  xy: 406, 181
+  size: 116, 16
+  orig: 116, 18
+  offset: 0, 2
+  index: -1
+Sfera
+  rotate: false
+  xy: 291, 15
+  size: 43, 42
+  orig: 270, 470
+  offset: 112, 185
+  index: -1
+back capor
+  rotate: true
+  xy: 185, 129
+  size: 78, 65
+  orig: 270, 470
+  offset: 96, 238
+  index: -1
+back wngs L
+  rotate: false
+  xy: 321, 287
+  size: 69, 141
+  orig: 116, 142
+  offset: 0, 1
+  index: -1
+back wngs R
+  rotate: false
+  xy: 75, 62
+  size: 58, 142
+  orig: 116, 142
+  offset: 58, 0
+  index: -1
+big collar
+  rotate: false
+  xy: 185, 74
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 260, 63
+  size: 66, 60
+  orig: 270, 470
+  offset: 102, 171
+  index: -1
+capor
+  rotate: true
+  xy: 256, 129
+  size: 78, 68
+  orig: 270, 470
+  offset: 97, 251
+  index: -1
+capor det L
+  rotate: true
+  xy: 75, 16
+  size: 40, 93
+  orig: 270, 470
+  offset: 84, 283
+  index: -1
+capor det R
+  rotate: false
+  xy: 345, 194
+  size: 55, 87
+  orig: 270, 470
+  offset: 135, 285
+  index: -1
+collar
+  rotate: true
+  xy: 255, 213
+  size: 42, 84
+  orig: 270, 470
+  offset: 114, 156
+  index: -1
+fase collar
+  rotate: false
+  xy: 332, 66
+  size: 58, 58
+  orig: 270, 470
+  offset: 106, 232
+  index: -1
+hand
+  rotate: true
+  xy: 340, 17
+  size: 43, 48
+  orig: 270, 470
+  offset: 113, 260
+  index: -1
+leg L
+  rotate: false
+  xy: 396, 303
+  size: 31, 125
+  orig: 270, 470
+  offset: 101, 74
+  index: -1
+leg R
+  rotate: false
+  xy: 139, 77
+  size: 40, 130
+  orig: 270, 470
+  offset: 134, 72
+  index: -1
+shoulder L3
+  rotate: true
+  xy: 226, 15
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+shoulder R
+  rotate: false
+  xy: 174, 6
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+trousers
+  rotate: false
+  xy: 330, 130
+  size: 67, 58
+  orig: 70, 64
+  offset: 0, 3
+  index: -1
+veko 1
+  rotate: false
+  xy: 321, 267
+  size: 18, 14
+  orig: 270, 470
+  offset: 112, 277
+  index: -1
+veko 2
+  rotate: false
+  xy: 44, 20
+  size: 15, 13
+  orig: 270, 470
+  offset: 140, 276
+  index: -1
+wings 2 L
+  rotate: false
+  xy: 255, 261
+  size: 60, 167
+  orig: 270, 470
+  offset: 65, 106
+  index: -1
+wings 2R
+  rotate: false
+  xy: 6, 39
+  size: 63, 165
+  orig: 270, 470
+  offset: 146, 107
+  index: -1
+wings L
+  rotate: false
+  xy: 131, 213
+  size: 118, 215
+  orig: 270, 470
+  offset: 19, 241
+  index: -1
+wings R
+  rotate: false
+  xy: 6, 210
+  size: 119, 218
+  orig: 270, 470
+  offset: 136, 239
+  index: -1
+yea L
+  rotate: false
+  xy: 6, 13
+  size: 13, 20
+  orig: 270, 470
+  offset: 114, 270
+  index: -1
+yea R
+  rotate: false
+  xy: 25, 14
+  size: 13, 19
+  orig: 270, 470
+  offset: 142, 271
+  index: -1

@@ -1,0 +1,251 @@
+
+2_ bug.png
+size: 613,613
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 349, 544
+  size: 63, 200
+  orig: 63, 200
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 349, 474
+  size: 64, 197
+  orig: 64, 197
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 6, 365
+  size: 181, 242
+  orig: 181, 242
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: false
+  xy: 317, 210
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: true
+  xy: 317, 250
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 483, 341
+  size: 71, 79
+  orig: 71, 108
+  offset: 0, 0
+  index: -1
+Head det 1 L
+  rotate: true
+  xy: 473, 6
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Head det 1 R
+  rotate: true
+  xy: 493, 6
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Head det 2
+  rotate: false
+  xy: 363, 288
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+Head det 2 L
+  rotate: true
+  xy: 280, 7
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+Head det 2 R
+  rotate: true
+  xy: 360, 7
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+Head det 4
+  rotate: true
+  xy: 440, 6
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Head det3
+  rotate: true
+  xy: 317, 311
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 561, 15
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+HipL
+  rotate: true
+  xy: 310, 369
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 561, 422
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+Leg L
+  rotate: false
+  xy: 561, 310
+  size: 43, 106
+  orig: 43, 106
+  offset: 0, 0
+  index: -1
+Leg R
+  rotate: false
+  xy: 561, 198
+  size: 43, 106
+  orig: 43, 106
+  offset: 0, 0
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 349, 416
+  size: 53, 52
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Sfera 2
+  rotate: false
+  xy: 377, 205
+  size: 39, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1
+Shin L
+  rotate: false
+  xy: 561, 80
+  size: 37, 112
+  orig: 37, 112
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: true
+  xy: 193, 370
+  size: 37, 111
+  orig: 37, 111
+  offset: 0, 0
+  index: -1
+Shoulders L
+  rotate: false
+  xy: 6, 12
+  size: 133, 174
+  orig: 133, 174
+  offset: 0, 0
+  index: -1
+ShouldersR
+  rotate: false
+  xy: 145, 11
+  size: 129, 175
+  orig: 129, 175
+  offset: 0, 0
+  index: -1
+Taz
+  rotate: false
+  xy: 374, 348
+  size: 103, 62
+  orig: 103, 62
+  offset: 0, 0
+  index: -1
+Upper body
+  rotate: true
+  xy: 175, 196
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+Wing L
+  rotate: true
+  xy: 280, 116
+  size: 74, 275
+  orig: 74, 275
+  offset: 0, 0
+  index: -1
+Wing R
+  rotate: true
+  xy: 280, 36
+  size: 74, 275
+  orig: 74, 275
+  offset: 0, 0
+  index: -1
+back hip L
+  rotate: true
+  xy: 408, 426
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+back hip R
+  rotate: true
+  xy: 470, 426
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 6, 192
+  size: 163, 167
+  orig: 163, 167
+  offset: 0, 0
+  index: -1
+claw L
+  rotate: false
+  xy: 274, 416
+  size: 69, 191
+  orig: 69, 191
+  offset: 0, 0
+  index: -1
+claw R
+  rotate: false
+  xy: 193, 413
+  size: 75, 194
+  orig: 77, 194
+  offset: 2, 0
+  index: -1
+yea L
+  rotate: true
+  xy: 358, 250
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+yea R
+  rotate: true
+  xy: 399, 250
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1

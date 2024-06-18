@@ -1,0 +1,76 @@
+
+Animation_Icon_Boss.png
+size: 785,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BLIK
+  rotate: true
+  xy: 514, 121
+  size: 179, 202
+  orig: 179, 202
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: true
+  xy: 717, 418
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+DARK
+  rotate: false
+  xy: 10, 172
+  size: 494, 603
+  orig: 494, 603
+  offset: 0, 0
+  index: -1
+Green fire R
+  rotate: false
+  xy: 256, 71
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+ICON BACK1
+  rotate: false
+  xy: 514, 310
+  size: 193, 194
+  orig: 193, 194
+  offset: 0, 0
+  index: -1
+Layer 48
+  rotate: false
+  xy: 717, 373
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+Pink BAACK
+  rotate: false
+  xy: 10, 31
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+SKULL
+  rotate: false
+  xy: 151, 62
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+green fire L
+  rotate: false
+  xy: 355, 117
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 514, 514
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1

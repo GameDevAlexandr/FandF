@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e26bbca84c13724fb5616b093683e39, type: 3}
+  m_Name: Lantern 3
+  m_EditorClassIdentifier: 
+  _type: 1
+  _icon: {fileID: -1990243645, guid: f786d3bf7104e3b4983b1cd3744f4d86, type: 3}
+  _name: Rare Lantern
+  _description: Adds <color=red>45</color> <color=green>Steps</color> to the mine
+  _level: 3
+  _pocet: 0
+  _capacity: 0
+  _strenght: 45
+  _oreCount: []

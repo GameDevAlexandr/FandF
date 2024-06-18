@@ -1,0 +1,286 @@
+
+3_shamah.png
+size: 395,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARMOR L
+  rotate: true
+  xy: 2, 48
+  size: 92, 97
+  orig: 301, 337
+  offset: 27, 139
+  index: -1
+ARMOR R
+  rotate: true
+  xy: 101, 51
+  size: 89, 101
+  orig: 301, 337
+  offset: 186, 136
+  index: -1
+Belt
+  rotate: false
+  xy: 334, 331
+  size: 43, 17
+  orig: 301, 337
+  offset: 128, 195
+  index: -1
+Body
+  rotate: true
+  xy: 204, 8
+  size: 79, 99
+  orig: 301, 337
+  offset: 110, 197
+  index: -1
+Det 5
+  rotate: false
+  xy: 331, 111
+  size: 16, 53
+  orig: 301, 337
+  offset: 141, 154
+  index: -1
+Layer 2
+  rotate: true
+  xy: 204, 89
+  size: 57, 125
+  orig: 301, 337
+  offset: 121, 68
+  index: -1
+MASK BACK
+  rotate: true
+  xy: 292, 302
+  size: 46, 40
+  orig: 301, 337
+  offset: 127, 264
+  index: -1
+Sfera L
+  rotate: true
+  xy: 292, 264
+  size: 36, 33
+  orig: 301, 337
+  offset: 40, 288
+  index: -1
+Sfera R
+  rotate: true
+  xy: 64, 10
+  size: 36, 35
+  orig: 301, 337
+  offset: 223, 290
+  index: -1
+Shadow3
+  rotate: false
+  xy: 305, 58
+  size: 86, 29
+  orig: 301, 337
+  offset: 106, 34
+  index: -1
+det 1
+  rotate: true
+  xy: 186, 2
+  size: 47, 12
+  orig: 301, 337
+  offset: 126, 201
+  index: -1
+det 2
+  rotate: true
+  xy: 320, 237
+  size: 25, 49
+  orig: 301, 337
+  offset: 158, 154
+  index: -1
+det 3
+  rotate: false
+  xy: 164, 2
+  size: 20, 47
+  orig: 301, 337
+  offset: 157, 154
+  index: -1
+det 4
+  rotate: true
+  xy: 331, 89
+  size: 20, 49
+  orig: 301, 337
+  offset: 146, 152
+  index: -1
+det 6
+  rotate: true
+  xy: 320, 217
+  size: 18, 48
+  orig: 301, 337
+  offset: 132, 153
+  index: -1
+det 7
+  rotate: true
+  xy: 334, 310
+  size: 19, 47
+  orig: 301, 337
+  offset: 123, 155
+  index: -1
+det 8
+  rotate: true
+  xy: 327, 273
+  size: 27, 44
+  orig: 301, 337
+  offset: 115, 159
+  index: -1
+det 9
+  rotate: true
+  xy: 292, 199
+  size: 63, 26
+  orig: 301, 337
+  offset: 120, 179
+  index: -1
+eye L
+  rotate: false
+  xy: 367, 124
+  size: 12, 12
+  orig: 301, 337
+  offset: 117, 317
+  index: -1
+eye R
+  rotate: true
+  xy: 314, 148
+  size: 16, 15
+  orig: 301, 337
+  offset: 168, 316
+  index: -1
+glow L
+  rotate: true
+  xy: 2, 3
+  size: 43, 60
+  orig: 301, 337
+  offset: 90, 221
+  index: -1
+glow R
+  rotate: true
+  xy: 101, 5
+  size: 44, 61
+  orig: 301, 337
+  offset: 174, 220
+  index: -1
+gnost R
+  rotate: true
+  xy: 292, 166
+  size: 31, 52
+  orig: 301, 337
+  offset: 233, 233
+  index: -1
+head
+  rotate: false
+  xy: 292, 350
+  size: 43, 43
+  orig: 301, 337
+  offset: 129, 271
+  index: -1
+l1
+  rotate: true
+  xy: 320, 199
+  size: 16, 17
+  orig: 301, 337
+  offset: 117, 319
+  index: -1
+l3
+  rotate: true
+  xy: 379, 359
+  size: 34, 13
+  orig: 301, 337
+  offset: 96, 309
+  index: -1
+l4
+  rotate: true
+  xy: 337, 356
+  size: 37, 25
+  orig: 301, 337
+  offset: 95, 293
+  index: -1
+l5
+  rotate: true
+  xy: 371, 242
+  size: 29, 20
+  orig: 301, 337
+  offset: 105, 291
+  index: -1
+l6
+  rotate: true
+  xy: 379, 340
+  size: 17, 13
+  orig: 301, 337
+  offset: 116, 291
+  index: -1
+left ghost
+  rotate: false
+  xy: 142, 148
+  size: 148, 245
+  orig: 301, 337
+  offset: 0, 46
+  index: -1
+maska
+  rotate: true
+  xy: 305, 2
+  size: 54, 82
+  orig: 301, 337
+  offset: 123, 255
+  index: -1
+oko L
+  rotate: true
+  xy: 349, 156
+  size: 20, 17
+  orig: 301, 337
+  offset: 111, 316
+  index: -1
+oko R
+  rotate: false
+  xy: 292, 148
+  size: 20, 16
+  orig: 301, 337
+  offset: 168, 316
+  index: -1
+r1
+  rotate: true
+  xy: 349, 138
+  size: 16, 17
+  orig: 301, 337
+  offset: 165, 319
+  index: -1
+r3
+  rotate: true
+  xy: 364, 359
+  size: 34, 13
+  orig: 301, 337
+  offset: 169, 309
+  index: -1
+r4
+  rotate: true
+  xy: 346, 178
+  size: 37, 25
+  orig: 301, 337
+  offset: 167, 292
+  index: -1
+r5
+  rotate: true
+  xy: 373, 279
+  size: 29, 17
+  orig: 301, 337
+  offset: 166, 292
+  index: -1
+r6
+  rotate: false
+  xy: 349, 123
+  size: 16, 13
+  orig: 301, 337
+  offset: 167, 291
+  index: -1
+right ghost
+  rotate: false
+  xy: 2, 142
+  size: 138, 251
+  orig: 301, 337
+  offset: 163, 40
+  index: -1
+skull
+  rotate: true
+  xy: 370, 217
+  size: 18, 22
+  orig: 301, 337
+  offset: 140, 190
+  index: -1

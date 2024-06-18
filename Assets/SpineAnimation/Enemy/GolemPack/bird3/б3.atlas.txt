@@ -1,0 +1,146 @@
+
+б3.png
+size: 683,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 43
+  rotate: false
+  xy: 468, 104
+  size: 53, 82
+  orig: 53, 88
+  offset: 0, 6
+  index: -1
+Layer 44
+  rotate: false
+  xy: 408, 104
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+ГЛАЗ
+  rotate: false
+  xy: 545, 35
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+ГЛИФ Л
+  rotate: false
+  xy: 500, 32
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+ГЛИФ Р
+  rotate: false
+  xy: 545, 65
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+ГОЛОВА
+  rotate: false
+  xy: 536, 301
+  size: 131, 213
+  orig: 131, 213
+  offset: 0, 0
+  index: -1
+ГОЛОВА ОГОНЬм
+  rotate: false
+  xy: 195, 11
+  size: 83, 167
+  orig: 83, 167
+  offset: 0, 0
+  index: -1
+КАПЛИ Л
+  rotate: false
+  xy: 536, 219
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+КАПЛИ Р
+  rotate: false
+  xy: 536, 137
+  size: 130, 80
+  orig: 130, 80
+  offset: 0, 0
+  index: -1
+ЛЕВВАЯ НОГА
+  rotate: false
+  xy: 280, 25
+  size: 62, 153
+  orig: 62, 153
+  offset: 0, 0
+  index: -1
+ЛЕВЫЙ КРЫЛ
+  rotate: false
+  xy: 2, 180
+  size: 296, 420
+  orig: 302, 420
+  offset: 6, 0
+  index: -1
+ЛЕВая рука
+  rotate: true
+  xy: 304, 769
+  size: 253, 377
+  orig: 253, 377
+  offset: 0, 0
+  index: -1
+ОГОНЬ ГРУДТ
+  rotate: true
+  xy: 408, 31
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+ПРАВАЯ НОГА
+  rotate: false
+  xy: 344, 41
+  size: 62, 153
+  orig: 62, 153
+  offset: 0, 0
+  index: -1
+ПРАВАЯ РУКА
+  rotate: true
+  xy: 304, 516
+  size: 251, 373
+  orig: 251, 373
+  offset: 0, 0
+  index: -1
+ПРАВЙ КРЫЛ
+  rotate: false
+  xy: 2, 602
+  size: 300, 420
+  orig: 300, 420
+  offset: 0, 0
+  index: -1
+СЕРДЦЕ
+  rotate: false
+  xy: 2, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+ТЕЛО
+  rotate: true
+  xy: 2, 22
+  size: 156, 191
+  orig: 156, 362
+  offset: 0, 167
+  index: -1
+ТЕНЬ
+  rotate: true
+  xy: 471, 188
+  size: 326, 63
+  orig: 326, 63
+  offset: 0, 0
+  index: -1
+ХВОСТ
+  rotate: false
+  xy: 300, 196
+  size: 169, 318
+  orig: 180, 327
+  offset: 5, 9
+  index: -1

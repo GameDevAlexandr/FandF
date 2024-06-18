@@ -1,0 +1,139 @@
+
+vik2.png
+size: 674,674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 523
+  size: 307, 149
+  orig: 543, 543
+  offset: 46, 181
+  index: -1
+ARM 1 L
+  rotate: false
+  xy: 370, 244
+  size: 101, 68
+  orig: 543, 543
+  offset: 20, 241
+  index: -1
+ARM 1 R
+  rotate: false
+  xy: 191, 20
+  size: 78, 86
+  orig: 543, 543
+  offset: 310, 207
+  index: -1
+ARM 2 L
+  rotate: true
+  xy: 291, 284
+  size: 107, 77
+  orig: 543, 543
+  offset: 16, 190
+  index: -1
+ARM 2 R
+  rotate: true
+  xy: 561, 115
+  size: 108, 111
+  orig: 543, 543
+  offset: 335, 160
+  index: -1
+Belt
+  rotate: true
+  xy: 586, 225
+  size: 310, 68
+  orig: 543, 543
+  offset: 46, 143
+  index: -1
+HEAD
+  rotate: false
+  xy: 311, 393
+  size: 273, 142
+  orig: 543, 543
+  offset: 79, 306
+  index: -1
+LEFT BOOTS
+  rotate: false
+  xy: 2, 225
+  size: 129, 92
+  orig: 543, 543
+  offset: 72, 60
+  index: -1
+LEGS
+  rotate: true
+  xy: 191, 239
+  size: 282, 98
+  orig: 543, 543
+  offset: 70, 88
+  index: -1
+Layer 342
+  rotate: true
+  xy: 2, 319
+  size: 202, 138
+  orig: 543, 543
+  offset: 125, 166
+  index: -1
+Layer 397
+  rotate: true
+  xy: 490, 115
+  size: 276, 69
+  orig: 543, 543
+  offset: 64, 240
+  index: -1
+Layer 398
+  rotate: false
+  xy: 191, 108
+  size: 297, 129
+  orig: 543, 543
+  offset: 62, 161
+  index: -1
+Layer 415
+  rotate: true
+  xy: 2, 16
+  size: 207, 187
+  orig: 543, 543
+  offset: 331, 141
+  index: -1
+RIGHT BOOTS
+  rotate: false
+  xy: 490, 4
+  size: 154, 109
+  orig: 543, 543
+  offset: 190, 42
+  index: -1
+ROG 1 R
+  rotate: false
+  xy: 347, 24
+  size: 64, 82
+  orig: 543, 543
+  offset: 252, 386
+  index: -1
+ROG 2 R
+  rotate: true
+  xy: 133, 241
+  size: 76, 55
+  orig: 543, 543
+  offset: 244, 380
+  index: -1
+rog L 1
+  rotate: true
+  xy: 370, 314
+  size: 77, 90
+  orig: 543, 543
+  offset: 94, 382
+  index: -1
+rog L 2
+  rotate: true
+  xy: 271, 20
+  size: 86, 74
+  orig: 543, 543
+  offset: 95, 367
+  index: -1
+shadow
+  rotate: false
+  xy: 311, 537
+  size: 325, 135
+  orig: 543, 543
+  offset: 46, 29
+  index: -1

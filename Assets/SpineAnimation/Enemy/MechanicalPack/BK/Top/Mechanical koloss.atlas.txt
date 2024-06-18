@@ -1,0 +1,391 @@
+
+Mechanical koloss.png
+size: 960,960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_1
+  rotate: true
+  xy: 902, 461
+  size: 70, 38
+  orig: 802, 626
+  offset: 348, 290
+  index: -1
+3_2
+  rotate: true
+  xy: 828, 131
+  size: 37, 65
+  orig: 802, 626
+  offset: 336, 331
+  index: -1
+3_3
+  rotate: false
+  xy: 463, 161
+  size: 57, 56
+  orig: 802, 626
+  offset: 349, 377
+  index: -1
+3_4
+  rotate: false
+  xy: 719, 221
+  size: 70, 37
+  orig: 802, 626
+  offset: 397, 395
+  index: -1
+3_5
+  rotate: true
+  xy: 828, 94
+  size: 35, 64
+  orig: 802, 626
+  offset: 444, 329
+  index: -1
+3_6
+  rotate: true
+  xy: 899, 173
+  size: 49, 58
+  orig: 802, 626
+  offset: 419, 294
+  index: -1
+Arc big
+  rotate: true
+  xy: 268, 721
+  size: 237, 273
+  orig: 802, 626
+  offset: 235, 195
+  index: -1
+Arc smoll
+  rotate: true
+  xy: 268, 585
+  size: 134, 265
+  orig: 802, 626
+  offset: 420, 246
+  index: -1
+Arm R
+  rotate: true
+  xy: 496, 385
+  size: 198, 190
+  orig: 802, 626
+  offset: 495, 86
+  index: -1
+Bearing 1
+  rotate: true
+  xy: 757, 177
+  size: 42, 32
+  orig: 802, 626
+  offset: 267, 321
+  index: -1
+Bearing_2
+  rotate: false
+  xy: 849, 2
+  size: 43, 42
+  orig: 802, 626
+  offset: 465, 428
+  index: -1
+Bearing_3
+  rotate: true
+  xy: 899, 135
+  size: 36, 49
+  orig: 802, 626
+  offset: 392, 222
+  index: -1
+Central frame det1
+  rotate: false
+  xy: 256, 156
+  size: 205, 199
+  orig: 802, 626
+  offset: 304, 264
+  index: -1
+Centre
+  rotate: true
+  xy: 427, 2
+  size: 152, 157
+  orig: 802, 626
+  offset: 333, 283
+  index: -1
+Det elbow
+  rotate: false
+  xy: 160, 6
+  size: 27, 26
+  orig: 802, 626
+  offset: 131, 553
+  index: -1
+Detal
+  rotate: true
+  xy: 586, 21
+  size: 133, 111
+  orig: 802, 626
+  offset: 570, 179
+  index: -1
+Detal  2 L
+  rotate: false
+  xy: 902, 533
+  size: 37, 103
+  orig: 802, 626
+  offset: 135, 464
+  index: -1
+Detal 1 L
+  rotate: false
+  xy: 2, 6
+  size: 109, 88
+  orig: 802, 626
+  offset: 178, 493
+  index: -1
+Detal 3
+  rotate: true
+  xy: 113, 7
+  size: 87, 45
+  orig: 802, 626
+  offset: 494, 358
+  index: -1
+Drill
+  rotate: false
+  xy: 2, 96
+  size: 153, 328
+  orig: 802, 626
+  offset: 69, 190
+  index: -1
+EYE fish
+  rotate: false
+  xy: 719, 312
+  size: 73, 81
+  orig: 802, 626
+  offset: 575, 321
+  index: -1
+EYE smoll
+  rotate: false
+  xy: 160, 34
+  size: 72, 80
+  orig: 802, 626
+  offset: 491, 135
+  index: -1
+Elbow 1 L
+  rotate: false
+  xy: 699, 16
+  size: 70, 54
+  orig: 802, 626
+  offset: 129, 540
+  index: -1
+Elbow 2 L
+  rotate: false
+  xy: 809, 27
+  size: 38, 52
+  orig: 802, 626
+  offset: 124, 529
+  index: -1
+Elbow det 2
+  rotate: false
+  xy: 766, 123
+  size: 60, 45
+  orig: 802, 626
+  offset: 510, 95
+  index: -1
+Elbow det1
+  rotate: false
+  xy: 798, 380
+  size: 114, 75
+  orig: 802, 626
+  offset: 470, 107
+  index: -1
+Ellipse 1
+  rotate: true
+  xy: 798, 457
+  size: 179, 102
+  orig: 722, 586
+  offset: 3, 158
+  index: -1
+Ellipse 2
+  rotate: true
+  xy: 688, 395
+  size: 198, 108
+  orig: 722, 586
+  offset: 12, 46
+  index: -1
+Finger 1 det 1
+  rotate: false
+  xy: 771, 18
+  size: 36, 61
+  orig: 802, 626
+  offset: 412, 104
+  index: -1
+Finger 1 det 2
+  rotate: false
+  xy: 719, 260
+  size: 73, 50
+  orig: 802, 626
+  offset: 414, 126
+  index: -1
+Finger 2 det 1
+  rotate: true
+  xy: 766, 81
+  size: 40, 60
+  orig: 802, 626
+  offset: 442, 76
+  index: -1
+Finger 2 det 2
+  rotate: true
+  xy: 901, 296
+  size: 82, 57
+  orig: 802, 626
+  offset: 441, 101
+  index: -1
+Finger3  deet 1
+  rotate: true
+  xy: 895, 94
+  size: 39, 47
+  orig: 802, 626
+  offset: 483, 57
+  index: -1
+Finger3 det 2
+  rotate: true
+  xy: 702, 156
+  size: 63, 53
+  orig: 802, 626
+  offset: 485, 78
+  index: -1
+Layer 245
+  rotate: false
+  xy: 543, 729
+  size: 226, 229
+  orig: 226, 229
+  offset: 0, 0
+  index: -1
+Pl 1
+  rotate: false
+  xy: 629, 156
+  size: 71, 66
+  orig: 722, 586
+  offset: 648, 283
+  index: -1
+Pl 2
+  rotate: false
+  xy: 522, 156
+  size: 105, 101
+  orig: 722, 586
+  offset: 595, 416
+  index: -1
+Planeta
+  rotate: true
+  xy: 265, 357
+  size: 226, 229
+  orig: 226, 229
+  offset: 0, 0
+  index: -1
+Planeta2
+  rotate: false
+  xy: 2, 692
+  size: 264, 266
+  orig: 368, 373
+  offset: 53, 54
+  index: -1
+Planeta3
+  rotate: false
+  xy: 2, 426
+  size: 261, 264
+  orig: 261, 264
+  offset: 0, 0
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 522, 259
+  size: 126, 124
+  orig: 127, 127
+  offset: 1, 3
+  index: -1
+Shestrp L
+  rotate: false
+  xy: 794, 275
+  size: 105, 103
+  orig: 802, 626
+  offset: 226, 454
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 256, 2
+  size: 169, 152
+  orig: 802, 626
+  offset: 231, 413
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 771, 746
+  size: 184, 212
+  orig: 802, 626
+  offset: 521, 274
+  index: -1
+Shoulder back L
+  rotate: false
+  xy: 535, 585
+  size: 93, 134
+  orig: 802, 626
+  offset: 296, 394
+  index: -1
+Tube _2
+  rotate: false
+  xy: 699, 72
+  size: 65, 82
+  orig: 802, 626
+  offset: 440, 400
+  index: -1
+Tube_1
+  rotate: false
+  xy: 630, 595
+  size: 153, 132
+  orig: 802, 626
+  offset: 414, 389
+  index: -1
+Tubes_1  L
+  rotate: false
+  xy: 914, 402
+  size: 44, 57
+  orig: 802, 626
+  offset: 312, 425
+  index: -1
+Tubes_2 L
+  rotate: false
+  xy: 901, 224
+  size: 57, 70
+  orig: 802, 626
+  offset: 331, 441
+  index: -1
+Wire L
+  rotate: false
+  xy: 785, 638
+  size: 158, 106
+  orig: 802, 626
+  offset: 106, 477
+  index: -1
+Wire R 2
+  rotate: false
+  xy: 463, 219
+  size: 57, 136
+  orig: 802, 626
+  offset: 627, 216
+  index: -1
+Wire R1
+  rotate: false
+  xy: 650, 254
+  size: 67, 129
+  orig: 802, 626
+  offset: 574, 213
+  index: -1
+cgustoc
+  rotate: true
+  xy: 157, 116
+  size: 308, 97
+  orig: 722, 586
+  offset: 263, 488
+  index: -1
+pl3
+  rotate: true
+  xy: 849, 46
+  size: 46, 45
+  orig: 722, 586
+  offset: 223, 3
+  index: -1
+shester back L
+  rotate: false
+  xy: 794, 170
+  size: 103, 103
+  orig: 802, 626
+  offset: 232, 452
+  index: -1

@@ -1,0 +1,195 @@
+
+1_monkey.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 238, 146
+  size: 50, 46
+  orig: 187, 252
+  offset: 6, 135
+  index: -1
+Arm R
+  rotate: true
+  xy: 193, 189
+  size: 47, 43
+  orig: 187, 252
+  offset: 132, 133
+  index: -1
+BACK cloath
+  rotate: false
+  xy: 2, 105
+  size: 85, 88
+  orig: 187, 252
+  offset: 50, 95
+  index: -1
+BRACERS L
+  rotate: false
+  xy: 175, 73
+  size: 16, 17
+  orig: 187, 252
+  offset: 24, 147
+  index: -1
+BRACERS R
+  rotate: false
+  xy: 210, 35
+  size: 17, 17
+  orig: 187, 252
+  offset: 145, 147
+  index: -1
+Belt
+  rotate: true
+  xy: 222, 105
+  size: 38, 11
+  orig: 187, 252
+  offset: 73, 144
+  index: -1
+Body1
+  rotate: true
+  xy: 239, 198
+  size: 88, 42
+  orig: 88, 42
+  offset: 0, 0
+  index: -1
+CLOATH
+  rotate: false
+  xy: 2, 31
+  size: 72, 72
+  orig: 187, 252
+  offset: 56, 77
+  index: -1
+EAR L
+  rotate: true
+  xy: 89, 151
+  size: 43, 42
+  orig: 187, 252
+  offset: 36, 191
+  index: -1
+EAR R
+  rotate: true
+  xy: 88, 196
+  size: 40, 43
+  orig: 187, 252
+  offset: 108, 190
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 193, 119
+  size: 27, 24
+  orig: 187, 252
+  offset: 160, 118
+  index: -1
+Ellipse 1 copy
+  rotate: false
+  xy: 193, 94
+  size: 24, 23
+  orig: 187, 252
+  offset: 0, 120
+  index: -1
+Finger 1 L
+  rotate: false
+  xy: 175, 92
+  size: 16, 20
+  orig: 187, 252
+  offset: 6, 142
+  index: -1
+Finger 1 R
+  rotate: false
+  xy: 190, 52
+  size: 18, 18
+  orig: 187, 252
+  offset: 163, 142
+  index: -1
+Finger 2 L
+  rotate: false
+  xy: 219, 80
+  size: 14, 23
+  orig: 187, 252
+  offset: 21, 126
+  index: -1
+Finger 2 R
+  rotate: false
+  xy: 219, 54
+  size: 13, 24
+  orig: 187, 252
+  offset: 151, 125
+  index: -1
+Legs
+  rotate: true
+  xy: 235, 37
+  size: 107, 51
+  orig: 187, 252
+  offset: 39, 95
+  index: -1
+MASK
+  rotate: false
+  xy: 89, 47
+  size: 84, 63
+  orig: 187, 252
+  offset: 48, 169
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 193, 145
+  size: 40, 20
+  orig: 187, 252
+  offset: 36, 160
+  index: -1
+ShoulderR
+  rotate: false
+  xy: 193, 167
+  size: 42, 20
+  orig: 187, 252
+  offset: 108, 160
+  index: -1
+TAIL 1
+  rotate: false
+  xy: 2, 195
+  size: 84, 91
+  orig: 187, 252
+  offset: 50, 45
+  index: -1
+TAIL 2
+  rotate: true
+  xy: 133, 114
+  size: 122, 58
+  orig: 187, 252
+  offset: 29, 9
+  index: -1
+finger 3L
+  rotate: true
+  xy: 175, 52
+  size: 19, 13
+  orig: 187, 252
+  offset: 10, 140
+  index: -1
+finger 3R
+  rotate: false
+  xy: 175, 38
+  size: 19, 12
+  orig: 187, 252
+  offset: 156, 140
+  index: -1
+muzzle
+  rotate: true
+  xy: 89, 112
+  size: 37, 40
+  orig: 187, 252
+  offset: 73, 156
+  index: -1
+nose
+  rotate: false
+  xy: 193, 72
+  size: 24, 20
+  orig: 187, 252
+  offset: 80, 177
+  index: -1
+ТЕНЬ ШАМАНОВ
+  rotate: false
+  xy: 88, 238
+  size: 149, 48
+  orig: 187, 252
+  offset: 20, 5
+  index: -1

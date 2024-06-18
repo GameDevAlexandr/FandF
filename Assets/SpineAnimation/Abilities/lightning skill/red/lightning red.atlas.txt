@@ -1,0 +1,97 @@
+
+lightning red.png
+size: 3648,3648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 10
+  rotate: false
+  xy: 2178, 2189
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 11
+  rotate: false
+  xy: 2178, 730
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 12
+  rotate: false
+  xy: 2902, 2189
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 13
+  rotate: false
+  xy: 2902, 730
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 14
+  rotate: true
+  xy: 1465, 6
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 3
+  rotate: false
+  xy: 6, 2189
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 4
+  rotate: false
+  xy: 6, 730
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 5
+  rotate: false
+  xy: 730, 2189
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 6
+  rotate: false
+  xy: 730, 730
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 7
+  rotate: false
+  xy: 1454, 2189
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 8
+  rotate: false
+  xy: 1454, 730
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+Frame 9
+  rotate: true
+  xy: 6, 6
+  size: 718, 1453
+  orig: 718, 1453
+  offset: 0, 0
+  index: -1
+oko
+  rotate: false
+  xy: 2924, 655
+  size: 133, 69
+  orig: 133, 69
+  offset: 0, 0
+  index: -1

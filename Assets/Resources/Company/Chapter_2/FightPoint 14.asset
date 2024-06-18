@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d26b7ed2b5d35469315395f1651f00, type: 3}
+  m_Name: FightPoint 14
+  m_EditorClassIdentifier: 
+  _icon: {fileID: -1721859360, guid: 8b6097331ce71544e83c6382b48c099f, type: 3}
+  _waves:
+  - enemyes:
+    - {fileID: 11400000, guid: 703305738e723c54ca25507892798f02, type: 2}
+    - {fileID: 11400000, guid: 105a665a060a3364dac7326518e04f85, type: 2}
+  - enemyes:
+    - {fileID: 11400000, guid: 703305738e723c54ca25507892798f02, type: 2}
+    - {fileID: 11400000, guid: 105a665a060a3364dac7326518e04f85, type: 2}
+    - {fileID: 11400000, guid: 703305738e723c54ca25507892798f02, type: 2}
+  - enemyes:
+    - {fileID: 11400000, guid: 105a665a060a3364dac7326518e04f85, type: 2}
+    - {fileID: 11400000, guid: 703305738e723c54ca25507892798f02, type: 2}
+    - {fileID: 11400000, guid: 105a665a060a3364dac7326518e04f85, type: 2}
+  - enemyes:
+    - {fileID: 11400000, guid: 703305738e723c54ca25507892798f02, type: 2}
+    - {fileID: 11400000, guid: 8cbf5e94afdc9694ba23e6f5b35c913b, type: 2}
+    - {fileID: 11400000, guid: 105a665a060a3364dac7326518e04f85, type: 2}
+  _reward:
+  - type: 0
+    pType: 1
+    fTipe: 1
+    cType: 2
+    level: 1
+    count: 3
+  - type: 0
+    pType: 0
+    fTipe: 0
+    cType: 0
+    level: 0
+    count: 85
+  - type: 0
+    pType: 2
+    fTipe: 0
+    cType: 21
+    level: 1
+    count: 10
+  _isEvent: 0
+  _index: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8a57762882e17d419501fd4ed64e025, type: 3}
+  m_Name: PickAxe 3
+  m_EditorClassIdentifier: 
+  _type: 1
+  _item: {fileID: 0}
+  _singleItem: {fileID: 11400000, guid: 90b08940e4f0c2345bec75dd08893a0e, type: 2}
+  _potionItem: {fileID: 0}
+  _nextItem: {fileID: 11400000, guid: 1c6b7baa359c8ce4e9bb79febe9c9e85, type: 2}
+  _currency: 0
+  _price: 6000

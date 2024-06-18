@@ -1,0 +1,181 @@
+
+d3.png
+size: 704,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 544, 14
+  size: 158, 135
+  orig: 158, 135
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: true
+  xy: 558, 151
+  size: 285, 137
+  orig: 285, 137
+  offset: 0, 0
+  index: -1
+EYE L
+  rotate: false
+  xy: 234, 450
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+EYE R
+  rotate: false
+  xy: 250, 450
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Glow 1
+  rotate: false
+  xy: 2, 215
+  size: 150, 187
+  orig: 150, 187
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 209, 14
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: true
+  xy: 277, 14
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+Handcuffs L
+  rotate: true
+  xy: 364, 11
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+Handcuffs R
+  rotate: true
+  xy: 68, 9
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 154, 265
+  size: 73, 137
+  orig: 73, 137
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 234, 466
+  size: 85, 182
+  orig: 85, 182
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 615, 520
+  size: 85, 182
+  orig: 85, 182
+  offset: 0, 0
+  index: -1
+Knee L
+  rotate: true
+  xy: 615, 454
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+Knee R
+  rotate: false
+  xy: 364, 86
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+Scroll  2
+  rotate: false
+  xy: 2, 404
+  size: 230, 244
+  orig: 230, 244
+  offset: 0, 0
+  index: -1
+Scroll 3
+  rotate: true
+  xy: 234, 295
+  size: 141, 322
+  orig: 141, 322
+  offset: 0, 0
+  index: -1
+Scroll 4
+  rotate: true
+  xy: 368, 438
+  size: 264, 245
+  orig: 264, 245
+  offset: 0, 0
+  index: -1
+Sfera 2
+  rotate: false
+  xy: 2, 11
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sfera 3
+  rotate: false
+  xy: 2, 11
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 650
+  size: 364, 52
+  orig: 364, 52
+  offset: 0, 0
+  index: -1
+Shin L
+  rotate: false
+  xy: 442, 65
+  size: 100, 228
+  orig: 100, 228
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: true
+  xy: 134, 63
+  size: 100, 228
+  orig: 100, 228
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 68, 64
+  size: 64, 149
+  orig: 64, 149
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 2, 61
+  size: 64, 152
+  orig: 64, 152
+  offset: 0, 0
+  index: -1
+Tunic
+  rotate: true
+  xy: 154, 165
+  size: 98, 286
+  orig: 98, 286
+  offset: 0, 0
+  index: -1

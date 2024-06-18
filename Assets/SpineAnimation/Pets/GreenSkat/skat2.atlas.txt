@@ -1,0 +1,27 @@
+
+skat2.png
+size: 373,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 142
+  size: 357, 229
+  orig: 357, 229
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 278, 55
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 274, 138
+  orig: 274, 138
+  offset: 0, 0
+  index: -1

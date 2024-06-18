@@ -1,0 +1,258 @@
+
+3-kaktus.png
+size: 919,919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 6, 10
+  size: 93, 151
+  orig: 93, 164
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 858, 729
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 839, 203
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 858, 829
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 609, 28
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 858, 635
+  size: 46, 88
+  orig: 46, 96
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 163, 12
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+Arm L
+  rotate: true
+  xy: 518, 657
+  size: 256, 334
+  orig: 296, 334
+  offset: 40, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 518, 396
+  size: 255, 334
+  orig: 296, 334
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 6, 341
+  size: 506, 572
+  orig: 506, 589
+  offset: 0, 17
+  index: -1
+Foot  L
+  rotate: true
+  xy: 664, 317
+  size: 73, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: true
+  xy: 734, 317
+  size: 73, 61
+  orig: 77, 64
+  offset: 4, 0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 482, 271
+  size: 428, 37
+  orig: 428, 37
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 6, 109
+  size: 139, 199
+  orig: 139, 199
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 151, 109
+  size: 139, 199
+  orig: 139, 199
+  offset: 0, 0
+  index: -1
+arm 1
+  rotate: false
+  xy: 376, 161
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+arm 1 L
+  rotate: false
+  xy: 727, 129
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+arm 2
+  rotate: true
+  xy: 518, 317
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+arm 2 L
+  rotate: true
+  xy: 591, 317
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+arm 3
+  rotate: true
+  xy: 355, 6
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+arm 3 L
+  rotate: true
+  xy: 482, 7
+  size: 102, 121
+  orig: 102, 121
+  offset: 0, 0
+  index: -1
+arm 4
+  rotate: false
+  xy: 858, 314
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+arm 4 L
+  rotate: true
+  xy: 296, 114
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+arm 5
+  rotate: true
+  xy: 444, 115
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+arm 5 L
+  rotate: true
+  xy: 649, 6
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 858, 407
+  size: 222, 44
+  orig: 222, 44
+  offset: 0, 0
+  index: -1
+belt C
+  rotate: false
+  xy: 296, 161
+  size: 74, 147
+  orig: 74, 147
+  offset: 0, 0
+  index: -1
+flau
+  rotate: true
+  xy: 236, 13
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+hip L
+  rotate: false
+  xy: 636, 126
+  size: 85, 139
+  orig: 85, 139
+  offset: 0, 0
+  index: -1
+hip R
+  rotate: true
+  xy: 694, 35
+  size: 85, 139
+  orig: 85, 139
+  offset: 0, 0
+  index: -1
+knee L
+  rotate: true
+  xy: 389, 118
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+knee R
+  rotate: false
+  xy: 801, 354
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+sfera
+  rotate: false
+  xy: 376, 235
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shin L
+  rotate: true
+  xy: 727, 203
+  size: 62, 81
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+shin R
+  rotate: true
+  xy: 795, 135
+  size: 62, 81
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+yea
+  rotate: true
+  xy: 489, 122
+  size: 143, 141
+  orig: 143, 143
+  offset: 0, 1
+  index: -1

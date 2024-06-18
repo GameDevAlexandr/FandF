@@ -1,0 +1,139 @@
+
+1_mouth.png
+size: 414,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 223, 251
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 270, 10
+  size: 32, 42
+  orig: 34, 43
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 213, 224
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Body_1
+  rotate: false
+  xy: 6, 158
+  size: 132, 200
+  orig: 132, 200
+  offset: 0, 0
+  index: -1
+Body_2
+  rotate: false
+  xy: 260, 195
+  size: 147, 213
+  orig: 147, 213
+  offset: 0, 0
+  index: -1
+Rostok
+  rotate: false
+  xy: 6, 29
+  size: 66, 123
+  orig: 66, 123
+  offset: 0, 0
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 78, 95
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Sfera 2
+  rotate: false
+  xy: 351, 132
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 6, 364
+  size: 248, 44
+  orig: 248, 44
+  offset: 0, 0
+  index: -1
+pfglushka 2
+  rotate: false
+  xy: 351, 69
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+shin  L
+  rotate: false
+  xy: 144, 240
+  size: 73, 118
+  orig: 77, 131
+  offset: 3, 13
+  index: -1
+shin  R
+  rotate: true
+  xy: 78, 16
+  size: 73, 117
+  orig: 77, 131
+  offset: 4, 14
+  index: -1
+shin L_3
+  rotate: false
+  xy: 257, 83
+  size: 88, 106
+  orig: 88, 107
+  offset: 0, 1
+  index: -1
+shin R_3
+  rotate: true
+  xy: 144, 101
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+veko 1
+  rotate: true
+  xy: 223, 299
+  size: 59, 26
+  orig: 61, 28
+  offset: 2, 0
+  index: -1
+veko 2
+  rotate: false
+  xy: 144, 198
+  size: 63, 36
+  orig: 63, 44
+  offset: 0, 8
+  index: -1
+veko 3
+  rotate: false
+  xy: 270, 48
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+veko4
+  rotate: false
+  xy: 334, 43
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+zaglushka 1
+  rotate: true
+  xy: 201, 15
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1

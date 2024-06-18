@@ -1,0 +1,759 @@
+{
+"skeleton": {
+	"hash": "JYyRwxksVeMYVE6WB0gt5S1LAwo",
+	"spine": "3.8",
+	"x": -73.06,
+	"y": -375.77,
+	"width": 576,
+	"height": 1280,
+	"fps": 24,
+	"images": "",
+	"audio": "C:/Users/V/Desktop/DIAMOND HEAD/АНИМАЦИЯ/text_anim/../LVL_UP"
+},
+"bones": [
+	{ "name": "root", "y": -3.34 },
+	{
+		"name": "big circle3",
+		"parent": "root",
+		"x": -0.02,
+		"y": -22.85,
+		"scaleX": 1.1389,
+		"scaleY": 1.0443,
+		"color": "ff0000ff"
+	},
+	{ "name": "main light2", "parent": "big circle3", "length": 109.8, "rotation": 89.73, "x": 0.55, "y": -8.03 },
+	{ "name": "str2", "parent": "big circle3", "length": 38.64, "rotation": 91.29, "x": -10.41, "y": 3.98 },
+	{ "name": "str5", "parent": "big circle3", "length": 80.74, "rotation": 89.26, "x": 29.44, "y": 11.98 },
+	{ "name": "str6", "parent": "big circle3", "length": 12.89, "rotation": 92.32, "x": 13.26, "y": -2.11 },
+	{ "name": "Layer 82", "parent": "big circle3", "length": 12.53, "rotation": 88.41, "x": -29.2, "y": 1.89 },
+	{ "name": "star6", "parent": "big circle3", "x": -25.72, "y": 56.53, "scaleX": 0.4679, "scaleY": 0.4679 },
+	{ "name": "star7", "parent": "big circle3", "x": -40.68, "y": 2.24, "scaleX": 0.8017, "scaleY": 0.8017 },
+	{ "name": "star8", "parent": "big circle3", "x": 9.08, "y": 26.6, "scaleX": 0.5147, "scaleY": 0.5147 },
+	{ "name": "star9", "parent": "big circle3", "x": 45.62, "y": 3.98, "scaleX": 0.4586, "scaleY": 0.4586 },
+	{
+		"name": "Layer 83",
+		"parent": "big circle3",
+		"length": 21.04,
+		"rotation": 92.92,
+		"x": 4.46,
+		"y": 65.41,
+		"scaleY": 0.8862
+	},
+	{ "name": "big circle4", "parent": "big circle3", "x": 6.02, "y": -2.24, "scaleX": 1.0358, "scaleY": 0.9403 },
+	{ "name": "spell circle", "parent": "big circle3", "x": -3.15, "y": 23.06, "color": "ff0000ff" }
+],
+"slots": [
+	{ "name": "back3", "bone": "root" },
+	{ "name": "str5", "bone": "str5", "attachment": "str3", "blend": "additive" },
+	{ "name": "str2", "bone": "str2", "attachment": "str1", "blend": "additive" },
+	{ "name": "star6", "bone": "star6", "attachment": "star4" },
+	{ "name": "star7", "bone": "star7", "attachment": "star3" },
+	{ "name": "star8", "bone": "star8", "attachment": "star2" },
+	{ "name": "str6", "bone": "str6", "attachment": "str4", "blend": "additive" },
+	{ "name": "Layer 82", "bone": "Layer 82", "attachment": "Layer 78", "blend": "additive" },
+	{ "name": "Layer 83", "bone": "Layer 83", "attachment": "Layer 79", "blend": "additive" },
+	{ "name": "star9", "bone": "star9", "attachment": "star1" },
+	{ "name": "spell circle", "bone": "spell circle", "attachment": "spell circle" },
+	{ "name": "spell circle big", "bone": "spell circle", "attachment": "spell circle big", "blend": "additive" },
+	{ "name": "shine", "bone": "big circle3", "attachment": "shine", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "Blue",
+		"attachments": {
+			"spell circle": {
+				"spell circle": { "type": "linkedmesh", "path": "blue/spell circle", "skin": "Yellow", "parent": "spell circle", "width": 90, "height": 90 }
+			},
+			"Layer 82": {
+				"Layer 78": { "type": "linkedmesh", "path": "blue/Layer 78", "skin": "Yellow", "parent": "Layer 78", "width": 578, "height": 1282 }
+			},
+			"Layer 83": {
+				"Layer 79": { "type": "linkedmesh", "path": "blue/Layer 79", "skin": "Yellow", "parent": "Layer 79", "width": 578, "height": 1282 }
+			},
+			"star6": {
+				"star4": { "type": "linkedmesh", "path": "blue/star", "skin": "Yellow", "parent": "star4", "width": 49, "height": 49 }
+			},
+			"str2": {
+				"str1": { "type": "linkedmesh", "path": "blue/str1", "skin": "Yellow", "parent": "str1", "width": 578, "height": 1282 }
+			},
+			"str5": {
+				"str3": { "type": "linkedmesh", "path": "blue/str3", "skin": "Yellow", "parent": "str3", "width": 578, "height": 1282 }
+			},
+			"star7": {
+				"star3": { "type": "linkedmesh", "path": "blue/star", "skin": "Yellow", "parent": "star3", "width": 49, "height": 49 }
+			},
+			"star8": {
+				"star2": { "type": "linkedmesh", "path": "blue/star", "skin": "Yellow", "parent": "star2", "width": 49, "height": 49 }
+			},
+			"star9": {
+				"star1": { "type": "linkedmesh", "path": "blue/star", "skin": "Yellow", "parent": "star1", "width": 49, "height": 49 }
+			},
+			"spell circle big": {
+				"spell circle big": { "type": "linkedmesh", "path": "blue/spell circle big", "skin": "Yellow", "parent": "spell circle big", "width": 112, "height": 112 }
+			},
+			"shine": {
+				"shine": {
+					"type": "mesh",
+					"path": "blue/shine",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 41.14, -42.32, -37.01, -42.32, -37.01, 97.49, 41.14, 97.49 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 89,
+					"height": 146
+				}
+			},
+			"str6": {
+				"str4": { "type": "linkedmesh", "path": "blue/str4", "skin": "Yellow", "parent": "str4", "width": 578, "height": 1282 }
+			}
+		}
+	},
+	{
+		"name": "Green",
+		"attachments": {
+			"spell circle": {
+				"spell circle": { "type": "linkedmesh", "path": "green/spell circle", "skin": "Yellow", "parent": "spell circle", "width": 90, "height": 90 }
+			},
+			"Layer 82": {
+				"Layer 78": { "type": "linkedmesh", "path": "green/Layer 78", "skin": "Yellow", "parent": "Layer 78", "width": 578, "height": 1282 }
+			},
+			"Layer 83": {
+				"Layer 79": { "type": "linkedmesh", "path": "green/Layer 79", "skin": "Yellow", "parent": "Layer 79", "width": 578, "height": 1282 }
+			},
+			"star6": {
+				"star4": { "type": "linkedmesh", "path": "green/star", "skin": "Yellow", "parent": "star4", "width": 49, "height": 49 }
+			},
+			"str2": {
+				"str1": { "type": "linkedmesh", "path": "green/str1", "skin": "Yellow", "parent": "str1", "width": 578, "height": 1282 }
+			},
+			"str5": {
+				"str3": { "type": "linkedmesh", "path": "green/str3", "skin": "Yellow", "parent": "str3", "width": 578, "height": 1282 }
+			},
+			"star7": {
+				"star3": { "type": "linkedmesh", "path": "green/star", "skin": "Yellow", "parent": "star3", "width": 49, "height": 49 }
+			},
+			"star8": {
+				"star2": { "type": "linkedmesh", "path": "green/star", "skin": "Yellow", "parent": "star2", "width": 49, "height": 49 }
+			},
+			"star9": {
+				"star1": { "type": "linkedmesh", "path": "green/star", "skin": "Yellow", "parent": "star1", "width": 49, "height": 49 }
+			},
+			"spell circle big": {
+				"spell circle big": { "type": "linkedmesh", "path": "green/spell circle big", "skin": "Yellow", "parent": "spell circle big", "width": 112, "height": 112 }
+			},
+			"shine": {
+				"shine": { "type": "linkedmesh", "path": "green/shine", "skin": "Blue", "parent": "shine", "width": 89, "height": 146 }
+			},
+			"str6": {
+				"str4": { "type": "linkedmesh", "path": "green/str4", "skin": "Yellow", "parent": "str4", "width": 578, "height": 1282 }
+			}
+		}
+	},
+	{
+		"name": "Purple",
+		"attachments": {
+			"spell circle": {
+				"spell circle": { "type": "linkedmesh", "path": "purple/spell circle", "skin": "Yellow", "parent": "spell circle", "width": 90, "height": 90 }
+			},
+			"Layer 82": {
+				"Layer 78": { "type": "linkedmesh", "path": "purple/Layer 78", "skin": "Yellow", "parent": "Layer 78", "width": 578, "height": 1282 }
+			},
+			"Layer 83": {
+				"Layer 79": { "type": "linkedmesh", "path": "purple/Layer 79", "skin": "Yellow", "parent": "Layer 79", "width": 578, "height": 1282 }
+			},
+			"star6": {
+				"star4": { "type": "linkedmesh", "path": "purple/star", "skin": "Yellow", "parent": "star4", "width": 49, "height": 49 }
+			},
+			"str2": {
+				"str1": { "type": "linkedmesh", "path": "purple/str1", "skin": "Yellow", "parent": "str1", "width": 578, "height": 1282 }
+			},
+			"str5": {
+				"str3": { "type": "linkedmesh", "path": "purple/str3", "skin": "Yellow", "parent": "str3", "width": 578, "height": 1282 }
+			},
+			"star7": {
+				"star3": { "type": "linkedmesh", "path": "purple/star", "skin": "Yellow", "parent": "star3", "width": 49, "height": 49 }
+			},
+			"star8": {
+				"star2": { "type": "linkedmesh", "path": "purple/star", "skin": "Yellow", "parent": "star2", "width": 49, "height": 49 }
+			},
+			"star9": {
+				"star1": { "type": "linkedmesh", "path": "purple/star", "skin": "Yellow", "parent": "star1", "width": 49, "height": 49 }
+			},
+			"spell circle big": {
+				"spell circle big": { "type": "linkedmesh", "path": "purple/spell circle big", "skin": "Yellow", "parent": "spell circle big", "width": 112, "height": 112 }
+			},
+			"shine": {
+				"shine": { "type": "linkedmesh", "path": "purple/shine", "skin": "Blue", "parent": "shine", "width": 89, "height": 146 }
+			},
+			"str6": {
+				"str4": { "type": "linkedmesh", "path": "purple/str4", "skin": "Yellow", "parent": "str4", "width": 578, "height": 1282 }
+			}
+		}
+	},
+	{
+		"name": "Red",
+		"attachments": {
+			"spell circle": {
+				"spell circle": { "type": "linkedmesh", "path": "red/spell circle", "skin": "Yellow", "parent": "spell circle", "width": 90, "height": 90 }
+			},
+			"Layer 82": {
+				"Layer 78": { "type": "linkedmesh", "path": "red/Layer 78", "skin": "Yellow", "parent": "Layer 78", "width": 578, "height": 1282 }
+			},
+			"Layer 83": {
+				"Layer 79": { "type": "linkedmesh", "path": "red/Layer 79", "skin": "Yellow", "parent": "Layer 79", "width": 578, "height": 1282 }
+			},
+			"star6": {
+				"star4": { "type": "linkedmesh", "path": "red/star", "skin": "Yellow", "parent": "star4", "width": 49, "height": 49 }
+			},
+			"str2": {
+				"str1": { "type": "linkedmesh", "path": "red/str1", "skin": "Yellow", "parent": "str1", "width": 578, "height": 1282 }
+			},
+			"str5": {
+				"str3": { "type": "linkedmesh", "path": "red/str3", "skin": "Yellow", "parent": "str3", "width": 578, "height": 1282 }
+			},
+			"star7": {
+				"star3": { "type": "linkedmesh", "path": "red/star", "skin": "Yellow", "parent": "star3", "width": 49, "height": 49 }
+			},
+			"star8": {
+				"star2": { "type": "linkedmesh", "path": "red/star", "skin": "Yellow", "parent": "star2", "width": 49, "height": 49 }
+			},
+			"star9": {
+				"star1": { "type": "linkedmesh", "path": "red/star", "skin": "Yellow", "parent": "star1", "width": 49, "height": 49 }
+			},
+			"spell circle big": {
+				"spell circle big": { "type": "linkedmesh", "path": "red/spell circle big", "skin": "Yellow", "parent": "spell circle big", "width": 112, "height": 112 }
+			},
+			"shine": {
+				"shine": { "type": "linkedmesh", "path": "red/shine", "skin": "Blue", "parent": "shine", "width": 89, "height": 146 }
+			},
+			"str6": {
+				"str4": { "type": "linkedmesh", "path": "red/str4", "skin": "Yellow", "parent": "str4", "width": 578, "height": 1282 }
+			}
+		}
+	},
+	{
+		"name": "Yellow",
+		"attachments": {
+			"spell circle": {
+				"spell circle": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 43.28, -40.28, -35.74, -40.28, -35.74, 45.9, 43.28, 45.9 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 90,
+					"height": 90
+				}
+			},
+			"Layer 82": {
+				"Layer 78": {
+					"type": "mesh",
+					"uvs": [ 0.46529, 0.5109, 0.46532, 0.52572, 0.4462, 0.5259, 0.44607, 0.51092 ],
+					"triangles": [ 3, 0, 1, 2, 3, 1 ],
+					"vertices": [ 14.92, -5.29, -4.04, -5.83, -4.57, 5.17, 14.58, 5.78 ],
+					"hull": 4,
+					"edges": [ 0, 6, 0, 2, 2, 4, 4, 6 ],
+					"width": 576,
+					"height": 1280
+				}
+			},
+			"Layer 83": {
+				"Layer 79": {
+					"type": "mesh",
+					"uvs": [ 0.52567, 0.48094, 0.50218, 0.48078, 0.50256, 0.44957, 0.52541, 0.44965 ],
+					"triangles": [ 1, 2, 3, 0, 1, 3 ],
+					"vertices": [ -6.93, -4.95, -6.76, 6.03, 24.35, 5.81, 24.14, -7.35 ],
+					"hull": 4,
+					"edges": [ 0, 6, 0, 2, 2, 4, 4, 6 ],
+					"width": 576,
+					"height": 1280
+				}
+			},
+			"star6": {
+				"star4": {
+					"type": "mesh",
+					"path": "star",
+					"uvs": [ 0, 0, 0, 1, 1, 1, 1, 0 ],
+					"triangles": [ 1, 0, 3, 1, 3, 2 ],
+					"vertices": [ -24.33, 24.36, -24.33, -24.64, 24.67, -24.64, 24.67, 24.36 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 49,
+					"height": 49
+				}
+			},
+			"str2": {
+				"str1": {
+					"type": "mesh",
+					"uvs": [ 0.50029, 0.48651, 0.49993, 0.52905, 0.4791, 0.52887, 0.47913, 0.48653 ],
+					"triangles": [ 2, 3, 0, 0, 1, 2 ],
+					"vertices": [ 43.73, -8.06, -10.71, -6.63, -10.2, 5.36, 43.98, 4.13 ],
+					"hull": 4,
+					"edges": [ 0, 6, 0, 2, 2, 4, 4, 6 ],
+					"width": 576,
+					"height": 1280
+				}
+			},
+			"str5": {
+				"str3": {
+					"type": "mesh",
+					"uvs": [ 0.56603, 0.44447, 0.56827, 0.5236, 0.546, 0.52178, 0.54856, 0.46029, 0.54825, 0.43825 ],
+					"triangles": [ 3, 4, 0, 1, 3, 0, 2, 3, 1 ],
+					"vertices": [ 89.76, -3.93, -11.5, -6.53, -9.33, 6.33, 69.39, 5.87, 97.59, 6.41 ],
+					"hull": 5,
+					"edges": [ 0, 8, 0, 2, 2, 4, 4, 6, 6, 8 ],
+					"width": 576,
+					"height": 1280
+				}
+			},
+			"star7": {
+				"star3": {
+					"type": "mesh",
+					"path": "star",
+					"uvs": [ 0.01662, 0, 1, 0, 1, 1, 0, 1 ],
+					"triangles": [ 0, 1, 2, 3, 0, 2 ],
+					"vertices": [ -23.39, 24.41, 24.79, 24.41, 24.79, -24.59, -24.21, -24.59 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 49,
+					"height": 49
+				}
+			},
+			"star8": {
+				"star2": {
+					"type": "mesh",
+					"path": "star",
+					"uvs": [ 0, 0, 0.00936, 1, 1, 1, 1, 0 ],
+					"triangles": [ 1, 0, 3, 1, 3, 2 ],
+					"vertices": [ -24.45, 24.42, -23.99, -24.58, 24.55, -24.58, 24.55, 24.42 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 49,
+					"height": 49
+				}
+			},
+			"star9": {
+				"star1": {
+					"type": "mesh",
+					"path": "star",
+					"uvs": [ 0, 0, 1, 0, 1, 1, 0, 0.99153 ],
+					"triangles": [ 3, 0, 1, 3, 1, 2 ],
+					"vertices": [ -24.84, 24.35, 24.16, 24.35, 24.16, -24.65, -24.84, -24.24 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 49,
+					"height": 49
+				}
+			},
+			"spell circle big": {
+				"spell circle big": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 56.83, -49.2, -46.83, -49.2, -46.83, 56.11, 56.83, 56.11 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 112,
+					"height": 112
+				}
+			},
+			"shine": {
+				"shine": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 41.14, -42.32, -37.01, -42.32, -37.01, 97.49, 41.14, 97.49 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 89,
+					"height": 146
+				}
+			},
+			"str6": {
+				"str4": {
+					"type": "mesh",
+					"uvs": [ 0.53876, 0.53551, 0.50693, 0.52107, 0.53771, 0.50725 ],
+					"triangles": [ 1, 2, 0 ],
+					"vertices": [ -12.94, -5.05, 6.27, 12.53, 23.22, -5.91 ],
+					"hull": 3,
+					"edges": [ 0, 4, 0, 2, 2, 4 ],
+					"width": 576,
+					"height": 1280
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"start": {
+		"slots": {
+			"Layer 83": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "ffffffff" },
+					{ "time": 0.5417, "color": "ffffff00" }
+				]
+			},
+			"str2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.1667, "color": "c78617ff", "curve": 0.525, "c2": 0.14, "c4": 0.75 },
+					{ "time": 0.4583, "color": "ffffff00" }
+				]
+			},
+			"shine": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0, "c2": 0.98, "c3": 0.822 },
+					{ "time": 0.2083, "color": "ffffff71" },
+					{ "time": 0.4167, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "shine" }
+				]
+			},
+			"spell circle big": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0, "c2": 0.44, "c3": 0.396, "c4": 0.76 },
+					{ "time": 0.1667, "color": "ffffff43", "curve": 0.287, "c2": 0.98, "c3": 0.847 },
+					{ "time": 0.625, "color": "ffffff00" }
+				]
+			},
+			"str6": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "eec348ff" },
+					{ "time": 0.4167, "color": "ffffff00" }
+				]
+			},
+			"str5": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "ffffffff" },
+					{ "time": 0.5417, "color": "ffffff00" }
+				]
+			},
+			"star8": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "ffffffff" },
+					{ "time": 0.4167, "color": "ffffff00" }
+				]
+			},
+			"star7": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "ffffffff" },
+					{ "time": 0.4167, "color": "ffffff00" }
+				]
+			},
+			"Layer 82": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "ffffffff" },
+					{ "time": 0.4167, "color": "ffffff00" }
+				]
+			},
+			"star6": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.2083, "color": "ffffffff" },
+					{ "time": 0.4583, "color": "ffffff00" }
+				]
+			},
+			"spell circle": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0, "c2": 0.98, "c3": 0.822 },
+					{ "time": 0.2917, "color": "ffffffff", "curve": 0, "c2": 0.98, "c3": 0.822 },
+					{ "time": 0.625, "color": "ffffff00" }
+				]
+			},
+			"star9": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0833, "color": "ffffffff" },
+					{ "time": 0.4583, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"main light2": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.125, "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 0.125, "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"scale": [
+					{ "x": 0.242 },
+					{ "time": 0.1667, "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.125, "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"str2": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": -21.9, "curve": 0, "c2": 0.98, "c3": 0.822 },
+					{ "time": 0.4167, "y": 43.67 }
+				],
+				"scale": [
+					{ "y": 0.418, "curve": "stepped" },
+					{ "time": 0.1667, "y": 0.418, "curve": "stepped" },
+					{ "time": 0.4167, "y": 0.418 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"str5": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": -25.96 },
+					{ "time": 0.4167, "y": 9.21 }
+				],
+				"scale": [
+					{ "x": 0.594 },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"str6": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": -25.66 },
+					{ "time": 0.4167 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"Layer 82": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": -17.2 },
+					{ "time": 0.4167, "y": 19.24 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"star6": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": -53.27 },
+					{ "time": 0.4167 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"star7": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "x": -1.61 },
+					{ "time": 0.4167, "x": -3.26, "y": 26.66 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"star8": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": 20.79 },
+					{ "time": 0.4167, "y": 51.2 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"star9": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.4167, "x": 5.62, "y": 37.46 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"Layer 83": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": -58.84 },
+					{ "time": 0.5417, "y": -12.65 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.2083, "y": 0.67 },
+					{ "time": 0.5417, "y": 0.983 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"big circle4": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"translate": [
+					{ "y": 4.64, "curve": "stepped" },
+					{ "time": 0.4167, "y": 4.64 }
+				],
+				"scale": [
+					{ "x": 0.522, "y": 0.505 },
+					{ "time": 0.5833, "x": 1.081, "y": 1.174 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"big circle3": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.4167 }
+				]
+			},
+			"spell circle": {
+				"translate": [
+					{ "x": 4.1, "y": 4.17 },
+					{ "time": 0.2917, "x": -0.79, "y": 4.17 }
+				],
+				"scale": [
+					{ "x": 0.384, "y": 0.384, "curve": 0, "c2": 0.98, "c3": 0.822 },
+					{ "time": 0.625, "x": 1.406, "y": 1.406 }
+				]
+			}
+		},
+		"deform": {
+			"Yellow": {
+				"shine": {
+					"shine": [
+						{
+							"vertices": [ -17.20256, 9.99182, 17.20248, 9.99182, 17.20248, -46.44785, -17.20256, -46.44785 ],
+							"curve": 0,
+							"c2": 0.98,
+							"c3": 0.822
+						},
+						{
+							"time": 0.4167,
+							"vertices": [ 11.25137, 14.40598, -11.25134, 14.40598, -11.25134, 14.40598, 11.25137, 14.40598 ]
+						}
+					]
+				},
+				"spell circle": {
+					"spell circle": [
+						{ "curve": 0, "c2": 0.63, "c3": 0.518, "c4": 0.89 },
+						{
+							"time": 0.375,
+							"vertices": [ -2.37064, 2.58549, 2.37064, 2.58549, 2.37062, -2.58563, -2.37064, -2.58563 ],
+							"curve": 0.428,
+							"c2": 0.96,
+							"c3": 0.834
+						},
+						{ "time": 0.625 }
+					]
+				}
+			},
+			"Blue": {
+				"shine": {
+					"shine": [
+						{
+							"vertices": [ -17.20256, 9.99182, 17.20248, 9.99182, 17.20248, -46.44785, -17.20256, -46.44785 ],
+							"curve": 0,
+							"c2": 0.98,
+							"c3": 0.822
+						},
+						{
+							"time": 0.4167,
+							"vertices": [ 11.25137, 14.40598, -11.25134, 14.40598, -11.25134, 14.40598, 11.25137, 14.40598 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,27 @@
+
+skat1.png
+size: 749,749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 297
+  rotate: false
+  xy: 2, 522
+  size: 340, 225
+  orig: 340, 225
+  offset: 0, 0
+  index: -1
+Layer 300
+  rotate: true
+  xy: 620, 552
+  size: 195, 127
+  orig: 195, 127
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 344, 609
+  size: 274, 138
+  orig: 274, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+Animation_Dungeon.png
+size: 1642,1642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOSS!
+  rotate: true
+  xy: 1528, 1023
+  size: 165, 91
+  orig: 936, 726
+  offset: 479, 394
+  index: -1
+FIGHT
+  rotate: true
+  xy: 1508, 841
+  size: 150, 88
+  orig: 936, 726
+  offset: 331, 374
+  index: -1
+LINES1
+  rotate: false
+  xy: 10, 1310
+  size: 921, 322
+  orig: 936, 726
+  offset: 15, 252
+  index: -1
+LINES2
+  rotate: false
+  xy: 10, 976
+  size: 884, 324
+  orig: 936, 726
+  offset: 52, 250
+  index: -1
+Layer 38
+  rotate: false
+  xy: 309, 160
+  size: 36, 28
+  orig: 936, 726
+  offset: 334, 314
+  index: -1
+Layer 39
+  rotate: false
+  xy: 1508, 792
+  size: 41, 39
+  orig: 936, 726
+  offset: 287, 412
+  index: -1
+Layer 40
+  rotate: false
+  xy: 309, 198
+  size: 50, 32
+  orig: 936, 726
+  offset: 632, 511
+  index: -1
+Layer 41
+  rotate: true
+  xy: 1596, 1594
+  size: 38, 36
+  orig: 936, 726
+  offset: 592, 334
+  index: -1
+Layer 43
+  rotate: true
+  xy: 1528, 1001
+  size: 12, 16
+  orig: 936, 726
+  offset: 648, 440
+  index: -1
+Layer 44
+  rotate: false
+  xy: 1508, 752
+  size: 34, 30
+  orig: 936, 726
+  offset: 415, 307
+  index: -1
+Layer 50
+  rotate: false
+  xy: 941, 1424
+  size: 645, 208
+  orig: 936, 726
+  offset: 222, 377
+  index: -1
+Layer 51
+  rotate: false
+  xy: 941, 1198
+  size: 617, 216
+  orig: 936, 726
+  offset: 234, 326
+  index: -1
+Layer 51 copy
+  rotate: false
+  xy: 904, 1001
+  size: 614, 187
+  orig: 936, 726
+  offset: 19, 221
+  index: -1
+Layer 59
+  rotate: true
+  xy: 1108, 229
+  size: 250, 95
+  orig: 357, 726
+  offset: 62, 391
+  index: -1
+Rectangle 1
+  rotate: false
+  xy: 381, 12
+  size: 472, 329
+  orig: 936, 726
+  offset: 232, 266
+  index: -1
+Rectangle 1 copy
+  rotate: true
+  xy: 1261, 459
+  size: 234, 248
+  orig: 936, 726
+  offset: 702, 405
+  index: -1
+Rectangle 1 copy 2
+  rotate: false
+  xy: 863, 222
+  size: 235, 257
+  orig: 936, 726
+  offset: 0, 196
+  index: -1
+Rectangle 1 copy 3
+  rotate: true
+  xy: 1261, 703
+  size: 288, 237
+  orig: 936, 726
+  offset: 38, 200
+  index: -1
+Rectangle 1 copy 4
+  rotate: false
+  xy: 10, 18
+  size: 289, 212
+  orig: 936, 726
+  offset: 610, 410
+  index: -1
+Rectangle 1 copy 5
+  rotate: false
+  xy: 863, 15
+  size: 288, 197
+  orig: 936, 726
+  offset: 324, 325
+  index: -1
+Rectangle 1 copy 6
+  rotate: true
+  xy: 1213, 256
+  size: 193, 297
+  orig: 936, 726
+  offset: 0, 163
+  index: -1
+Rectangle 1 copy 7
+  rotate: true
+  xy: 1213, 53
+  size: 193, 298
+  orig: 936, 726
+  offset: 743, 388
+  index: -1
+Rectangle 1 copy 8
+  rotate: true
+  xy: 381, 351
+  size: 615, 471
+  orig: 936, 726
+  offset: 158, 188
+  index: -1
+shadow
+  rotate: false
+  xy: 10, 240
+  size: 361, 726
+  orig: 936, 726
+  offset: 287, 0
+  index: -1
+white flash
+  rotate: true
+  xy: 862, 489
+  size: 477, 389
+  orig: 936, 726
+  offset: 236, 217
+  index: -1
+блики плртал
+  rotate: true
+  xy: 904, 1260
+  size: 40, 26
+  orig: 936, 726
+  offset: 521, 470
+  index: -1

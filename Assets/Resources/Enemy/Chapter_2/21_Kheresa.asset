@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf5bf3eebcbffc48b5f1c04d7c42e88, type: 3}
+  m_Name: 21_Kheresa
+  m_EditorClassIdentifier: 
+  _enemy: {fileID: 4195524906837937420, guid: 297600771a648934597b8762e37838c3, type: 3}
+  _name: Kheresa
+  _description: Metalor
+  _strenght: 75
+  _spread: 15
+  _health: 1200
+  _speed: 4
+  _exp: 28
+  _reward:
+  - type: 0
+    spread: {x: 12, y: 20}
+    chance: 50
+  - type: 17
+    spread: {x: 5, y: 7}
+    chance: 15
+  - type: 20
+    spread: {x: 5, y: 7}
+    chance: 15

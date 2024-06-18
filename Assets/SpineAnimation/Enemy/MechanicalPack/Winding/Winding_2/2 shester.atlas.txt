@@ -1,0 +1,370 @@
+
+2 shester.png
+size: 423,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 6, 85
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: false
+  xy: 66, 85
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+Body 1
+  rotate: true
+  xy: 6, 6
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+Body back
+  rotate: false
+  xy: 6, 303
+  size: 119, 114
+  orig: 137, 114
+  offset: 0, 0
+  index: -1
+Body back 2
+  rotate: true
+  xy: 382, 119
+  size: 121, 32
+  orig: 121, 32
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 310, 14
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: false
+  xy: 314, 189
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: false
+  xy: 314, 109
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: true
+  xy: 193, 279
+  size: 49, 54
+  orig: 51, 57
+  offset: 1, 2
+  index: -1
+Hip L
+  rotate: false
+  xy: 244, 64
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: true
+  xy: 65, 174
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+Knee L
+  rotate: false
+  xy: 226, 110
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+Knee R
+  rotate: true
+  xy: 131, 279
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: true
+  xy: 60, 65
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Sfera L
+  rotate: false
+  xy: 6, 203
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Sfera R
+  rotate: false
+  xy: 150, 185
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 273, 172
+  size: 245, 35
+  orig: 245, 35
+  offset: 0, 0
+  index: -1
+Wire 1L
+  rotate: false
+  xy: 284, 105
+  size: 20, 61
+  orig: 20, 61
+  offset: 0, 0
+  index: -1
+Wire L
+  rotate: true
+  xy: 104, 10
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+Wire R
+  rotate: true
+  xy: 194, 10
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+Wire1R
+  rotate: false
+  xy: 284, 38
+  size: 20, 61
+  orig: 20, 61
+  offset: 0, 0
+  index: -1
+breast
+  rotate: false
+  xy: 131, 334
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+det L
+  rotate: false
+  xy: 366, 11
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+det R
+  rotate: false
+  xy: 62, 212
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+finger  baack 1L
+  rotate: false
+  xy: 391, 246
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+finger  baack 1R
+  rotate: true
+  xy: 6, 172
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+finger  baack 2L
+  rotate: true
+  xy: 168, 251
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+finger  baack 2R
+  rotate: true
+  xy: 219, 251
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+finger 1 L
+  rotate: false
+  xy: 391, 364
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+finger 1 L det 2
+  rotate: false
+  xy: 79, 68
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+finger 2 L det 2
+  rotate: false
+  xy: 79, 68
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+finger 1 R
+  rotate: false
+  xy: 391, 305
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+finger 1 R det 1
+  rotate: false
+  xy: 6, 62
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+finger 2R det 1
+  rotate: false
+  xy: 6, 62
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+finger 1 R det 2
+  rotate: false
+  xy: 96, 68
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+finger 2 R det 2
+  rotate: false
+  xy: 96, 68
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+finger 1L det 1
+  rotate: true
+  xy: 284, 6
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+finger 2L det 1
+  rotate: true
+  xy: 284, 6
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+finger 2 L
+  rotate: false
+  xy: 194, 201
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+finger 2 R
+  rotate: true
+  xy: 194, 173
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+gear wheel L
+  rotate: false
+  xy: 111, 173
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+gear wheel R
+  rotate: false
+  xy: 119, 229
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+gear wheel big
+  rotate: false
+  xy: 6, 247
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+taz
+  rotate: false
+  xy: 188, 62
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+vint
+  rotate: true
+  xy: 62, 258
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+yea
+  rotate: true
+  xy: 38, 62
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+Сannon arm L
+  rotate: false
+  xy: 314, 346
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Сannon arm L det 1
+  rotate: true
+  xy: 126, 99
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+Сannon arm L det 2
+  rotate: false
+  xy: 382, 58
+  size: 35, 55
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+Сannon arm R
+  rotate: false
+  xy: 314, 269
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+Сannon arm R det 1
+  rotate: true
+  xy: 176, 99
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+Сannon arm R det 2
+  rotate: true
+  xy: 126, 59
+  size: 34, 56
+  orig: 45, 57
+  offset: 11, 0
+  index: -1

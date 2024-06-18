@@ -1,0 +1,83 @@
+
+elem4.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 329, 203
+  size: 99, 155
+  orig: 544, 544
+  offset: 215, 74
+  index: -1
+FLOWER
+  rotate: false
+  xy: 392, 65
+  size: 114, 136
+  orig: 544, 544
+  offset: 300, 376
+  index: -1
+body bot
+  rotate: true
+  xy: 257, 258
+  size: 66, 70
+  orig: 544, 544
+  offset: 216, 38
+  index: -1
+gr
+  rotate: false
+  xy: 330, 304
+  size: 175, 202
+  orig: 544, 544
+  offset: 224, 290
+  index: -1
+gr1
+  rotate: true
+  xy: 257, 205
+  size: 51, 65
+  orig: 544, 544
+  offset: 336, 141
+  index: -1
+gr4
+  rotate: false
+  xy: 311, 116
+  size: 79, 85
+  orig: 544, 544
+  offset: 243, 144
+  index: -1
+gr6
+  rotate: true
+  xy: 257, 24
+  size: 90, 130
+  orig: 544, 544
+  offset: 172, 283
+  index: -1
+hand l
+  rotate: true
+  xy: 389, 14
+  size: 49, 81
+  orig: 544, 544
+  offset: 163, 128
+  index: -1
+hand r
+  rotate: false
+  xy: 257, 116
+  size: 52, 87
+  orig: 544, 544
+  offset: 338, 116
+  index: -1
+head
+  rotate: true
+  xy: 2, 31
+  size: 271, 253
+  orig: 544, 544
+  offset: 138, 250
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 326
+  size: 326, 180
+  orig: 544, 544
+  offset: 100, 10
+  index: -1

@@ -1,0 +1,216 @@
+
+2_cat.png
+size: 2417,2417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 2, 1934
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: false
+  xy: 2, 1451
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 388, 1934
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Det belt 3
+  rotate: false
+  xy: 774, 1934
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Det belt1
+  rotate: false
+  xy: 2, 968
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Det belt2
+  rotate: false
+  xy: 388, 1451
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Ear L
+  rotate: false
+  xy: 2, 485
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Ear R
+  rotate: false
+  xy: 388, 968
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Elbow L
+  rotate: false
+  xy: 774, 1451
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: false
+  xy: 1160, 1934
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Eya close
+  rotate: false
+  xy: 2, 2
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger 1 L
+  rotate: false
+  xy: 388, 485
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger 1 R
+  rotate: false
+  xy: 774, 968
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger 2 L
+  rotate: false
+  xy: 1160, 1451
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger 2 R
+  rotate: false
+  xy: 1546, 1934
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger 3 L
+  rotate: false
+  xy: 388, 2
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger 3R
+  rotate: false
+  xy: 774, 485
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger4 L
+  rotate: false
+  xy: 1160, 968
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Finger4 R
+  rotate: false
+  xy: 1546, 1451
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 1932, 1934
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 774, 2
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1160, 485
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Legs L
+  rotate: false
+  xy: 1546, 968
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Legs R
+  rotate: false
+  xy: 1932, 1451
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Mantle
+  rotate: false
+  xy: 1160, 2
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1546, 485
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Pants
+  rotate: false
+  xy: 1932, 968
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+SHadow
+  rotate: false
+  xy: 1546, 2
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Sfera
+  rotate: false
+  xy: 1932, 485
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1
+Tall
+  rotate: false
+  xy: 1932, 2
+  size: 384, 481
+  orig: 384, 481
+  offset: 0, 0
+  index: -1

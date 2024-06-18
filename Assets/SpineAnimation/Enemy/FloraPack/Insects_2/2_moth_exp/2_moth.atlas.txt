@@ -1,0 +1,279 @@
+
+2_moth.png
+size: 517,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Collar
+  rotate: false
+  xy: 241, 374
+  size: 129, 137
+  orig: 304, 432
+  offset: 76, 192
+  index: -1
+Flay L
+  rotate: false
+  xy: 120, 245
+  size: 115, 266
+  orig: 304, 432
+  offset: 40, 68
+  index: -1
+Flay R
+  rotate: false
+  xy: 6, 212
+  size: 108, 299
+  orig: 304, 432
+  offset: 144, 33
+  index: -1
+Flay det 1 L
+  rotate: false
+  xy: 376, 395
+  size: 89, 116
+  orig: 304, 432
+  offset: 57, 231
+  index: -1
+Flay det 1 R
+  rotate: false
+  xy: 241, 248
+  size: 87, 120
+  orig: 304, 432
+  offset: 144, 227
+  index: -1
+Hand L
+  rotate: false
+  xy: 341, 30
+  size: 36, 47
+  orig: 304, 432
+  offset: 4, 249
+  index: -1
+Hand R
+  rotate: true
+  xy: 415, 81
+  size: 36, 46
+  orig: 304, 432
+  offset: 245, 245
+  index: -1
+Layer 1Sfera R
+  rotate: false
+  xy: 417, 152
+  size: 50, 48
+  orig: 304, 432
+  offset: 225, 260
+  index: -1
+Sfera L
+  rotate: false
+  xy: 277, 193
+  size: 51, 49
+  orig: 304, 432
+  offset: 12, 260
+  index: -1
+Shadow
+  rotate: true
+  xy: 6, 6
+  size: 200, 30
+  orig: 304, 432
+  offset: 51, 2
+  index: -1
+Shin L
+  rotate: false
+  xy: 321, 129
+  size: 42, 57
+  orig: 304, 432
+  offset: 105, 98
+  index: -1
+Shin R
+  rotate: false
+  xy: 369, 129
+  size: 42, 57
+  orig: 304, 432
+  offset: 146, 97
+  index: -1
+Sholders arm L
+  rotate: false
+  xy: 471, 412
+  size: 40, 99
+  orig: 304, 432
+  offset: 68, 186
+  index: -1
+Sholders armR
+  rotate: true
+  xy: 120, 198
+  size: 41, 103
+  orig: 304, 432
+  offset: 177, 178
+  index: -1
+arm Det 1
+  rotate: true
+  xy: 483, 96
+  size: 23, 28
+  orig: 304, 432
+  offset: 71, 183
+  index: -1
+arm Det 1R
+  rotate: true
+  xy: 483, 125
+  size: 25, 28
+  orig: 304, 432
+  offset: 189, 182
+  index: -1
+body
+  rotate: false
+  xy: 411, 274
+  size: 89, 115
+  orig: 304, 432
+  offset: 102, 166
+  index: -1
+bust
+  rotate: true
+  xy: 334, 245
+  size: 123, 71
+  orig: 304, 432
+  offset: 81, 219
+  index: -1
+elbow L
+  rotate: false
+  xy: 118, 6
+  size: 64, 79
+  orig: 304, 432
+  offset: 21, 178
+  index: -1
+elbow R
+  rotate: true
+  xy: 411, 206
+  size: 62, 76
+  orig: 304, 432
+  offset: 203, 180
+  index: -1
+foot L
+  rotate: true
+  xy: 417, 123
+  size: 23, 60
+  orig: 304, 432
+  offset: 126, 89
+  index: -1
+foot R
+  rotate: true
+  xy: 212, 95
+  size: 22, 62
+  orig: 304, 432
+  offset: 145, 88
+  index: -1
+haer L
+  rotate: false
+  xy: 42, 25
+  size: 31, 181
+  orig: 304, 432
+  offset: 80, 113
+  index: -1
+haer R
+  rotate: false
+  xy: 79, 28
+  size: 33, 178
+  orig: 304, 432
+  offset: 173, 110
+  index: -1
+hand
+  rotate: true
+  xy: 268, 123
+  size: 64, 47
+  orig: 304, 432
+  offset: 112, 271
+  index: -1
+hip L
+  rotate: false
+  xy: 118, 91
+  size: 43, 101
+  orig: 304, 432
+  offset: 102, 98
+  index: -1
+hip R
+  rotate: false
+  xy: 167, 95
+  size: 39, 97
+  orig: 304, 432
+  offset: 152, 97
+  index: -1
+knee L
+  rotate: true
+  xy: 229, 198
+  size: 41, 42
+  orig: 304, 432
+  offset: 95, 95
+  index: -1
+knee R
+  rotate: false
+  xy: 473, 156
+  size: 38, 44
+  orig: 304, 432
+  offset: 155, 92
+  index: -1
+mustache L
+  rotate: true
+  xy: 321, 83
+  size: 40, 55
+  orig: 304, 432
+  offset: 100, 306
+  index: -1
+mustache R
+  rotate: false
+  xy: 295, 23
+  size: 40, 54
+  orig: 304, 432
+  offset: 148, 306
+  index: -1
+shoulder  Rdet 1
+  rotate: true
+  xy: 334, 192
+  size: 47, 67
+  orig: 304, 432
+  offset: 174, 234
+  index: -1
+shoulder L
+  rotate: false
+  xy: 188, 20
+  size: 47, 69
+  orig: 304, 432
+  offset: 60, 215
+  index: -1
+shoulder L det 1
+  rotate: false
+  xy: 241, 21
+  size: 48, 68
+  orig: 304, 432
+  offset: 67, 234
+  index: -1
+shoulder R
+  rotate: false
+  xy: 212, 123
+  size: 50, 69
+  orig: 304, 432
+  offset: 181, 216
+  index: -1
+veko 1
+  rotate: false
+  xy: 382, 99
+  size: 27, 24
+  orig: 304, 432
+  offset: 111, 286
+  index: -1
+veko 2
+  rotate: false
+  xy: 280, 96
+  size: 25, 21
+  orig: 304, 432
+  offset: 151, 288
+  index: -1
+yea L
+  rotate: false
+  xy: 383, 69
+  size: 24, 24
+  orig: 304, 432
+  offset: 114, 285
+  index: -1
+yea R
+  rotate: false
+  xy: 383, 40
+  size: 24, 23
+  orig: 304, 432
+  offset: 153, 285
+  index: -1

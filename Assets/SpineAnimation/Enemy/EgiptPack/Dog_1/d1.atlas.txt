@@ -1,0 +1,153 @@
+
+d1.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BINT L
+  rotate: false
+  xy: 138, 94
+  size: 51, 201
+  orig: 51, 201
+  offset: 0, 0
+  index: -1
+BINT R
+  rotate: false
+  xy: 191, 97
+  size: 50, 198
+  orig: 50, 198
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 347, 324
+  size: 146, 100
+  orig: 146, 100
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 2, 297
+  size: 226, 173
+  orig: 226, 173
+  offset: 0, 0
+  index: -1
+EYE L
+  rotate: false
+  xy: 230, 307
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+EYE R
+  rotate: false
+  xy: 449, 460
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+HAND R
+  rotate: false
+  xy: 138, 46
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: true
+  xy: 387, 105
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 333, 87
+  size: 52, 90
+  orig: 52, 90
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 389, 187
+  size: 65, 135
+  orig: 65, 135
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 243, 37
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+Knee R
+  rotate: false
+  xy: 416, 50
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 333, 19
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+Press
+  rotate: false
+  xy: 2, 35
+  size: 86, 260
+  orig: 86, 260
+  offset: 0, 0
+  index: -1
+SHin L
+  rotate: false
+  xy: 230, 319
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+Sfera R
+  rotate: false
+  xy: 416, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Sfera R copy
+  rotate: false
+  xy: 416, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 90, 46
+  size: 249, 46
+  orig: 249, 46
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: false
+  xy: 243, 166
+  size: 77, 151
+  orig: 77, 151
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 322, 179
+  size: 65, 138
+  orig: 65, 138
+  offset: 0, 0
+  index: -1
+shoulder R
+  rotate: true
+  xy: 90, 6
+  size: 38, 96
+  orig: 38, 96
+  offset: 0, 0
+  index: -1

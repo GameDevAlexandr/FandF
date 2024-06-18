@@ -1,0 +1,188 @@
+
+2_samurai.png
+size: 1046,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 914, 603
+  size: 110, 122
+  orig: 800, 1036
+  offset: 199, 484
+  index: -1
+Arm R
+  rotate: true
+  xy: 914, 492
+  size: 109, 123
+  orig: 800, 1036
+  offset: 600, 490
+  index: -1
+Back
+  rotate: true
+  xy: 667, 211
+  size: 179, 163
+  orig: 800, 1036
+  offset: 359, 663
+  index: -1
+Det body1
+  rotate: true
+  xy: 907, 727
+  size: 186, 137
+  orig: 186, 137
+  offset: 0, 0
+  index: -1
+Det body2
+  rotate: true
+  xy: 416, 160
+  size: 230, 249
+  orig: 800, 1036
+  offset: 332, 439
+  index: -1
+Elbow L
+  rotate: true
+  xy: 910, 387
+  size: 103, 110
+  orig: 800, 1036
+  offset: 108, 477
+  index: -1
+Glow 2
+  rotate: false
+  xy: 436, 915
+  size: 599, 129
+  orig: 800, 1036
+  offset: 168, 484
+  index: -1
+Layer 737
+  rotate: false
+  xy: 833, 461
+  size: 75, 84
+  orig: 800, 1036
+  offset: 65, 519
+  index: -1
+Sfera
+  rotate: false
+  xy: 944, 282
+  size: 100, 103
+  orig: 800, 1036
+  offset: 398, 702
+  index: -1
+Sharnir 2 L
+  rotate: true
+  xy: 833, 675
+  size: 69, 72
+  orig: 800, 1036
+  offset: 171, 457
+  index: -1
+Sharnir 2 R
+  rotate: false
+  xy: 817, 397
+  size: 61, 62
+  orig: 800, 1036
+  offset: 672, 458
+  index: -1
+Sharnir 3L
+  rotate: false
+  xy: 881, 134
+  size: 69, 71
+  orig: 800, 1036
+  offset: 257, 559
+  index: -1
+Sharnir 3R
+  rotate: false
+  xy: 881, 64
+  size: 69, 68
+  orig: 800, 1036
+  offset: 582, 560
+  index: -1
+body
+  rotate: false
+  xy: 436, 511
+  size: 395, 233
+  orig: 800, 1036
+  offset: 252, 466
+  index: -1
+buttons
+  rotate: false
+  xy: 952, 141
+  size: 57, 64
+  orig: 800, 1036
+  offset: 445, 521
+  index: -1
+cap
+  rotate: false
+  xy: 436, 746
+  size: 469, 167
+  orig: 800, 1036
+  offset: 214, 762
+  index: -1
+det cap
+  rotate: true
+  xy: 152, 186
+  size: 373, 262
+  orig: 800, 1036
+  offset: 263, 746
+  index: -1
+elbow R
+  rotate: true
+  xy: 833, 547
+  size: 126, 79
+  orig: 800, 1036
+  offset: 595, 447
+  index: -1
+glow
+  rotate: true
+  xy: 2, 17
+  size: 542, 148
+  orig: 800, 1036
+  offset: 233, 480
+  index: -1
+hand R
+  rotate: false
+  xy: 832, 285
+  size: 110, 100
+  orig: 800, 1036
+  offset: 512, 500
+  index: -1
+horn L
+  rotate: true
+  xy: 832, 209
+  size: 74, 92
+  orig: 800, 1036
+  offset: 265, 635
+  index: -1
+horn R
+  rotate: true
+  xy: 926, 207
+  size: 73, 92
+  orig: 800, 1036
+  offset: 566, 635
+  index: -1
+mantle
+  rotate: false
+  xy: 2, 561
+  size: 432, 483
+  orig: 800, 1036
+  offset: 230, 340
+  index: -1
+shadow
+  rotate: false
+  xy: 416, 392
+  size: 399, 117
+  orig: 800, 1036
+  offset: 255, 17
+  index: -1
+sharnir 1 R
+  rotate: false
+  xy: 667, 163
+  size: 47, 46
+  orig: 800, 1036
+  offset: 565, 494
+  index: -1
+sword
+  rotate: false
+  xy: 152, 40
+  size: 727, 118
+  orig: 800, 1036
+  offset: 23, 500
+  index: -1

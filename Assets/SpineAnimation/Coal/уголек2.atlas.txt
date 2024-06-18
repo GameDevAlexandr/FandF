@@ -1,0 +1,48 @@
+
+уголек2.png
+size: 1424,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 3 copy
+  rotate: true
+  xy: 711, 44
+  size: 303, 595
+  orig: 303, 595
+  offset: 0, 0
+  index: -1
+Layer 18 copy
+  rotate: false
+  xy: 1308, 2
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1308, 70
+  size: 149, 57
+  orig: 149, 57
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 1367, 132
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 1308, 221
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+shine0
+  rotate: true
+  xy: 2, 4
+  size: 343, 707
+  orig: 343, 707
+  offset: 0, 0
+  index: -1

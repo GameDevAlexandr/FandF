@@ -1,0 +1,69 @@
+
+chest bundle.png
+size: 2023,1346
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHEST BODY6
+  rotate: true
+  xy: 1787, 471
+  size: 340, 190
+  orig: 340, 190
+  offset: 0, 0
+  index: -1
+CHEST CLOSE6
+  rotate: true
+  xy: 1857, 103
+  size: 309, 164
+  orig: 309, 164
+  offset: 0, 0
+  index: -1
+Image_Effect_Grow_White
+  rotate: false
+  xy: 1346, 372
+  size: 439, 439
+  orig: 439, 439
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_03
+  rotate: false
+  xy: 1787, 411
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_04
+  rotate: false
+  xy: 1904, 420
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_05
+  rotate: false
+  xy: 1847, 414
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1346, 813
+  size: 531, 663
+  orig: 531, 663
+  offset: 0, 0
+  index: -1
+rays
+  rotate: true
+  xy: 1346, 52
+  size: 318, 509
+  orig: 318, 509
+  offset: 0, 0
+  index: -1
+rayss_1
+  rotate: false
+  xy: 2, 2
+  size: 1342, 1342
+  orig: 1342, 1342
+  offset: 0, 0
+  index: -1

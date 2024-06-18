@@ -1,0 +1,97 @@
+
+lightning blue.png
+size: 3642,3642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 10
+  rotate: false
+  xy: 2172, 2185
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 11
+  rotate: false
+  xy: 2172, 728
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 12
+  rotate: false
+  xy: 2894, 2185
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 13
+  rotate: false
+  xy: 2894, 728
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 14
+  rotate: true
+  xy: 1463, 6
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 3
+  rotate: false
+  xy: 6, 2185
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 4
+  rotate: false
+  xy: 6, 728
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 5
+  rotate: false
+  xy: 728, 2185
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 6
+  rotate: false
+  xy: 728, 728
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 7
+  rotate: false
+  xy: 1450, 2185
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 8
+  rotate: false
+  xy: 1450, 728
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+Frame 9
+  rotate: true
+  xy: 6, 6
+  size: 716, 1451
+  orig: 716, 1451
+  offset: 0, 0
+  index: -1
+shake
+  rotate: false
+  xy: 2920, 692
+  size: 131, 30
+  orig: 131, 30
+  offset: 0, 0
+  index: -1

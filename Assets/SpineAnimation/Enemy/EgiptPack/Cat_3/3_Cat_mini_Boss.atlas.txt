@@ -1,0 +1,209 @@
+
+3_Cat_mini_Boss.png
+size: 3927,3927
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 2, 3321
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 2715
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 787, 3321
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Det
+  rotate: false
+  xy: 2, 2109
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Elbow L
+  rotate: false
+  xy: 787, 2715
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: false
+  xy: 1572, 3321
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: false
+  xy: 2, 1503
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: false
+  xy: 787, 2109
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 1572, 2715
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Hand L Back
+  rotate: false
+  xy: 2357, 3321
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 2, 897
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Hand R Back
+  rotate: false
+  xy: 787, 1503
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Head Lik
+  rotate: false
+  xy: 1572, 2109
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Head back
+  rotate: false
+  xy: 2357, 2715
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Head copy
+  rotate: false
+  xy: 3142, 3321
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 2, 291
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 787, 897
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 1572, 1503
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Sfera 2
+  rotate: false
+  xy: 2357, 2109
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 3142, 2715
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Shin L
+  rotate: false
+  xy: 787, 291
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: false
+  xy: 1572, 897
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+SholSholder pad L
+  rotate: false
+  xy: 2357, 1503
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+SholSholder pad R
+  rotate: false
+  xy: 3142, 2109
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 1572, 291
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 2357, 897
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+Tall
+  rotate: false
+  xy: 3142, 1503
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+eye L close
+  rotate: false
+  xy: 2357, 291
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1
+eye R close copy
+  rotate: false
+  xy: 3142, 897
+  size: 783, 604
+  orig: 783, 604
+  offset: 0, 0
+  index: -1

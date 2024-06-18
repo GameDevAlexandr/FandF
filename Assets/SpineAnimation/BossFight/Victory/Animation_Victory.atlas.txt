@@ -1,0 +1,55 @@
+
+Animation_Victory.png
+size: 1060,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COMPLITED 1
+  rotate: true
+  xy: 982, 674
+  size: 376, 68
+  orig: 576, 1280
+  offset: 145, 625
+  index: -1
+COMPLITED 1 bw
+  rotate: true
+  xy: 982, 295
+  size: 369, 68
+  orig: 576, 1280
+  offset: 149, 625
+  index: -1
+COMPLITED 2
+  rotate: false
+  xy: 399, 203
+  size: 373, 75
+  orig: 576, 1280
+  offset: 140, 585
+  index: -1
+COMPLITED 2 bw
+  rotate: false
+  xy: 10, 38
+  size: 382, 74
+  orig: 576, 1280
+  offset: 142, 585
+  index: -1
+THE BOSS
+  rotate: false
+  xy: 402, 110
+  size: 340, 83
+  orig: 340, 83
+  offset: 0, 0
+  index: -1
+slash
+  rotate: false
+  xy: 10, 122
+  size: 379, 156
+  orig: 382, 159
+  offset: 2, 1
+  index: -1
+white flash
+  rotate: false
+  xy: 10, 288
+  size: 962, 762
+  orig: 1872, 1451
+  offset: 464, 442
+  index: -1

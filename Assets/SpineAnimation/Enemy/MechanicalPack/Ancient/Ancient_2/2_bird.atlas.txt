@@ -1,0 +1,293 @@
+
+2_bird.png
+size: 618,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back det 3 L
+  rotate: true
+  xy: 450, 221
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Back det 3 R
+  rotate: true
+  xy: 573, 88
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+Back det 4 L
+  rotate: false
+  xy: 136, 129
+  size: 101, 161
+  orig: 101, 161
+  offset: 0, 0
+  index: -1
+Back det 4 R
+  rotate: false
+  xy: 243, 131
+  size: 101, 161
+  orig: 101, 161
+  offset: 0, 0
+  index: -1
+Belt
+  rotate: true
+  xy: 584, 230
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 270, 27
+  size: 98, 152
+  orig: 98, 152
+  offset: 0, 0
+  index: -1
+Body  Liff
+  rotate: false
+  xy: 495, 253
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+Body 1 L
+  rotate: true
+  xy: 307, 299
+  size: 32, 74
+  orig: 37, 74
+  offset: 5, 0
+  index: -1
+Body 1 R
+  rotate: true
+  xy: 416, 135
+  size: 30, 73
+  orig: 30, 73
+  offset: 0, 0
+  index: -1
+Det 2 L
+  rotate: true
+  xy: 579, 166
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+Det 2 R
+  rotate: false
+  xy: 428, 109
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+Det 3 L
+  rotate: true
+  xy: 235, 298
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+Det 3 R
+  rotate: true
+  xy: 492, 76
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+Det1 L
+  rotate: false
+  xy: 521, 222
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+Det1R
+  rotate: true
+  xy: 584, 281
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 235, 346
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 6, 561
+  size: 334, 51
+  orig: 334, 51
+  offset: 0, 0
+  index: -1
+Tail back
+  rotate: false
+  xy: 6, 8
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+Wings  back L
+  rotate: true
+  xy: 346, 504
+  size: 108, 223
+  orig: 108, 223
+  offset: 0, 0
+  index: -1
+Wings  back R
+  rotate: true
+  xy: 6, 296
+  size: 108, 223
+  orig: 108, 223
+  offset: 0, 0
+  index: -1
+Wings L
+  rotate: true
+  xy: 6, 410
+  size: 145, 299
+  orig: 145, 299
+  offset: 0, 0
+  index: -1
+Wings R
+  rotate: true
+  xy: 311, 337
+  size: 145, 299
+  orig: 145, 299
+  offset: 0, 0
+  index: -1
+back det   1 L
+  rotate: true
+  xy: 110, 10
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+back det   1 R
+  rotate: true
+  xy: 190, 18
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+back det 2 L
+  rotate: false
+  xy: 6, 121
+  size: 59, 169
+  orig: 59, 169
+  offset: 0, 0
+  index: -1
+back det 2 R
+  rotate: false
+  xy: 71, 121
+  size: 59, 169
+  orig: 59, 169
+  offset: 0, 0
+  index: -1
+beak 1
+  rotate: false
+  xy: 311, 519
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+beak2
+  rotate: true
+  xy: 492, 221
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+ear L
+  rotate: false
+  xy: 387, 299
+  size: 61, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+earR
+  rotate: false
+  xy: 350, 133
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+pl 1
+  rotate: false
+  xy: 350, 171
+  size: 46, 122
+  orig: 46, 122
+  offset: 0, 0
+  index: -1
+pl 3
+  rotate: false
+  xy: 575, 488
+  size: 37, 124
+  orig: 37, 124
+  offset: 0, 0
+  index: -1
+pl2
+  rotate: false
+  xy: 402, 171
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+pl4
+  rotate: true
+  xy: 450, 171
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+pl5
+  rotate: true
+  xy: 495, 124
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+sfera 1
+  rotate: false
+  xy: 527, 171
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+sfera L
+  rotate: false
+  xy: 564, 37
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+sfera R
+  rotate: false
+  xy: 428, 58
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+trubka
+  rotate: true
+  xy: 428, 11
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+yea L
+  rotate: false
+  xy: 270, 8
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+yea R
+  rotate: true
+  xy: 311, 488
+  size: 10, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1

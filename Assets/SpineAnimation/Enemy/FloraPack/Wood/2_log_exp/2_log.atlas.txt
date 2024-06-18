@@ -1,0 +1,125 @@
+
+2_log.png
+size: 477,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm  L
+  rotate: false
+  xy: 203, 20
+  size: 76, 164
+  orig: 325, 577
+  offset: 19, 116
+  index: -1
+Arm  R
+  rotate: false
+  xy: 383, 99
+  size: 76, 165
+  orig: 325, 577
+  offset: 230, 116
+  index: -1
+Legs L
+  rotate: true
+  xy: 285, 20
+  size: 73, 169
+  orig: 325, 577
+  offset: 90, 114
+  index: -1
+Legs R
+  rotate: false
+  xy: 110, 7
+  size: 73, 167
+  orig: 325, 577
+  offset: 162, 115
+  index: -1
+Liana  legs 1
+  rotate: true
+  xy: 110, 180
+  size: 109, 87
+  orig: 325, 577
+  offset: 127, 141
+  index: -1
+Sfera  L
+  rotate: true
+  xy: 217, 393
+  size: 41, 38
+  orig: 325, 577
+  offset: 31, 195
+  index: -1
+Sfera R
+  rotate: true
+  xy: 217, 345
+  size: 42, 36
+  orig: 325, 577
+  offset: 252, 196
+  index: -1
+Shoulder
+  rotate: false
+  xy: 6, 440
+  size: 250, 31
+  orig: 325, 577
+  offset: 37, 110
+  index: -1
+Shoulder  det
+  rotate: false
+  xy: 407, 320
+  size: 64, 151
+  orig: 325, 577
+  offset: 199, 230
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 6, 98
+  size: 98, 191
+  orig: 325, 577
+  offset: 39, 200
+  index: -1
+Shoulder R
+  rotate: true
+  xy: 203, 190
+  size: 74, 174
+  orig: 325, 577
+  offset: 211, 201
+  index: -1
+back det
+  rotate: false
+  xy: 132, 307
+  size: 79, 127
+  orig: 325, 577
+  offset: 60, 302
+  index: -1
+body
+  rotate: false
+  xy: 262, 270
+  size: 139, 201
+  orig: 325, 577
+  offset: 89, 195
+  index: -1
+det body
+  rotate: false
+  xy: 6, 295
+  size: 120, 139
+  orig: 325, 577
+  offset: 99, 194
+  index: -1
+head
+  rotate: true
+  xy: 285, 123
+  size: 61, 84
+  orig: 325, 577
+  offset: 138, 343
+  index: -1
+yea
+  rotate: false
+  xy: 217, 318
+  size: 21, 21
+  orig: 325, 577
+  offset: 166, 378
+  index: -1
+zaplatka 1
+  rotate: true
+  xy: 203, 279
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1

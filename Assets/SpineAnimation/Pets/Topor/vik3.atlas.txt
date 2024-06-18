@@ -1,0 +1,139 @@
+
+vik3.png
+size: 664,664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 376
+  size: 307, 149
+  orig: 543, 543
+  offset: 46, 181
+  index: -1
+ARM 1 L
+  rotate: true
+  xy: 460, 78
+  size: 101, 68
+  orig: 543, 543
+  offset: 20, 241
+  index: -1
+ARM 1 R
+  rotate: false
+  xy: 548, 10
+  size: 78, 86
+  orig: 543, 543
+  offset: 310, 207
+  index: -1
+ARM 2 L
+  rotate: false
+  xy: 555, 284
+  size: 107, 77
+  orig: 543, 543
+  offset: 16, 190
+  index: -1
+ARM 2 R
+  rotate: false
+  xy: 341, 68
+  size: 117, 111
+  orig: 543, 543
+  offset: 326, 160
+  index: -1
+Belt
+  rotate: false
+  xy: 329, 463
+  size: 310, 68
+  orig: 543, 543
+  offset: 46, 143
+  index: -1
+HEAD
+  rotate: false
+  xy: 2, 232
+  size: 273, 142
+  orig: 543, 543
+  offset: 79, 306
+  index: -1
+LEFT BOOTS
+  rotate: false
+  xy: 497, 190
+  size: 129, 92
+  orig: 543, 543
+  offset: 72, 60
+  index: -1
+LEGS
+  rotate: false
+  xy: 311, 363
+  size: 282, 98
+  orig: 543, 543
+  offset: 70, 88
+  index: -1
+Layer 342
+  rotate: true
+  xy: 201, 28
+  size: 202, 138
+  orig: 543, 543
+  offset: 125, 166
+  index: -1
+Layer 397
+  rotate: false
+  xy: 277, 292
+  size: 276, 69
+  orig: 543, 543
+  offset: 64, 240
+  index: -1
+Layer 398
+  rotate: false
+  xy: 329, 533
+  size: 297, 129
+  orig: 543, 543
+  offset: 62, 161
+  index: -1
+Layer 419
+  rotate: false
+  xy: 2, 18
+  size: 197, 212
+  orig: 543, 543
+  offset: 335, 137
+  index: -1
+RIGHT BOOTS
+  rotate: false
+  xy: 341, 181
+  size: 154, 109
+  orig: 543, 543
+  offset: 190, 42
+  index: -1
+ROG 1 R
+  rotate: true
+  xy: 341, 2
+  size: 64, 82
+  orig: 543, 543
+  offset: 252, 386
+  index: -1
+ROG 2 R
+  rotate: true
+  xy: 595, 385
+  size: 76, 55
+  orig: 543, 543
+  offset: 244, 380
+  index: -1
+rog L 1
+  rotate: false
+  xy: 530, 98
+  size: 77, 90
+  orig: 543, 543
+  offset: 94, 382
+  index: -1
+rog L 2
+  rotate: false
+  xy: 460, 2
+  size: 86, 74
+  orig: 543, 543
+  offset: 95, 367
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 527
+  size: 325, 135
+  orig: 543, 543
+  offset: 46, 29
+  index: -1

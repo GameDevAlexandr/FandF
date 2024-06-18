@@ -1,0 +1,496 @@
+
+Kollos_Shark.png
+size: 1360,1360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 557, 67
+  size: 415, 469
+  orig: 549, 812
+  offset: 96, 201
+  index: -1
+Layer 189
+  rotate: false
+  xy: 6, 542
+  size: 550, 812
+  orig: 550, 812
+  offset: 0, 0
+  index: -1
+Layer 462
+  rotate: true
+  xy: 714, 18
+  size: 43, 37
+  orig: 550, 812
+  offset: 339, 560
+  index: -1
+Sfera
+  rotate: true
+  xy: 950, 31
+  size: 30, 26
+  orig: 550, 812
+  offset: 347, 568
+  index: -1
+Sluni
+  rotate: false
+  xy: 680, 16
+  size: 28, 45
+  orig: 550, 812
+  offset: 310, 509
+  index: -1
+Zfglatka oko
+  rotate: true
+  xy: 914, 29
+  size: 32, 30
+  orig: 550, 812
+  offset: 346, 565
+  index: -1
+bBotton 2
+  rotate: true
+  xy: 982, 189
+  size: 118, 74
+  orig: 550, 812
+  offset: 200, 345
+  index: -1
+body 1
+  rotate: false
+  xy: 995, 1117
+  size: 255, 237
+  orig: 550, 812
+  offset: 178, 409
+  index: -1
+body2
+  rotate: true
+  xy: 562, 809
+  size: 153, 139
+  orig: 550, 812
+  offset: 194, 343
+  index: -1
+botton 1
+  rotate: true
+  xy: 1254, 571
+  size: 144, 91
+  orig: 550, 812
+  offset: 202, 301
+  index: -1
+breast
+  rotate: true
+  xy: 824, 968
+  size: 151, 160
+  orig: 550, 812
+  offset: 210, 349
+  index: -1
+breast.
+  rotate: false
+  xy: 995, 919
+  size: 255, 192
+  orig: 550, 812
+  offset: 185, 442
+  index: -1
+buckle
+  rotate: false
+  xy: 557, 6
+  size: 48, 55
+  orig: 550, 812
+  offset: 187, 477
+  index: -1
+chain  22 L
+  rotate: false
+  xy: 707, 1120
+  size: 109, 234
+  orig: 549, 812
+  offset: 216, 270
+  index: -1
+chain  22 R
+  rotate: false
+  xy: 705, 558
+  size: 113, 236
+  orig: 549, 812
+  offset: 212, 268
+  index: -1
+chain  33 L
+  rotate: true
+  xy: 995, 814
+  size: 99, 253
+  orig: 549, 812
+  offset: 228, 252
+  index: -1
+chain  33R
+  rotate: false
+  xy: 1256, 1102
+  size: 98, 252
+  orig: 549, 812
+  offset: 227, 252
+  index: -1
+chain stomach L
+  rotate: true
+  xy: 1256, 1002
+  size: 94, 97
+  orig: 550, 812
+  offset: 198, 344
+  index: -1
+chain stomach R
+  rotate: false
+  xy: 982, 31
+  size: 73, 86
+  orig: 550, 812
+  offset: 284, 351
+  index: -1
+colllar
+  rotate: true
+  xy: 1064, 630
+  size: 178, 184
+  orig: 550, 812
+  offset: 228, 466
+  index: -1
+delta L
+  rotate: true
+  xy: 945, 567
+  size: 188, 113
+  orig: 550, 812
+  offset: 108, 498
+  index: -1
+delta R
+  rotate: true
+  xy: 824, 547
+  size: 169, 115
+  orig: 550, 812
+  offset: 335, 506
+  index: -1
+det buckle
+  rotate: false
+  xy: 966, 857
+  size: 23, 20
+  orig: 550, 812
+  offset: 191, 511
+  index: -1
+det gthtdyz
+  rotate: false
+  xy: 880, 28
+  size: 28, 33
+  orig: 550, 812
+  offset: 203, 478
+  index: -1
+det ship 1
+  rotate: true
+  xy: 931, 828
+  size: 21, 28
+  orig: 550, 812
+  offset: 136, 587
+  index: -1
+det ship 2
+  rotate: true
+  xy: 931, 855
+  size: 22, 29
+  orig: 550, 812
+  offset: 132, 542
+  index: -1
+elbow L
+  rotate: false
+  xy: 1250, 364
+  size: 87, 121
+  orig: 550, 812
+  offset: 98, 414
+  index: -1
+elbow R
+  rotate: false
+  xy: 1256, 891
+  size: 96, 105
+  orig: 550, 812
+  offset: 412, 444
+  index: -1
+eye L
+  rotate: true
+  xy: 19, 7
+  size: 12, 15
+  orig: 550, 812
+  offset: 320, 557
+  index: -1
+eye R
+  rotate: false
+  xy: 6, 6
+  size: 7, 13
+  orig: 550, 812
+  offset: 383, 555
+  index: -1
+gglou tatu delta R
+  rotate: false
+  xy: 1218, 249
+  size: 130, 109
+  orig: 550, 812
+  offset: 371, 510
+  index: -1
+glou  breast
+  rotate: true
+  xy: 562, 546
+  size: 248, 137
+  orig: 550, 812
+  offset: 190, 440
+  index: -1
+glou body 2
+  rotate: false
+  xy: 1210, 123
+  size: 137, 120
+  orig: 550, 812
+  offset: 208, 355
+  index: -1
+glou elbow L
+  rotate: true
+  xy: 824, 722
+  size: 83, 93
+  orig: 550, 812
+  offset: 100, 425
+  index: -1
+glou elbow R
+  rotate: true
+  xy: 1273, 52
+  size: 65, 69
+  orig: 550, 812
+  offset: 440, 478
+  index: -1
+glou head up
+  rotate: false
+  xy: 1061, 11
+  size: 128, 106
+  orig: 550, 812
+  offset: 259, 552
+  index: -1
+glou tatu delta L
+  rotate: false
+  xy: 562, 1121
+  size: 138, 94
+  orig: 550, 812
+  offset: 106, 487
+  index: -1
+handcuffs L
+  rotate: false
+  xy: 1250, 491
+  size: 90, 74
+  orig: 550, 812
+  offset: 86, 443
+  index: -1
+handcuffs L bot
+  rotate: true
+  xy: 982, 404
+  size: 89, 76
+  orig: 550, 812
+  offset: 87, 442
+  index: -1
+handcuffs R
+  rotate: false
+  xy: 1195, 36
+  size: 72, 81
+  orig: 550, 812
+  offset: 425, 505
+  index: -1
+handcuffs R bot
+  rotate: false
+  xy: 978, 313
+  size: 78, 85
+  orig: 550, 812
+  offset: 420, 503
+  index: -1
+head up
+  rotate: false
+  xy: 562, 968
+  size: 134, 146
+  orig: 550, 812
+  offset: 260, 524
+  index: -1
+jaw down
+  rotate: true
+  xy: 1254, 800
+  size: 85, 95
+  orig: 550, 812
+  offset: 283, 485
+  index: -1
+klepka
+  rotate: false
+  xy: 941, 6
+  size: 17, 17
+  orig: 550, 812
+  offset: 182, 549
+  index: -1
+mouth.
+  rotate: true
+  xy: 978, 499
+  size: 62, 80
+  orig: 550, 812
+  offset: 308, 494
+  index: -1
+neck
+  rotate: true
+  xy: 562, 1221
+  size: 133, 138
+  orig: 550, 812
+  offset: 259, 502
+  index: -1
+oko
+  rotate: true
+  xy: 914, 6
+  size: 17, 21
+  orig: 550, 812
+  offset: 354, 570
+  index: -1
+perevyz
+  rotate: false
+  xy: 1064, 349
+  size: 148, 127
+  orig: 550, 812
+  offset: 203, 384
+  index: -1
+petly L
+  rotate: true
+  xy: 757, 22
+  size: 39, 36
+  orig: 550, 812
+  offset: 94, 493
+  index: -1
+shadow ship 1 det
+  rotate: false
+  xy: 1069, 136
+  size: 70, 84
+  orig: 550, 812
+  offset: 129, 553
+  index: -1
+shadow ship 2 det
+  rotate: false
+  xy: 645, 16
+  size: 29, 45
+  orig: 550, 812
+  offset: 137, 542
+  index: -1
+sheath.
+  rotate: true
+  xy: 931, 883
+  size: 79, 58
+  orig: 550, 812
+  offset: 315, 324
+  index: -1
+sheath2
+  rotate: true
+  xy: 1064, 482
+  size: 142, 180
+  orig: 550, 812
+  offset: 251, 202
+  index: -1
+ship 1
+  rotate: false
+  xy: 964, 6
+  size: 25, 19
+  orig: 550, 812
+  offset: 126, 593
+  index: -1
+ship 2
+  rotate: true
+  xy: 966, 824
+  size: 27, 22
+  orig: 550, 812
+  offset: 121, 545
+  index: -1
+ship bot
+  rotate: true
+  xy: 963, 797
+  size: 21, 24
+  orig: 550, 812
+  offset: 159, 619
+  index: -1
+shoulder pad 1
+  rotate: true
+  xy: 1062, 226
+  size: 117, 142
+  orig: 550, 812
+  offset: 155, 504
+  index: -1
+shoulder pad 2
+  rotate: false
+  xy: 702, 968
+  size: 108, 146
+  orig: 550, 812
+  offset: 95, 495
+  index: -1
+smoke.
+  rotate: true
+  xy: 6, 25
+  size: 511, 545
+  orig: 550, 812
+  offset: 35, 21
+  index: -1
+sword.
+  rotate: false
+  xy: 824, 1125
+  size: 163, 229
+  orig: 550, 812
+  offset: 254, 204
+  index: -1
+trapeciy
+  rotate: false
+  xy: 707, 811
+  size: 218, 151
+  orig: 550, 812
+  offset: 165, 452
+  index: -1
+veko 1
+  rotate: true
+  xy: 78, 9
+  size: 10, 29
+  orig: 550, 812
+  offset: 354, 566
+  index: -1
+veko 2
+  rotate: true
+  xy: 113, 9
+  size: 10, 28
+  orig: 550, 812
+  offset: 361, 567
+  index: -1
+veko eye L
+  rotate: true
+  xy: 40, 8
+  size: 11, 18
+  orig: 550, 812
+  offset: 320, 555
+  index: -1
+veko eye R copy
+  rotate: false
+  xy: 64, 8
+  size: 8, 11
+  orig: 550, 812
+  offset: 382, 560
+  index: -1
+zaplatka  2 delta L
+  rotate: false
+  xy: 799, 23
+  size: 75, 38
+  orig: 550, 812
+  offset: 219, 502
+  index: -1
+zaplatka del,ta R
+  rotate: true
+  xy: 931, 761
+  size: 61, 26
+  orig: 550, 812
+  offset: 365, 506
+  index: -1
+zaplatka delta  L
+  rotate: true
+  xy: 1254, 721
+  size: 73, 93
+  orig: 550, 812
+  offset: 185, 542
+  index: -1
+десна верх
+  rotate: false
+  xy: 978, 124
+  size: 85, 59
+  orig: 550, 812
+  offset: 296, 519
+  index: -1
+зубы верх
+  rotate: true
+  xy: 611, 10
+  size: 51, 28
+  orig: 550, 812
+  offset: 328, 521
+  index: -1

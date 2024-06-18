@@ -1,0 +1,173 @@
+
+swordwoman.png
+size: 3086,3086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM 1 L
+  rotate: false
+  xy: 1764, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ARM 1 R
+  rotate: false
+  xy: 2, 1836
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ARM 2 L
+  rotate: false
+  xy: 1030, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ARM 2 R
+  rotate: false
+  xy: 2058, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+BELT
+  rotate: false
+  xy: 2, 808
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 2058, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 246, 2884
+  size: 228, 200
+  orig: 228, 200
+  offset: 0, 0
+  index: -1
+LEG L
+  rotate: false
+  xy: 1030, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ORB L
+  rotate: true
+  xy: 134, 3031
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+ORB R
+  rotate: true
+  xy: 190, 3031
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+SWROD L
+  rotate: true
+  xy: 1120, 2864
+  size: 220, 642
+  orig: 220, 642
+  offset: 0, 0
+  index: -1
+SWROD R
+  rotate: true
+  xy: 476, 2864
+  size: 220, 642
+  orig: 220, 642
+  offset: 0, 0
+  index: -1
+eyelid 1 L
+  rotate: false
+  xy: 2, 3054
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eyelid 1 R
+  rotate: false
+  xy: 34, 3054
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eyelid 2 L
+  rotate: false
+  xy: 66, 3053
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+eyelid 2 R
+  rotate: false
+  xy: 100, 3053
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+
+swordwoman2.png
+size: 3086,3086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LEG R
+  rotate: false
+  xy: 2, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+SHADOW
+  rotate: false
+  xy: 2, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+SHOULDER 1 L
+  rotate: false
+  xy: 1030, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+SHOULDER 1 R
+  rotate: false
+  xy: 2, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1030, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2058, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1030, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1

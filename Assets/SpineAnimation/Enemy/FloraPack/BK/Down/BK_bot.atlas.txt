@@ -1,0 +1,76 @@
+
+BK_bot.png
+size: 2389,2389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 2036, 1664
+  size: 271, 369
+  orig: 2033, 1342
+  offset: 883, 423
+  index: -1
+Chaos 2
+  rotate: false
+  xy: 2, 1046
+  size: 2032, 1341
+  orig: 2032, 1341
+  offset: 0, 0
+  index: -1
+Lower Body
+  rotate: false
+  xy: 2036, 1437
+  size: 191, 225
+  orig: 2033, 1342
+  offset: 924, 383
+  index: -1
+Sfera 2
+  rotate: false
+  xy: 2036, 1149
+  size: 121, 122
+  orig: 2033, 1342
+  offset: 960, 483
+  index: -1
+glow
+  rotate: false
+  xy: 2036, 2035
+  size: 351, 352
+  orig: 2033, 1342
+  offset: 844, 249
+  index: -1
+paw 4 L
+  rotate: false
+  xy: 2129, 1028
+  size: 89, 119
+  orig: 2033, 1342
+  offset: 810, 445
+  index: -1
+paw 4 R
+  rotate: false
+  xy: 2036, 1028
+  size: 91, 119
+  orig: 2033, 1342
+  offset: 1135, 444
+  index: -1
+paw 5 L
+  rotate: false
+  xy: 2229, 1594
+  size: 116, 68
+  orig: 2033, 1342
+  offset: 846, 486
+  index: -1
+paw 5 R
+  rotate: false
+  xy: 2196, 1365
+  size: 115, 70
+  orig: 2033, 1342
+  offset: 1073, 486
+  index: -1
+svet sfers1
+  rotate: true
+  xy: 2036, 1273
+  size: 162, 158
+  orig: 229, 242
+  offset: 33, 43
+  index: -1

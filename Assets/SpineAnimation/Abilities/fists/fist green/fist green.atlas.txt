@@ -1,0 +1,139 @@
+
+fist green.png
+size: 1035,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 17
+  rotate: true
+  xy: 271, 21
+  size: 241, 236
+  orig: 718, 1453
+  offset: 360, 770
+  index: -1
+Frame 18
+  rotate: false
+  xy: 733, 641
+  size: 291, 138
+  orig: 718, 1453
+  offset: 321, 816
+  index: -1
+Frame 19
+  rotate: false
+  xy: 513, 128
+  size: 212, 141
+  orig: 718, 1453
+  offset: 321, 816
+  index: -1
+Frame 20
+  rotate: false
+  xy: 731, 128
+  size: 152, 141
+  orig: 718, 1453
+  offset: 318, 814
+  index: -1
+Frame 21
+  rotate: false
+  xy: 627, 10
+  size: 111, 112
+  orig: 718, 1453
+  offset: 317, 818
+  index: -1
+Frame 22
+  rotate: false
+  xy: 744, 13
+  size: 113, 109
+  orig: 718, 1453
+  offset: 320, 819
+  index: -1
+Frame 23
+  rotate: true
+  xy: 513, 6
+  size: 116, 108
+  orig: 718, 1453
+  offset: 317, 820
+  index: -1
+Frame 24
+  rotate: true
+  xy: 905, 515
+  size: 120, 114
+  orig: 718, 1453
+  offset: 317, 821
+  index: -1
+Frame 25
+  rotate: false
+  xy: 478, 318
+  size: 119, 110
+  orig: 718, 1453
+  offset: 314, 823
+  index: -1
+Frame 26
+  rotate: false
+  xy: 905, 404
+  size: 115, 105
+  orig: 718, 1453
+  offset: 314, 825
+  index: -1
+flash/Frame 17
+  rotate: false
+  xy: 256, 268
+  size: 216, 160
+  orig: 718, 1453
+  offset: 300, 899
+  index: -1
+flash/Frame 18
+  rotate: false
+  xy: 6, 22
+  size: 259, 203
+  orig: 718, 1453
+  offset: 249, 869
+  index: -1
+flash/Frame 19
+  rotate: false
+  xy: 311, 434
+  size: 295, 237
+  orig: 718, 1453
+  offset: 214, 853
+  index: -1
+flash/Frame 20
+  rotate: true
+  xy: 6, 231
+  size: 312, 244
+  orig: 718, 1453
+  offset: 206, 846
+  index: -1
+flash/Frame 21
+  rotate: false
+  xy: 733, 785
+  size: 292, 244
+  orig: 718, 1453
+  offset: 218, 848
+  index: -1
+flash/Frame 22
+  rotate: false
+  xy: 612, 413
+  size: 287, 222
+  orig: 718, 1453
+  offset: 230, 855
+  index: -1
+flash/Frame 23
+  rotate: true
+  xy: 603, 275
+  size: 132, 216
+  orig: 718, 1453
+  offset: 242, 860
+  index: -1
+hand1
+  rotate: false
+  xy: 6, 549
+  size: 299, 480
+  orig: 1922, 1082
+  offset: 1118, 236
+  index: -1
+hand2
+  rotate: false
+  xy: 311, 677
+  size: 416, 352
+  orig: 1922, 1082
+  offset: 606, 337
+  index: -1

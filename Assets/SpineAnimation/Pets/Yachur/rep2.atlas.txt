@@ -1,0 +1,62 @@
+
+rep2.png
+size: 539,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 176
+  size: 388, 361
+  orig: 501, 501
+  offset: 56, 75
+  index: -1
+Ellipse 1
+  rotate: false
+  xy: 2, 90
+  size: 297, 84
+  orig: 501, 501
+  offset: 70, 45
+  index: -1
+HEAD
+  rotate: false
+  xy: 392, 223
+  size: 131, 149
+  orig: 501, 501
+  offset: 313, 309
+  index: -1
+LEG R
+  rotate: true
+  xy: 301, 14
+  size: 160, 182
+  orig: 501, 501
+  offset: 166, 41
+  index: -1
+back leg
+  rotate: false
+  xy: 392, 374
+  size: 127, 163
+  orig: 501, 501
+  offset: 106, 82
+  index: -1
+hand
+  rotate: true
+  xy: 103, 32
+  size: 56, 119
+  orig: 501, 501
+  offset: 283, 184
+  index: -1
+hand2
+  rotate: false
+  xy: 2, 2
+  size: 99, 86
+  orig: 501, 501
+  offset: 312, 180
+  index: -1
+skull
+  rotate: true
+  xy: 224, 19
+  size: 69, 72
+  orig: 501, 501
+  offset: 276, 247
+  index: -1

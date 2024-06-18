@@ -1,0 +1,151 @@
+
+big hands.png
+size: 3086,3086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM 1 R
+  rotate: false
+  xy: 2, 1803
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ARM1 L
+  rotate: false
+  xy: 1400, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ARM2 L
+  rotate: false
+  xy: 1030, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ARM2 R
+  rotate: false
+  xy: 2058, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 828, 2831
+  size: 253, 570
+  orig: 253, 570
+  offset: 0, 0
+  index: -1
+FINGER L
+  rotate: false
+  xy: 2, 775
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+FINGER R
+  rotate: false
+  xy: 1030, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 2058, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 3016
+  size: 824, 68
+  orig: 824, 68
+  offset: 0, 0
+  index: -1
+
+big hands2.png
+size: 3086,3086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LEG L
+  rotate: false
+  xy: 2, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+LEG R
+  rotate: false
+  xy: 2, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ORB L
+  rotate: false
+  xy: 1030, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+ORB R
+  rotate: false
+  xy: 2, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+SHOULDER L
+  rotate: false
+  xy: 1030, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+SHOULDER R
+  rotate: false
+  xy: 2058, 2058
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 1030, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 2058, 1030
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 2058, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1
+
+big hands3.png
+size: 1030,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st4
+  rotate: false
+  xy: 2, 2
+  size: 1026, 1026
+  orig: 1026, 1026
+  offset: 0, 0
+  index: -1

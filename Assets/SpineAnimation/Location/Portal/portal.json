@@ -1,0 +1,4017 @@
+{
+"skeleton": {
+	"hash": "PsvCkOKiyPMSozwfnrKvF3jjsN0",
+	"spine": "3.8",
+	"x": -595.67,
+	"y": -50.75,
+	"width": 1135.8,
+	"height": 1093.7,
+	"fps": 24,
+	"images": "",
+	"audio": "C:/Users/V/Desktop/DIAMOND HEAD/АНИМАЦИЯ/koloss/stones"
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "shine2", "bone": "root", "attachment": "shine2" },
+	{ "name": "stones_aqua/st668", "bone": "root", "attachment": "st666" },
+	{ "name": "Layer 33", "bone": "root", "attachment": "Layer 33" },
+	{ "name": "stones_ship/ship2", "bone": "root", "attachment": "stones_ship/ship2" },
+	{ "name": "st21", "bone": "root", "attachment": "st21" },
+	{ "name": "st20", "bone": "root", "attachment": "st20" },
+	{ "name": "st19", "bone": "root", "attachment": "st19" },
+	{ "name": "stones_aqua/seaweed 4", "bone": "root", "attachment": "seaweed 3" },
+	{ "name": "st18", "bone": "root", "attachment": "st18" },
+	{ "name": "st17", "bone": "root", "attachment": "st17" },
+	{ "name": "st16", "bone": "root", "attachment": "st16" },
+	{ "name": "st15", "bone": "root", "attachment": "st15" },
+	{ "name": "st14", "bone": "root", "attachment": "st14" },
+	{ "name": "st13", "bone": "root", "attachment": "st13" },
+	{ "name": "st12", "bone": "root", "attachment": "st12" },
+	{ "name": "st11", "bone": "root", "attachment": "st11" },
+	{ "name": "st10", "bone": "root", "attachment": "st10" },
+	{ "name": "st9", "bone": "root", "attachment": "st9" },
+	{ "name": "st8", "bone": "root", "attachment": "st8" },
+	{ "name": "st7", "bone": "root", "attachment": "st7" },
+	{ "name": "st6", "bone": "root", "attachment": "st6" },
+	{ "name": "st5", "bone": "root", "attachment": "st5" },
+	{ "name": "st4", "bone": "root", "attachment": "st4" },
+	{ "name": "st3", "bone": "root", "attachment": "st3" },
+	{ "name": "st2", "bone": "root", "attachment": "st2" },
+	{ "name": "st1", "bone": "root", "attachment": "st1" },
+	{ "name": "blik", "bone": "root", "attachment": "blik" },
+	{ "name": "stones_frogs/frog left", "bone": "root", "attachment": "frog left" },
+	{ "name": "stones_frogs/frog right", "bone": "root", "attachment": "frog right" },
+	{ "name": "stones_aqua/st666", "bone": "root" },
+	{ "name": "stones_aqua/statue left", "bone": "root", "attachment": "statue left" },
+	{ "name": "stones_aqua/statue right", "bone": "root", "attachment": "statue right2" },
+	{ "name": "stones_aqua/seaweed 3", "bone": "root", "attachment": "stones_aqua/seaweed 3" },
+	{ "name": "stones_aqua/st667", "bone": "root", "attachment": "stones_aqua/st666" },
+	{ "name": "stones_aqua/seaweed top2", "bone": "root", "attachment": "stones_aqua/seaweed top2" },
+	{ "name": "stones_aqua/seaweed top1", "bone": "root", "attachment": "stones_aqua/seaweed top1" },
+	{ "name": "stones_aqua/seaweed5", "bone": "root", "attachment": "stones_aqua/seaweed5" },
+	{ "name": "stones_aqua/seaweed4", "bone": "root", "attachment": "stones_aqua/seaweed4" },
+	{ "name": "stones_aqua/seaweed 6", "bone": "root", "attachment": "stones_aqua/seaweed 6" },
+	{ "name": "stones_ship/ship1", "bone": "root", "attachment": "stones_ship/ship1" },
+	{ "name": "stones_cryst/arca", "bone": "root", "attachment": "arca" },
+	{ "name": "stones_ice/arca", "bone": "root", "attachment": "arca" },
+	{ "name": "stones_ice/ice 2", "bone": "root", "attachment": "stones_ice/ice 2" },
+	{ "name": "stones_ice/ice 5", "bone": "root", "attachment": "stones_ice/ice 5" },
+	{ "name": "stones_ice/ice 3", "bone": "root", "attachment": "stones_ice/ice 3" },
+	{ "name": "stones_ice/ice 4", "bone": "root", "attachment": "stones_ice/ice 4" },
+	{ "name": "stones_aqua/seaweed 7", "bone": "root", "attachment": "seaweed 6" },
+	{ "name": "stones_aqua/seaweed top3", "bone": "root", "attachment": "seaweed top1" },
+	{ "name": "stones_aqua/seaweed top4", "bone": "root", "attachment": "seaweed top2" },
+	{ "name": "stones_aqua/seaweed under", "bone": "root" },
+	{ "name": "stones_aqua/seaweed6", "bone": "root", "attachment": "seaweed4" },
+	{ "name": "stones_aqua/seaweed7", "bone": "root" },
+	{ "name": "stones_aqua/shine", "bone": "root" },
+	{ "name": "stones_aqua/statue left2", "bone": "root" },
+	{ "name": "stones_aqua/statue right2", "bone": "root" }
+],
+"skins": [
+	{
+		"name": "0",
+		"attachments": {
+			"st10": {
+				"st10": {
+					"name": "stones_gh/st10",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 63.88, 822.23, -89.12, 822.23, -89.12, 924.23, 63.88, 924.23 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 153,
+					"height": 102
+				}
+			},
+			"st11": {
+				"st11": {
+					"name": "stones_gh/st11",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -93.98, 811.02, -213.98, 811.02, -213.98, 922.02, -93.98, 922.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 120,
+					"height": 111
+				}
+			},
+			"st12": {
+				"st12": {
+					"name": "stones_gh/st12",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -154.98, 731.02, -340.98, 731.02, -340.98, 863.02, -154.98, 863.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 148,
+					"height": 132
+				}
+			},
+			"st13": {
+				"st13": {
+					"name": "stones_gh/st13",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -318.98, 786.02, -347.98, 786.02, -347.98, 823.02, -318.98, 823.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 29,
+					"height": 37
+				}
+			},
+			"st14": {
+				"st14": {
+					"name": "stones_gh/st14",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -243.98, 845.02, -365.98, 845.02, -365.98, 934.02, -243.98, 934.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 122,
+					"height": 89
+				}
+			},
+			"st15": {
+				"st15": {
+					"name": "stones_gh/st15",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -375.98, 745.02, -516.98, 745.02, -516.98, 929.02, -375.98, 929.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 141,
+					"height": 184
+				}
+			},
+			"st16": {
+				"st16": {
+					"name": "stones_gh/st16",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -431.98, 724.02, -489.98, 724.02, -489.98, 760.02, -431.98, 760.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 58,
+					"height": 36
+				}
+			},
+			"st17": {
+				"st17": {
+					"name": "stones_gh/st17",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 311.02, 555.02, 237.02, 555.02, 237.02, 719.02, 311.02, 719.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 74,
+					"height": 164
+				}
+			},
+			"st18": {
+				"st18": {
+					"name": "stones_gh/st18",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 311.02, 224.02, 240.02, 224.02, 240.02, 577.02, 311.02, 577.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 71,
+					"height": 353
+				}
+			},
+			"st19": {
+				"st19": {
+					"name": "stones_gh/st19",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -262.98, 212.02, -338.98, 212.02, -338.98, 454.02, -262.98, 454.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 76,
+					"height": 242
+				}
+			},
+			"st20": {
+				"st20": {
+					"name": "stones_gh/st20",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -295.98, 174.02, -345.98, 174.02, -345.98, 229.02, -295.98, 229.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 50,
+					"height": 55
+				}
+			},
+			"st21": {
+				"st21": {
+					"name": "stones_gh/st21",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -260.98, 423.02, -334.98, 423.02, -334.98, 709.02, -260.98, 709.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 74,
+					"height": 286
+				}
+			},
+			"shine2": {
+				"shine2": {
+					"name": "stones_gh/shine2",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 546.07, -41.75, -596.93, -41.75, -596.93, 945.25, 546.07, 945.25 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1145,
+					"height": 931
+				}
+			},
+			"blik": {
+				"blik": {
+					"name": "stones_gh/blik",
+					"type": "mesh",
+					"path": "blik",
+					"uvs": [ 0.54534, 0.34341, 0.99999, 0.29427, 0.62953, 0.5804, 0.74005, 1, 0.733, 1, 0.4229, 0.64801, 0, 0.69352, 0.35806, 0.42828, 0.27377, 1.0E-5 ],
+					"triangles": [ 7, 8, 0, 2, 0, 1, 7, 0, 2, 5, 7, 2, 6, 7, 5, 3, 4, 2, 5, 2, 4 ],
+					"vertices": [ 46.52, 387.82, 107.45, 394.55, 57.8, 355.35, 72.61, 297.86, 71.67, 297.86, 30.12, 346.09, -26.55, 339.85, 21.43, 376.19, 10.13, 434.86 ],
+					"hull": 9,
+					"edges": [ 6, 8, 14, 16, 4, 6, 2, 4, 0, 2, 12, 14, 8, 10, 10, 12, 16, 0 ],
+					"width": 134,
+					"height": 137
+				}
+			},
+			"Layer 33": {
+				"Layer 33": {
+					"name": "stones_gh/Layer 33",
+					"type": "mesh",
+					"path": "stones_gh/portal",
+					"uvs": [ 0.85169, 0.17081, 0.81886, 0.92241, 0.67179, 0.92288, 0.20871, 0.92165, 0.1382, 0.88921, 0.11303, 0.17731, 0.46875, 0 ],
+					"triangles": [ 5, 3, 4, 6, 2, 5, 5, 2, 3, 2, 6, 0, 1, 2, 0 ],
+					"vertices": [ 252.45, 757.82, 225.43, 237.9, 121.6, 238.34, -205.32, 241.61, -254.93, 264.42, -269.06, 757.17, -17.03, 878.01 ],
+					"hull": 7,
+					"edges": [ 0, 12, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12 ],
+					"width": 706,
+					"height": 692
+				}
+			},
+			"st1": {
+				"st1": {
+					"name": "stones_gh/st1",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -354.98, 82.02, -517.98, 82.02, -517.98, 718.02, -354.98, 718.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 163,
+					"height": 636
+				}
+			},
+			"st2": {
+				"st2": {
+					"name": "stones_gh/st2",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 456.02, 740.02, 391.02, 740.02, 391.02, 780.02, 456.02, 780.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 65,
+					"height": 39
+				}
+			},
+			"st3": {
+				"st3": {
+					"name": "stones_gh/st3",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 461.02, 768.02, 343.02, 768.02, 343.02, 960.02, 461.02, 960.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 118,
+					"height": 192
+				}
+			},
+			"st4": {
+				"st4": {
+					"name": "stones_gh/st4",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 478.02, 110.02, 330.02, 110.02, 330.02, 780.02, 478.02, 780.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 148,
+					"height": 670
+				}
+			},
+			"st5": {
+				"st5": {
+					"name": "stones_gh/st5",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 331.02, 845.02, 208.02, 845.02, 208.02, 934.02, 331.02, 934.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 123,
+					"height": 89
+				}
+			},
+			"st6": {
+				"st6": {
+					"name": "stones_gh/st6",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 303.02, 730.02, 128.02, 730.02, 128.02, 863.02, 303.02, 863.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 149,
+					"height": 133
+				}
+			},
+			"st7": {
+				"st7": {
+					"name": "stones_gh/st7",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 312.02, 790.02, 279.02, 790.02, 279.02, 824.02, 312.02, 824.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 33,
+					"height": 34
+				}
+			},
+			"st8": {
+				"st8": {
+					"name": "stones_gh/st8",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 178.02, 812.02, 55.02, 812.02, 55.02, 921.02, 178.02, 921.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 123,
+					"height": 109
+				}
+			},
+			"st9": {
+				"st9": {
+					"name": "stones_gh/st9",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 72.02, 895.02, 59.02, 895.02, 59.02, 915.02, 72.02, 915.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 13,
+					"height": 20
+				}
+			}
+		}
+	},
+	{
+		"name": "1",
+		"attachments": {
+			"stones_ice/arca": {
+				"arca": {
+					"name": "stones_ice/arca",
+					"type": "mesh",
+					"path": "stones_ice_egypt/arca",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 463.26, 148.14, -511.74, 148.14, -511.74, 968.14, 463.26, 968.14 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 977,
+					"height": 838
+				}
+			},
+			"blik": {
+				"blik": {
+					"name": "stones_ice/blik",
+					"type": "mesh",
+					"path": "blik",
+					"uvs": [ 0.54534, 0.34341, 0.99999, 0.29427, 0.62953, 0.5804, 0.74005, 1, 0.733, 1, 0.4229, 0.64801, 0, 0.69352, 0.35806, 0.42828, 0.27377, 1.0E-5 ],
+					"triangles": [ 7, 8, 0, 2, 0, 1, 7, 0, 2, 5, 7, 2, 6, 7, 5, 3, 4, 2, 5, 2, 4 ],
+					"vertices": [ 46.52, 387.82, 107.45, 394.55, 57.8, 355.35, 72.61, 297.86, 71.67, 297.86, 30.12, 346.09, -26.55, 339.85, 21.43, 376.19, 10.13, 434.86 ],
+					"hull": 9,
+					"edges": [ 6, 8, 14, 16, 4, 6, 2, 4, 0, 2, 12, 14, 8, 10, 10, 12, 16, 0 ],
+					"width": 134,
+					"height": 137
+				}
+			},
+			"Layer 33": {
+				"Layer 33": {
+					"name": "stones_ice/Layer 33",
+					"type": "mesh",
+					"path": "stones_ice_egypt/portal",
+					"uvs": [ 0.85169, 0.17081, 0.81886, 0.92241, 0.67179, 0.92288, 0.20871, 0.92165, 0.1382, 0.88921, 0.11303, 0.17731, 0.46875, 0 ],
+					"triangles": [ 5, 3, 4, 6, 2, 5, 5, 2, 3, 2, 6, 0, 1, 2, 0 ],
+					"vertices": [ 252.45, 757.82, 225.43, 237.9, 121.6, 238.34, -205.32, 241.61, -254.93, 264.42, -269.06, 757.17, -17.03, 878.01 ],
+					"hull": 7,
+					"edges": [ 0, 12, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12 ],
+					"width": 708,
+					"height": 694
+				}
+			}
+		}
+	},
+	{
+		"name": "2",
+		"attachments": {
+			"st10": {
+				"st10": {
+					"name": "stones_gh/st10",
+					"type": "mesh",
+					"path": "stones_aqua/st10",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 63.88, 822.23, -89.12, 822.23, -89.12, 924.23, 63.88, 924.23 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 127,
+					"height": 90
+				}
+			},
+			"st11": {
+				"st11": {
+					"name": "stones_gh/st11",
+					"type": "mesh",
+					"path": "stones_aqua/st11",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -93.98, 811.02, -213.98, 811.02, -213.98, 922.02, -93.98, 922.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 118,
+					"height": 110
+				}
+			},
+			"st12": {
+				"st12": {
+					"name": "stones_gh/st12",
+					"type": "mesh",
+					"path": "stones_aqua/st12",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -154.98, 731.02, -340.98, 731.02, -340.98, 863.02, -154.98, 863.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 147,
+					"height": 132
+				}
+			},
+			"st13": {
+				"st13": {
+					"name": "stones_gh/st13",
+					"type": "mesh",
+					"path": "stones_aqua/st13",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -318.98, 786.02, -347.98, 786.02, -347.98, 823.02, -318.98, 823.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 29,
+					"height": 37
+				}
+			},
+			"st14": {
+				"st14": {
+					"name": "stones_gh/st14",
+					"type": "mesh",
+					"path": "stones_aqua/st14",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -243.98, 845.02, -365.98, 845.02, -365.98, 934.02, -243.98, 934.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 122,
+					"height": 89
+				}
+			},
+			"stones_aqua/seaweed top4": {
+				"seaweed top2": {
+					"name": "stones_aqua/seaweed top2",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 292.34, 817.89, 200.34, 817.89, 200.34, 935.89, 292.34, 935.89 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 92,
+					"height": 118
+				}
+			},
+			"st17": {
+				"st17": {
+					"name": "stones_gh/st17",
+					"type": "mesh",
+					"path": "stones_aqua/st17",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 311.02, 555.02, 237.02, 555.02, 237.02, 719.02, 311.02, 719.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 74,
+					"height": 164
+				}
+			},
+			"st18": {
+				"st18": {
+					"name": "stones_gh/st18",
+					"type": "mesh",
+					"path": "stones_aqua/st18",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 311.02, 224.02, 240.02, 224.02, 240.02, 577.02, 311.02, 577.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 75,
+					"height": 353
+				}
+			},
+			"st19": {
+				"st19": {
+					"name": "stones_gh/st19",
+					"type": "mesh",
+					"path": "stones_aqua/st19",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -262.98, 212.02, -338.98, 212.02, -338.98, 454.02, -262.98, 454.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 76,
+					"height": 242
+				}
+			},
+			"stones_aqua/st668": {
+				"st666": {
+					"name": "stones_aqua/st666",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 38.72, 905.94, -90.28, 905.94, -90.28, 1042.94, 38.72, 1042.94 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 129,
+					"height": 137
+				}
+			},
+			"st21": {
+				"st21": {
+					"name": "stones_gh/st21",
+					"type": "mesh",
+					"path": "stones_aqua/st21",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -260.98, 423.02, -334.98, 423.02, -334.98, 709.02, -260.98, 709.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 73,
+					"height": 283
+				}
+			},
+			"stones_aqua/statue left": {
+				"statue left": {
+					"name": "stones_aqua/statue left",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -351.67, -47.78, -595.67, -47.78, -595.67, 854.22, -351.67, 854.22 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 244,
+					"height": 902
+				}
+			},
+			"stones_aqua/statue right": {
+				"statue right2": {
+					"name": "stones_aqua/statue right",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 540.13, -50.75, 280.13, -50.75, 280.13, 848.25, 540.13, 848.25 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 260,
+					"height": 899
+				}
+			},
+			"blik": {
+				"blik": {
+					"name": "stones_gh/blik",
+					"type": "mesh",
+					"path": "blik",
+					"uvs": [ 0.54534, 0.34341, 0.99999, 0.29427, 0.62953, 0.5804, 0.74005, 1, 0.733, 1, 0.4229, 0.64801, 0, 0.69352, 0.35806, 0.42828, 0.27377, 1.0E-5 ],
+					"triangles": [ 7, 8, 0, 2, 0, 1, 7, 0, 2, 5, 7, 2, 6, 7, 5, 3, 4, 2, 5, 2, 4 ],
+					"vertices": [ 46.52, 387.82, 107.45, 394.55, 57.8, 355.35, 72.61, 297.86, 71.67, 297.86, 30.12, 346.09, -26.55, 339.85, 21.43, 376.19, 10.13, 434.86 ],
+					"hull": 9,
+					"edges": [ 6, 8, 14, 16, 4, 6, 2, 4, 0, 2, 12, 14, 8, 10, 10, 12, 16, 0 ],
+					"width": 134,
+					"height": 137
+				}
+			},
+			"stones_aqua/seaweed 4": {
+				"seaweed 3": {
+					"name": "stones_aqua/seaweed 3",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 34.64, 723.65, -78.36, 723.65, -78.36, 892.65, 34.64, 892.65 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 113,
+					"height": 169
+				}
+			},
+			"Layer 33": {
+				"Layer 33": {
+					"name": "stones_gh/Layer 33",
+					"type": "mesh",
+					"path": "stones_aqua/portal",
+					"uvs": [ 0.85169, 0.17081, 0.81886, 0.92241, 0.67179, 0.92288, 0.20871, 0.92165, 0.1382, 0.88921, 0.11303, 0.17731, 0.46875, 0 ],
+					"triangles": [ 5, 3, 4, 6, 2, 5, 5, 2, 3, 2, 6, 0, 1, 2, 0 ],
+					"vertices": [ 252.45, 757.82, 225.43, 237.9, 121.6, 238.34, -205.32, 241.61, -254.93, 264.42, -269.06, 757.17, -17.03, 878.01 ],
+					"hull": 7,
+					"edges": [ 0, 12, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12 ],
+					"width": 708,
+					"height": 694
+				}
+			},
+			"stones_aqua/seaweed 7": {
+				"seaweed 6": {
+					"name": "stones_aqua/seaweed 6",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -245.83, 834, -311.83, 834, -311.83, 928, -245.83, 928 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 66,
+					"height": 94
+				}
+			},
+			"st5": {
+				"st5": {
+					"name": "stones_gh/st5",
+					"type": "mesh",
+					"path": "stones_aqua/st5",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 331.02, 845.02, 208.02, 845.02, 208.02, 934.02, 331.02, 934.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 122,
+					"height": 90
+				}
+			},
+			"st6": {
+				"st6": {
+					"name": "stones_gh/st6",
+					"type": "mesh",
+					"path": "stones_aqua/st6",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 303.02, 730.02, 128.02, 730.02, 128.02, 863.02, 303.02, 863.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 143,
+					"height": 141
+				}
+			},
+			"st7": {
+				"st7": {
+					"name": "stones_gh/st7",
+					"type": "mesh",
+					"path": "stones_aqua/st7",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 312.02, 790.02, 279.02, 790.02, 279.02, 824.02, 312.02, 824.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 33,
+					"height": 34
+				}
+			},
+			"st8": {
+				"st8": {
+					"name": "stones_gh/st8",
+					"type": "mesh",
+					"path": "stones_aqua/st8",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 178.02, 812.02, 55.02, 812.02, 55.02, 921.02, 178.02, 921.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 123,
+					"height": 109
+				}
+			},
+			"st9": {
+				"st9": {
+					"name": "stones_gh/st9",
+					"type": "mesh",
+					"path": "stones_aqua/st9",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 72.02, 895.02, 59.02, 895.02, 59.02, 915.02, 72.02, 915.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 13,
+					"height": 20
+				}
+			}
+		}
+	},
+	{
+		"name": "3",
+		"attachments": {
+			"stones_ice/arca": {
+				"arca": {
+					"name": "stones_ice/arca",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 463.26, 148.14, -511.74, 148.14, -511.74, 968.14, 463.26, 968.14 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 977,
+					"height": 838
+				}
+			},
+			"stones_ice/ice 2": {
+				"stones_ice/ice 2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -391.16, 763.54, -481.16, 763.54, -481.16, 991.54, -391.16, 991.54 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 92,
+					"height": 230
+				}
+			},
+			"stones_ice/ice 3": {
+				"stones_ice/ice 3": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -275.31, 618.19, -341.31, 618.19, -341.31, 842.19, -275.31, 842.19 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 68,
+					"height": 226
+				}
+			},
+			"stones_ice/ice 4": {
+				"stones_ice/ice 4": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 312.72, 675.35, 194.72, 675.35, 194.72, 873.35, 312.72, 873.35 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 120,
+					"height": 200
+				}
+			},
+			"stones_ice/ice 5": {
+				"stones_ice/ice 5": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 438.69, 759.56, 350.69, 759.56, 350.69, 965.56, 438.69, 965.56 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 88,
+					"height": 206
+				}
+			},
+			"blik": {
+				"blik": {
+					"name": "stones_ice/blik",
+					"type": "mesh",
+					"path": "blik",
+					"uvs": [ 0.54534, 0.34341, 0.99999, 0.29427, 0.62953, 0.5804, 0.74005, 1, 0.733, 1, 0.4229, 0.64801, 0, 0.69352, 0.35806, 0.42828, 0.27377, 1.0E-5 ],
+					"triangles": [ 7, 8, 0, 2, 0, 1, 7, 0, 2, 5, 7, 2, 6, 7, 5, 3, 4, 2, 5, 2, 4 ],
+					"vertices": [ 46.52, 387.82, 107.45, 394.55, 57.8, 355.35, 72.61, 297.86, 71.67, 297.86, 30.12, 346.09, -26.55, 339.85, 21.43, 376.19, 10.13, 434.86 ],
+					"hull": 9,
+					"edges": [ 6, 8, 14, 16, 4, 6, 2, 4, 0, 2, 12, 14, 8, 10, 10, 12, 16, 0 ],
+					"width": 134,
+					"height": 137
+				}
+			},
+			"Layer 33": {
+				"Layer 33": {
+					"name": "stones_ice/Layer 33",
+					"type": "mesh",
+					"path": "stones_ice/portal",
+					"uvs": [ 0.85169, 0.17081, 0.81886, 0.92241, 0.67179, 0.92288, 0.20871, 0.92165, 0.1382, 0.88921, 0.11303, 0.17731, 0.46875, 0 ],
+					"triangles": [ 5, 3, 4, 6, 2, 5, 5, 2, 3, 2, 6, 0, 1, 2, 0 ],
+					"vertices": [ 252.45, 757.82, 225.43, 237.9, 121.6, 238.34, -205.32, 241.61, -254.93, 264.42, -269.06, 757.17, -17.03, 878.01 ],
+					"hull": 7,
+					"edges": [ 0, 12, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12 ],
+					"width": 708,
+					"height": 694
+				}
+			}
+		}
+	},
+	{
+		"name": "4",
+		"attachments": {
+			"st13": {
+				"st13": {
+					"name": "stones_gh/st13",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -318.98, 786.02, -347.98, 786.02, -347.98, 823.02, -318.98, 823.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 29,
+					"height": 37
+				}
+			},
+			"stones_cryst/arca": {
+				"arca": {
+					"name": "stones_cryst/arca",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 366.29, 180.43, -364.71, 180.43, -364.71, 978.43, 366.29, 978.43 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 733,
+					"height": 800
+				}
+			},
+			"st20": {
+				"st20": {
+					"name": "stones_gh/st20",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -295.98, 174.02, -345.98, 174.02, -345.98, 229.02, -295.98, 229.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 50,
+					"height": 55
+				}
+			},
+			"blik": {
+				"blik": {
+					"name": "stones_gh/blik",
+					"type": "mesh",
+					"path": "blik",
+					"uvs": [ 0.54534, 0.34341, 0.99999, 0.29427, 0.62953, 0.5804, 0.74005, 1, 0.733, 1, 0.4229, 0.64801, 0, 0.69352, 0.35806, 0.42828, 0.27377, 1.0E-5 ],
+					"triangles": [ 7, 8, 0, 2, 0, 1, 7, 0, 2, 5, 7, 2, 6, 7, 5, 3, 4, 2, 5, 2, 4 ],
+					"vertices": [ 46.52, 387.82, 107.45, 394.55, 57.8, 355.35, 72.61, 297.86, 71.67, 297.86, 30.12, 346.09, -26.55, 339.85, 21.43, 376.19, 10.13, 434.86 ],
+					"hull": 9,
+					"edges": [ 6, 8, 14, 16, 4, 6, 2, 4, 0, 2, 12, 14, 8, 10, 10, 12, 16, 0 ],
+					"width": 134,
+					"height": 137
+				}
+			},
+			"Layer 33": {
+				"Layer 33": {
+					"name": "stones_gh/Layer 33",
+					"type": "mesh",
+					"path": "stones_gh/portal",
+					"uvs": [ 0.85169, 0.17081, 0.81886, 0.92241, 0.67179, 0.92288, 0.20871, 0.92165, 0.1382, 0.88921, 0.11303, 0.17731, 0.46875, 0 ],
+					"triangles": [ 5, 3, 4, 6, 2, 5, 5, 2, 3, 2, 6, 0, 1, 2, 0 ],
+					"vertices": [ 252.45, 757.82, 225.43, 237.9, 121.6, 238.34, -205.32, 241.61, -254.93, 264.42, -269.06, 757.17, -17.03, 878.01 ],
+					"hull": 7,
+					"edges": [ 0, 12, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12 ],
+					"width": 706,
+					"height": 692
+				}
+			},
+			"st7": {
+				"st7": {
+					"name": "stones_gh/st7",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 312.02, 790.02, 279.02, 790.02, 279.02, 824.02, 312.02, 824.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 33,
+					"height": 34
+				}
+			}
+		}
+	},
+	{
+		"name": "5",
+		"attachments": {
+			"st10": {
+				"st10": {
+					"name": "stones_f/st10",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 56.92, 831.02, -96.08, 831.02, -96.08, 933.02, 56.92, 933.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 153,
+					"height": 102
+				}
+			},
+			"st11": {
+				"st11": {
+					"name": "stones_f/st11",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -102.78, 807.72, -222.78, 807.72, -222.78, 918.72, -102.78, 918.72 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 120,
+					"height": 111
+				}
+			},
+			"st12": {
+				"st12": {
+					"name": "stones_f/st12",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -176.98, 720.02, -362.98, 720.02, -362.98, 852.02, -176.98, 852.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 147,
+					"height": 132
+				}
+			},
+			"st13": {
+				"st13": {
+					"name": "stones_f/st13",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -331.08, 789.32, -360.08, 789.32, -360.08, 826.32, -331.08, 826.32 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 29,
+					"height": 37
+				}
+			},
+			"st14": {
+				"st14": {
+					"name": "stones_f/st14",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -243.98, 845.02, -365.98, 845.02, -365.98, 934.02, -243.98, 934.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 122,
+					"height": 89
+				}
+			},
+			"st15": {
+				"st15": {
+					"name": "stones_f/st15",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -375.98, 745.02, -516.98, 745.02, -516.98, 929.02, -375.98, 929.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 141,
+					"height": 184
+				}
+			},
+			"st16": {
+				"st16": {
+					"name": "stones_f/st16",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -431.98, 724.02, -489.98, 724.02, -489.98, 760.02, -431.98, 760.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 58,
+					"height": 36
+				}
+			},
+			"st17": {
+				"st17": {
+					"name": "stones_f/st17",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 311.02, 555.02, 237.02, 555.02, 237.02, 719.02, 311.02, 719.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 74,
+					"height": 164
+				}
+			},
+			"st18": {
+				"st18": {
+					"name": "stones_f/st18",
+					"type": "mesh",
+					"path": "stones_f/st18golem_",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 311.02, 224.02, 240.02, 224.02, 240.02, 577.02, 311.02, 577.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 69,
+					"height": 351
+				}
+			},
+			"st19": {
+				"st19": {
+					"name": "stones_f/st19",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -262.98, 212.02, -338.98, 212.02, -338.98, 454.02, -262.98, 454.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 76,
+					"height": 242
+				}
+			},
+			"st20": {
+				"st20": {
+					"name": "stones_f/st20",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -295.98, 174.02, -345.98, 174.02, -345.98, 229.02, -295.98, 229.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 50,
+					"height": 55
+				}
+			},
+			"st21": {
+				"st21": {
+					"name": "stones_f/st21",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -260.98, 423.02, -334.98, 423.02, -334.98, 709.02, -260.98, 709.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 74,
+					"height": 286
+				}
+			},
+			"shine2": {
+				"shine2": {
+					"name": "stones_f/shine2",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 546.07, -41.75, -596.93, -41.75, -596.93, 945.25, 546.07, 945.25 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1145,
+					"height": 975
+				}
+			},
+			"blik": {
+				"blik": {
+					"name": "stones_f/blik",
+					"type": "mesh",
+					"path": "blik",
+					"uvs": [ 0.54534, 0.34341, 0.99999, 0.29427, 0.62953, 0.5804, 0.74005, 1, 0.733, 1, 0.4229, 0.64801, 0, 0.69352, 0.35806, 0.42828, 0.27377, 1.0E-5 ],
+					"triangles": [ 7, 8, 0, 2, 0, 1, 7, 0, 2, 5, 7, 2, 6, 7, 5, 3, 4, 2, 5, 2, 4 ],
+					"vertices": [ 46.52, 387.82, 107.45, 394.55, 57.8, 355.35, 72.61, 297.86, 71.67, 297.86, 30.12, 346.09, -26.55, 339.85, 21.43, 376.19, 10.13, 434.86 ],
+					"hull": 9,
+					"edges": [ 6, 8, 14, 16, 4, 6, 2, 4, 0, 2, 12, 14, 8, 10, 10, 12, 16, 0 ],
+					"width": 134,
+					"height": 137
+				}
+			},
+			"Layer 33": {
+				"Layer 33": {
+					"name": "stones_f/Layer 33",
+					"type": "mesh",
+					"path": "stones_f/portalgolem_",
+					"uvs": [ 0.85169, 0.17081, 0.81886, 0.92241, 0.67179, 0.92288, 0.20871, 0.92165, 0.1382, 0.88921, 0.11303, 0.17731, 0.46875, 0 ],
+					"triangles": [ 5, 3, 4, 6, 2, 5, 5, 2, 3, 2, 6, 0, 1, 2, 0 ],
+					"vertices": [ 252.45, 757.82, 225.43, 237.9, 121.6, 238.34, -205.32, 241.61, -254.93, 264.42, -269.06, 757.17, -17.03, 878.01 ],
+					"hull": 7,
+					"edges": [ 0, 12, 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12 ],
+					"width": 706,
+					"height": 692
+				}
+			},
+			"st1": {
+				"st1": {
+					"name": "stones_f/st1",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -354.98, 82.02, -517.98, 82.02, -517.98, 718.02, -354.98, 718.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 163,
+					"height": 636
+				}
+			},
+			"st2": {
+				"st2": {
+					"name": "stones_f/st2",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 456.02, 740.02, 391.02, 740.02, 391.02, 780.02, 456.02, 780.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 65,
+					"height": 39
+				}
+			},
+			"st3": {
+				"st3": {
+					"name": "stones_f/st3",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 461.02, 768.02, 343.02, 768.02, 343.02, 960.02, 461.02, 960.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 118,
+					"height": 192
+				}
+			},
+			"st4": {
+				"st4": {
+					"name": "stones_f/st4",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 478.02, 110.02, 330.02, 110.02, 330.02, 780.02, 478.02, 780.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 146,
+					"height": 670
+				}
+			},
+			"st5": {
+				"st5": {
+					"name": "stones_f/st5",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 331.02, 845.02, 208.02, 845.02, 208.02, 934.02, 331.02, 934.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 120,
+					"height": 89
+				}
+			},
+			"st6": {
+				"st6": {
+					"name": "stones_f/st6",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 312.92, 728.92, 137.92, 728.92, 137.92, 861.92, 312.92, 861.92 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 149,
+					"height": 133
+				}
+			},
+			"st7": {
+				"st7": {
+					"name": "stones_f/st7",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 318.62, 792.22, 285.62, 792.22, 285.62, 826.22, 318.62, 826.22 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 33,
+					"height": 34
+				}
+			},
+			"st8": {
+				"st8": {
+					"name": "stones_f/st8",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 178.02, 812.02, 55.02, 812.02, 55.02, 921.02, 178.02, 921.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 123,
+					"height": 109
+				}
+			},
+			"st9": {
+				"st9": {
+					"name": "stones_f/st9",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 72.02, 895.02, 59.02, 895.02, 59.02, 915.02, 72.02, 915.02 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 13,
+					"height": 20
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"stones_aqua/statue right": {
+				"attachment": [
+					{ "name": "statue right2" }
+				]
+			},
+			"blik": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 3, "name": null }
+				]
+			}
+		},
+		"deform": {
+			"0": {
+				"st20": {
+					"st20": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.13602, -1.70403, 1.13602, -1.70403, 1.13602, -1.70403, 1.13602, -1.70403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st12": {
+					"st12": [
+						{
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -18.71481, 11.11633, 3.81906, -4.04852, -6.94305, -20.04028, -29.47696, -4.87543 ]
+						},
+						{
+							"time": 3,
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						}
+					]
+				},
+				"st17": {
+					"st17": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.97595, 1.97601, 1.97595, 1.97601, 1.97595, 1.97601, 1.97595, 1.97601 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -3.07596, 3.01999, -3.07596, 3.01999, -3.07596, 3.01999, -3.07596, 3.01999 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st10": {
+					"st10": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -0.62202, 4.97595, -0.62202, 4.97595, -0.62202, 4.97595, -0.62202, 4.97595 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 4.76897, -1.57599, 4.76897, -1.57599, 4.76897, -1.57599, 4.76897, -1.57599 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"shine2": {
+					"shine2": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 5.63696, 0, 5.63696, 0, 5.63696, 0, 5.63696 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st9": {
+					"st9": [
+						{
+							"time": 1,
+							"offset": 2,
+							"vertices": [ -0.52899, -1.05792, -0.52899, -1.05792 ]
+						}
+					]
+				},
+				"st14": {
+					"st14": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 3.8501, 0, 3.8501, 0, 3.8501, 0, 3.8501 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 6.09604, 2.94098, 6.09604, 2.94098, 6.09604, 2.94098, 6.09604, 2.94098 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st7": {
+					"st7": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999 ]
+						},
+						{
+							"time": 1.5,
+							"vertices": [ 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st2": {
+					"st2": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.29999, 1.72504, 2.29999, 1.72504, 2.29999, 1.72504, 2.29999, 1.72504 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 10.06598, 3.09152, 10.06598, 3.09152, 10.06598, 3.09152, 10.06598, 3.09152 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st15": {
+					"st15": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 3.745, 6.36096, 3.95618, -1.35352, -6.1109, -1.62915, -6.32214, 6.08533 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 4.92053, 15.37244, 5.02612, 11.5152, -0.00742, 11.37738, -0.11304, 15.23462 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.53224, -4.69379, -4.96375, 6.24445, -2.77934, 6.23514, 4.09834, 6.16644, 5.14221, 5.68652, 5.43942, -4.68018, 0.13707, -7.22241 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st1": {
+					"st1": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -3.68399, -1.84201, -3.68399, -1.84201, -3.68399, -1.84201, -3.68399, -1.84201 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -0.82597, -8.03299, -0.82597, -8.03299, -0.82597, -8.03299, -0.82597, -8.03299 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st11": {
+					"st11": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.76598, 0.16101, 1.76598, 0.16101, 1.76598, 0.16101, 1.76598, 0.16101 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st5": {
+					"st5": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 0.164, -6.15692, 0.164, -6.15692, 0.164, -6.15692, 0.164, -6.15692 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st19": {
+					"st19": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 3.048, 0, 3.048, 0, 3.048, 0, 3.048 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 2.94006, -4.356, 2.94006, -4.356, 2.94006, -4.356, 2.94006, -4.356 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st4": {
+					"st4": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 6.84708, 0.724, 6.84708, 0.724, 6.84708, 0.724, 6.84708, 0.724 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 9.98351, 0.362, 9.98351, 0.362, 9.98351, 0.362, 9.98351, 0.362 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st16": {
+					"st16": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -1.93207, -0.966, -1.93207, -0.966, -1.93207, -0.966, -1.93207, -0.966 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st8": {
+					"st8": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.11599, -0.96497, 2.11599, -0.96497, 2.11599, -0.96497, 2.11599, -0.96497 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 6.13804, -0.48248, 6.13804, -0.48248, 6.13804, -0.48248, 6.13804, -0.48248 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st18": {
+					"st18": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 4.22998, -9.73199, 4.22998, -9.73199, 4.22998, -9.73199, 4.22998, -9.73199 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 1.099, -7.914, 1.099, -7.914, 1.099, -7.914, 1.099, -7.914 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st21": {
+					"st21": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 0.60696, 11.55695, 0.60696, 11.55695, 0.60696, 11.55695, 0.60696, 11.55695 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st6": {
+					"st6": [
+						{
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -4.35867, 20.99957, 44.85063, 20.99957, 44.85063, -16.39954, -4.35867, -16.39954 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -23.20801, 9.21429, 26.71329, 28.99402, 41.74597, -8.94604, -8.17538, -28.72583 ]
+						},
+						{
+							"time": 3,
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						}
+					]
+				},
+				"st3": {
+					"st3": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.16226, 0.52185, -5.06177, 5.39185, 2.86227, 5.22827, 2.76178, 0.35828 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -2.58113, 5.50885, -2.53088, 7.94385, 1.43114, 7.86206, 1.38089, 5.42706 ]
+						},
+						{ "time": 3 }
+					]
+				}
+			},
+			"1": {
+				"stones_ice/arca": {
+					"arca": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ -5.17258, 4.35025, 5.17258, 4.35025, 5.17258, -4.35028, -5.17258, -4.35028 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.53224, -4.69379, -4.96375, 6.24445, -2.77934, 6.23514, 4.09834, 6.16644, 5.14221, 5.68652, 5.43942, -4.68018, 0.13707, -7.22241 ]
+						},
+						{ "time": 3 }
+					]
+				}
+			},
+			"2": {
+				"st7": {
+					"st7": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999 ]
+						},
+						{
+							"time": 1.5,
+							"vertices": [ 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st12": {
+					"st12": [
+						{
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -18.71481, 11.11633, 3.81906, -4.04852, -6.94305, -20.04028, -29.47696, -4.87543 ]
+						},
+						{
+							"time": 3,
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						}
+					]
+				},
+				"st17": {
+					"st17": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.97595, 1.97601, 1.97595, 1.97601, 1.97595, 1.97601, 1.97595, 1.97601 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -3.07596, 3.01999, -3.07596, 3.01999, -3.07596, 3.01999, -3.07596, 3.01999 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st10": {
+					"st10": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -0.62202, 4.97595, -0.62202, 4.97595, -0.62202, 4.97595, -0.62202, 4.97595 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 4.76897, -1.57599, 4.76897, -1.57599, 4.76897, -1.57599, 4.76897, -1.57599 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st19": {
+					"st19": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 3.048, 0, 3.048, 0, 3.048, 0, 3.048 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 2.94006, -4.356, 2.94006, -4.356, 2.94006, -4.356, 2.94006, -4.356 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_aqua/seaweed 4": {
+					"seaweed 3": [
+						{ "curve": "stepped" },
+						{ "time": 3 }
+					]
+				},
+				"st11": {
+					"st11": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.76598, 0.16101, 1.76598, 0.16101, 1.76598, 0.16101, 1.76598, 0.16101 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st14": {
+					"st14": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 3.8501, 0, 3.8501, 0, 3.8501, 0, 3.8501 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 6.09604, 2.94098, 6.09604, 2.94098, 6.09604, 2.94098, 6.09604, 2.94098 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st9": {
+					"st9": [
+						{ "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+						{
+							"time": 1,
+							"offset": 2,
+							"vertices": [ -0.52899, -1.05792, -0.52899, -1.05792 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_aqua/statue right": {
+					"statue right2": [
+						{ "curve": 0.531, "c2": 0.01, "c3": 0.822, "c4": 0.43 },
+						{
+							"time": 1.5,
+							"vertices": [ 2.22498, 0, 2.22498, 0, 2.22498, 0, 2.22498 ],
+							"curve": 0.548,
+							"c2": 0.3,
+							"c3": 0.751,
+							"c4": 0.69
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_aqua/statue left": {
+					"statue left": [
+						{ "curve": 0.531, "c2": 0.01, "c3": 0.822, "c4": 0.43 },
+						{
+							"time": 1.5,
+							"vertices": [ 2.22498, 4.45001, 2.22498, 4.45001, 2.22498, 4.45001, 2.22498, 4.45001 ],
+							"curve": 0.548,
+							"c2": 0.3,
+							"c3": 0.751,
+							"c4": 0.69
+						},
+						{ "time": 3 }
+					]
+				},
+				"st5": {
+					"st5": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 0.164, -6.15692, 0.164, -6.15692, 0.164, -6.15692, 0.164, -6.15692 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.53224, -4.69379, -4.96375, 6.24445, -2.77934, 6.23514, 4.09834, 6.16644, 5.14221, 5.68652, 5.43942, -4.68018, 0.13707, -7.22241 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_aqua/st668": {
+					"st666": [
+						{ "curve": "stepped" },
+						{ "time": 3 }
+					]
+				},
+				"stones_aqua/seaweed 7": {
+					"seaweed 6": [
+						{ "curve": "stepped" },
+						{ "time": 3 }
+					]
+				},
+				"st8": {
+					"st8": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.11599, -0.96497, 2.11599, -0.96497, 2.11599, -0.96497, 2.11599, -0.96497 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 6.13804, -0.48248, 6.13804, -0.48248, 6.13804, -0.48248, 6.13804, -0.48248 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_aqua/seaweed top4": {
+					"seaweed top2": [
+						{ "curve": "stepped" },
+						{ "time": 3 }
+					]
+				},
+				"st18": {
+					"st18": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 4.22998, -9.73199, 4.22998, -9.73199, 4.22998, -9.73199, 4.22998, -9.73199 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 1.099, -7.914, 1.099, -7.914, 1.099, -7.914, 1.099, -7.914 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st21": {
+					"st21": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 0.60696, 11.55695, 0.60696, 11.55695, 0.60696, 11.55695, 0.60696, 11.55695 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st6": {
+					"st6": [
+						{
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -4.35867, 20.99957, 44.85063, 20.99957, 44.85063, -16.39954, -4.35867, -16.39954 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -23.20801, 9.21429, 26.71329, 28.99402, 41.74597, -8.94604, -8.17538, -28.72583 ]
+						},
+						{
+							"time": 3,
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						}
+					]
+				}
+			},
+			"3": {
+				"stones_ice/arca": {
+					"arca": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ -5.17258, 4.35025, 5.17258, 4.35025, 5.17258, -4.35028, -5.17258, -4.35028 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_ice/ice 3": {
+					"stones_ice/ice 3": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ 3.18301, -1.06097, 3.18301, -1.06097, 3.18301, -1.06097, 3.18301, -1.06097 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_ice/ice 5": {
+					"stones_ice/ice 5": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 9.95999, 7.46997, 9.95999, 7.46997, 9.95999, 7.46997, 9.95999, 7.46997 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_ice/ice 4": {
+					"stones_ice/ice 4": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ -1.37994, -5.27905, -1.37994, -5.27905, -2.08296, -2.46704, -1.37994, -5.27905 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_ice/ice 2": {
+					"stones_ice/ice 2": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -8.703, 8.703, -8.703, 8.703, -8.703, 8.703, -8.703, 8.703 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.53224, -4.69379, -4.96375, 6.24445, -2.77934, 6.23514, 4.09834, 6.16644, 5.14221, 5.68652, 5.43942, -4.68018, 0.13707, -7.22241 ]
+						},
+						{ "time": 3 }
+					]
+				}
+			},
+			"4": {
+				"st20": {
+					"st20": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.13602, -1.70403, 1.13602, -1.70403, 1.13602, -1.70403, 1.13602, -1.70403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_cryst/arca": {
+					"arca": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ 13.50104, -14.73849, -13.50104, -14.73849, -13.50104, 14.73846, 13.50104, 14.73846 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st7": {
+					"st7": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999 ]
+						},
+						{
+							"time": 1.5,
+							"vertices": [ 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.53224, -4.69379, -4.96375, 6.24445, -2.77934, 6.23514, 4.09834, 6.16644, 5.14221, 5.68652, 5.43942, -4.68018, 0.13707, -7.22241 ]
+						},
+						{ "time": 3 }
+					]
+				}
+			},
+			"5": {
+				"st18": {
+					"st18": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 4.22998, -9.73199, 4.22998, -9.73199, 4.22998, -9.73199, 4.22998, -9.73199 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 1.099, -7.914, 1.099, -7.914, 1.099, -7.914, 1.099, -7.914 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st20": {
+					"st20": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.13602, -1.70403, 1.13602, -1.70403, 1.13602, -1.70403, 1.13602, -1.70403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st12": {
+					"st12": [
+						{
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -18.71481, 11.11633, 3.81906, -4.04852, -6.94305, -20.04028, -29.47696, -4.87543 ]
+						},
+						{
+							"time": 3,
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						}
+					]
+				},
+				"st17": {
+					"st17": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.97595, 1.97601, 1.97595, 1.97601, 1.97595, 1.97601, 1.97595, 1.97601 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -3.07596, 3.01999, -3.07596, 3.01999, -3.07596, 3.01999, -3.07596, 3.01999 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403, -4.58997, -2.75403 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st10": {
+					"st10": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -0.62202, 4.97595, -0.62202, 4.97595, -0.62202, 4.97595, -0.62202, 4.97595 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 4.76897, -1.57599, 4.76897, -1.57599, 4.76897, -1.57599, 4.76897, -1.57599 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"shine2": {
+					"shine2": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 5.63696, 0, 5.63696, 0, 5.63696, 0, 5.63696 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st9": {
+					"st9": [
+						{
+							"time": 1,
+							"offset": 2,
+							"vertices": [ -0.52899, -1.05792, -0.52899, -1.05792 ]
+						}
+					]
+				},
+				"st14": {
+					"st14": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 3.8501, 0, 3.8501, 0, 3.8501, 0, 3.8501 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 6.09604, 2.94098, 6.09604, 2.94098, 6.09604, 2.94098, 6.09604, 2.94098 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st7": {
+					"st7": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999, 2.875, 2.29999 ]
+						},
+						{
+							"time": 1.5,
+							"vertices": [ 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497, 28.25623, 13.32497 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st2": {
+					"st2": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.29999, 1.72504, 2.29999, 1.72504, 2.29999, 1.72504, 2.29999, 1.72504 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 10.06598, 3.09152, 10.06598, 3.09152, 10.06598, 3.09152, 10.06598, 3.09152 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st15": {
+					"st15": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 3.745, 6.36096, 3.95618, -1.35352, -6.1109, -1.62915, -6.32214, 6.08533 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 4.92053, 15.37244, 5.02612, 11.5152, -0.00742, 11.37738, -0.11304, 15.23462 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.53224, -4.69379, -4.96375, 6.24445, -2.77934, 6.23514, 4.09834, 6.16644, 5.14221, 5.68652, 5.43942, -4.68018, 0.13707, -7.22241 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st1": {
+					"st1": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -3.68399, -1.84201, -3.68399, -1.84201, -3.68399, -1.84201, -3.68399, -1.84201 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -0.82597, -8.03299, -0.82597, -8.03299, -0.82597, -8.03299, -0.82597, -8.03299 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st11": {
+					"st11": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 1.76598, 0.16101, 1.76598, 0.16101, 1.76598, 0.16101, 1.76598, 0.16101 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st5": {
+					"st5": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 0.164, -6.15692, 0.164, -6.15692, 0.164, -6.15692, 0.164, -6.15692 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st19": {
+					"st19": [
+						{},
+						{
+							"time": 1,
+							"offset": 1,
+							"vertices": [ 3.048, 0, 3.048, 0, 3.048, 0, 3.048 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 2.94006, -4.356, 2.94006, -4.356, 2.94006, -4.356, 2.94006, -4.356 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st4": {
+					"st4": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 6.84708, 0.724, 6.84708, 0.724, 6.84708, 0.724, 6.84708, 0.724 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 9.98351, 0.362, 9.98351, 0.362, 9.98351, 0.362, 9.98351, 0.362 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st16": {
+					"st16": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -1.93207, -0.966, -1.93207, -0.966, -1.93207, -0.966, -1.93207, -0.966 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st8": {
+					"st8": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 2.11599, -0.96497, 2.11599, -0.96497, 2.11599, -0.96497, 2.11599, -0.96497 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ 6.13804, -0.48248, 6.13804, -0.48248, 6.13804, -0.48248, 6.13804, -0.48248 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st3": {
+					"st3": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ -5.16226, 0.52185, -5.06177, 5.39185, 2.86227, 5.22827, 2.76178, 0.35828 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -2.58113, 5.50885, -2.53088, 7.94385, 1.43114, 7.86206, 1.38089, 5.42706 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st21": {
+					"st21": [
+						{},
+						{
+							"time": 1,
+							"vertices": [ 0.60696, 11.55695, 0.60696, 11.55695, 0.60696, 11.55695, 0.60696, 11.55695 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"st6": {
+					"st6": [
+						{
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -4.35867, 20.99957, 44.85063, 20.99957, 44.85063, -16.39954, -4.35867, -16.39954 ]
+						},
+						{
+							"time": 2,
+							"vertices": [ -23.20801, 9.21429, 26.71329, 28.99402, 41.74597, -8.94604, -8.17538, -28.72583 ]
+						},
+						{
+							"time": 3,
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"koloss arrived": {
+		"slots": {
+			"stones_aqua/seaweed top1": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_frogs/frog right": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st20": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed 6": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_ice/ice 2": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/statue right": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "statue right2" }
+				]
+			},
+			"stones_aqua/seaweed top2": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed5": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st17": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st13": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st12": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_cryst/arca": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_ice/ice 5": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_frogs/frog left": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st10": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_ice/ice 3": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed 4": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.625, "color": "ffffff84", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st11": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed 3": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed4": {
+				"color": [
+					{ "time": 0.5, "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st14": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/st668": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.625, "color": "ffffff84", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st7": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_ship/ship2": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st21": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/st667": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff03" }
+				]
+			},
+			"st15": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st2": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/statue left": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"blik": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.0417, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.7083, "color": "ffffffff" },
+					{ "time": 1.75, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "blik" }
+				]
+			},
+			"st1": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st3": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st5": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st19": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"Layer 33": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 1.0417, "color": "ffffff00" }
+				]
+			},
+			"st16": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_ice/ice 4": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed 7": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.625, "color": "ffffff84", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st8": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"shine2": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"stones_ship/ship1": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_aqua/seaweed top4": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.625, "color": "ffffff84", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st18": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st4": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st6": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"stones_ice/arca": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"st9": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"deform": {
+			"0": {
+				"st20": {
+					"st20": [
+						{},
+						{
+							"time": 0.5,
+							"offset": 6,
+							"vertices": [ 59.95499, 26.83699 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1162.7224, -467.36066, -1162.7224, -467.36066, -1162.7224, -467.36066, -1162.7224, -467.36066 ]
+						}
+					]
+				},
+				"st15": {
+					"st15": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 50.24207, -6.6546, 64.0184, -16.62903, 3.73398, -18.92944, 19.41769, -21.72101 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1014.9297, 114.54912, -1014.9297, 114.54912, -1014.9297, 114.54912, -1014.9297, 114.54912 ]
+						}
+					]
+				},
+				"st12": {
+					"st12": [
+						{
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ -19.39117, -7.64417, 14.81674, -1.10358, 14.81674, -12.85779, -19.58615, -28.4679 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -572.288, 496.54407, -572.288, 496.54407, -572.288, 496.54407, -572.288, 496.54407 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1076.2883, 358.5443, -1076.2883, 358.5443, -1076.2883, 358.5443, -1076.2883, 358.5443 ]
+						}
+					]
+				},
+				"st17": {
+					"st17": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -25.44769, -2.97424, -36.67841, 12.7229, -19.91344, -9.88953, -16.82892, -14.91541 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 553.84, 0, 553.84, 0, 553.84, 0, 553.84 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 806.93097, 0, 806.93097, 0, 806.93097, 0, 806.93097 ]
+						}
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012 ]
+						}
+					]
+				},
+				"st10": {
+					"st10": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -16.06516, -33.23578, 24.06605, -39.2937, 19.88276, -40.8714, -8.52845, -52.17645 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 51.83225, 840.5995, 51.83225, 840.5995, 51.83225, 840.5995, 51.83225, 840.5995 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ 51.83225, 840.5834, 51.83225, 840.5834, 51.83225, 840.5834, 51.83225, 840.5834 ]
+						}
+					]
+				},
+				"shine2": {
+					"shine2": [
+						{}
+					]
+				},
+				"st11": {
+					"st11": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 19.08748, -46.02875, 11.66652, -10.26276, 11.66652, -26.31812, -5.6906, -26.31812 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -62.00306, 613.4674, -62.00306, 613.4674, -62.00306, 613.4674, -62.00306, 613.4674 ]
+						}
+					]
+				},
+				"st14": {
+					"st14": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 12.39999, -20.14996, 17.82492, 2.32501, 8.52496, -6.19995, 8.52496, -6.19995 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -125.78459, 536.33777, -125.78459, 536.33777, -125.78459, 536.33777, -125.78459, 536.33777 ]
+						}
+					]
+				},
+				"st7": {
+					"st7": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"offset": 1,
+							"vertices": [ 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234 ]
+						},
+						{
+							"time": 0.6667,
+							"offset": 1,
+							"vertices": [ 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041 ]
+						}
+					]
+				},
+				"st9": {
+					"st9": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -3.52827, -9.70239, -3.52827, -9.70239, -3.52827, -9.70239, -3.52827, -9.70239 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 152.50581, 461.96368, 152.50581, 461.96368, 152.50581, 461.96368, 152.50581, 461.96368 ]
+						}
+					]
+				},
+				"st4": {
+					"st4": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 12.85489, 86.45404, 48.3515, 71.36032, -44.1069, -94.81763, -77.40997, -88.49817 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 941.71936, -238.92426, 941.71936, -238.92426, 941.71936, -238.92426, 941.71936, -238.92426 ]
+						}
+					]
+				},
+				"st2": {
+					"st2": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -9.61801, -16.94598, -9.61801, -16.94598, -9.61801, -16.94598, -9.61801, -16.94598 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 449.22092, 38.6571, 449.22092, 38.6571, 449.22092, 38.6571, 449.22092, 38.6571 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 702.3119, 38.6571, 702.3119, 38.6571, 702.3119, 38.6571, 702.3119, 38.6571 ]
+						}
+					]
+				},
+				"st1": {
+					"st1": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -1.89969, 79.89268, 39.25769, 50.16183, 87.65091, -52.54987, 49.16269, -60.25903 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -965.0746, -209.31573, -963.54114, -231.62256, -1050.5787, -237.60614, -1052.1123, -215.29932 ]
+						}
+					]
+				},
+				"st3": {
+					"st3": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -8.48398, -10.60504, -8.48398, -10.60504, -8.48398, -10.60504, -8.48398, -10.60504 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 755.74817, 198.28117, 755.74817, 198.28117, 755.74817, 198.28117, 755.74817, 198.28117 ]
+						}
+					]
+				},
+				"st5": {
+					"st5": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"vertices": [ 354.725, 407.42694, 354.725, 407.42694, 354.725, 407.42694, 354.725, 407.42694 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 354.725, 571.997, 354.725, 571.997, 354.725, 571.997, 354.725, 571.997 ]
+						}
+					]
+				},
+				"st19": {
+					"st19": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 35.3582, 30.74759, 34.29236, 19.08487, 28.50189, -1.07584, 23.56926, -7.47525 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -510.59985, -122.09995, -510.59985, -122.09995, -510.59985, -122.09995, -510.59985, -122.09995 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1014.6001, -260.0997, -1014.6001, -260.0997, -1014.6001, -260.0997, -1014.6001, -260.0997 ]
+						}
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -47.85135, -88.22626, -115.17799, 95.49524, -67.05511, 66.49985, 47.20061, 108.00293, 61.73846, 111.01978, 74.56743, -52.14032, 37.92074, -92.45862 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -86.28549, 135.1687, 132.56311, 61.55719, 165.76057, 28.9532, 139.92639, -85.34901, 97.78511, -64.95583, -181.46643, -97.55457, -183.29814, 100.29749 ]
+						},
+						{
+							"time": 0.7917,
+							"vertices": [ -63.03873, -318.5744, -249.04549, 110.87947, -218.4495, 68.03011, -5.58063, 107.08984, 44.15656, 172.46341, 182.01315, -82.75928, 120.09989, -227.03534 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -77.50115, -389.06277, -222.0323, 147.2256, -172.18936, 157.44513, 42.93868, 171.71655, 102.97415, 204.38388, 267.4345, -191.98175, 119.93047, -335.7532 ]
+						},
+						{
+							"time": 0.875,
+							"vertices": [ -166.62766, -401.47925, -195.01909, 183.57178, -113.48506, 201.23224, 91.45805, 236.34335, 161.79184, 236.30441, 334.18988, -216.1705, 119.76103, -444.47122 ]
+						},
+						{
+							"time": 0.9583,
+							"vertices": [ -255.8404, -415.7795, -211.7395, 124.19901, -97.43622, 139.76065, 233.14594, 155.35684, 288.6342, 145.95157, 310.83923, -387.39227, 40.80007, -525.53406 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -262.79718, -394.9651, -243.80585, 132.18417, -138.61234, 133.41064, 192.62448, 135.37256, 243.25827, 113.06213, 265.51492, -385.9006, 12.13624, -512.3829 ]
+						}
+					]
+				},
+				"st16": {
+					"st16": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 25.16199, -17.50397, 25.16199, -17.50397, 25.16199, -17.50397, 25.16199, -17.50397 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -496.54388, 75.74408, -496.54388, 75.74408, -496.54388, 75.74408, -496.54388, 75.74408 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1000.5441, -62.25568, -1000.5441, -62.25568, -1000.5441, -62.25568, -1000.5441, -62.25568 ]
+						}
+					]
+				},
+				"st8": {
+					"st8": [
+						{},
+						{
+							"time": 0.5,
+							"offset": 2,
+							"vertices": [ -10.53603, -41.42206, -1.80002, -12.59998 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 224.99702, 421.61597, 224.99702, 421.61597, 224.99702, 421.61597, 224.99702, 421.61597 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 224.99702, 586.18604, 224.99702, 586.18604, 224.99702, 586.18604, 224.99702, 586.18604 ]
+						}
+					]
+				},
+				"blik": {
+					"blik": [
+						{
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						},
+						{
+							"time": 1.0417,
+							"vertices": [ -52.72235, -16.66449, -108.47895, -30.41162, -67.1948, 12.1026, -88.02096, 63.67285, -87.14356, 63.78906, -42.61769, 24.11157, 9.24893, 36.87344, -30.84494, -2.77841, -13.13616, -55.88361 ]
+						},
+						{
+							"time": 1.375,
+							"vertices": [ -27.94096, -27.44838, -96.13672, -92.29419, -71.90082, 1.74374, -143.4228, 58.23211, -142.2681, 59.10976, -46.67226, 38.79538, 16.7872, 99.07896, -8.07848, 10.0826, 60.25267, -51.12289 ]
+						},
+						{
+							"time": 1.625,
+							"vertices": [ -49.63815, -22.37002, -118.61098, -45.91408, -71.11553, 12.40003, -103.1468, 75.29752, -102.05037, 75.54132, -41.37049, 30.29993, 22.79313, 52.16798, -23.51367, -2.39549, 4.74586, -67.5784 ]
+						},
+						{
+							"time": 1.7083,
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						}
+					]
+				},
+				"st18": {
+					"st18": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -23.49628, 17.74976, -13.49094, 17.74976, -45.86113, -28.38, -23.49628, -31.995 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 615.02, 0, 615.02, 0, 615.02, 0, 615.02 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 868.11096, 0, 868.11096, 0, 868.11096, 0, 868.11096 ]
+						}
+					]
+				},
+				"st21": {
+					"st21": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 18.6328, 26.43317, 28.44208, 21.54843, 9.56323, -16.36328, -0.24603, -11.47845 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -512.54395, 147.74396, -512.54395, 147.74396, -512.54395, 147.74396, -512.54395, 147.74396 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1125.3054, 33.36346, -1124.5505, 43.90613, -1083.8049, 40.98883, -1084.5598, 30.44617 ]
+						}
+					]
+				},
+				"st6": {
+					"st6": [
+						{
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ -14.41982, -0.88745, -35.79501, -35.82837, 2.44774, -13.70679, -14.41982, -13.70679 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 691.20685, 129.7279, 691.20685, 129.7279, 691.20685, 129.7279, 691.20685, 129.7279 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 944.2978, 129.7279, 944.2978, 129.7279, 944.2978, 129.7279, 944.2978, 129.7279 ]
+						}
+					]
+				}
+			},
+			"1": {
+				"stones_ice/arca": {
+					"arca": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -56.00381, 47.10065, 56.00381, 47.10065, 56.00381, -47.10065, -56.00381, -47.10065 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 280.923, -236.26343, -280.923, -236.26343, -280.923, 236.26337, 280.923, 236.26337 ]
+						}
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -47.85135, -88.22626, -115.17799, 95.49524, -67.05511, 66.49985, 47.20061, 108.00293, 61.73846, 111.01978, 74.56743, -52.14032, 37.92074, -92.45862 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -86.28549, 135.1687, 132.56311, 61.55719, 165.76057, 28.9532, 139.92639, -85.34901, 97.78511, -64.95583, -181.46643, -97.55457, -183.29814, 100.29749 ]
+						},
+						{
+							"time": 0.7917,
+							"vertices": [ -63.03873, -318.5744, -249.04549, 110.87947, -218.4495, 68.03011, -5.58063, 107.08984, 44.15656, 172.46341, 182.01315, -82.75928, 120.09989, -227.03534 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -77.50115, -389.06277, -222.0323, 147.2256, -172.18936, 157.44513, 42.93868, 171.71655, 102.97415, 204.38388, 267.4345, -191.98175, 119.93047, -335.7532 ]
+						},
+						{
+							"time": 0.875,
+							"vertices": [ -166.62766, -401.47925, -195.01909, 183.57178, -113.48506, 201.23224, 91.45805, 236.34335, 161.79184, 236.30441, 334.18988, -216.1705, 119.76103, -444.47122 ]
+						},
+						{
+							"time": 0.9583,
+							"vertices": [ -255.8404, -415.7795, -211.7395, 124.19901, -97.43622, 139.76065, 233.14594, 155.35684, 288.6342, 145.95157, 310.83923, -387.39227, 40.80007, -525.53406 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -262.79718, -394.9651, -243.80585, 132.18417, -138.61234, 133.41064, 192.62448, 135.37256, 243.25827, 113.06213, 265.51492, -385.9006, 12.13624, -512.3829 ]
+						}
+					]
+				},
+				"blik": {
+					"blik": [
+						{
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						},
+						{
+							"time": 1.0417,
+							"vertices": [ -52.72235, -16.66449, -108.47895, -30.41162, -67.1948, 12.1026, -88.02096, 63.67285, -87.14356, 63.78906, -42.61769, 24.11157, 9.24893, 36.87344, -30.84494, -2.77841, -13.13616, -55.88361 ]
+						},
+						{
+							"time": 1.375,
+							"vertices": [ -27.94096, -27.44838, -96.13672, -92.29419, -71.90082, 1.74374, -143.4228, 58.23211, -142.2681, 59.10976, -46.67226, 38.79538, 16.7872, 99.07896, -8.07848, 10.0826, 60.25267, -51.12289 ]
+						},
+						{
+							"time": 1.625,
+							"vertices": [ -49.63815, -22.37002, -118.61098, -45.91408, -71.11553, 12.40003, -103.1468, 75.29752, -102.05037, 75.54132, -41.37049, 30.29993, 22.79313, 52.16798, -23.51367, -2.39549, 4.74586, -67.5784 ]
+						},
+						{
+							"time": 1.7083,
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						}
+					]
+				}
+			},
+			"2": {
+				"st7": {
+					"st7": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"offset": 1,
+							"vertices": [ 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234 ]
+						},
+						{
+							"time": 0.6667,
+							"offset": 1,
+							"vertices": [ 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041 ]
+						}
+					]
+				},
+				"st12": {
+					"st12": [
+						{
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ -19.39117, -7.64417, 14.81674, -1.10358, 14.81674, -12.85779, -19.58615, -28.4679 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -572.288, 496.54407, -572.288, 496.54407, -572.288, 496.54407, -572.288, 496.54407 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1076.2883, 358.5443, -1076.2883, 358.5443, -1076.2883, 358.5443, -1076.2883, 358.5443 ]
+						}
+					]
+				},
+				"st17": {
+					"st17": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -25.44769, -2.97424, -36.67841, 12.7229, -19.91344, -9.88953, -16.82892, -14.91541 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 553.84, 0, 553.84, 0, 553.84, 0, 553.84 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 806.93097, 0, 806.93097, 0, 806.93097, 0, 806.93097 ]
+						}
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012 ]
+						}
+					]
+				},
+				"st10": {
+					"st10": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -16.06516, -33.23578, 24.06605, -39.2937, 19.88276, -40.8714, -8.52845, -52.17645 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 51.83225, 840.5995, 51.83225, 840.5995, 51.83225, 840.5995, 51.83225, 840.5995 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ 51.83225, 840.5834, 51.83225, 840.5834, 51.83225, 840.5834, 51.83225, 840.5834 ]
+						}
+					]
+				},
+				"st19": {
+					"st19": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 35.3582, 30.74759, 34.29236, 19.08487, 28.50189, -1.07584, 23.56926, -7.47525 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -510.59985, -122.09995, -510.59985, -122.09995, -510.59985, -122.09995, -510.59985, -122.09995 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1014.6001, -260.0997, -1014.6001, -260.0997, -1014.6001, -260.0997, -1014.6001, -260.0997 ]
+						}
+					]
+				},
+				"stones_aqua/seaweed 4": {
+					"seaweed 3": [
+						{ "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+						{
+							"time": 0.5,
+							"vertices": [ 5.57997, -37.11798, 15.80997, -57.578, 5.57997, -37.11798, 5.57997, -37.11798 ]
+						},
+						{
+							"time": 0.625,
+							"vertices": [ 44.52804, 625.416, 44.52804, 625.416, 44.52804, 625.416, 44.52804, 625.416 ]
+						}
+					]
+				},
+				"st11": {
+					"st11": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 19.08748, -46.02875, 11.66652, -10.26276, 11.66652, -26.31812, -5.6906, -26.31812 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -62.00306, 613.4674, -62.00306, 613.4674, -62.00306, 613.4674, -62.00306, 613.4674 ]
+						}
+					]
+				},
+				"st14": {
+					"st14": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 12.39999, -20.14996, 17.82492, 2.32501, 8.52496, -6.19995, 8.52496, -6.19995 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -125.78459, 536.33777, -125.78459, 536.33777, -125.78459, 536.33777, -125.78459, 536.33777 ]
+						}
+					]
+				},
+				"st9": {
+					"st9": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -3.52827, -9.70239, -3.52827, -9.70239, -3.52827, -9.70239, -3.52827, -9.70239 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 152.50581, 461.96368, 152.50581, 461.96368, 152.50581, 461.96368, 152.50581, 461.96368 ]
+						}
+					]
+				},
+				"stones_aqua/statue right": {
+					"statue right2": [
+						{ "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+						{
+							"time": 0.5,
+							"vertices": [ 15.55884, 4.79456, 15.71619, -4.25046, -15.55884, -4.79456, -15.71613, 4.25049 ],
+							"curve": 0.801,
+							"c3": 0.878,
+							"c4": 0.59
+						},
+						{
+							"time": 0.625,
+							"vertices": [ 392.17264, 288.0229, 400.5209, 353.37897, 626.50183, 324.51312, 618.15356, 259.15717 ]
+						}
+					]
+				},
+				"stones_aqua/statue left": {
+					"statue left": [
+						{ "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+						{
+							"time": 0.5,
+							"vertices": [ -36.15863, -8.25626, -35.38977, 11.09845, 36.15863, 8.25635, 35.38983, -11.09851 ],
+							"curve": 0.801,
+							"c3": 0.878,
+							"c4": 0.59
+						},
+						{
+							"time": 0.625,
+							"vertices": [ -274.9308, 220.9881, -272.5783, 187.1883, -397.52716, 178.49219, -399.87952, 212.29187 ]
+						}
+					]
+				},
+				"st5": {
+					"st5": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"vertices": [ 354.725, 407.42694, 354.725, 407.42694, 354.725, 407.42694, 354.725, 407.42694 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 354.725, 571.997, 354.725, 571.997, 354.725, 571.997, 354.725, 571.997 ]
+						}
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -47.85135, -88.22626, -115.17799, 95.49524, -67.05511, 66.49985, 47.20061, 108.00293, 61.73846, 111.01978, 74.56743, -52.14032, 37.92074, -92.45862 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -86.28549, 135.1687, 132.56311, 61.55719, 165.76057, 28.9532, 139.92639, -85.34901, 97.78511, -64.95583, -181.46643, -97.55457, -183.29814, 100.29749 ]
+						},
+						{
+							"time": 0.7917,
+							"vertices": [ -63.03873, -318.5744, -249.04549, 110.87947, -218.4495, 68.03011, -5.58063, 107.08984, 44.15656, 172.46341, 182.01315, -82.75928, 120.09989, -227.03534 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -77.50115, -389.06277, -222.0323, 147.2256, -172.18936, 157.44513, 42.93868, 171.71655, 102.97415, 204.38388, 267.4345, -191.98175, 119.93047, -335.7532 ]
+						},
+						{
+							"time": 0.875,
+							"vertices": [ -166.62766, -401.47925, -195.01909, 183.57178, -113.48506, 201.23224, 91.45805, 236.34335, 161.79184, 236.30441, 334.18988, -216.1705, 119.76103, -444.47122 ]
+						},
+						{
+							"time": 0.9583,
+							"vertices": [ -255.8404, -415.7795, -211.7395, 124.19901, -97.43622, 139.76065, 233.14594, 155.35684, 288.6342, 145.95157, 310.83923, -387.39227, 40.80007, -525.53406 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -262.79718, -394.9651, -243.80585, 132.18417, -138.61234, 133.41064, 192.62448, 135.37256, 243.25827, 113.06213, 265.51492, -385.9006, 12.13624, -512.3829 ]
+						}
+					]
+				},
+				"stones_aqua/st668": {
+					"st666": [
+						{ "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+						{
+							"time": 0.5,
+							"vertices": [ 7.28808, -54.66003, 7.28808, -54.66003, 7.28808, -54.66003, 7.28808, -54.66003 ],
+							"curve": 0.618,
+							"c2": 0.01,
+							"c3": 0.863,
+							"c4": 0.47
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 44.99885, 398.02417, 44.99885, 398.02417, 44.99885, 398.02417, 44.99885, 398.02417 ],
+							"curve": 0.436,
+							"c2": 0.33,
+							"c3": 0.699,
+							"c4": 0.69
+						},
+						{
+							"time": 0.625,
+							"vertices": [ 40.50405, 609.6647, 40.50405, 609.6647, 40.50405, 609.6647, 40.50405, 609.6647 ]
+						}
+					]
+				},
+				"stones_aqua/seaweed 7": {
+					"seaweed 6": [
+						{ "curve": 0.692, "c2": 0.01, "c3": 0.884, "c4": 0.51 },
+						{
+							"time": 0.5,
+							"vertices": [ 5.02501, -5.11871, 5.02501, -5.11871, 5.02501, -5.11871, 5.02501, -5.11871 ],
+							"curve": 0.364,
+							"c2": 0.34,
+							"c3": 0.67,
+							"c4": 0.69
+						},
+						{
+							"time": 0.625,
+							"vertices": [ -110.71982, 398.59216, -110.71982, 398.59216, -110.71982, 398.59216, -110.71982, 398.59216 ]
+						}
+					]
+				},
+				"st8": {
+					"st8": [
+						{},
+						{
+							"time": 0.5,
+							"offset": 2,
+							"vertices": [ -10.53603, -41.42206, -1.80002, -12.59998 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 224.99702, 421.61597, 224.99702, 421.61597, 224.99702, 421.61597, 224.99702, 421.61597 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 224.99702, 586.18604, 224.99702, 586.18604, 224.99702, 586.18604, 224.99702, 586.18604 ]
+						}
+					]
+				},
+				"blik": {
+					"blik": [
+						{
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						},
+						{
+							"time": 1.0417,
+							"vertices": [ -52.72235, -16.66449, -108.47895, -30.41162, -67.1948, 12.1026, -88.02096, 63.67285, -87.14356, 63.78906, -42.61769, 24.11157, 9.24893, 36.87344, -30.84494, -2.77841, -13.13616, -55.88361 ]
+						},
+						{
+							"time": 1.375,
+							"vertices": [ -27.94096, -27.44838, -96.13672, -92.29419, -71.90082, 1.74374, -143.4228, 58.23211, -142.2681, 59.10976, -46.67226, 38.79538, 16.7872, 99.07896, -8.07848, 10.0826, 60.25267, -51.12289 ]
+						},
+						{
+							"time": 1.625,
+							"vertices": [ -49.63815, -22.37002, -118.61098, -45.91408, -71.11553, 12.40003, -103.1468, 75.29752, -102.05037, 75.54132, -41.37049, 30.29993, 22.79313, 52.16798, -23.51367, -2.39549, 4.74586, -67.5784 ]
+						},
+						{
+							"time": 1.7083,
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						}
+					]
+				},
+				"stones_aqua/seaweed top4": {
+					"seaweed top2": [
+						{ "curve": 0.692, "c2": 0.01, "c3": 0.884, "c4": 0.51 },
+						{
+							"time": 0.5,
+							"vertices": [ 8.44014, -2.86456, 2.75215, -14.2406, 8.44014, -2.86456, 8.44014, -2.86456 ],
+							"curve": 0.364,
+							"c2": 0.34,
+							"c3": 0.67,
+							"c4": 0.69
+						},
+						{
+							"time": 0.625,
+							"vertices": [ 366.344, 489.80798, 366.344, 489.80798, 366.344, 489.80798, 366.344, 489.80798 ]
+						}
+					]
+				},
+				"st18": {
+					"st18": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -23.49628, 17.74976, -13.49094, 17.74976, -45.86113, -28.38, -23.49628, -31.995 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 615.02, 0, 615.02, 0, 615.02, 0, 615.02 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 868.11096, 0, 868.11096, 0, 868.11096, 0, 868.11096 ]
+						}
+					]
+				},
+				"st21": {
+					"st21": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 18.6328, 26.43317, 28.44208, 21.54843, 9.56323, -16.36328, -0.24603, -11.47845 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -512.54395, 147.74396, -512.54395, 147.74396, -512.54395, 147.74396, -512.54395, 147.74396 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1125.3054, 33.36346, -1124.5505, 43.90613, -1083.8049, 40.98883, -1084.5598, 30.44617 ]
+						}
+					]
+				},
+				"st6": {
+					"st6": [
+						{
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ -14.41982, -0.88745, -35.79501, -35.82837, 2.44774, -13.70679, -14.41982, -13.70679 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 691.20685, 129.7279, 691.20685, 129.7279, 691.20685, 129.7279, 691.20685, 129.7279 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 944.2978, 129.7279, 944.2978, 129.7279, 944.2978, 129.7279, 944.2978, 129.7279 ]
+						}
+					]
+				}
+			},
+			"3": {
+				"stones_ice/arca": {
+					"arca": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -56.00381, 47.10065, 56.00381, 47.10065, 56.00381, -47.10065, -56.00381, -47.10065 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 280.923, -236.26343, -280.923, -236.26343, -280.923, 236.26337, 280.923, 236.26337 ]
+						}
+					]
+				},
+				"stones_ice/ice 3": {
+					"stones_ice/ice 3": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 24.94803, -32.96698, 35.259, -37.38593, 24.94803, -32.96698, 24.94803, -32.96698 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -614.6359, 335.40106, -604.32495, 330.98212, -614.6359, 335.40106, -614.6359, 335.40106 ]
+						}
+					]
+				},
+				"stones_ice/ice 5": {
+					"stones_ice/ice 5": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -19.14902, -17.67603, -33.87894, -30.93304, -19.14902, -17.67603, -19.14902, -17.67603 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 491.91095, 687.3038, 477.18103, 674.04675, 491.91095, 687.3038, 491.91095, 687.3038 ]
+						}
+					]
+				},
+				"stones_ice/ice 4": {
+					"stones_ice/ice 4": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -32.40598, -60.39301, -22.095, -44.19, -22.095, -44.19, -22.095, -44.19 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 906.826, 612.88293, 917.13696, 629.08594, 917.13696, 629.08594, 917.13696, 629.08594 ]
+						}
+					]
+				},
+				"stones_ice/ice 2": {
+					"stones_ice/ice 2": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 47.42722, -16.30969, 40.13135, -27.15704, -1.26944, -30.94739, -2.76559, -14.60504 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -324.05673, 409.80426, -331.3526, 398.9569, -372.7534, 395.16656, -374.24954, 411.5089 ]
+						}
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -47.85135, -88.22626, -115.17799, 95.49524, -67.05511, 66.49985, 47.20061, 108.00293, 61.73846, 111.01978, 74.56743, -52.14032, 37.92074, -92.45862 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -86.28549, 135.1687, 132.56311, 61.55719, 165.76057, 28.9532, 139.92639, -85.34901, 97.78511, -64.95583, -181.46643, -97.55457, -183.29814, 100.29749 ]
+						},
+						{
+							"time": 0.7917,
+							"vertices": [ -63.03873, -318.5744, -249.04549, 110.87947, -218.4495, 68.03011, -5.58063, 107.08984, 44.15656, 172.46341, 182.01315, -82.75928, 120.09989, -227.03534 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -77.50115, -389.06277, -222.0323, 147.2256, -172.18936, 157.44513, 42.93868, 171.71655, 102.97415, 204.38388, 267.4345, -191.98175, 119.93047, -335.7532 ]
+						},
+						{
+							"time": 0.875,
+							"vertices": [ -166.62766, -401.47925, -195.01909, 183.57178, -113.48506, 201.23224, 91.45805, 236.34335, 161.79184, 236.30441, 334.18988, -216.1705, 119.76103, -444.47122 ]
+						},
+						{
+							"time": 0.9583,
+							"vertices": [ -255.8404, -415.7795, -211.7395, 124.19901, -97.43622, 139.76065, 233.14594, 155.35684, 288.6342, 145.95157, 310.83923, -387.39227, 40.80007, -525.53406 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -262.79718, -394.9651, -243.80585, 132.18417, -138.61234, 133.41064, 192.62448, 135.37256, 243.25827, 113.06213, 265.51492, -385.9006, 12.13624, -512.3829 ]
+						}
+					]
+				},
+				"blik": {
+					"blik": [
+						{
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						},
+						{
+							"time": 1.0417,
+							"vertices": [ -52.72235, -16.66449, -108.47895, -30.41162, -67.1948, 12.1026, -88.02096, 63.67285, -87.14356, 63.78906, -42.61769, 24.11157, 9.24893, 36.87344, -30.84494, -2.77841, -13.13616, -55.88361 ]
+						},
+						{
+							"time": 1.375,
+							"vertices": [ -27.94096, -27.44838, -96.13672, -92.29419, -71.90082, 1.74374, -143.4228, 58.23211, -142.2681, 59.10976, -46.67226, 38.79538, 16.7872, 99.07896, -8.07848, 10.0826, 60.25267, -51.12289 ]
+						},
+						{
+							"time": 1.625,
+							"vertices": [ -49.63815, -22.37002, -118.61098, -45.91408, -71.11553, 12.40003, -103.1468, 75.29752, -102.05037, 75.54132, -41.37049, 30.29993, 22.79313, 52.16798, -23.51367, -2.39549, 4.74586, -67.5784 ]
+						},
+						{
+							"time": 1.7083,
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						}
+					]
+				}
+			},
+			"4": {
+				"st20": {
+					"st20": [
+						{},
+						{
+							"time": 0.5,
+							"offset": 6,
+							"vertices": [ 59.95499, 26.83699 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1162.7224, -467.36066, -1162.7224, -467.36066, -1162.7224, -467.36066, -1162.7224, -467.36066 ]
+						}
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012 ]
+						}
+					]
+				},
+				"stones_cryst/arca": {
+					"arca": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -62.81567, 43.97757, 55.96783, 61.09756, 55.96783, -61.0976, -38.84787, -64.52167 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 385.87775, -484.28723, -414.04413, -441.47662, -414.04413, 450.45563, 445.81207, 441.89337 ]
+						}
+					]
+				},
+				"st7": {
+					"st7": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"offset": 1,
+							"vertices": [ 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234 ]
+						},
+						{
+							"time": 0.6667,
+							"offset": 1,
+							"vertices": [ 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041 ]
+						}
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -47.85135, -88.22626, -115.17799, 95.49524, -67.05511, 66.49985, 47.20061, 108.00293, 61.73846, 111.01978, 74.56743, -52.14032, 37.92074, -92.45862 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -86.28549, 135.1687, 132.56311, 61.55719, 165.76057, 28.9532, 139.92639, -85.34901, 97.78511, -64.95583, -181.46643, -97.55457, -183.29814, 100.29749 ]
+						},
+						{
+							"time": 0.7917,
+							"vertices": [ -63.03873, -318.5744, -249.04549, 110.87947, -218.4495, 68.03011, -5.58063, 107.08984, 44.15656, 172.46341, 182.01315, -82.75928, 120.09989, -227.03534 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -77.50115, -389.06277, -222.0323, 147.2256, -172.18936, 157.44513, 42.93868, 171.71655, 102.97415, 204.38388, 267.4345, -191.98175, 119.93047, -335.7532 ]
+						},
+						{
+							"time": 0.875,
+							"vertices": [ -166.62766, -401.47925, -195.01909, 183.57178, -113.48506, 201.23224, 91.45805, 236.34335, 161.79184, 236.30441, 334.18988, -216.1705, 119.76103, -444.47122 ]
+						},
+						{
+							"time": 0.9583,
+							"vertices": [ -255.8404, -415.7795, -211.7395, 124.19901, -97.43622, 139.76065, 233.14594, 155.35684, 288.6342, 145.95157, 310.83923, -387.39227, 40.80007, -525.53406 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -262.79718, -394.9651, -243.80585, 132.18417, -138.61234, 133.41064, 192.62448, 135.37256, 243.25827, 113.06213, 265.51492, -385.9006, 12.13624, -512.3829 ]
+						}
+					]
+				},
+				"blik": {
+					"blik": [
+						{
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						},
+						{
+							"time": 1.0417,
+							"vertices": [ -52.72235, -16.66449, -108.47895, -30.41162, -67.1948, 12.1026, -88.02096, 63.67285, -87.14356, 63.78906, -42.61769, 24.11157, 9.24893, 36.87344, -30.84494, -2.77841, -13.13616, -55.88361 ]
+						},
+						{
+							"time": 1.375,
+							"vertices": [ -27.94096, -27.44838, -96.13672, -92.29419, -71.90082, 1.74374, -143.4228, 58.23211, -142.2681, 59.10976, -46.67226, 38.79538, 16.7872, 99.07896, -8.07848, 10.0826, 60.25267, -51.12289 ]
+						},
+						{
+							"time": 1.625,
+							"vertices": [ -49.63815, -22.37002, -118.61098, -45.91408, -71.11553, 12.40003, -103.1468, 75.29752, -102.05037, 75.54132, -41.37049, 30.29993, 22.79313, 52.16798, -23.51367, -2.39549, 4.74586, -67.5784 ]
+						},
+						{
+							"time": 1.7083,
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						}
+					]
+				}
+			},
+			"5": {
+				"st20": {
+					"st20": [
+						{},
+						{
+							"time": 0.5,
+							"offset": 6,
+							"vertices": [ 59.95499, 26.83699 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1162.7224, -467.36066, -1162.7224, -467.36066, -1162.7224, -467.36066, -1162.7224, -467.36066 ]
+						}
+					]
+				},
+				"st9": {
+					"st9": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -3.52827, -9.70239, -3.52827, -9.70239, -3.52827, -9.70239, -3.52827, -9.70239 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 152.50581, 461.96368, 152.50581, 461.96368, 152.50581, 461.96368, 152.50581, 461.96368 ]
+						}
+					]
+				},
+				"st17": {
+					"st17": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -25.44769, -2.97424, -36.67841, 12.7229, -19.91344, -9.88953, -16.82892, -14.91541 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 553.84, 0, 553.84, 0, 553.84, 0, 553.84 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 806.93097, 0, 806.93097, 0, 806.93097, 0, 806.93097 ]
+						}
+					]
+				},
+				"st13": {
+					"st13": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034, 4.92297, -12.034 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012, -1069.9761, 188.12012 ]
+						}
+					]
+				},
+				"st12": {
+					"st12": [
+						{
+							"vertices": [ -22.84563, 0.9339, 3.72957, 0.9339, 3.72957, -17.9259, -22.84563, -17.9259 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ -19.39117, -7.64417, 14.81674, -1.10358, 14.81674, -12.85779, -19.58615, -28.4679 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -572.288, 496.54407, -572.288, 496.54407, -572.288, 496.54407, -572.288, 496.54407 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1076.2883, 358.5443, -1076.2883, 358.5443, -1076.2883, 358.5443, -1076.2883, 358.5443 ]
+						}
+					]
+				},
+				"st10": {
+					"st10": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -16.06516, -33.23578, 24.06605, -39.2937, 19.88276, -40.8714, -8.52845, -52.17645 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 51.83225, 840.5995, 51.83225, 840.5995, 51.83225, 840.5995, 51.83225, 840.5995 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ 51.83225, 840.5834, 51.83225, 840.5834, 51.83225, 840.5834, 51.83225, 840.5834 ]
+						}
+					]
+				},
+				"shine2": {
+					"shine2": [
+						{}
+					]
+				},
+				"st11": {
+					"st11": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 19.08748, -46.02875, 11.66652, -10.26276, 11.66652, -26.31812, -5.6906, -26.31812 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -62.00306, 613.4674, -62.00306, 613.4674, -62.00306, 613.4674, -62.00306, 613.4674 ]
+						}
+					]
+				},
+				"st14": {
+					"st14": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 12.39999, -20.14996, 17.82492, 2.32501, 8.52496, -6.19995, 8.52496, -6.19995 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -125.78459, 536.33777, -125.78459, 536.33777, -125.78459, 536.33777, -125.78459, 536.33777 ]
+						}
+					]
+				},
+				"st7": {
+					"st7": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"offset": 1,
+							"vertices": [ 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234, 2.0E-5, 397.234 ]
+						},
+						{
+							"time": 0.6667,
+							"offset": 1,
+							"vertices": [ 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041, 2.0E-5, 561.8041 ]
+						}
+					]
+				},
+				"st2": {
+					"st2": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -9.61801, -16.94598, -9.61801, -16.94598, -9.61801, -16.94598, -9.61801, -16.94598 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 449.22092, 38.6571, 449.22092, 38.6571, 449.22092, 38.6571, 449.22092, 38.6571 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 702.3119, 38.6571, 702.3119, 38.6571, 702.3119, 38.6571, 702.3119, 38.6571 ]
+						}
+					]
+				},
+				"st15": {
+					"st15": [
+						{},
+						{
+							"time": 0.375,
+							"vertices": [ 67.63254, -19.22987, 19.29032, -13.20827, 2.80048, -14.19708, 2.04275, -1.56075 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ 50.24207, -6.6546, 64.0184, -16.62903, 3.73398, -18.92944, 19.41769, -21.72101 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1014.9297, 114.54912, -1014.9297, 114.54912, -1014.9297, 114.54912, -1014.9297, 114.54912 ]
+						}
+					]
+				},
+				"Layer 33": {
+					"Layer 33": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -47.85135, -88.22626, -115.17799, 95.49524, -67.05511, 66.49985, 47.20061, 108.00293, 61.73846, 111.01978, 74.56743, -52.14032, 37.92074, -92.45862 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -86.28549, 135.1687, 132.56311, 61.55719, 165.76057, 28.9532, 139.92639, -85.34901, 97.78511, -64.95583, -181.46643, -97.55457, -183.29814, 100.29749 ]
+						},
+						{
+							"time": 0.7917,
+							"vertices": [ -63.03873, -318.5744, -249.04549, 110.87947, -218.4495, 68.03011, -5.58063, 107.08984, 44.15656, 172.46341, 182.01315, -82.75928, 120.09989, -227.03534 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -77.50115, -389.06277, -222.0323, 147.2256, -172.18936, 157.44513, 42.93868, 171.71655, 102.97415, 204.38388, 267.4345, -191.98175, 119.93047, -335.7532 ]
+						},
+						{
+							"time": 0.875,
+							"vertices": [ -166.62766, -401.47925, -195.01909, 183.57178, -113.48506, 201.23224, 91.45805, 236.34335, 161.79184, 236.30441, 334.18988, -216.1705, 119.76103, -444.47122 ]
+						},
+						{
+							"time": 0.9583,
+							"vertices": [ -255.8404, -415.7795, -211.7395, 124.19901, -97.43622, 139.76065, 233.14594, 155.35684, 288.6342, 145.95157, 310.83923, -387.39227, 40.80007, -525.53406 ]
+						},
+						{
+							"time": 1,
+							"vertices": [ -262.79718, -394.9651, -243.80585, 132.18417, -138.61234, 133.41064, 192.62448, 135.37256, 243.25827, 113.06213, 265.51492, -385.9006, 12.13624, -512.3829 ]
+						}
+					]
+				},
+				"st1": {
+					"st1": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -1.89969, 79.89268, 39.25769, 50.16183, 87.65091, -52.54987, 49.16269, -60.25903 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -965.0746, -209.31573, -963.54114, -231.62256, -1050.5787, -237.60614, -1052.1123, -215.29932 ]
+						}
+					]
+				},
+				"st3": {
+					"st3": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -8.48398, -10.60504, -8.48398, -10.60504, -8.48398, -10.60504, -8.48398, -10.60504 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 755.74817, 198.28117, 755.74817, 198.28117, 755.74817, 198.28117, 755.74817, 198.28117 ]
+						}
+					]
+				},
+				"st5": {
+					"st5": [
+						{ "curve": "stepped" },
+						{ "time": 0.5 },
+						{
+							"time": 0.5833,
+							"vertices": [ 354.725, 407.42694, 354.725, 407.42694, 354.725, 407.42694, 354.725, 407.42694 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 354.725, 571.997, 354.725, 571.997, 354.725, 571.997, 354.725, 571.997 ]
+						}
+					]
+				},
+				"st19": {
+					"st19": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 35.3582, 30.74759, 34.29236, 19.08487, 28.50189, -1.07584, 23.56926, -7.47525 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -510.59985, -122.09995, -510.59985, -122.09995, -510.59985, -122.09995, -510.59985, -122.09995 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1014.6001, -260.0997, -1014.6001, -260.0997, -1014.6001, -260.0997, -1014.6001, -260.0997 ]
+						}
+					]
+				},
+				"st4": {
+					"st4": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 12.85489, 86.45404, 48.3515, 71.36032, -44.1069, -94.81763, -77.40997, -88.49817 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 941.71936, -238.92426, 941.71936, -238.92426, 941.71936, -238.92426, 941.71936, -238.92426 ]
+						}
+					]
+				},
+				"st16": {
+					"st16": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 25.16199, -17.50397, 25.16199, -17.50397, 25.16199, -17.50397, 25.16199, -17.50397 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -496.54388, 75.74408, -496.54388, 75.74408, -496.54388, 75.74408, -496.54388, 75.74408 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1000.5441, -62.25568, -1000.5441, -62.25568, -1000.5441, -62.25568, -1000.5441, -62.25568 ]
+						}
+					]
+				},
+				"st8": {
+					"st8": [
+						{},
+						{
+							"time": 0.5,
+							"offset": 2,
+							"vertices": [ -10.53603, -41.42206, -1.80002, -12.59998 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 224.99702, 421.61597, 224.99702, 421.61597, 224.99702, 421.61597, 224.99702, 421.61597 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 224.99702, 586.18604, 224.99702, 586.18604, 224.99702, 586.18604, 224.99702, 586.18604 ]
+						}
+					]
+				},
+				"blik": {
+					"blik": [
+						{
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						},
+						{
+							"time": 1.0417,
+							"vertices": [ -52.72235, -16.66449, -108.47895, -30.41162, -67.1948, 12.1026, -88.02096, 63.67285, -87.14356, 63.78906, -42.61769, 24.11157, 9.24893, 36.87344, -30.84494, -2.77841, -13.13616, -55.88361 ]
+						},
+						{
+							"time": 1.375,
+							"vertices": [ -27.94096, -27.44838, -96.13672, -92.29419, -71.90082, 1.74374, -143.4228, 58.23211, -142.2681, 59.10976, -46.67226, 38.79538, 16.7872, 99.07896, -8.07848, 10.0826, 60.25267, -51.12289 ]
+						},
+						{
+							"time": 1.625,
+							"vertices": [ -49.63815, -22.37002, -118.61098, -45.91408, -71.11553, 12.40003, -103.1468, 75.29752, -102.05037, 75.54132, -41.37049, 30.29993, 22.79313, 52.16798, -23.51367, -2.39549, 4.74586, -67.5784 ]
+						},
+						{
+							"time": 1.7083,
+							"vertices": [ -54.16351, -17.5787, -115.22914, -24.60832, -65.62595, 14.92899, -80.73985, 72.51038, -79.79257, 72.51468, -37.90123, 24.34436, 18.9004, 30.8557, -29.05062, -5.80397, -17.45489, -64.59204 ]
+						}
+					]
+				},
+				"st18": {
+					"st18": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -23.49628, 17.74976, -13.49094, 17.74976, -45.86113, -28.38, -23.49628, -31.995 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 615.02, 0, 615.02, 0, 615.02, 0, 615.02 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 868.11096, 0, 868.11096, 0, 868.11096, 0, 868.11096 ]
+						}
+					]
+				},
+				"st21": {
+					"st21": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 18.6328, 26.43317, 28.44208, 21.54843, 9.56323, -16.36328, -0.24603, -11.47845 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ -512.54395, 147.74396, -512.54395, 147.74396, -512.54395, 147.74396, -512.54395, 147.74396 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -1125.3054, 33.36346, -1124.5505, 43.90613, -1083.8049, 40.98883, -1084.5598, 30.44617 ]
+						}
+					]
+				},
+				"st6": {
+					"st6": [
+						{
+							"vertices": [ -18.30453, 18.57727, 28.84856, 18.57727, 28.84856, -17.25909, -18.30453, -17.25909 ]
+						},
+						{
+							"time": 0.5,
+							"vertices": [ -14.41982, -0.88745, -35.79501, -35.82837, 2.44774, -13.70679, -14.41982, -13.70679 ]
+						},
+						{
+							"time": 0.5833,
+							"vertices": [ 691.20685, 129.7279, 691.20685, 129.7279, 691.20685, 129.7279, 691.20685, 129.7279 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ 944.2978, 129.7279, 944.2978, 129.7279, 944.2978, 129.7279, 944.2978, 129.7279 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

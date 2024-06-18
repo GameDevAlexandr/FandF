@@ -1,0 +1,90 @@
+
+Group 10.png
+size: 535,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hue/Saturation 1 copy
+  rotate: false
+  xy: 343, 160
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+Layer 418 copy
+  rotate: false
+  xy: 6, 221
+  size: 463, 308
+  orig: 463, 308
+  offset: 0, 0
+  index: -1
+Layer 421
+  rotate: true
+  xy: 139, 113
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+Layer 422
+  rotate: true
+  xy: 6, 113
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 271, 149
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+l eye
+  rotate: false
+  xy: 475, 141
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+lh1
+  rotate: true
+  xy: 271, 53
+  size: 82, 155
+  orig: 82, 155
+  offset: 0, 0
+  index: -1
+lh2
+  rotate: false
+  xy: 167, 15
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+r eye
+  rotate: false
+  xy: 432, 22
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+rh1
+  rotate: true
+  xy: 6, 25
+  size: 82, 155
+  orig: 82, 155
+  offset: 0, 0
+  index: -1
+rh2
+  rotate: false
+  xy: 217, 15
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 475, 262
+  size: 267, 54
+  orig: 267, 54
+  offset: 0, 0
+  index: -1

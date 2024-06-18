@@ -1,0 +1,48 @@
+
+rep1.png
+size: 508,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 22
+  rotate: false
+  xy: 2, 91
+  size: 222, 415
+  orig: 501, 501
+  offset: 91, 34
+  index: -1
+Layer 326
+  rotate: false
+  xy: 226, 97
+  size: 254, 409
+  orig: 501, 501
+  offset: 144, 50
+  index: -1
+Layer 397
+  rotate: true
+  xy: 316, 14
+  size: 81, 106
+  orig: 501, 501
+  offset: 331, 153
+  index: -1
+claw L
+  rotate: false
+  xy: 424, 45
+  size: 31, 18
+  orig: 501, 501
+  offset: 227, 65
+  index: -1
+claw r
+  rotate: true
+  xy: 424, 65
+  size: 30, 23
+  orig: 501, 501
+  offset: 357, 66
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 312, 87
+  orig: 501, 501
+  offset: 125, 35
+  index: -1

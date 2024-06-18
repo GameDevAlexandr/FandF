@@ -1,0 +1,125 @@
+
+2_Wick.png
+size: 422,422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: false
+  xy: 2, 103
+  size: 202, 317
+  orig: 558, 612
+  offset: 169, 134
+  index: -1
+BODY BACK
+  rotate: true
+  xy: 84, 16
+  size: 47, 76
+  orig: 558, 612
+  offset: 247, 80
+  index: -1
+DISC
+  rotate: true
+  xy: 206, 179
+  size: 241, 145
+  orig: 558, 612
+  offset: 151, 391
+  index: -1
+HAND L
+  rotate: false
+  xy: 317, 10
+  size: 62, 62
+  orig: 558, 612
+  offset: 203, 343
+  index: -1
+HAND R
+  rotate: false
+  xy: 162, 2
+  size: 64, 60
+  orig: 558, 612
+  offset: 274, 344
+  index: -1
+HEAD BACK
+  rotate: false
+  xy: 228, 11
+  size: 47, 51
+  orig: 558, 612
+  offset: 248, 541
+  index: -1
+Layer 94
+  rotate: false
+  xy: 277, 19
+  size: 38, 43
+  orig: 558, 612
+  offset: 251, 363
+  index: -1
+Layer 95
+  rotate: false
+  xy: 2, 65
+  size: 196, 36
+  orig: 558, 612
+  offset: 170, 16
+  index: -1
+MASK
+  rotate: true
+  xy: 206, 84
+  size: 93, 133
+  orig: 558, 612
+  offset: 224, 430
+  index: -1
+ORB
+  rotate: false
+  xy: 361, 81
+  size: 30, 34
+  orig: 558, 612
+  offset: 256, 470
+  index: -1
+SJOULDER L
+  rotate: false
+  xy: 361, 117
+  size: 43, 37
+  orig: 558, 612
+  offset: 204, 388
+  index: -1
+SJOULDER R
+  rotate: false
+  xy: 361, 156
+  size: 43, 39
+  orig: 558, 612
+  offset: 295, 387
+  index: -1
+SLEEVE  Back L
+  rotate: false
+  xy: 341, 74
+  size: 18, 103
+  orig: 558, 612
+  offset: 200, 278
+  index: -1
+SLEEVE  Back R
+  rotate: true
+  xy: 200, 64
+  size: 18, 105
+  orig: 558, 612
+  offset: 323, 278
+  index: -1
+SLEEVE L
+  rotate: false
+  xy: 353, 310
+  size: 67, 110
+  orig: 558, 612
+  offset: 154, 276
+  index: -1
+SLEEVE R
+  rotate: false
+  xy: 353, 197
+  size: 65, 111
+  orig: 558, 612
+  offset: 323, 276
+  index: -1
+fire
+  rotate: true
+  xy: 2, 5
+  size: 58, 80
+  orig: 60, 85
+  offset: 2, 5
+  index: -1

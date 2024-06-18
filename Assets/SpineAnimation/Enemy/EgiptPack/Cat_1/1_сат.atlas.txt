@@ -1,0 +1,300 @@
+
+1_сат.png
+size: 2990,2774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: true
+  xy: 2, 2378
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Belt Back
+  rotate: true
+  xy: 500, 2378
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 998, 2378
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Bracelet L
+  rotate: true
+  xy: 1496, 2378
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Bracelet L_back L
+  rotate: true
+  xy: 1994, 2378
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Bracelet R
+  rotate: true
+  xy: 2492, 2378
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Bracelet R_back R
+  rotate: true
+  xy: 2, 1982
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Brooch
+  rotate: true
+  xy: 500, 1982
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: true
+  xy: 998, 1982
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: true
+  xy: 1496, 1982
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Detal L
+  rotate: true
+  xy: 1994, 1982
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Detal R
+  rotate: true
+  xy: 2492, 1982
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Ear L
+  rotate: true
+  xy: 2, 1586
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Ear R
+  rotate: true
+  xy: 500, 1586
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Earrings L
+  rotate: true
+  xy: 998, 1586
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Earrings R
+  rotate: true
+  xy: 1496, 1586
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Elbow L
+  rotate: true
+  xy: 1994, 1586
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: true
+  xy: 2492, 1586
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Eye L
+  rotate: true
+  xy: 2, 1190
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Eye R
+  rotate: true
+  xy: 500, 1190
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Finger L
+  rotate: true
+  xy: 998, 1190
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Finger R
+  rotate: true
+  xy: 1496, 1190
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: true
+  xy: 1994, 1190
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: true
+  xy: 2492, 1190
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Haad back
+  rotate: true
+  xy: 2, 794
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 500, 794
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Head  copy
+  rotate: true
+  xy: 998, 794
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Hend L
+  rotate: true
+  xy: 1496, 794
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Hend R
+  rotate: true
+  xy: 1994, 794
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: true
+  xy: 2492, 794
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: true
+  xy: 2, 398
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Knee  L
+  rotate: true
+  xy: 500, 398
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Knee R
+  rotate: true
+  xy: 998, 398
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 1496, 398
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Sfera 1
+  rotate: true
+  xy: 1994, 398
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Sfera 2
+  rotate: true
+  xy: 2492, 398
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 2, 2
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: true
+  xy: 500, 2
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Ship L
+  rotate: true
+  xy: 998, 2
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: true
+  xy: 1496, 2
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: true
+  xy: 1994, 2
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1
+Tall new
+  rotate: true
+  xy: 2492, 2
+  size: 394, 496
+  orig: 394, 496
+  offset: 0, 0
+  index: -1

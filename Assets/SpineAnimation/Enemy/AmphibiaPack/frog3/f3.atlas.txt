@@ -1,0 +1,90 @@
+
+f3.png
+size: 1119,1119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 978, 6
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 6, 6
+  size: 623, 570
+  orig: 623, 579
+  offset: 0, 0
+  index: -1
+ГЛАЗА
+  rotate: true
+  xy: 972, 642
+  size: 471, 89
+  orig: 472, 89
+  offset: 0, 0
+  index: -1
+ЗУБЫ верх
+  rotate: false
+  xy: 635, 29
+  size: 337, 34
+  orig: 337, 34
+  offset: 0, 0
+  index: -1
+ТЕНЬ
+  rotate: false
+  xy: 6, 582
+  size: 765, 531
+  orig: 765, 531
+  offset: 0, 0
+  index: -1
+ШАР
+  rotate: false
+  xy: 777, 998
+  size: 179, 115
+  orig: 179, 115
+  offset: 0, 0
+  index: -1
+левая задняя
+  rotate: true
+  xy: 777, 864
+  size: 128, 159
+  orig: 129, 162
+  offset: 1, 3
+  index: -1
+левая нога
+  rotate: false
+  xy: 635, 69
+  size: 198, 263
+  orig: 198, 263
+  offset: 0, 0
+  index: -1
+правая задняя
+  rotate: false
+  xy: 972, 478
+  size: 133, 158
+  orig: 621, 160
+  offset: 488, 2
+  index: -1
+правая нога
+  rotate: false
+  xy: 839, 69
+  size: 198, 263
+  orig: 198, 263
+  offset: 0, 0
+  index: -1
+правый шип
+  rotate: false
+  xy: 972, 368
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+язык
+  rotate: true
+  xy: 635, 338
+  size: 238, 331
+  orig: 811, 997
+  offset: 315, 131
+  index: -1

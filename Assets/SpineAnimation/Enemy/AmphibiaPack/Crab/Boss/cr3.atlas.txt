@@ -1,0 +1,160 @@
+
+cr3.png
+size: 2013,2013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 385
+  rotate: true
+  xy: 1270, 261
+  size: 212, 61
+  orig: 212, 61
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 1352, 1323
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1490, 1120
+  size: 891, 521
+  orig: 891, 521
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 1004, 110
+  size: 264, 224
+  orig: 264, 224
+  offset: 0, 0
+  index: -1
+eye l
+  rotate: true
+  xy: 1764, 642
+  size: 204, 239
+  orig: 204, 239
+  offset: 0, 0
+  index: -1
+eye r
+  rotate: true
+  xy: 1333, 89
+  size: 203, 239
+  orig: 203, 239
+  offset: 0, 0
+  index: -1
+klesh 1 r
+  rotate: true
+  xy: 1764, 848
+  size: 270, 235
+  orig: 270, 235
+  offset: 0, 0
+  index: -1
+klesh 2 l
+  rotate: true
+  xy: 1004, 336
+  size: 270, 235
+  orig: 270, 235
+  offset: 0, 0
+  index: -1
+klesh1 l
+  rotate: true
+  xy: 1352, 624
+  size: 494, 410
+  orig: 494, 410
+  offset: 0, 0
+  index: -1
+klesh2  r
+  rotate: false
+  xy: 2, 196
+  size: 494, 410
+  orig: 494, 410
+  offset: 0, 0
+  index: -1
+left leg 1
+  rotate: true
+  xy: 1352, 1190
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+left leg 2
+  rotate: true
+  xy: 1352, 294
+  size: 328, 504
+  orig: 328, 504
+  offset: 0, 0
+  index: -1
+leg 4
+  rotate: false
+  xy: 1858, 207
+  size: 144, 433
+  orig: 144, 433
+  offset: 0, 0
+  index: -1
+leg 5
+  rotate: false
+  xy: 2, 18
+  size: 189, 176
+  orig: 189, 176
+  offset: 0, 0
+  index: -1
+leg 7
+  rotate: false
+  xy: 193, 18
+  size: 189, 176
+  orig: 189, 176
+  offset: 0, 0
+  index: -1
+leg bot 1
+  rotate: true
+  xy: 1574, 95
+  size: 110, 353
+  orig: 110, 353
+  offset: 0, 0
+  index: -1
+leg bot2
+  rotate: true
+  xy: 384, 20
+  size: 110, 353
+  orig: 110, 353
+  offset: 0, 0
+  index: -1
+leg6
+  rotate: true
+  xy: 498, 132
+  size: 144, 433
+  orig: 144, 433
+  offset: 0, 0
+  index: -1
+right leg 1
+  rotate: true
+  xy: 1241, 475
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+right leg 2
+  rotate: true
+  xy: 498, 278
+  size: 328, 504
+  orig: 328, 504
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1462
+  size: 1486, 549
+  orig: 1486, 549
+  offset: 0, 0
+  index: -1
+swords
+  rotate: false
+  xy: 2, 608
+  size: 1348, 852
+  orig: 1348, 852
+  offset: 0, 0
+  index: -1

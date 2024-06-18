@@ -1,0 +1,97 @@
+
+средняя птичка.png
+size: 321,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 122, 168
+  size: 179, 50
+  orig: 179, 50
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 2, 171
+  size: 87, 117
+  orig: 87, 117
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 260
+  size: 87, 118
+  orig: 87, 118
+  offset: 0, 0
+  index: -1
+ГЛАЗ
+  rotate: true
+  xy: 298, 111
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+ГЛИФ1
+  rotate: false
+  xy: 257, 58
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+ГЛИФ2
+  rotate: false
+  xy: 257, 20
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+КЛЮЧВ
+  rotate: false
+  xy: 257, 96
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+Леввое крыло
+  rotate: true
+  xy: 2, 2
+  size: 131, 253
+  orig: 131, 253
+  offset: 0, 0
+  index: -1
+ПРАВОЕ КРЫЛО
+  rotate: false
+  xy: 183, 135
+  size: 132, 253
+  orig: 132, 253
+  offset: 0, 0
+  index: -1
+ТЕЛО
+  rotate: false
+  xy: 192, 696
+  size: 124, 297
+  orig: 124, 297
+  offset: 0, 0
+  index: -1
+ХОВСТ
+  rotate: false
+  xy: 192, 390
+  size: 116, 304
+  orig: 345, 379
+  offset: 175, 0
+  index: -1
+левый свет
+  rotate: false
+  xy: 2, 668
+  size: 188, 325
+  orig: 210, 339
+  offset: 22, 8
+  index: -1
+правый свет
+  rotate: false
+  xy: 2, 349
+  size: 179, 317
+  orig: 232, 347
+  offset: 0, 23
+  index: -1

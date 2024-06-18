@@ -1,0 +1,468 @@
+
+Animation_Ringer_Back.png
+size: 1720,1720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM L 1
+  rotate: true
+  xy: 1497, 22
+  size: 104, 121
+  orig: 862, 987
+  offset: 249, 615
+  index: -1
+ARM L 2
+  rotate: true
+  xy: 740, 103
+  size: 118, 110
+  orig: 862, 987
+  offset: 198, 588
+  index: -1
+ARM R 1
+  rotate: true
+  xy: 1373, 10
+  size: 116, 114
+  orig: 862, 987
+  offset: 534, 627
+  index: -1
+ARM R 2
+  rotate: false
+  xy: 610, 257
+  size: 119, 97
+  orig: 862, 987
+  offset: 524, 599
+  index: -1
+BACK SHINE
+  rotate: false
+  xy: 256, 682
+  size: 601, 207
+  orig: 862, 987
+  offset: 187, 726
+  index: -1
+BALL
+  rotate: true
+  xy: 1317, 41
+  size: 47, 46
+  orig: 862, 987
+  offset: 693, 704
+  index: -1
+BELL 1
+  rotate: false
+  xy: 674, 24
+  size: 56, 57
+  orig: 862, 987
+  offset: 284, 844
+  index: -1
+BELL 2
+  rotate: true
+  xy: 558, 348
+  size: 41, 42
+  orig: 862, 987
+  offset: 356, 856
+  index: -1
+BELL SHINE
+  rotate: false
+  xy: 1289, 261
+  size: 207, 210
+  orig: 862, 987
+  offset: 539, 71
+  index: -1
+BELL TOP
+  rotate: false
+  xy: 1109, 30
+  size: 48, 51
+  orig: 862, 987
+  offset: 599, 874
+  index: -1
+BELT 1
+  rotate: false
+  xy: 558, 578
+  size: 293, 94
+  orig: 862, 987
+  offset: 319, 510
+  index: -1
+BIG BELL
+  rotate: true
+  xy: 611, 364
+  size: 204, 229
+  orig: 862, 987
+  offset: 597, 698
+  index: -1
+BODY
+  rotate: true
+  xy: 861, 91
+  size: 560, 418
+  orig: 862, 987
+  offset: 209, 440
+  index: -1
+CHAIN
+  rotate: false
+  xy: 1289, 98
+  size: 38, 153
+  orig: 862, 987
+  offset: 101, 501
+  index: -1
+CHAOS
+  rotate: false
+  xy: 882, 1189
+  size: 740, 521
+  orig: 862, 987
+  offset: 58, 437
+  index: -1
+CHAOS2
+  rotate: false
+  xy: 882, 668
+  size: 736, 511
+  orig: 862, 987
+  offset: 61, 446
+  index: -1
+CHEST
+  rotate: true
+  xy: 740, 231
+  size: 123, 110
+  orig: 862, 987
+  offset: 381, 722
+  index: -1
+EYE
+  rotate: false
+  xy: 558, 294
+  size: 41, 44
+  orig: 862, 987
+  offset: 437, 780
+  index: -1
+GLOW L
+  rotate: false
+  xy: 558, 94
+  size: 138, 153
+  orig: 862, 987
+  offset: 181, 658
+  index: -1
+HEAD
+  rotate: true
+  xy: 1506, 339
+  size: 132, 199
+  orig: 862, 987
+  offset: 376, 746
+  index: -1
+LIL BALL 1
+  rotate: true
+  xy: 951, 25
+  size: 20, 19
+  orig: 862, 987
+  offset: 283, 867
+  index: -1
+LIL BALL 2
+  rotate: false
+  xy: 10, 13
+  size: 18, 13
+  orig: 862, 987
+  offset: 367, 889
+  index: -1
+LIL ROPE 1
+  rotate: false
+  xy: 943, 55
+  size: 53, 26
+  orig: 862, 987
+  offset: 367, 552
+  index: -1
+LIL ROPE 2
+  rotate: false
+  xy: 850, 12
+  size: 20, 27
+  orig: 862, 987
+  offset: 392, 524
+  index: -1
+Layer 643
+  rotate: true
+  xy: 1628, 661
+  size: 50, 63
+  orig: 862, 987
+  offset: 632, 896
+  index: -1
+Layer 644
+  rotate: true
+  xy: 1632, 1222
+  size: 83, 65
+  orig: 862, 987
+  offset: 579, 868
+  index: -1
+Layer 665
+  rotate: false
+  xy: 980, 25
+  size: 19, 20
+  orig: 862, 987
+  offset: 96, 655
+  index: -1
+Layer 673
+  rotate: false
+  xy: 740, 25
+  size: 51, 56
+  orig: 862, 987
+  offset: 365, 530
+  index: -1
+Layer 680
+  rotate: false
+  xy: 1632, 1166
+  size: 65, 46
+  orig: 862, 987
+  offset: 425, 794
+  index: -1
+Layer 745
+  rotate: true
+  xy: 10, 36
+  size: 615, 538
+  orig: 862, 987
+  offset: 155, 311
+  index: -1
+ORB 1
+  rotate: false
+  xy: 1373, 136
+  size: 121, 115
+  orig: 862, 987
+  offset: 468, 563
+  index: -1
+PLATE 1
+  rotate: false
+  xy: 801, 49
+  size: 49, 44
+  orig: 862, 987
+  offset: 335, 751
+  index: -1
+PLATE 10
+  rotate: false
+  xy: 558, 257
+  size: 39, 27
+  orig: 862, 987
+  offset: 509, 821
+  index: -1
+PLATE 10B
+  rotate: false
+  xy: 801, 12
+  size: 39, 27
+  orig: 862, 987
+  offset: 509, 821
+  index: -1
+PLATE 11
+  rotate: false
+  xy: 706, 146
+  size: 21, 21
+  orig: 862, 987
+  offset: 491, 873
+  index: -1
+PLATE 11B
+  rotate: false
+  xy: 706, 115
+  size: 21, 21
+  orig: 862, 987
+  offset: 491, 873
+  index: -1
+PLATE 12
+  rotate: false
+  xy: 706, 217
+  size: 22, 30
+  orig: 862, 987
+  offset: 474, 870
+  index: -1
+PLATE 12B
+  rotate: false
+  xy: 706, 177
+  size: 22, 30
+  orig: 862, 987
+  offset: 474, 870
+  index: -1
+PLATE 1B
+  rotate: true
+  xy: 1167, 32
+  size: 49, 44
+  orig: 862, 987
+  offset: 335, 751
+  index: -1
+PLATE 2
+  rotate: true
+  xy: 1632, 1458
+  size: 62, 72
+  orig: 862, 987
+  offset: 354, 691
+  index: -1
+PLATE 2B
+  rotate: true
+  xy: 1632, 1386
+  size: 62, 72
+  orig: 862, 987
+  offset: 354, 691
+  index: -1
+PLATE 3
+  rotate: false
+  xy: 1632, 1625
+  size: 78, 85
+  orig: 862, 987
+  offset: 385, 649
+  index: -1
+PLATE 3B
+  rotate: false
+  xy: 1632, 1530
+  size: 78, 85
+  orig: 862, 987
+  offset: 385, 649
+  index: -1
+PLATE 4
+  rotate: false
+  xy: 1221, 33
+  size: 38, 48
+  orig: 862, 987
+  offset: 448, 650
+  index: -1
+PLATE 4B
+  rotate: false
+  xy: 1269, 33
+  size: 38, 48
+  orig: 862, 987
+  offset: 448, 650
+  index: -1
+PLATE 5
+  rotate: true
+  xy: 558, 22
+  size: 59, 43
+  orig: 862, 987
+  offset: 480, 656
+  index: -1
+PLATE 5B
+  rotate: true
+  xy: 558, 509
+  size: 59, 43
+  orig: 862, 987
+  offset: 480, 656
+  index: -1
+PLATE 6
+  rotate: true
+  xy: 1628, 793
+  size: 62, 63
+  orig: 862, 987
+  offset: 458, 690
+  index: -1
+PLATE 6B
+  rotate: true
+  xy: 1628, 721
+  size: 62, 63
+  orig: 862, 987
+  offset: 458, 690
+  index: -1
+PLATE 7
+  rotate: true
+  xy: 1504, 148
+  size: 45, 44
+  orig: 862, 987
+  offset: 487, 744
+  index: -1
+PLATE 7B
+  rotate: true
+  xy: 1558, 148
+  size: 45, 44
+  orig: 862, 987
+  offset: 487, 744
+  index: -1
+PLATE 8
+  rotate: false
+  xy: 558, 454
+  size: 42, 45
+  orig: 862, 987
+  offset: 509, 767
+  index: -1
+PLATE 8B
+  rotate: false
+  xy: 558, 399
+  size: 42, 45
+  orig: 862, 987
+  offset: 509, 767
+  index: -1
+PLATE 9
+  rotate: false
+  xy: 880, 10
+  size: 31, 30
+  orig: 862, 987
+  offset: 524, 798
+  index: -1
+PLATE 9B
+  rotate: true
+  xy: 903, 50
+  size: 31, 30
+  orig: 862, 987
+  offset: 524, 798
+  index: -1
+RING
+  rotate: false
+  xy: 611, 23
+  size: 53, 58
+  orig: 862, 987
+  offset: 97, 629
+  index: -1
+RING 1
+  rotate: false
+  xy: 860, 50
+  size: 33, 31
+  orig: 862, 987
+  offset: 329, 835
+  index: -1
+RING 2
+  rotate: false
+  xy: 921, 13
+  size: 20, 27
+  orig: 862, 987
+  offset: 371, 840
+  index: -1
+ROPE
+  rotate: false
+  xy: 10, 662
+  size: 236, 227
+  orig: 862, 987
+  offset: 315, 662
+  index: -1
+SHINE 3
+  rotate: false
+  xy: 10, 899
+  size: 862, 811
+  orig: 862, 987
+  offset: 0, 31
+  index: -1
+TAPE 1
+  rotate: false
+  xy: 1009, 29
+  size: 90, 52
+  orig: 862, 987
+  offset: 556, 518
+  index: -1
+VES ORB
+  rotate: false
+  xy: 1632, 1315
+  size: 67, 61
+  orig: 862, 987
+  offset: 308, 484
+  index: -1
+WEAPIN FRONT
+  rotate: false
+  xy: 1506, 203
+  size: 178, 126
+  orig: 862, 987
+  offset: 55, 648
+  index: -1
+WEAPON BACK
+  rotate: false
+  xy: 1317, 481
+  size: 386, 170
+  orig: 862, 987
+  offset: 276, 761
+  index: -1
+WEAPON TOP
+  rotate: true
+  xy: 1628, 963
+  size: 193, 82
+  orig: 862, 987
+  offset: 355, 791
+  index: -1
+vessel
+  rotate: false
+  xy: 1628, 865
+  size: 79, 88
+  orig: 862, 987
+  offset: 302, 479
+  index: -1

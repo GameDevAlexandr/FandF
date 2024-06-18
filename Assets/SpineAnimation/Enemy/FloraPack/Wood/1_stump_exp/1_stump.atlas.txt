@@ -1,0 +1,195 @@
+
+1_stump.png
+size: 471,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 170, 262
+  size: 89, 166
+  orig: 350, 402
+  offset: 27, 32
+  index: -1
+Arm R
+  rotate: false
+  xy: 265, 263
+  size: 90, 165
+  orig: 350, 402
+  offset: 260, 33
+  index: -1
+Body
+  rotate: false
+  xy: 6, 67
+  size: 129, 173
+  orig: 350, 402
+  offset: 124, 122
+  index: -1
+Det head 2
+  rotate: true
+  xy: 350, 6
+  size: 38, 28
+  orig: 350, 402
+  offset: 158, 310
+  index: -1
+Det shhoulder R
+  rotate: true
+  xy: 390, 108
+  size: 54, 39
+  orig: 350, 402
+  offset: 233, 246
+  index: -1
+Mushroom head
+  rotate: false
+  xy: 350, 50
+  size: 39, 46
+  orig: 350, 402
+  offset: 144, 322
+  index: -1
+Shoulder
+  rotate: false
+  xy: 170, 434
+  size: 244, 31
+  orig: 350, 402
+  offset: 66, 26
+  index: -1
+der apm L
+  rotate: true
+  xy: 6, 15
+  size: 46, 131
+  orig: 350, 402
+  offset: 22, 43
+  index: -1
+det 1legs
+  rotate: false
+  xy: 227, 169
+  size: 66, 87
+  orig: 350, 402
+  offset: 134, 132
+  index: -1
+det 2 leegs
+  rotate: false
+  xy: 299, 182
+  size: 51, 75
+  orig: 350, 402
+  offset: 184, 41
+  index: -1
+det apm R
+  rotate: false
+  xy: 287, 10
+  size: 26, 61
+  orig: 350, 402
+  offset: 280, 37
+  index: -1
+det head 1
+  rotate: false
+  xy: 426, 43
+  size: 28, 28
+  orig: 350, 402
+  offset: 204, 317
+  index: -1
+elobow L
+  rotate: false
+  xy: 361, 256
+  size: 79, 172
+  orig: 350, 402
+  offset: 70, 109
+  index: -1
+elobow R
+  rotate: false
+  xy: 141, 67
+  size: 80, 173
+  orig: 350, 402
+  offset: 227, 106
+  index: -1
+hand L
+  rotate: false
+  xy: 395, 62
+  size: 25, 40
+  orig: 350, 402
+  offset: 92, 42
+  index: -1
+hand R
+  rotate: true
+  xy: 426, 77
+  size: 25, 39
+  orig: 350, 402
+  offset: 260, 42
+  index: -1
+head
+  rotate: false
+  xy: 356, 168
+  size: 82, 82
+  orig: 350, 402
+  offset: 147, 257
+  index: -1
+legs
+  rotate: false
+  xy: 6, 246
+  size: 158, 219
+  orig: 350, 402
+  offset: 108, 31
+  index: -1
+muhroom R1
+  rotate: false
+  xy: 319, 17
+  size: 25, 59
+  orig: 350, 402
+  offset: 273, 150
+  index: -1
+mushroom  R2
+  rotate: false
+  xy: 298, 82
+  size: 35, 81
+  orig: 350, 402
+  offset: 284, 163
+  index: -1
+mushroom L1
+  rotate: false
+  xy: 339, 102
+  size: 45, 60
+  orig: 350, 402
+  offset: 52, 175
+  index: -1
+sfera
+  rotate: false
+  xy: 227, 9
+  size: 54, 62
+  orig: 350, 402
+  offset: 162, 200
+  index: -1
+shoulder L
+  rotate: true
+  xy: 227, 77
+  size: 86, 65
+  orig: 350, 402
+  offset: 83, 254
+  index: -1
+shoulder R
+  rotate: false
+  xy: 143, 9
+  size: 78, 52
+  orig: 350, 402
+  offset: 210, 248
+  index: -1
+veko 1
+  rotate: true
+  xy: 453, 438
+  size: 27, 12
+  orig: 350, 402
+  offset: 176, 313
+  index: -1
+veko 2
+  rotate: true
+  xy: 384, 17
+  size: 27, 13
+  orig: 350, 402
+  offset: 177, 295
+  index: -1
+yea
+  rotate: true
+  xy: 420, 434
+  size: 31, 27
+  orig: 350, 402
+  offset: 175, 297
+  index: -1

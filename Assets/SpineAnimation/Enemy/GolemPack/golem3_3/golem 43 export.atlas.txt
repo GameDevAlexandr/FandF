@@ -1,0 +1,181 @@
+
+golem 43 export.png
+size: 1137,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY crystal
+  rotate: false
+  xy: 595, 117
+  size: 71, 135
+  orig: 71, 135
+  offset: 0, 0
+  index: -1
+CRYSTAL L
+  rotate: false
+  xy: 972, 174
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+CRYSTALS R
+  rotate: false
+  xy: 1003, 53
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 595, 254
+  size: 212, 540
+  orig: 212, 540
+  offset: 0, 0
+  index: -1
+Layer 845 copy 2
+  rotate: false
+  xy: 1069, 116
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+Layer 845 copy 3
+  rotate: false
+  xy: 913, 3
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Layer 845 copy 4
+  rotate: false
+  xy: 1069, 220
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+finger l0
+  rotate: true
+  xy: 1055, 9
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+finger r0
+  rotate: true
+  xy: 1003, 8
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+finger r1
+  rotate: false
+  xy: 1064, 146
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+finger r2
+  rotate: true
+  xy: 1018, 133
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+finger r3
+  rotate: false
+  xy: 919, 39
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 919, 86
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: true
+  xy: 972, 133
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+finger3
+  rotate: false
+  xy: 1038, 200
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+han dl2
+  rotate: false
+  xy: 913, 133
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+hand l1
+  rotate: true
+  xy: 789, 37
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+hand l3
+  rotate: false
+  xy: 748, 122
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1
+hand r 1
+  rotate: false
+  xy: 828, 124
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+hand r2
+  rotate: false
+  xy: 944, 12
+  size: 57, 119
+  orig: 57, 119
+  offset: 0, 0
+  index: -1
+hand r3
+  rotate: false
+  xy: 668, 121
+  size: 78, 131
+  orig: 78, 131
+  offset: 0, 0
+  index: -1
+head l
+  rotate: false
+  xy: 694, 5
+  size: 93, 114
+  orig: 93, 114
+  offset: 0, 0
+  index: -1
+head r
+  rotate: false
+  xy: 595, 2
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 12
+  size: 454, 591
+  orig: 454, 591
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 789, 3
+  size: 122, 32
+  orig: 122, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+Zmeerukaya.png
+size: 2577,2577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 2, 2062
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 1547
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Crown
+  rotate: false
+  xy: 517, 2062
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Ear L
+  rotate: false
+  xy: 2, 1032
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Ear R
+  rotate: false
+  xy: 517, 1547
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Elboq L
+  rotate: false
+  xy: 1032, 2062
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: false
+  xy: 2, 517
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Eye L
+  rotate: false
+  xy: 517, 1032
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Eye R
+  rotate: false
+  xy: 1032, 1547
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: false
+  xy: 1547, 2062
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: false
+  xy: 2, 2
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Haer_Back
+  rotate: false
+  xy: 517, 517
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Hair L
+  rotate: false
+  xy: 1032, 1032
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Hair R
+  rotate: false
+  xy: 1547, 1547
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 2062, 2062
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 517, 2
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1032, 517
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 1547, 1032
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 2062, 1547
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Sfera
+  rotate: false
+  xy: 1032, 2
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 1547, 517
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Sholder back
+  rotate: false
+  xy: 2062, 1032
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Shoulder pad L
+  rotate: false
+  xy: 1547, 2
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Shoulder pad R
+  rotate: false
+  xy: 2062, 517
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1
+Taz
+  rotate: false
+  xy: 2062, 2
+  size: 513, 513
+  orig: 513, 513
+  offset: 0, 0
+  index: -1

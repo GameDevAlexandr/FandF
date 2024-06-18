@@ -1,0 +1,48 @@
+
+ghost2.png
+size: 213,713
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ЛЕНТА
+  rotate: true
+  xy: 2, 354
+  size: 248, 207
+  orig: 248, 207
+  offset: 0, 0
+  index: -1
+НИМБ ЗАД
+  rotate: false
+  xy: 2, 690
+  size: 72, 21
+  orig: 72, 21
+  offset: 0, 0
+  index: -1
+НИМБ ПЕРЕД
+  rotate: false
+  xy: 132, 663
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+ТЕЛО
+  rotate: false
+  xy: 2, 2
+  size: 209, 350
+  orig: 209, 350
+  offset: 0, 0
+  index: -1
+ТЕНЬ2
+  rotate: false
+  xy: 2, 604
+  size: 176, 57
+  orig: 176, 57
+  offset: 0, 0
+  index: -1
+тень
+  rotate: false
+  xy: 76, 677
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1

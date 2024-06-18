@@ -1,0 +1,188 @@
+
+3_beets.png
+size: 563,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 134, 259
+  size: 108, 298
+  orig: 325, 577
+  offset: 44, 92
+  index: -1
+Arm R
+  rotate: false
+  xy: 6, 239
+  size: 122, 318
+  orig: 325, 577
+  offset: 171, 75
+  index: -1
+Head
+  rotate: false
+  xy: 248, 369
+  size: 101, 188
+  orig: 113, 194
+  offset: 4, 6
+  index: -1
+Leg  L
+  rotate: false
+  xy: 483, 336
+  size: 42, 221
+  orig: 325, 577
+  offset: 120, 70
+  index: -1
+Leg  R
+  rotate: true
+  xy: 6, 6
+  size: 44, 225
+  orig: 325, 577
+  offset: 162, 69
+  index: -1
+Roots L 1
+  rotate: false
+  xy: 6, 56
+  size: 117, 177
+  orig: 325, 577
+  offset: 25, 181
+  index: -1
+Roots R1
+  rotate: false
+  xy: 355, 395
+  size: 122, 162
+  orig: 325, 577
+  offset: 182, 196
+  index: -1
+Sfera
+  rotate: false
+  xy: 237, 15
+  size: 48, 50
+  orig: 325, 577
+  offset: 139, 357
+  index: -1
+Skirt  R det 2
+  rotate: false
+  xy: 428, 126
+  size: 91, 101
+  orig: 325, 577
+  offset: 169, 230
+  index: -1
+Skirt  det C
+  rotate: false
+  xy: 479, 239
+  size: 64, 91
+  orig: 325, 577
+  offset: 130, 232
+  index: -1
+Skirt  det C smoll
+  rotate: false
+  xy: 291, 18
+  size: 47, 26
+  orig: 325, 577
+  offset: 138, 232
+  index: -1
+Skirt L
+  rotate: false
+  xy: 374, 233
+  size: 99, 156
+  orig: 325, 577
+  offset: 62, 171
+  index: -1
+Skirt L det 2
+  rotate: false
+  xy: 334, 122
+  size: 88, 105
+  orig: 325, 577
+  offset: 64, 227
+  index: -1
+Skirt L det smoll
+  rotate: false
+  xy: 233, 71
+  size: 57, 45
+  orig: 325, 577
+  offset: 63, 168
+  index: -1
+Skirt R
+  rotate: false
+  xy: 129, 68
+  size: 98, 165
+  orig: 325, 577
+  offset: 164, 168
+  index: -1
+Skirt R det smoll
+  rotate: false
+  xy: 454, 77
+  size: 57, 43
+  orig: 325, 577
+  offset: 206, 168
+  index: -1
+back skirt
+  rotate: false
+  xy: 233, 122
+  size: 95, 122
+  orig: 325, 577
+  offset: 115, 196
+  index: -1
+belt
+  rotate: true
+  xy: 383, 6
+  size: 29, 27
+  orig: 325, 577
+  offset: 148, 306
+  index: -1
+collar back
+  rotate: false
+  xy: 248, 250
+  size: 120, 113
+  orig: 325, 577
+  offset: 102, 329
+  index: -1
+collar det L
+  rotate: true
+  xy: 296, 50
+  size: 66, 83
+  orig: 325, 577
+  offset: 101, 308
+  index: -1
+collar detR
+  rotate: false
+  xy: 385, 41
+  size: 63, 75
+  orig: 325, 577
+  offset: 159, 318
+  index: -1
+sfera 2
+  rotate: true
+  xy: 344, 15
+  size: 29, 33
+  orig: 325, 577
+  offset: 149, 303
+  index: -1
+shadow
+  rotate: true
+  xy: 531, 341
+  size: 216, 21
+  orig: 325, 577
+  offset: 66, 64
+  index: -1
+veko 1
+  rotate: true
+  xy: 525, 134
+  size: 46, 20
+  orig: 325, 577
+  offset: 139, 385
+  index: -1
+veko 2
+  rotate: true
+  xy: 525, 186
+  size: 47, 18
+  orig: 325, 577
+  offset: 139, 356
+  index: -1
+yea
+  rotate: false
+  xy: 454, 26
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+icon light.png
+size: 618,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 82 copy 8
+  rotate: false
+  xy: 2, 2
+  size: 380, 373
+  orig: 380, 373
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 22
+  rotate: false
+  xy: 384, 130
+  size: 232, 245
+  orig: 232, 245
+  offset: 0, 0
+  index: -1

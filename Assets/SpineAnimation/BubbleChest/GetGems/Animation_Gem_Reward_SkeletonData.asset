@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: Animation_Gem_Reward_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 112cc46570b8520439ca04f633f1c61c, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 7a15f96aea95d9a48ab640081c522871, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 0
+    additiveMaterials: []
+    multiplyMaterials:
+    - pageName: Animation_Gem_Reward.png
+      material: {fileID: 2100000, guid: 22e55dce219d0f3478a1f48fcb3304bb, type: 2}
+    screenMaterials:
+    - pageName: Animation_Gem_Reward.png
+      material: {fileID: 2100000, guid: 4ca58914516449c44895fc590356b7be, type: 2}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}

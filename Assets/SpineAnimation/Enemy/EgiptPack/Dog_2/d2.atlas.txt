@@ -1,0 +1,146 @@
+
+d2.png
+size: 462,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 132, 7
+  size: 90, 209
+  orig: 90, 209
+  offset: 0, 0
+  index: -1
+Collar
+  rotate: false
+  xy: 2, 184
+  size: 254, 227
+  orig: 254, 227
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: true
+  xy: 2, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Elbow
+  rotate: false
+  xy: 379, 5
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: false
+  xy: 343, 4
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 412, 399
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 412, 336
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+Handcuffs L
+  rotate: true
+  xy: 258, 243
+  size: 61, 146
+  orig: 61, 146
+  offset: 0, 0
+  index: -1
+Handcuffs R
+  rotate: true
+  xy: 258, 180
+  size: 61, 146
+  orig: 61, 146
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 406, 196
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 2, 13
+  size: 64, 139
+  orig: 64, 139
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 68, 20
+  size: 62, 132
+  orig: 62, 132
+  offset: 0, 0
+  index: -1
+Knee L
+  rotate: true
+  xy: 406, 154
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 241, 106
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+Sfera
+  rotate: false
+  xy: 411, 292
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 413
+  size: 255, 47
+  orig: 255, 47
+  offset: 0, 0
+  index: -1
+Shin L
+  rotate: true
+  xy: 259, 384
+  size: 76, 151
+  orig: 76, 151
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: true
+  xy: 258, 306
+  size: 76, 151
+  orig: 76, 151
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: true
+  xy: 132, 99
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: true
+  xy: 343, 69
+  size: 83, 107
+  orig: 83, 107
+  offset: 0, 0
+  index: -1

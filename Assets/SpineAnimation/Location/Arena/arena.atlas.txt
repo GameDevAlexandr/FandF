@@ -1,0 +1,517 @@
+
+arena.png
+size: 1872,1872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stones_aqua/1
+  rotate: true
+  xy: 1211, 177
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+stones_aqua/2
+  rotate: true
+  xy: 1655, 621
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+stones_aqua/3
+  rotate: false
+  xy: 881, 75
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+stones_aqua/4
+  rotate: false
+  xy: 1675, 491
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+stones_aqua/ARENA
+  rotate: false
+  xy: 2, 1466
+  size: 651, 404
+  orig: 651, 404
+  offset: 0, 0
+  index: -1
+stones_aqua/big stone
+  rotate: false
+  xy: 2, 2
+  size: 291, 214
+  orig: 291, 214
+  offset: 0, 0
+  index: -1
+stones_aqua/seaweed under
+  rotate: false
+  xy: 555, 231
+  size: 497, 392
+  orig: 497, 392
+  offset: 0, 0
+  index: -1
+stones_aqua/step
+  rotate: false
+  xy: 881, 27
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+stones_aqua/stone 5
+  rotate: false
+  xy: 1551, 621
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+stones_aqua/stone 6
+  rotate: true
+  xy: 1828, 1807
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+stones_aqua/stone 7
+  rotate: false
+  xy: 1485, 662
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+stones_aqua/stone 8
+  rotate: false
+  xy: 1763, 86
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+stones_cryst/1
+  rotate: false
+  xy: 1500, 692
+  size: 153, 152
+  orig: 153, 152
+  offset: 0, 0
+  index: -1
+stones_cryst/2
+  rotate: true
+  xy: 1551, 367
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+stones_cryst/3
+  rotate: false
+  xy: 1054, 177
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+stones_cryst/4
+  rotate: false
+  xy: 1655, 743
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+stones_cryst/ARENA
+  rotate: false
+  xy: 2, 1060
+  size: 651, 404
+  orig: 651, 404
+  offset: 0, 0
+  index: -1
+stones_cryst/big stone
+  rotate: false
+  xy: 295, 2
+  size: 291, 214
+  orig: 291, 214
+  offset: 0, 0
+  index: -1
+stones_cryst/cryst1
+  rotate: false
+  xy: 1714, 1546
+  size: 112, 324
+  orig: 112, 324
+  offset: 0, 0
+  index: -1
+stones_cryst/cryst4
+  rotate: false
+  xy: 1714, 1249
+  size: 116, 295
+  orig: 116, 295
+  offset: 0, 0
+  index: -1
+stones_cryst/step
+  rotate: false
+  xy: 1352, 13
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+stones_cryst/stone 5
+  rotate: false
+  xy: 1518, 38
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+stones_cryst/stone 6
+  rotate: false
+  xy: 1207, 1025
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+stones_cryst/stone 7
+  rotate: false
+  xy: 1207, 652
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+stones_cryst/stone 8
+  rotate: true
+  xy: 1799, 545
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+stones_f/1
+  rotate: true
+  xy: 1500, 846
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+stones_f/2
+  rotate: false
+  xy: 1680, 362
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+stones_f/3
+  rotate: false
+  xy: 1270, 526
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+stones_f/4
+  rotate: false
+  xy: 1640, 105
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+stones_f/ARENA
+  rotate: false
+  xy: 655, 1466
+  size: 651, 404
+  orig: 651, 404
+  offset: 0, 0
+  index: -1
+stones_f/big stone
+  rotate: false
+  xy: 588, 15
+  size: 291, 214
+  orig: 291, 214
+  offset: 0, 0
+  index: -1
+stones_f/step
+  rotate: true
+  xy: 1779, 750
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+stones_f/stone 5
+  rotate: true
+  xy: 1763, 152
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+stones_f/stone 6
+  rotate: false
+  xy: 1270, 335
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+stones_f/stone 7
+  rotate: true
+  xy: 1828, 1691
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+stones_f/stone 8
+  rotate: false
+  xy: 1603, 39
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+stones_gh/1
+  rotate: false
+  xy: 1363, 61
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+stones_gh/2
+  rotate: false
+  xy: 1518, 109
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1
+stones_gh/3
+  rotate: false
+  xy: 1038, 22
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+stones_gh/4
+  rotate: false
+  xy: 1551, 490
+  size: 122, 129
+  orig: 122, 129
+  offset: 0, 0
+  index: -1
+stones_gh/ARENA
+  rotate: false
+  xy: 2, 654
+  size: 651, 404
+  orig: 651, 404
+  offset: 0, 0
+  index: -1
+stones_gh/big stone
+  rotate: false
+  xy: 1308, 1003
+  size: 291, 214
+  orig: 291, 214
+  offset: 0, 0
+  index: -1
+stones_gh/step
+  rotate: true
+  xy: 1784, 625
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+stones_gh/stone 5
+  rotate: false
+  xy: 1714, 1178
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+stones_gh/stone 6
+  rotate: false
+  xy: 1799, 510
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+stones_gh/stone 7
+  rotate: true
+  xy: 1828, 1640
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+stones_gh/stone 8
+  rotate: false
+  xy: 1683, 39
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+stones_ice/1
+  rotate: true
+  xy: 1363, 213
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+stones_ice/2
+  rotate: false
+  xy: 1517, 238
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+stones_ice/3
+  rotate: false
+  xy: 1270, 370
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+stones_ice/4
+  rotate: false
+  xy: 1427, 530
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+stones_ice/ARENA
+  rotate: false
+  xy: 655, 1060
+  size: 651, 404
+  orig: 651, 404
+  offset: 0, 0
+  index: -1
+stones_ice/big stone
+  rotate: true
+  xy: 1054, 332
+  size: 291, 214
+  orig: 291, 214
+  offset: 0, 0
+  index: -1
+stones_ice/ice 1
+  rotate: false
+  xy: 655, 625
+  size: 550, 433
+  orig: 550, 433
+  offset: 0, 0
+  index: -1
+stones_ice/ice6
+  rotate: false
+  xy: 1601, 1032
+  size: 106, 185
+  orig: 106, 185
+  offset: 0, 0
+  index: -1
+stones_ice/ice7
+  rotate: true
+  xy: 1207, 682
+  size: 103, 228
+  orig: 103, 228
+  offset: 0, 0
+  index: -1
+stones_ice/step
+  rotate: true
+  xy: 1437, 662
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+stones_ice/stone 5
+  rotate: false
+  xy: 1709, 1107
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+stones_ice/stone 6
+  rotate: true
+  xy: 1828, 1742
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/stone 6
+  rotate: true
+  xy: 1828, 1742
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+stones_ice/stone 7
+  rotate: true
+  xy: 1828, 1589
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/stone 7
+  rotate: true
+  xy: 1828, 1589
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+stones_ice/stone 8
+  rotate: false
+  xy: 1763, 20
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/1
+  rotate: true
+  xy: 1654, 875
+  size: 155, 152
+  orig: 155, 152
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/2
+  rotate: false
+  xy: 1640, 233
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/3
+  rotate: false
+  xy: 1195, 21
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/4
+  rotate: false
+  xy: 1427, 398
+  size: 122, 130
+  orig: 122, 130
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/ARENA
+  rotate: true
+  xy: 1308, 1219
+  size: 651, 404
+  orig: 651, 404
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/big stone
+  rotate: false
+  xy: 1207, 787
+  size: 291, 214
+  orig: 291, 214
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/rocks
+  rotate: false
+  xy: 2, 218
+  size: 551, 434
+  orig: 551, 434
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/step
+  rotate: true
+  xy: 1763, 237
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/stone 5
+  rotate: false
+  xy: 1709, 1036
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/stone 8
+  rotate: true
+  xy: 1799, 1169
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+Animation_Miniboss_Kill.png
+size: 575,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon_ImageIcon_Coin
+  rotate: false
+  xy: 412, 35
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+SKULL1
+  rotate: false
+  xy: 218, 10
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+SKULL2
+  rotate: true
+  xy: 334, 74
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+SKULL3
+  rotate: false
+  xy: 412, 112
+  size: 97, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1
+SKULL4
+  rotate: false
+  xy: 218, 80
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 10, 258
+  size: 360, 307
+  orig: 360, 307
+  offset: 0, 0
+  index: -1
+shine2
+  rotate: false
+  xy: 10, 49
+  size: 198, 199
+  orig: 198, 199
+  offset: 0, 0
+  index: -1
+slash3
+  rotate: true
+  xy: 218, 158
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+slash4
+  rotate: true
+  xy: 380, 182
+  size: 383, 160
+  orig: 383, 160
+  offset: 0, 0
+  index: -1
+stroke_black
+  rotate: false
+  xy: 10, 12
+  size: 96, 27
+  orig: 96, 27
+  offset: 0, 0
+  index: -1

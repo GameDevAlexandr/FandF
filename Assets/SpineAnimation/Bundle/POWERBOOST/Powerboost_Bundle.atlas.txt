@@ -1,0 +1,139 @@
+
+Powerboost_Bundle.png
+size: 1007,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EPIC!
+  rotate: false
+  xy: 952, 789
+  size: 45, 20
+  orig: 618, 338
+  offset: 405, 234
+  index: -1
+FIST
+  rotate: false
+  xy: 638, 541
+  size: 221, 221
+  orig: 618, 338
+  offset: 58, 35
+  index: -1
+Group 13
+  rotate: false
+  xy: 10, 353
+  size: 577, 296
+  orig: 618, 338
+  offset: 18, 27
+  index: -1
+Group 13 copy
+  rotate: false
+  xy: 10, 659
+  size: 618, 338
+  orig: 618, 338
+  offset: 0, 0
+  index: -1
+Icon_ItemIcon_Gem copy 3
+  rotate: false
+  xy: 963, 935
+  size: 28, 25
+  orig: 618, 338
+  offset: 72, 148
+  index: -1
+Icon_ItemIcon_Gem copy 4
+  rotate: false
+  xy: 963, 970
+  size: 27, 27
+  orig: 618, 338
+  offset: 175, 262
+  index: -1
+Icon_ShopIcon_Gem_01 copy 2
+  rotate: false
+  xy: 943, 617
+  size: 51, 42
+  orig: 618, 338
+  offset: 257, 64
+  index: -1
+Icon_ShopIcon_Gem_01 copy 3
+  rotate: false
+  xy: 943, 669
+  size: 51, 43
+  orig: 618, 338
+  offset: 69, 249
+  index: -1
+LEGENDARY! copy
+  rotate: false
+  xy: 869, 525
+  size: 93, 20
+  orig: 618, 338
+  offset: 471, 234
+  index: -1
+LIGHT1
+  rotate: false
+  xy: 786, 401
+  size: 165, 114
+  orig: 618, 338
+  offset: 36, 46
+  index: -1
+LIGHT2
+  rotate: false
+  xy: 638, 772
+  size: 238, 225
+  orig: 618, 338
+  offset: 61, 44
+  index: -1
+Layer 12
+  rotate: false
+  xy: 10, 311
+  size: 334, 32
+  orig: 618, 338
+  offset: 239, 260
+  index: -1
+Layer 55
+  rotate: false
+  xy: 963, 917
+  size: 3, 8
+  orig: 618, 338
+  offset: 180, 153
+  index: -1
+Layer 56
+  rotate: false
+  xy: 886, 722
+  size: 56, 87
+  orig: 618, 338
+  offset: 200, 78
+  index: -1
+Layer 57
+  rotate: false
+  xy: 886, 899
+  size: 67, 98
+  orig: 618, 338
+  offset: 208, 195
+  index: -1
+Layer 58
+  rotate: false
+  xy: 869, 555
+  size: 79, 52
+  orig: 618, 338
+  offset: 253, 176
+  index: -1
+Layer 59
+  rotate: false
+  xy: 869, 646
+  size: 64, 66
+  orig: 618, 338
+  offset: 119, 103
+  index: -1
+Layer 60
+  rotate: false
+  xy: 886, 819
+  size: 79, 70
+  orig: 618, 338
+  offset: 96, 199
+  index: -1
+rayss_2
+  rotate: false
+  xy: 597, 347
+  size: 179, 184
+  orig: 677, 355
+  offset: 96, 77
+  index: -1

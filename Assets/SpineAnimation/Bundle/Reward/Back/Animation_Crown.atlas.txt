@@ -1,0 +1,160 @@
+
+Animation_Crown.png
+size: 1458,1458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAND
+  rotate: false
+  xy: 10, 542
+  size: 500, 162
+  orig: 714, 1450
+  offset: 102, 1004
+  index: -1
+BLIK
+  rotate: true
+  xy: 520, 474
+  size: 230, 187
+  orig: 714, 1450
+  offset: 151, 1049
+  index: -1
+CROWN
+  rotate: true
+  xy: 590, 241
+  size: 223, 134
+  orig: 714, 1450
+  offset: 246, 1170
+  index: -1
+Image_Effect_Particle_03
+  rotate: true
+  xy: 734, 247
+  size: 66, 65
+  orig: 714, 1450
+  offset: 67, 1121
+  index: -1
+Image_Effect_Particle_03 copy 5
+  rotate: false
+  xy: 590, 165
+  size: 64, 66
+  orig: 714, 1450
+  offset: 25, 1005
+  index: -1
+Image_Effect_Particle_04
+  rotate: false
+  xy: 664, 192
+  size: 39, 39
+  orig: 714, 1450
+  offset: 86, 994
+  index: -1
+Image_Effect_Particle_04 copy 4
+  rotate: false
+  xy: 645, 114
+  size: 39, 41
+  orig: 714, 1450
+  offset: 597, 1147
+  index: -1
+Image_Effect_Particle_04 copy 5
+  rotate: false
+  xy: 645, 114
+  size: 39, 41
+  orig: 714, 1450
+  offset: 624, 1043
+  index: -1
+Image_Effect_Particle_04 copy 6
+  rotate: false
+  xy: 423, 491
+  size: 42, 41
+  orig: 714, 1450
+  offset: 505, 1190
+  index: -1
+REWARDS!
+  rotate: false
+  xy: 940, 346
+  size: 216, 45
+  orig: 714, 1450
+  offset: 368, 961
+  index: -1
+SHINE 1
+  rotate: false
+  xy: 734, 723
+  size: 714, 725
+  orig: 714, 1450
+  offset: 0, 725
+  index: -1
+SHINE 2
+  rotate: false
+  xy: 10, 714
+  size: 714, 734
+  orig: 714, 1450
+  offset: 0, 716
+  index: -1
+SHINE 3
+  rotate: false
+  xy: 734, 401
+  size: 714, 312
+  orig: 714, 1450
+  offset: 0, 905
+  index: -1
+TAKE
+  rotate: true
+  xy: 590, 52
+  size: 103, 45
+  orig: 714, 1450
+  offset: 153, 961
+  index: -1
+Vetochka LIL L
+  rotate: true
+  xy: 1166, 281
+  size: 110, 65
+  orig: 714, 1450
+  offset: 176, 1118
+  index: -1
+YOUR
+  rotate: true
+  xy: 734, 124
+  size: 113, 45
+  orig: 714, 1450
+  offset: 261, 961
+  index: -1
+shine 4
+  rotate: false
+  xy: 10, 124
+  size: 403, 408
+  orig: 714, 1450
+  offset: 155, 937
+  index: -1
+vetochka BIG L
+  rotate: true
+  xy: 423, 292
+  size: 172, 157
+  orig: 714, 1450
+  offset: 95, 1007
+  index: -1
+vetochka BIG R
+  rotate: true
+  xy: 423, 124
+  size: 158, 157
+  orig: 714, 1450
+  offset: 460, 1008
+  index: -1
+vetochka medium L
+  rotate: true
+  xy: 734, 323
+  size: 68, 94
+  orig: 714, 1450
+  offset: 209, 1181
+  index: -1
+vetochka medium R
+  rotate: true
+  xy: 838, 323
+  size: 68, 92
+  orig: 714, 1450
+  offset: 436, 1181
+  index: -1
+vetocka LIL R
+  rotate: true
+  xy: 940, 226
+  size: 110, 65
+  orig: 714, 1450
+  offset: 425, 1118
+  index: -1

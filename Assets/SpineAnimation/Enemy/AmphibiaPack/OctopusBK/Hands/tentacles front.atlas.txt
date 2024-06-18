@@ -1,0 +1,33 @@
+
+tentacles front.png
+size: 2283,2283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye 2
+  rotate: true
+  xy: 2, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+klesh left
+  rotate: false
+  xy: 2, 54
+  size: 1813, 2227
+  orig: 1813, 2227
+  offset: 0, 0
+  index: -1
+
+tentacles front2.png
+size: 2231,2231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+klesh right
+  rotate: false
+  xy: 2, 2
+  size: 1813, 2227
+  orig: 1813, 2227
+  offset: 0, 0
+  index: -1

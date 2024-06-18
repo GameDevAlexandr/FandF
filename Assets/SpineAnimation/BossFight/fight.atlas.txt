@@ -1,0 +1,181 @@
+
+fight.png
+size: 1653,1653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOSS!
+  rotate: false
+  xy: 1473, 1560
+  size: 165, 91
+  orig: 936, 726
+  offset: 479, 394
+  index: -1
+BOSS!2
+  rotate: false
+  xy: 1473, 1471
+  size: 160, 87
+  orig: 936, 726
+  offset: 481, 396
+  index: -1
+FIGHT
+  rotate: false
+  xy: 1473, 1381
+  size: 150, 88
+  orig: 936, 726
+  offset: 331, 374
+  index: -1
+FIGHT2
+  rotate: true
+  xy: 1487, 704
+  size: 147, 84
+  orig: 936, 726
+  offset: 332, 377
+  index: -1
+LINES1
+  rotate: true
+  xy: 2, 2
+  size: 921, 322
+  orig: 936, 726
+  offset: 15, 252
+  index: -1
+LINES2
+  rotate: false
+  xy: 587, 1327
+  size: 884, 324
+  orig: 936, 726
+  offset: 52, 250
+  index: -1
+Layer 38
+  rotate: false
+  xy: 326, 248
+  size: 36, 28
+  orig: 936, 726
+  offset: 334, 314
+  index: -1
+Layer 39
+  rotate: false
+  xy: 1015, 494
+  size: 41, 39
+  orig: 936, 726
+  offset: 287, 412
+  index: -1
+Layer 40
+  rotate: true
+  xy: 536, 873
+  size: 50, 32
+  orig: 936, 726
+  offset: 632, 511
+  index: -1
+Layer 41
+  rotate: false
+  xy: 326, 18
+  size: 38, 36
+  orig: 936, 726
+  offset: 592, 334
+  index: -1
+Layer 43
+  rotate: true
+  xy: 1635, 1546
+  size: 12, 16
+  orig: 936, 726
+  offset: 648, 440
+  index: -1
+Layer 44
+  rotate: false
+  xy: 1155, 264
+  size: 34, 30
+  orig: 936, 726
+  offset: 415, 307
+  index: -1
+Layer 50
+  rotate: true
+  xy: 326, 278
+  size: 645, 208
+  orig: 936, 726
+  offset: 222, 377
+  index: -1
+Layer 51
+  rotate: false
+  xy: 536, 245
+  size: 617, 216
+  orig: 936, 726
+  offset: 234, 326
+  index: -1
+Layer 51 copy
+  rotate: false
+  xy: 326, 56
+  size: 614, 187
+  orig: 936, 726
+  offset: 19, 221
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 1204, 853
+  size: 472, 329
+  orig: 936, 726
+  offset: 232, 266
+  index: -1
+Rectangle 1 copy 2
+  rotate: true
+  xy: 942, 8
+  size: 235, 257
+  orig: 936, 726
+  offset: 0, 196
+  index: -1
+Rectangle 1 copy 3
+  rotate: false
+  xy: 1155, 296
+  size: 288, 237
+  orig: 936, 726
+  offset: 38, 200
+  index: -1
+Rectangle 1 copy 4
+  rotate: true
+  xy: 1201, 5
+  size: 289, 212
+  orig: 936, 726
+  offset: 610, 410
+  index: -1
+Rectangle 1 copy 5
+  rotate: true
+  xy: 1415, 6
+  size: 288, 197
+  orig: 936, 726
+  offset: 324, 325
+  index: -1
+Rectangle 1 copy 8
+  rotate: false
+  xy: 587, 854
+  size: 615, 471
+  orig: 936, 726
+  offset: 158, 188
+  index: -1
+Rectangle 2
+  rotate: false
+  xy: 1015, 535
+  size: 470, 316
+  orig: 936, 726
+  offset: 233, 267
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 925
+  size: 583, 726
+  orig: 936, 726
+  offset: 178, 0
+  index: -1
+white flash
+  rotate: false
+  xy: 536, 463
+  size: 477, 389
+  orig: 936, 726
+  offset: 236, 217
+  index: -1
+блики плртал
+  rotate: true
+  xy: 1625, 1429
+  size: 40, 26
+  orig: 936, 726
+  offset: 521, 470
+  index: -1

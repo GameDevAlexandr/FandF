@@ -1,0 +1,216 @@
+
+3 clockwork.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: true
+  xy: 493, 263
+  size: 88, 52
+  orig: 101, 62
+  offset: 7, 4
+  index: -1
+Arm R
+  rotate: true
+  xy: 317, 134
+  size: 87, 51
+  orig: 101, 62
+  offset: 6, 4
+  index: -1
+Body
+  rotate: true
+  xy: 318, 229
+  size: 169, 80
+  orig: 169, 80
+  offset: 0, 0
+  index: -1
+Foot L
+  rotate: true
+  xy: 510, 138
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+Foot R
+  rotate: false
+  xy: 442, 11
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 447, 137
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+Hip 2L
+  rotate: true
+  xy: 6, 6
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: true
+  xy: 404, 221
+  size: 35, 106
+  orig: 35, 106
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: true
+  xy: 228, 10
+  size: 35, 106
+  orig: 35, 106
+  offset: 0, 0
+  index: -1
+Hip2R
+  rotate: false
+  xy: 374, 138
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+Sfera C
+  rotate: false
+  xy: 517, 91
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Sfera L
+  rotate: false
+  xy: 375, 67
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Sfera R
+  rotate: false
+  xy: 446, 66
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 268, 227
+  size: 335, 44
+  orig: 335, 44
+  offset: 0, 0
+  index: -1
+Shield R
+  rotate: false
+  xy: 137, 243
+  size: 125, 319
+  orig: 125, 319
+  offset: 0, 0
+  index: -1
+ShieldL
+  rotate: false
+  xy: 6, 243
+  size: 125, 319
+  orig: 125, 319
+  offset: 0, 0
+  index: -1
+Ship L
+  rotate: false
+  xy: 6, 79
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+Ship R
+  rotate: false
+  xy: 318, 404
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: true
+  xy: 114, 32
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: true
+  xy: 426, 357
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+Shoulder bsck L
+  rotate: false
+  xy: 404, 262
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+Shoulder bsck R
+  rotate: false
+  xy: 228, 132
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+Taz
+  rotate: false
+  xy: 228, 51
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+Vertel L
+  rotate: false
+  xy: 340, 25
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Vertel R
+  rotate: false
+  xy: 525, 59
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Waist
+  rotate: false
+  xy: 516, 227
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+key  det L
+  rotate: false
+  xy: 375, 6
+  size: 61, 55
+  orig: 108, 104
+  offset: 47, 0
+  index: -1
+key L
+  rotate: false
+  xy: 114, 133
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+key R
+  rotate: false
+  xy: 426, 458
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+key det R
+  rotate: true
+  xy: 309, 57
+  size: 69, 60
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+rep1.png
+size: 459,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 6, 140
+  size: 406, 313
+  orig: 406, 313
+  offset: 0, 0
+  index: -1
+eye bot l
+  rotate: false
+  xy: 418, 175
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+eye bot r
+  rotate: false
+  xy: 418, 133
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+eye top l
+  rotate: false
+  xy: 327, 86
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+eye top r
+  rotate: true
+  xy: 273, 102
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+legs
+  rotate: false
+  xy: 6, 30
+  size: 261, 104
+  orig: 261, 104
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 418, 217
+  size: 236, 35
+  orig: 236, 35
+  offset: 0, 0
+  index: -1

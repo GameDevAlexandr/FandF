@@ -1,0 +1,62 @@
+
+Animation_Zombie_Pharaoh.png
+size: 909,909
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloak
+  rotate: true
+  xy: 494, 189
+  size: 248, 271
+  orig: 482, 700
+  offset: 124, 276
+  index: -1
+P10 bot
+  rotate: false
+  xy: 354, 89
+  size: 101, 108
+  orig: 482, 700
+  offset: 170, 374
+  index: -1
+P6 botvvvv
+  rotate: false
+  xy: 771, 247
+  size: 87, 190
+  orig: 482, 700
+  offset: 198, 371
+  index: -1
+P8 bot
+  rotate: false
+  xy: 771, 182
+  size: 87, 59
+  orig: 482, 700
+  offset: 188, 348
+  index: -1
+haws 1
+  rotate: true
+  xy: 494, 443
+  size: 460, 409
+  orig: 482, 700
+  offset: 0, 260
+  index: -1
+p5 bot
+  rotate: false
+  xy: 354, 31
+  size: 119, 52
+  orig: 482, 700
+  offset: 172, 405
+  index: -1
+shine
+  rotate: true
+  xy: 6, 20
+  size: 177, 342
+  orig: 482, 700
+  offset: 149, 358
+  index: -1
+shine copy
+  rotate: false
+  xy: 6, 203
+  size: 482, 700
+  orig: 482, 700
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+cr1.png
+size: 522,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG arm
+  rotate: false
+  xy: 218, 51
+  size: 214, 158
+  orig: 216, 161
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 6, 6
+  size: 206, 203
+  orig: 206, 203
+  offset: 0, 0
+  index: -1
+left ar,
+  rotate: false
+  xy: 397, 348
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+left eyes
+  rotate: true
+  xy: 438, 137
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1
+ll1
+  rotate: true
+  xy: 446, 233
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 397, 435
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+right eyes
+  rotate: false
+  xy: 397, 260
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+rr1
+  rotate: true
+  xy: 397, 233
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 397, 315
+  size: 97, 27
+  orig: 97, 27
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 6, 215
+  size: 385, 301
+  orig: 385, 301
+  offset: 0, 0
+  index: -1
+small arm
+  rotate: false
+  xy: 480, 370
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+small arm2
+  rotate: false
+  xy: 481, 459
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1

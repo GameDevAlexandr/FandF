@@ -1,0 +1,692 @@
+
+Animation_Ancient_City.png
+size: 1651,1651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 6, 1094
+  size: 999, 551
+  orig: 1048, 1013
+  offset: 0, 457
+  index: -1
+1 R
+  rotate: false
+  xy: 449, 182
+  size: 252, 181
+  orig: 1048, 1014
+  offset: 540, 656
+  index: -1
+1L
+  rotate: false
+  xy: 1378, 1109
+  size: 261, 181
+  orig: 1048, 1014
+  offset: 198, 656
+  index: -1
+2L
+  rotate: false
+  xy: 730, 588
+  size: 188, 137
+  orig: 1048, 1014
+  offset: 229, 738
+  index: -1
+2R
+  rotate: true
+  xy: 6, 6
+  size: 190, 131
+  orig: 1048, 1014
+  offset: 571, 744
+  index: -1
+3 L
+  rotate: false
+  xy: 1378, 1296
+  size: 253, 349
+  orig: 1048, 1014
+  offset: 239, 658
+  index: -1
+3 R
+  rotate: false
+  xy: 6, 202
+  size: 253, 351
+  orig: 1048, 1014
+  offset: 498, 658
+  index: -1
+5 L
+  rotate: true
+  xy: 1337, 84
+  size: 33, 53
+  orig: 1048, 1014
+  offset: 186, 851
+  index: -1
+5 R
+  rotate: false
+  xy: 902, 158
+  size: 33, 51
+  orig: 1048, 1014
+  offset: 771, 852
+  index: -1
+6 L
+  rotate: true
+  xy: 1067, 23
+  size: 30, 34
+  orig: 1048, 1014
+  offset: 166, 783
+  index: -1
+6 R
+  rotate: false
+  xy: 1111, 57
+  size: 30, 34
+  orig: 1048, 1014
+  offset: 794, 783
+  index: -1
+7 L
+  rotate: true
+  xy: 1575, 885
+  size: 46, 70
+  orig: 1048, 1014
+  offset: 187, 786
+  index: -1
+7 R
+  rotate: false
+  xy: 910, 215
+  size: 48, 70
+  orig: 1048, 1014
+  offset: 755, 786
+  index: -1
+ARM L
+  rotate: true
+  xy: 1378, 959
+  size: 144, 196
+  orig: 1048, 1014
+  offset: 58, 497
+  index: -1
+ARM R
+  rotate: true
+  xy: 707, 220
+  size: 146, 197
+  orig: 1048, 1014
+  offset: 793, 523
+  index: -1
+Blik 2 L
+  rotate: true
+  xy: 1231, 99
+  size: 27, 58
+  orig: 1048, 1014
+  offset: 201, 299
+  index: -1
+Blik 2 R
+  rotate: true
+  xy: 1069, 97
+  size: 27, 59
+  orig: 1048, 1014
+  offset: 776, 272
+  index: -1
+Blik 22 L
+  rotate: false
+  xy: 1350, 212
+  size: 41, 63
+  orig: 1048, 1014
+  offset: 112, 329
+  index: -1
+Blik 22R
+  rotate: false
+  xy: 1252, 560
+  size: 44, 67
+  orig: 1048, 1014
+  offset: 851, 304
+  index: -1
+Blik L
+  rotate: false
+  xy: 921, 387
+  size: 40, 195
+  orig: 1048, 1014
+  offset: 112, 216
+  index: -1
+Blik center 1
+  rotate: true
+  xy: 730, 731
+  size: 357, 188
+  orig: 1048, 1014
+  offset: 329, 383
+  index: -1
+Blik center 2
+  rotate: false
+  xy: 265, 260
+  size: 178, 293
+  orig: 1048, 1014
+  offset: 374, 242
+  index: -1
+Blik center 3
+  rotate: false
+  xy: 367, 705
+  size: 357, 383
+  orig: 1048, 1014
+  offset: 323, 272
+  index: -1
+Blik1 L
+  rotate: true
+  xy: 744, 6
+  size: 26, 163
+  orig: 1048, 1014
+  offset: 201, 204
+  index: -1
+Blik1 R
+  rotate: true
+  xy: 707, 186
+  size: 28, 162
+  orig: 1048, 1014
+  offset: 776, 178
+  index: -1
+BlikR
+  rotate: false
+  xy: 1252, 633
+  size: 44, 193
+  orig: 1048, 1014
+  offset: 849, 189
+  index: -1
+Body St2 L
+  rotate: true
+  xy: 1302, 650
+  size: 154, 180
+  orig: 1048, 1014
+  offset: 254, 611
+  index: -1
+Body St3 L
+  rotate: true
+  xy: 558, 10
+  size: 98, 180
+  orig: 1048, 1014
+  offset: 354, 605
+  index: -1
+Body st  Taz2
+  rotate: false
+  xy: 367, 591
+  size: 337, 108
+  orig: 1048, 1014
+  offset: 325, 513
+  index: -1
+Body st 1R
+  rotate: true
+  xy: 1150, 249
+  size: 73, 90
+  orig: 1048, 1014
+  offset: 648, 607
+  index: -1
+Body st 2 R
+  rotate: false
+  xy: 1117, 421
+  size: 123, 182
+  orig: 1048, 1014
+  offset: 526, 601
+  index: -1
+Body st 3 C
+  rotate: false
+  xy: 1254, 960
+  size: 118, 173
+  orig: 1048, 1014
+  offset: 428, 605
+  index: -1
+Body st 3 R
+  rotate: true
+  xy: 1302, 497
+  size: 147, 177
+  orig: 1048, 1014
+  offset: 589, 612
+  index: -1
+Body st taz 1
+  rotate: false
+  xy: 744, 38
+  size: 145, 70
+  orig: 1048, 1014
+  offset: 421, 460
+  index: -1
+Body st1 L
+  rotate: true
+  xy: 1480, 86
+  size: 69, 84
+  orig: 1048, 1014
+  offset: 273, 605
+  index: -1
+Bracelet 1 L
+  rotate: true
+  xy: 1295, 96
+  size: 30, 36
+  orig: 1048, 1014
+  offset: 43, 630
+  index: -1
+Bracelet 1R
+  rotate: true
+  xy: 1090, 300
+  size: 100, 54
+  orig: 1048, 1014
+  offset: 741, 496
+  index: -1
+Bracelet 2  R
+  rotate: false
+  xy: 143, 7
+  size: 132, 189
+  orig: 1048, 1014
+  offset: 821, 520
+  index: -1
+Bracelet 2 L
+  rotate: true
+  xy: 1246, 364
+  size: 127, 145
+  orig: 1048, 1014
+  offset: 45, 480
+  index: -1
+Bracelet 3L
+  rotate: false
+  xy: 1067, 59
+  size: 38, 32
+  orig: 1048, 1014
+  offset: 211, 460
+  index: -1
+Bracelet L
+  rotate: false
+  xy: 1018, 609
+  size: 228, 258
+  orig: 1048, 1014
+  offset: 54, 492
+  index: -1
+Bracelet R
+  rotate: false
+  xy: 1018, 873
+  size: 230, 260
+  orig: 1048, 1014
+  offset: 711, 530
+  index: -1
+Bug Blue1
+  rotate: true
+  xy: 1488, 637
+  size: 167, 157
+  orig: 1048, 1014
+  offset: 412, 581
+  index: -1
+Bug brown
+  rotate: true
+  xy: 281, 91
+  size: 163, 162
+  orig: 1048, 1014
+  offset: 413, 576
+  index: -1
+Circle_Yea
+  rotate: false
+  xy: 1581, 178
+  size: 51, 53
+  orig: 1048, 1014
+  offset: 470, 797
+  index: -1
+Dec 1 L
+  rotate: true
+  xy: 1397, 328
+  size: 63, 82
+  orig: 1048, 1014
+  offset: 323, 659
+  index: -1
+Dec 1R
+  rotate: true
+  xy: 902, 86
+  size: 66, 83
+  orig: 1048, 1014
+  offset: 602, 659
+  index: -1
+Eye
+  rotate: true
+  xy: 941, 159
+  size: 41, 43
+  orig: 1048, 1014
+  offset: 475, 801
+  index: -1
+Finger 1 L
+  rotate: false
+  xy: 964, 206
+  size: 84, 72
+  orig: 1048, 1014
+  offset: 55, 645
+  index: -1
+Finger 1 R
+  rotate: true
+  xy: 991, 116
+  size: 84, 72
+  orig: 1048, 1014
+  offset: 856, 671
+  index: -1
+Finger 1_1 L
+  rotate: false
+  xy: 1069, 130
+  size: 73, 71
+  orig: 1048, 1014
+  offset: 73, 638
+  index: -1
+Finger 1_1 R
+  rotate: true
+  xy: 913, 6
+  size: 74, 76
+  orig: 1048, 1014
+  offset: 850, 660
+  index: -1
+Finger 2 L
+  rotate: true
+  xy: 1484, 243
+  size: 75, 94
+  orig: 1048, 1014
+  offset: 0, 524
+  index: -1
+Finger 2R
+  rotate: true
+  xy: 1245, 132
+  size: 75, 87
+  orig: 1048, 1014
+  offset: 920, 551
+  index: -1
+Finger 2_2L
+  rotate: false
+  xy: 1397, 397
+  size: 82, 94
+  orig: 1048, 1014
+  offset: 19, 519
+  index: -1
+Finger 2_2R
+  rotate: true
+  xy: 281, 6
+  size: 79, 94
+  orig: 1048, 1014
+  offset: 898, 546
+  index: -1
+Finger 3 L
+  rotate: true
+  xy: 1150, 158
+  size: 85, 89
+  orig: 1048, 1014
+  offset: 59, 454
+  index: -1
+Finger 3 R
+  rotate: true
+  xy: 1150, 328
+  size: 87, 90
+  orig: 1048, 1014
+  offset: 850, 481
+  index: -1
+Finger 3_3L
+  rotate: false
+  xy: 1580, 1011
+  size: 65, 92
+  orig: 1048, 1014
+  offset: 60, 461
+  index: -1
+Finger 3_3R
+  rotate: true
+  xy: 1397, 193
+  size: 63, 80
+  orig: 1048, 1014
+  offset: 873, 486
+  index: -1
+Finger 4 L
+  rotate: false
+  xy: 1090, 207
+  size: 54, 87
+  orig: 1048, 1014
+  offset: 159, 457
+  index: -1
+Finger 4 R
+  rotate: false
+  xy: 1338, 123
+  size: 53, 83
+  orig: 1048, 1014
+  offset: 783, 487
+  index: -1
+Finger 4_4 L
+  rotate: true
+  xy: 1397, 262
+  size: 60, 81
+  orig: 1048, 1014
+  offset: 141, 458
+  index: -1
+Finger 4_4 R
+  rotate: false
+  xy: 1575, 811
+  size: 59, 68
+  orig: 1048, 1014
+  offset: 796, 486
+  index: -1
+Glow 1 L
+  rotate: false
+  xy: 381, 9
+  size: 54, 76
+  orig: 1048, 1014
+  offset: 329, 659
+  index: -1
+Glow 1R
+  rotate: false
+  xy: 910, 291
+  size: 51, 75
+  orig: 1048, 1014
+  offset: 609, 659
+  index: -1
+Hand L
+  rotate: false
+  xy: 967, 406
+  size: 144, 187
+  orig: 1048, 1014
+  offset: 114, 532
+  index: -1
+Hand R
+  rotate: true
+  xy: 1378, 810
+  size: 143, 191
+  orig: 1048, 1014
+  offset: 738, 559
+  index: -1
+Head
+  rotate: false
+  xy: 1483, 161
+  size: 92, 76
+  orig: 1048, 1014
+  offset: 449, 791
+  index: -1
+Layer 1
+  rotate: false
+  xy: 367, 559
+  size: 46, 26
+  orig: 1049, 1014
+  offset: 471, 816
+  index: -1
+Layer 52
+  rotate: true
+  xy: 1485, 457
+  size: 174, 159
+  orig: 1048, 1014
+  offset: 409, 570
+  index: -1
+Layer 64
+  rotate: false
+  xy: 1246, 503
+  size: 47, 51
+  orig: 1048, 1014
+  offset: 468, 700
+  index: -1
+Layer 65
+  rotate: true
+  xy: 1396, 63
+  size: 45, 48
+  orig: 1048, 1014
+  offset: 469, 706
+  index: -1
+Obod
+  rotate: false
+  xy: 1246, 316
+  size: 99, 42
+  orig: 1048, 1014
+  offset: 445, 779
+  index: -1
+Paws 1
+  rotate: false
+  xy: 995, 24
+  size: 33, 56
+  orig: 1048, 1014
+  offset: 503, 660
+  index: -1
+Paws 2
+  rotate: false
+  xy: 1054, 228
+  size: 30, 50
+  orig: 1048, 1014
+  offset: 455, 574
+  index: -1
+SHadow Stone Center
+  rotate: false
+  xy: 449, 369
+  size: 231, 216
+  orig: 1048, 1014
+  offset: 377, 532
+  index: -1
+Sand 11L
+  rotate: false
+  xy: 973, 627
+  size: 39, 461
+  orig: 1048, 1014
+  offset: 113, 98
+  index: -1
+Sand 11R
+  rotate: false
+  xy: 924, 599
+  size: 43, 489
+  orig: 1048, 1014
+  offset: 851, 88
+  index: -1
+Sand 1L
+  rotate: true
+  xy: 449, 147
+  size: 29, 447
+  orig: 1048, 1014
+  offset: 199, 91
+  index: -1
+Sand 1R
+  rotate: true
+  xy: 449, 114
+  size: 27, 425
+  orig: 1048, 1014
+  offset: 776, 86
+  index: -1
+Sand center body
+  rotate: false
+  xy: 1011, 1139
+  size: 361, 506
+  orig: 1048, 1014
+  offset: 320, 136
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 1485, 324
+  size: 132, 127
+  orig: 1048, 1014
+  offset: 426, 874
+  index: -1
+Sfera 2 L
+  rotate: true
+  xy: 1246, 213
+  size: 97, 98
+  orig: 1048, 1014
+  offset: 100, 546
+  index: -1
+Sfera 3 R
+  rotate: false
+  xy: 449, 6
+  size: 103, 102
+  orig: 1048, 1014
+  offset: 807, 576
+  index: -1
+Shadow Veko
+  rotate: true
+  xy: 1034, 37
+  size: 43, 27
+  orig: 1048, 1014
+  offset: 472, 816
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 967, 284
+  size: 117, 116
+  orig: 1048, 1014
+  offset: 152, 580
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 1254, 832
+  size: 118, 122
+  orig: 1048, 1014
+  offset: 726, 604
+  index: -1
+Stone Center
+  rotate: false
+  xy: 686, 372
+  size: 229, 210
+  orig: 1048, 1014
+  offset: 376, 541
+  index: -1
+Truba
+  rotate: true
+  xy: 1580, 937
+  size: 68, 63
+  orig: 1048, 1014
+  offset: 462, 624
+  index: -1
+Veko
+  rotate: false
+  xy: 991, 86
+  size: 43, 24
+  orig: 1048, 1014
+  offset: 473, 819
+  index: -1
+Zaglushka
+  rotate: true
+  xy: 1397, 114
+  size: 73, 77
+  orig: 1048, 1014
+  offset: 457, 615
+  index: -1
+Zaglushka 1_1
+  rotate: false
+  xy: 1584, 279
+  size: 61, 39
+  orig: 1049, 1014
+  offset: 465, 650
+  index: -1
+Zaglushka 1_1_1
+  rotate: false
+  xy: 1148, 111
+  size: 77, 41
+  orig: 1049, 1014
+  offset: 455, 650
+  index: -1
+Zaglushka 2
+  rotate: false
+  xy: 1570, 79
+  size: 75, 76
+  orig: 1048, 1014
+  offset: 458, 613
+  index: -1
+Zaglushka 2_2
+  rotate: false
+  xy: 1584, 237
+  size: 58, 36
+  orig: 1049, 1014
+  offset: 466, 619
+  index: -1
+Zaglushka 2_2_1
+  rotate: true
+  xy: 1351, 281
+  size: 77, 40
+  orig: 1049, 1014
+  offset: 456, 615
+  index: -1
+glare
+  rotate: false
+  xy: 6, 559
+  size: 355, 529
+  orig: 1048, 1014
+  offset: 251, 334
+  index: -1

@@ -1,0 +1,265 @@
+
+kol_1612.png
+size: 2033,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BALLS of SOUL
+  rotate: true
+  xy: 2, 9
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+BODY l
+  rotate: false
+  xy: 1777, 222
+  size: 149, 198
+  orig: 149, 198
+  offset: 0, 0
+  index: -1
+BODY l copy
+  rotate: false
+  xy: 1867, 463
+  size: 155, 204
+  orig: 155, 204
+  offset: 0, 0
+  index: -1
+BODY1
+  rotate: false
+  xy: 1544, 215
+  size: 231, 205
+  orig: 231, 205
+  offset: 0, 0
+  index: -1
+BODY1 copy
+  rotate: false
+  xy: 1544, 8
+  size: 231, 205
+  orig: 231, 205
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 1267, 17
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+HEAD L
+  rotate: true
+  xy: 1023, 121
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+HEAD R
+  rotate: true
+  xy: 1023, 2
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+L WING 2
+  rotate: false
+  xy: 1777, 80
+  size: 108, 140
+  orig: 108, 140
+  offset: 0, 0
+  index: -1
+LEFT WING
+  rotate: false
+  xy: 1867, 669
+  size: 160, 330
+  orig: 160, 330
+  offset: 0, 0
+  index: -1
+LIGHT and body
+  rotate: false
+  xy: 1128, 422
+  size: 737, 577
+  orig: 737, 577
+  offset: 0, 0
+  index: -1
+R WING 2
+  rotate: true
+  xy: 1126, 17
+  size: 107, 139
+  orig: 107, 139
+  offset: 0, 0
+  index: -1
+RIGHT WING
+  rotate: true
+  xy: 691, 78
+  size: 160, 330
+  orig: 160, 330
+  offset: 0, 0
+  index: -1
+STONE1
+  rotate: false
+  xy: 1887, 89
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+STONE1 copy
+  rotate: true
+  xy: 1957, 146
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+STONE2
+  rotate: true
+  xy: 1777, 19
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+STONE2 L
+  rotate: true
+  xy: 821, 17
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+chaos2
+  rotate: true
+  xy: 2, 240
+  size: 759, 1124
+  orig: 759, 1124
+  offset: 0, 0
+  index: -1
+ef l
+  rotate: false
+  xy: 1376, 44
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+ef r
+  rotate: false
+  xy: 1928, 381
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+ef shine
+  rotate: false
+  xy: 2, 28
+  size: 687, 210
+  orig: 687, 210
+  offset: 0, 0
+  index: -1
+fragment1
+  rotate: false
+  xy: 1471, 56
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+fragment10
+  rotate: true
+  xy: 1864, 52
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+fragment11
+  rotate: false
+  xy: 1928, 207
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+fragment12
+  rotate: false
+  xy: 2008, 327
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+fragment13
+  rotate: false
+  xy: 1948, 60
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+fragment14
+  rotate: false
+  xy: 1376, 21
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+fragment2
+  rotate: true
+  xy: 1867, 435
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+fragment3
+  rotate: false
+  xy: 691, 2
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+fragment4
+  rotate: true
+  xy: 908, 10
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+fragment5
+  rotate: false
+  xy: 978, 29
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+fragment5.5
+  rotate: false
+  xy: 756, 2
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+fragment6
+  rotate: false
+  xy: 1887, 147
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+fragment7
+  rotate: false
+  xy: 1928, 294
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+fragment8
+  rotate: false
+  xy: 2008, 354
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+fragment9
+  rotate: false
+  xy: 1948, 103
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 1128, 126
+  size: 414, 294
+  orig: 414, 294
+  offset: 0, 0
+  index: -1

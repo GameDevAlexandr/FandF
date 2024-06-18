@@ -1,0 +1,90 @@
+
+laser blue.png
+size: 608,608
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BLACK BODY
+  rotate: false
+  xy: 283, 13
+  size: 109, 589
+  orig: 638, 1163
+  offset: 261, 489
+  index: -1
+STROKE 12
+  rotate: false
+  xy: 120, 9
+  size: 94, 593
+  orig: 638, 1163
+  offset: 269, 500
+  index: -1
+STROKE 22
+  rotate: false
+  xy: 220, 9
+  size: 57, 593
+  orig: 638, 1163
+  offset: 287, 499
+  index: -1
+Shape 1
+  rotate: true
+  xy: 398, 388
+  size: 214, 121
+  orig: 638, 1163
+  offset: 208, 471
+  index: -1
+Shape 4
+  rotate: true
+  xy: 398, 185
+  size: 197, 93
+  orig: 638, 1163
+  offset: 214, 480
+  index: -1
+body2
+  rotate: false
+  xy: 6, 6
+  size: 108, 596
+  orig: 638, 1163
+  offset: 262, 501
+  index: -1
+st1
+  rotate: false
+  xy: 425, 165
+  size: 20, 14
+  orig: 638, 1080
+  offset: 230, 558
+  index: -1
+st2
+  rotate: true
+  xy: 398, 163
+  size: 16, 21
+  orig: 638, 1080
+  offset: 228, 519
+  index: -1
+st3
+  rotate: false
+  xy: 419, 140
+  size: 15, 17
+  orig: 638, 1080
+  offset: 249, 498
+  index: -1
+st4
+  rotate: true
+  xy: 451, 160
+  size: 19, 15
+  orig: 638, 1080
+  offset: 360, 497
+  index: -1
+st5
+  rotate: true
+  xy: 398, 138
+  size: 19, 15
+  orig: 638, 1080
+  offset: 387, 524
+  index: -1
+st6
+  rotate: false
+  xy: 440, 139
+  size: 15, 15
+  orig: 638, 1080
+  offset: 387, 552
+  index: -1

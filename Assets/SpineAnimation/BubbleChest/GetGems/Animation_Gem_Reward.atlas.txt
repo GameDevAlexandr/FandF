@@ -1,0 +1,146 @@
+
+Animation_Gem_Reward.png
+size: 573,573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DARK SHINE
+  rotate: false
+  xy: 269, 375
+  size: 273, 192
+  orig: 584, 1288
+  offset: 150, 426
+  index: -1
+GEM
+  rotate: false
+  xy: 446, 294
+  size: 85, 75
+  orig: 584, 1288
+  offset: 247, 538
+  index: -1
+GEM_BACK
+  rotate: true
+  xy: 369, 174
+  size: 112, 106
+  orig: 584, 1288
+  offset: 233, 524
+  index: -1
+Layer 37
+  rotate: true
+  xy: 6, 29
+  size: 275, 205
+  orig: 584, 1288
+  offset: 152, 433
+  index: -1
+PORTALL
+  rotate: false
+  xy: 6, 310
+  size: 257, 257
+  orig: 584, 1288
+  offset: 155, 402
+  index: -1
+RAYS
+  rotate: false
+  xy: 217, 145
+  size: 146, 141
+  orig: 584, 1288
+  offset: 218, 506
+  index: -1
+line1
+  rotate: false
+  xy: 472, 84
+  size: 58, 45
+  orig: 584, 1288
+  offset: 240, 499
+  index: -1
+line2
+  rotate: false
+  xy: 385, 66
+  size: 81, 102
+  orig: 584, 1288
+  offset: 217, 456
+  index: -1
+line3
+  rotate: true
+  xy: 481, 135
+  size: 47, 67
+  orig: 584, 1288
+  offset: 296, 473
+  index: -1
+line4
+  rotate: true
+  xy: 481, 188
+  size: 100, 81
+  orig: 584, 1288
+  offset: 248, 527
+  index: -1
+line5
+  rotate: false
+  xy: 217, 38
+  size: 162, 101
+  orig: 584, 1288
+  offset: 189, 497
+  index: -1
+line7
+  rotate: false
+  xy: 385, 11
+  size: 74, 49
+  orig: 584, 1288
+  offset: 188, 454
+  index: -1
+shadow
+  rotate: false
+  xy: 269, 292
+  size: 171, 77
+  orig: 584, 1288
+  offset: 202, 509
+  index: -1
+st1
+  rotate: false
+  xy: 548, 526
+  size: 19, 15
+  orig: 584, 1288
+  offset: 198, 570
+  index: -1
+st2
+  rotate: true
+  xy: 6, 8
+  size: 15, 28
+  orig: 584, 1288
+  offset: 181, 532
+  index: -1
+st3
+  rotate: false
+  xy: 554, 167
+  size: 13, 15
+  orig: 584, 1288
+  offset: 208, 473
+  index: -1
+st4
+  rotate: false
+  xy: 548, 504
+  size: 14, 16
+  orig: 584, 1288
+  offset: 324, 474
+  index: -1
+st5
+  rotate: false
+  xy: 472, 55
+  size: 29, 23
+  orig: 584, 1288
+  offset: 292, 454
+  index: -1
+st6
+  rotate: true
+  xy: 548, 547
+  size: 20, 19
+  orig: 584, 1288
+  offset: 375, 524
+  index: -1
+st6 copy
+  rotate: true
+  xy: 548, 547
+  size: 20, 19
+  orig: 584, 1288
+  offset: 325, 567
+  index: -1

@@ -1,0 +1,48 @@
+
+Group 11.png
+size: 786,789
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 657
+  rotate: true
+  xy: 267, 408
+  size: 185, 148
+  orig: 185, 148
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 267, 327
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 8, 11
+  size: 229, 408
+  orig: 229, 408
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 267, 604
+  size: 204, 174
+  orig: 204, 174
+  offset: 0, 0
+  index: -1
+shine
+  rotate: true
+  xy: 8, 251
+  size: 527, 251
+  orig: 527, 251
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 267, 282
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1

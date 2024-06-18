@@ -1,0 +1,104 @@
+
+golem2.png
+size: 600,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 144, 15
+  size: 255, 79
+  orig: 255, 79
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 447, 96
+  size: 98, 63
+  orig: 98, 63
+  offset: 0, 0
+  index: -1
+ГЛАЗ
+  rotate: false
+  xy: 554, 224
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+ЛЕВАЯ РУКА
+  rotate: false
+  xy: 225, 94
+  size: 109, 176
+  orig: 109, 176
+  offset: 0, 0
+  index: -1
+ЛЕВАЯ подкова
+  rotate: false
+  xy: 516, 59
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Левая стопа
+  rotate: false
+  xy: 512, 146
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+ОСКОЛКИ
+  rotate: false
+  xy: 225, 10
+  size: 129, 82
+  orig: 129, 82
+  offset: 0, 0
+  index: -1
+ПРАВАЯ  НОГА
+  rotate: true
+  xy: 356, 18
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+ПРАВАЯ РУКА
+  rotate: false
+  xy: 336, 94
+  size: 109, 176
+  orig: 109, 176
+  offset: 0, 0
+  index: -1
+ПРАВАЯ СТОПА
+  rotate: false
+  xy: 512, 96
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+ПРВАЯ ПОДКОВА
+  rotate: false
+  xy: 553, 59
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Слой 17
+  rotate: true
+  xy: 2, 2
+  size: 268, 140
+  orig: 268, 140
+  offset: 0, 0
+  index: -1
+ТЕЛО
+  rotate: false
+  xy: 463, 22
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+левая нога
+  rotate: true
+  xy: 447, 196
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1

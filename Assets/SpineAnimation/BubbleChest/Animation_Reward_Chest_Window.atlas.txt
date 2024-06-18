@@ -1,0 +1,125 @@
+
+Animation_Reward_Chest_Window.png
+size: 1570,1570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4.99$
+  rotate: false
+  xy: 702, 1049
+  size: 261, 144
+  orig: 268, 151
+  offset: 3, 3
+  index: -1
+BLIK
+  rotate: true
+  xy: 1081, 1388
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 10, 948
+  size: 403, 612
+  orig: 403, 612
+  offset: 0, 0
+  index: -1
+BONUS
+  rotate: false
+  xy: 804, 994
+  size: 148, 45
+  orig: 148, 45
+  offset: 0, 0
+  index: -1
+CHEST
+  rotate: false
+  xy: 763, 1390
+  size: 193, 170
+  orig: 193, 170
+  offset: 0, 0
+  index: -1
+CHEST!
+  rotate: false
+  xy: 962, 1001
+  size: 109, 38
+  orig: 109, 38
+  offset: 0, 0
+  index: -1
+FREE
+  rotate: false
+  xy: 962, 953
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_03
+  rotate: false
+  xy: 973, 1504
+  size: 58, 56
+  orig: 677, 355
+  offset: 41, 107
+  index: -1
+Image_Effect_Particle_04
+  rotate: false
+  xy: 1051, 951
+  size: 39, 40
+  orig: 677, 355
+  offset: 301, 79
+  index: -1
+Image_Effect_Particle_04 copy
+  rotate: false
+  xy: 1051, 951
+  size: 39, 40
+  orig: 677, 355
+  offset: 81, 252
+  index: -1
+PLAY
+  rotate: true
+  xy: 702, 957
+  size: 82, 92
+  orig: 92, 93
+  offset: 2, 1
+  index: -1
+SHINE
+  rotate: false
+  xy: 423, 987
+  size: 269, 206
+  orig: 738, 1623
+  offset: 266, 733
+  index: -1
+shadow
+  rotate: false
+  xy: 423, 957
+  size: 200, 20
+  orig: 200, 20
+  offset: 0, 0
+  index: -1
+swords1
+  rotate: true
+  xy: 10, 597
+  size: 107, 1483
+  orig: 725, 2141
+  offset: 165, 353
+  index: -1
+swords2
+  rotate: true
+  xy: 10, 831
+  size: 107, 1550
+  orig: 725, 2264
+  offset: 305, 289
+  index: -1
+swords3
+  rotate: true
+  xy: 10, 714
+  size: 107, 1535
+  orig: 725, 2200
+  offset: 442, 313
+  index: -1
+twirl
+  rotate: true
+  xy: 423, 1203
+  size: 357, 330
+  orig: 357, 330
+  offset: 0, 0
+  index: -1

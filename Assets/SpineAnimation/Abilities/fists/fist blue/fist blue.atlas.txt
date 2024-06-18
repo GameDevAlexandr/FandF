@@ -1,0 +1,139 @@
+
+fist blue.png
+size: 1031,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame 17
+  rotate: false
+  xy: 311, 547
+  size: 242, 228
+  orig: 716, 1451
+  offset: 355, 773
+  index: -1
+Frame 18
+  rotate: true
+  xy: 428, 11
+  size: 284, 141
+  orig: 716, 1451
+  offset: 320, 813
+  index: -1
+Frame 19
+  rotate: false
+  xy: 165, 40
+  size: 213, 141
+  orig: 716, 1451
+  offset: 319, 815
+  index: -1
+Frame 20
+  rotate: false
+  xy: 6, 39
+  size: 153, 142
+  orig: 716, 1451
+  offset: 315, 812
+  index: -1
+Frame 21
+  rotate: false
+  xy: 575, 60
+  size: 112, 112
+  orig: 716, 1451
+  offset: 315, 817
+  index: -1
+Frame 22
+  rotate: false
+  xy: 819, 28
+  size: 117, 110
+  orig: 716, 1451
+  offset: 316, 817
+  index: -1
+Frame 23
+  rotate: true
+  xy: 575, 178
+  size: 117, 114
+  orig: 716, 1451
+  offset: 314, 819
+  index: -1
+Frame 24
+  rotate: true
+  xy: 903, 906
+  size: 119, 115
+  orig: 716, 1451
+  offset: 318, 819
+  index: -1
+Frame 25
+  rotate: false
+  xy: 693, 28
+  size: 120, 110
+  orig: 716, 1451
+  offset: 314, 822
+  index: -1
+Frame 26
+  rotate: true
+  xy: 921, 466
+  size: 112, 104
+  orig: 716, 1451
+  offset: 316, 824
+  index: -1
+flash/Frame 17
+  rotate: true
+  xy: 854, 584
+  size: 214, 160
+  orig: 716, 1451
+  offset: 299, 898
+  index: -1
+flash/Frame 18
+  rotate: true
+  xy: 712, 290
+  size: 256, 203
+  orig: 716, 1451
+  offset: 248, 868
+  index: -1
+flash/Frame 19
+  rotate: false
+  xy: 559, 552
+  size: 289, 223
+  orig: 716, 1451
+  offset: 225, 866
+  index: -1
+flash/Frame 20
+  rotate: false
+  xy: 311, 781
+  size: 309, 244
+  orig: 716, 1451
+  offset: 205, 845
+  index: -1
+flash/Frame 21
+  rotate: false
+  xy: 428, 301
+  size: 278, 240
+  orig: 716, 1451
+  offset: 226, 851
+  index: -1
+flash/Frame 22
+  rotate: false
+  xy: 626, 804
+  size: 271, 221
+  orig: 716, 1451
+  offset: 233, 854
+  index: -1
+flash/Frame 23
+  rotate: true
+  xy: 695, 144
+  size: 140, 224
+  orig: 716, 1451
+  offset: 241, 851
+  index: -1
+hand1
+  rotate: false
+  xy: 6, 545
+  size: 299, 480
+  orig: 1922, 1082
+  offset: 1118, 236
+  index: -1
+hand2
+  rotate: false
+  xy: 6, 187
+  size: 416, 352
+  orig: 1922, 1082
+  offset: 606, 337
+  index: -1

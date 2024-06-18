@@ -1,0 +1,545 @@
+
+portal.png
+size: 1458,1458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blik
+  rotate: true
+  xy: 1228, 80
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+stones_aqua/portal
+  rotate: false
+  xy: 1068, 1109
+  size: 354, 347
+  orig: 354, 347
+  offset: 0, 0
+  index: -1
+stones_aqua/seaweed 3
+  rotate: false
+  xy: 982, 24
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+stones_aqua/seaweed 6
+  rotate: true
+  xy: 1018, 111
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+stones_aqua/seaweed top2
+  rotate: true
+  xy: 1353, 357
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+stones_aqua/st10
+  rotate: false
+  xy: 1080, 112
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+stones_aqua/st11
+  rotate: false
+  xy: 1299, 84
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+stones_aqua/st12
+  rotate: true
+  xy: 1102, 36
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+stones_aqua/st13
+  rotate: false
+  xy: 1213, 271
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+stones_aqua/st14
+  rotate: true
+  xy: 1407, 58
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+stones_aqua/st17
+  rotate: true
+  xy: 1236, 217
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+stones_aqua/st18
+  rotate: false
+  xy: 973, 405
+  size: 38, 177
+  orig: 38, 177
+  offset: 0, 0
+  index: -1
+stones_aqua/st19
+  rotate: true
+  xy: 1236, 317
+  size: 38, 121
+  orig: 38, 121
+  offset: 0, 0
+  index: -1
+stones_aqua/st21
+  rotate: false
+  xy: 1011, 248
+  size: 37, 142
+  orig: 37, 142
+  offset: 0, 0
+  index: -1
+stones_aqua/st5
+  rotate: true
+  xy: 1399, 184
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+stones_aqua/st6
+  rotate: false
+  xy: 1080, 159
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+stones_aqua/st666
+  rotate: false
+  xy: 1359, 286
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+stones_aqua/st7
+  rotate: false
+  xy: 1102, 17
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+stones_aqua/st8
+  rotate: true
+  xy: 1013, 392
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+stones_aqua/st9
+  rotate: false
+  xy: 477, 67
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+stones_aqua/statue left
+  rotate: false
+  xy: 946, 584
+  size: 122, 451
+  orig: 122, 451
+  offset: 0, 0
+  index: -1
+stones_aqua/statue right
+  rotate: false
+  xy: 493, 48
+  size: 130, 450
+  orig: 130, 450
+  offset: 0, 0
+  index: -1
+stones_cryst/arca
+  rotate: false
+  xy: 577, 635
+  size: 367, 400
+  orig: 367, 400
+  offset: 0, 0
+  index: -1
+stones_f/portalgolem_
+  rotate: false
+  xy: 1070, 405
+  size: 353, 346
+  orig: 353, 346
+  offset: 0, 0
+  index: -1
+stones_f/shine2
+  rotate: false
+  xy: 2, 968
+  size: 573, 488
+  orig: 573, 488
+  offset: 0, 0
+  index: -1
+stones_f/st1
+  rotate: true
+  xy: 625, 121
+  size: 82, 318
+  orig: 82, 318
+  offset: 0, 0
+  index: -1
+stones_f/st10
+  rotate: false
+  xy: 1320, 194
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+stones_f/st11
+  rotate: true
+  xy: 1170, 94
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+stones_f/st12
+  rotate: false
+  xy: 1154, 156
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+stones_f/st13
+  rotate: false
+  xy: 1050, 248
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+stones_f/st14
+  rotate: true
+  xy: 1360, 78
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+stones_f/st15
+  rotate: false
+  xy: 1090, 311
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+stones_f/st16
+  rotate: true
+  xy: 1334, 286
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+stones_f/st17
+  rotate: true
+  xy: 1334, 247
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+stones_f/st18golem_
+  rotate: false
+  xy: 945, 27
+  size: 35, 176
+  orig: 35, 176
+  offset: 0, 0
+  index: -1
+stones_f/st19
+  rotate: false
+  xy: 1050, 269
+  size: 38, 121
+  orig: 38, 121
+  offset: 0, 0
+  index: -1
+stones_f/st2
+  rotate: true
+  xy: 1385, 149
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+stones_f/st20
+  rotate: false
+  xy: 914, 605
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+stones_f/st21
+  rotate: false
+  xy: 1419, 964
+  size: 37, 143
+  orig: 37, 143
+  offset: 0, 0
+  index: -1
+stones_f/st3
+  rotate: false
+  xy: 1041, 13
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+stones_f/st4
+  rotate: true
+  xy: 577, 560
+  size: 73, 335
+  orig: 73, 335
+  offset: 0, 0
+  index: -1
+stones_f/st5
+  rotate: false
+  xy: 1174, 224
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+stones_f/st6
+  rotate: true
+  xy: 339, 2
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+stones_f/st7
+  rotate: false
+  xy: 582, 29
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+stones_f/st8
+  rotate: true
+  xy: 1013, 520
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+stones_f/st9
+  rotate: false
+  xy: 973, 214
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+stones_gh/portal
+  rotate: true
+  xy: 625, 205
+  size: 353, 346
+  orig: 353, 346
+  offset: 0, 0
+  index: -1
+stones_gh/shine2
+  rotate: false
+  xy: 2, 500
+  size: 573, 466
+  orig: 573, 466
+  offset: 0, 0
+  index: -1
+stones_gh/st1
+  rotate: true
+  xy: 625, 37
+  size: 82, 318
+  orig: 82, 318
+  offset: 0, 0
+  index: -1
+stones_gh/st10
+  rotate: false
+  xy: 1306, 141
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+stones_gh/st11
+  rotate: true
+  xy: 1170, 32
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+stones_gh/st12
+  rotate: false
+  xy: 1230, 149
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+stones_gh/st13
+  rotate: false
+  xy: 1067, 248
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+stones_gh/st14
+  rotate: true
+  xy: 1407, 121
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+stones_gh/st15
+  rotate: false
+  xy: 1163, 311
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+stones_gh/st16
+  rotate: false
+  xy: 1419, 799
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+stones_gh/st17
+  rotate: true
+  xy: 1090, 232
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+stones_gh/st18
+  rotate: false
+  xy: 973, 226
+  size: 36, 177
+  orig: 36, 177
+  offset: 0, 0
+  index: -1
+stones_gh/st19
+  rotate: true
+  xy: 1090, 271
+  size: 38, 121
+  orig: 38, 121
+  offset: 0, 0
+  index: -1
+stones_gh/st2
+  rotate: false
+  xy: 577, 538
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+stones_gh/st20
+  rotate: false
+  xy: 1424, 1428
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+stones_gh/st21
+  rotate: false
+  xy: 1419, 819
+  size: 37, 143
+  orig: 37, 143
+  offset: 0, 0
+  index: -1
+stones_gh/st3
+  rotate: true
+  xy: 1236, 256
+  size: 59, 96
+  orig: 59, 96
+  offset: 0, 0
+  index: -1
+stones_gh/st4
+  rotate: true
+  xy: 2, 3
+  size: 74, 335
+  orig: 74, 335
+  offset: 0, 0
+  index: -1
+stones_gh/st5
+  rotate: false
+  xy: 1228, 33
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+stones_gh/st6
+  rotate: true
+  xy: 408, 2
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+stones_gh/st7
+  rotate: false
+  xy: 1213, 292
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+stones_gh/st8
+  rotate: true
+  xy: 1013, 456
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+stones_gh/st9
+  rotate: true
+  xy: 1320, 247
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+stones_ice/arca
+  rotate: false
+  xy: 577, 1037
+  size: 489, 419
+  orig: 489, 419
+  offset: 0, 0
+  index: -1
+stones_ice/ice 2
+  rotate: true
+  xy: 1236, 357
+  size: 46, 115
+  orig: 46, 115
+  offset: 0, 0
+  index: -1
+stones_ice/ice 3
+  rotate: false
+  xy: 982, 111
+  size: 34, 113
+  orig: 34, 113
+  offset: 0, 0
+  index: -1
+stones_ice/ice 4
+  rotate: false
+  xy: 1018, 146
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+stones_ice/ice 5
+  rotate: true
+  xy: 477, 2
+  size: 44, 103
+  orig: 44, 103
+  offset: 0, 0
+  index: -1
+stones_ice/portal
+  rotate: true
+  xy: 1070, 753
+  size: 354, 347
+  orig: 354, 347
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/portal
+  rotate: true
+  xy: 1070, 753
+  size: 354, 347
+  orig: 354, 347
+  offset: 0, 0
+  index: -1
+stones_ice_egypt/arca
+  rotate: false
+  xy: 2, 79
+  size: 489, 419
+  orig: 489, 419
+  offset: 0, 0
+  index: -1

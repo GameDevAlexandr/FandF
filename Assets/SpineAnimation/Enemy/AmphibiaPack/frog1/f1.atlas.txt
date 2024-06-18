@@ -1,0 +1,34 @@
+
+f1.png
+size: 395,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ТЕЛО
+  rotate: false
+  xy: 6, 98
+  size: 234, 291
+  orig: 234, 293
+  offset: 0, 0
+  index: -1
+ТЕНЬ
+  rotate: false
+  xy: 6, 6
+  size: 181, 86
+  orig: 181, 86
+  offset: 0, 0
+  index: -1
+глаз
+  rotate: false
+  xy: 193, 54
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+точка верх
+  rotate: false
+  xy: 193, 30
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+2 hunter.png
+size: 756,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAck  body eye
+  rotate: true
+  xy: 625, 70
+  size: 46, 60
+  orig: 452, 471
+  offset: 203, 248
+  index: -1
+Belt
+  rotate: false
+  xy: 616, 280
+  size: 67, 86
+  orig: 452, 471
+  offset: 190, 198
+  index: -1
+Body
+  rotate: false
+  xy: 599, 424
+  size: 108, 113
+  orig: 452, 471
+  offset: 171, 267
+  index: -1
+Body_eye
+  rotate: true
+  xy: 553, 9
+  size: 103, 68
+  orig: 452, 471
+  offset: 175, 283
+  index: -1
+Cloth
+  rotate: false
+  xy: 520, 240
+  size: 94, 125
+  orig: 452, 471
+  offset: 179, 135
+  index: -1
+Elbow L
+  rotate: false
+  xy: 496, 86
+  size: 49, 133
+  orig: 452, 471
+  offset: 91, 182
+  index: -1
+Elbow R
+  rotate: false
+  xy: 469, 221
+  size: 49, 134
+  orig: 452, 471
+  offset: 310, 184
+  index: -1
+Finger 1 L
+  rotate: false
+  xy: 676, 725
+  size: 47, 29
+  orig: 452, 471
+  offset: 108, 201
+  index: -1
+Hand L
+  rotate: false
+  xy: 623, 12
+  size: 58, 56
+  orig: 452, 471
+  offset: 102, 181
+  index: -1
+Hand R
+  rotate: false
+  xy: 687, 60
+  size: 57, 56
+  orig: 452, 471
+  offset: 290, 182
+  index: -1
+Head
+  rotate: true
+  xy: 625, 203
+  size: 75, 57
+  orig: 452, 471
+  offset: 188, 389
+  index: -1
+Head back
+  rotate: false
+  xy: 492, 367
+  size: 99, 79
+  orig: 452, 471
+  offset: 176, 348
+  index: -1
+Hip
+  rotate: false
+  xy: 418, 81
+  size: 76, 135
+  orig: 452, 471
+  offset: 146, 126
+  index: -1
+Hip R
+  rotate: true
+  xy: 418, 2
+  size: 77, 133
+  orig: 452, 471
+  offset: 222, 128
+  index: -1
+Plume 1
+  rotate: false
+  xy: 706, 169
+  size: 48, 45
+  orig: 452, 471
+  offset: 293, 312
+  index: -1
+Plume 1 L
+  rotate: true
+  xy: 709, 533
+  size: 49, 45
+  orig: 452, 471
+  offset: 107, 312
+  index: -1
+Plume 2
+  rotate: false
+  xy: 684, 216
+  size: 67, 56
+  orig: 452, 471
+  offset: 321, 289
+  index: -1
+Plume 2 L
+  rotate: false
+  xy: 593, 368
+  size: 68, 54
+  orig: 452, 471
+  offset: 61, 296
+  index: -1
+Plume 3
+  rotate: false
+  xy: 350, 47
+  size: 66, 169
+  orig: 452, 471
+  offset: 282, 194
+  index: -1
+Plume 3 L
+  rotate: false
+  xy: 599, 539
+  size: 64, 172
+  orig: 452, 471
+  offset: 105, 191
+  index: -1
+Plume 4
+  rotate: false
+  xy: 233, 18
+  size: 115, 345
+  orig: 452, 471
+  offset: 310, 18
+  index: -1
+Plume 4 L
+  rotate: false
+  xy: 233, 365
+  size: 117, 346
+  orig: 452, 471
+  offset: 20, 19
+  index: -1
+Plume 5
+  rotate: false
+  xy: 352, 476
+  size: 91, 235
+  orig: 452, 471
+  offset: 273, 137
+  index: -1
+Plume 5 L
+  rotate: false
+  xy: 445, 476
+  size: 91, 235
+  orig: 452, 471
+  offset: 88, 137
+  index: -1
+Plume 6
+  rotate: true
+  xy: 685, 274
+  size: 72, 69
+  orig: 452, 471
+  offset: 248, 300
+  index: -1
+Plume 6 L
+  rotate: true
+  xy: 685, 348
+  size: 74, 69
+  orig: 452, 471
+  offset: 131, 300
+  index: -1
+Sfera L
+  rotate: true
+  xy: 706, 122
+  size: 45, 48
+  orig: 452, 471
+  offset: 113, 386
+  index: -1
+Sfera R
+  rotate: false
+  xy: 709, 484
+  size: 45, 47
+  orig: 452, 471
+  offset: 294, 387
+  index: -1
+Sfera centre
+  rotate: false
+  xy: 665, 540
+  size: 42, 42
+  orig: 452, 471
+  offset: 205, 295
+  index: -1
+Shadow
+  rotate: false
+  xy: 233, 713
+  size: 441, 41
+  orig: 452, 471
+  offset: 7, 4
+  index: -1
+Shin
+  rotate: true
+  xy: 352, 357
+  size: 117, 138
+  orig: 452, 471
+  offset: 95, 14
+  index: -1
+Shin R
+  rotate: false
+  xy: 350, 218
+  size: 117, 137
+  orig: 452, 471
+  offset: 233, 14
+  index: -1
+Sholder pad
+  rotate: true
+  xy: 538, 448
+  size: 263, 59
+  orig: 452, 471
+  offset: 95, 336
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 547, 114
+  size: 76, 124
+  orig: 452, 471
+  offset: 93, 235
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 665, 584
+  size: 76, 127
+  orig: 452, 471
+  offset: 281, 232
+  index: -1
+Wing back L
+  rotate: false
+  xy: 2, 387
+  size: 229, 367
+  orig: 452, 471
+  offset: 6, 21
+  index: -1
+Wing back R
+  rotate: false
+  xy: 2, 18
+  size: 229, 367
+  orig: 452, 471
+  offset: 214, 20
+  index: -1
+eye L
+  rotate: false
+  xy: 684, 203
+  size: 14, 11
+  orig: 452, 471
+  offset: 208, 410
+  index: -1
+eye R
+  rotate: false
+  xy: 2, 4
+  size: 12, 12
+  orig: 452, 471
+  offset: 231, 410
+  index: -1
+neck
+  rotate: false
+  xy: 625, 118
+  size: 79, 83
+  orig: 452, 471
+  offset: 186, 351
+  index: -1

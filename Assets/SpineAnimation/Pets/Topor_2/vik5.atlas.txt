@@ -1,0 +1,139 @@
+
+vik5.png
+size: 655,655
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 505
+  size: 307, 148
+  orig: 544, 544
+  offset: 46, 182
+  index: -1
+ARM 1 L
+  rotate: false
+  xy: 556, 121
+  size: 80, 56
+  orig: 544, 544
+  offset: 20, 242
+  index: -1
+ARM 1 R
+  rotate: false
+  xy: 475, 90
+  size: 79, 87
+  orig: 544, 544
+  offset: 310, 207
+  index: -1
+ARM 2 L
+  rotate: false
+  xy: 485, 179
+  size: 93, 83
+  orig: 544, 544
+  offset: 16, 190
+  index: -1
+ARM 2 R
+  rotate: true
+  xy: 362, 75
+  size: 109, 111
+  orig: 544, 544
+  offset: 335, 160
+  index: -1
+Belt
+  rotate: false
+  xy: 311, 448
+  size: 311, 71
+  orig: 544, 544
+  offset: 46, 143
+  index: -1
+HEAD
+  rotate: false
+  xy: 2, 361
+  size: 299, 142
+  orig: 544, 544
+  offset: 54, 313
+  index: -1
+LEFT BOOTS
+  rotate: false
+  xy: 485, 264
+  size: 133, 92
+  orig: 544, 544
+  offset: 72, 60
+  index: -1
+LEGS
+  rotate: false
+  xy: 201, 258
+  size: 282, 98
+  orig: 544, 544
+  offset: 70, 88
+  index: -1
+Layer 342
+  rotate: false
+  xy: 2, 9
+  size: 202, 138
+  orig: 544, 544
+  offset: 125, 166
+  index: -1
+Layer 397
+  rotate: false
+  xy: 201, 186
+  size: 277, 70
+  orig: 544, 544
+  offset: 64, 240
+  index: -1
+Layer 398
+  rotate: false
+  xy: 311, 521
+  size: 297, 132
+  orig: 544, 544
+  offset: 63, 159
+  index: -1
+Layer 419
+  rotate: false
+  xy: 2, 149
+  size: 197, 210
+  orig: 544, 544
+  offset: 332, 140
+  index: -1
+RIGHT BOOTS
+  rotate: false
+  xy: 206, 78
+  size: 154, 106
+  orig: 544, 544
+  offset: 191, 42
+  index: -1
+ROG 1 R
+  rotate: false
+  xy: 580, 179
+  size: 65, 83
+  orig: 544, 544
+  offset: 252, 386
+  index: -1
+ROG 2 R
+  rotate: false
+  xy: 294, 2
+  size: 78, 71
+  orig: 544, 544
+  offset: 241, 365
+  index: -1
+rog L 1
+  rotate: true
+  xy: 374, 6
+  size: 67, 86
+  orig: 544, 544
+  offset: 94, 387
+  index: -1
+rog L 2
+  rotate: false
+  xy: 206, 2
+  size: 86, 74
+  orig: 544, 544
+  offset: 96, 368
+  index: -1
+shadow
+  rotate: false
+  xy: 303, 358
+  size: 301, 88
+  orig: 501, 501
+  offset: 42, 27
+  index: -1

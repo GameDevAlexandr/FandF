@@ -1,0 +1,251 @@
+
+Bundle_Demonic_Chest.png
+size: 1522,1522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 777, 161
+  size: 25, 27
+  orig: 752, 1503
+  offset: 633, 1098
+  index: -1
+11
+  rotate: false
+  xy: 1340, 59
+  size: 27, 36
+  orig: 752, 1503
+  offset: 337, 873
+  index: -1
+11 copy
+  rotate: false
+  xy: 1377, 59
+  size: 27, 36
+  orig: 752, 1503
+  offset: 112, 967
+  index: -1
+11 copy 2
+  rotate: false
+  xy: 1266, 58
+  size: 27, 37
+  orig: 752, 1503
+  offset: 125, 743
+  index: -1
+11 copy 3
+  rotate: false
+  xy: 1303, 58
+  size: 27, 37
+  orig: 752, 1503
+  offset: 200, 1183
+  index: -1
+11 copy 4
+  rotate: false
+  xy: 1228, 57
+  size: 28, 37
+  orig: 752, 1503
+  offset: 513, 1172
+  index: -1
+12
+  rotate: false
+  xy: 1458, 64
+  size: 24, 31
+  orig: 752, 1503
+  offset: 668, 1210
+  index: -1
+13
+  rotate: false
+  xy: 1414, 28
+  size: 24, 26
+  orig: 752, 1503
+  offset: 291, 1141
+  index: -1
+14
+  rotate: false
+  xy: 1340, 23
+  size: 24, 26
+  orig: 752, 1503
+  offset: 558, 887
+  index: -1
+BODY
+  rotate: false
+  xy: 10, 509
+  size: 660, 1003
+  orig: 752, 1503
+  offset: 41, 308
+  index: -1
+Body bot
+  rotate: false
+  xy: 1301, 1009
+  size: 168, 120
+  orig: 750, 1501
+  offset: 161, 767
+  index: -1
+DeM
+  rotate: false
+  xy: 837, 24
+  size: 381, 70
+  orig: 750, 1501
+  offset: 183, 705
+  index: -1
+Group 1
+  rotate: false
+  xy: 693, 12
+  size: 134, 139
+  orig: 752, 1503
+  offset: 611, 511
+  index: -1
+Icon_ItemIcon_Gem copy 3
+  rotate: false
+  xy: 1414, 64
+  size: 34, 31
+  orig: 677, 355
+  offset: 200, 263
+  index: -1
+Icon_ShopIcon_Gem_01 copy 2
+  rotate: false
+  xy: 364, 64
+  size: 50, 43
+  orig: 677, 355
+  offset: 225, 87
+  index: -1
+Icon_ShopIcon_Gem_01 copy 3
+  rotate: false
+  xy: 364, 13
+  size: 47, 41
+  orig: 677, 355
+  offset: 131, 256
+  index: -1
+LINES
+  rotate: false
+  xy: 680, 591
+  size: 611, 921
+  orig: 752, 1503
+  offset: 82, 349
+  index: -1
+Layer 95
+  rotate: false
+  xy: 756, 348
+  size: 579, 233
+  orig: 752, 1503
+  offset: 108, 729
+  index: -1
+Layer 96
+  rotate: false
+  xy: 756, 178
+  size: 11, 104
+  orig: 752, 1503
+  offset: 178, 721
+  index: -1
+SHINE CHEST
+  rotate: false
+  xy: 1245, 105
+  size: 205, 233
+  orig: 752, 1503
+  offset: 130, 762
+  index: -1
+Ultimate  chest!
+  rotate: false
+  xy: 441, 41
+  size: 242, 110
+  orig: 752, 1503
+  offset: 249, 1138
+  index: -1
+fire
+  rotate: false
+  xy: 1301, 721
+  size: 98, 142
+  orig: 752, 1503
+  offset: 200, 829
+  index: -1
+fire 2
+  rotate: false
+  xy: 1301, 1366
+  size: 211, 146
+  orig: 752, 1503
+  offset: 194, 806
+  index: -1
+lid
+  rotate: false
+  xy: 1301, 873
+  size: 158, 126
+  orig: 752, 1503
+  offset: 143, 850
+  index: -1
+rayss_1
+  rotate: false
+  xy: 10, 117
+  size: 421, 382
+  orig: 752, 1503
+  offset: 33, 663
+  index: -1
+st1
+  rotate: false
+  xy: 680, 536
+  size: 49, 45
+  orig: 752, 1503
+  offset: 293, 1045
+  index: -1
+st2
+  rotate: false
+  xy: 286, 42
+  size: 68, 65
+  orig: 752, 1503
+  offset: 442, 1002
+  index: -1
+st3
+  rotate: false
+  xy: 777, 243
+  size: 38, 39
+  orig: 752, 1503
+  offset: 162, 1028
+  index: -1
+st4
+  rotate: false
+  xy: 777, 198
+  size: 34, 35
+  orig: 752, 1503
+  offset: 552, 781
+  index: -1
+st5
+  rotate: false
+  xy: 756, 292
+  size: 46, 46
+  orig: 752, 1503
+  offset: 520, 967
+  index: -1
+swords 1
+  rotate: false
+  xy: 837, 104
+  size: 398, 234
+  orig: 752, 1503
+  offset: 317, 773
+  index: -1
+swords 2
+  rotate: false
+  xy: 441, 161
+  size: 305, 338
+  orig: 752, 1503
+  offset: 433, 957
+  index: -1
+swords 3
+  rotate: false
+  xy: 1301, 1139
+  size: 174, 217
+  orig: 752, 1503
+  offset: 309, 910
+  index: -1
+teeth  top
+  rotate: false
+  xy: 10, 16
+  size: 125, 91
+  orig: 752, 1503
+  offset: 178, 855
+  index: -1
+teeth down
+  rotate: false
+  xy: 145, 35
+  size: 131, 72
+  orig: 752, 1503
+  offset: 195, 818
+  index: -1

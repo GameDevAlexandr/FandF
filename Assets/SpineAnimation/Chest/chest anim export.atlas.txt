@@ -1,0 +1,188 @@
+
+chest anim export.png
+size: 2033,1592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHEST BODY1
+  rotate: false
+  xy: 1330, 33
+  size: 249, 131
+  orig: 249, 131
+  offset: 0, 0
+  index: -1
+CHEST BODY2
+  rotate: false
+  xy: 541, 108
+  size: 256, 138
+  orig: 256, 138
+  offset: 0, 0
+  index: -1
+CHEST BODY3
+  rotate: false
+  xy: 799, 115
+  size: 270, 131
+  orig: 270, 131
+  offset: 0, 0
+  index: -1
+CHEST BODY4
+  rotate: true
+  xy: 1879, 987
+  size: 286, 139
+  orig: 286, 139
+  offset: 0, 0
+  index: -1
+CHEST BODY5
+  rotate: true
+  xy: 1879, 1275
+  size: 315, 150
+  orig: 315, 150
+  offset: 0, 0
+  index: -1
+CHEST BODY6
+  rotate: true
+  xy: 1787, 585
+  size: 340, 190
+  orig: 340, 190
+  offset: 0, 0
+  index: -1
+CHEST CLOSE1
+  rotate: false
+  xy: 1071, 133
+  size: 257, 113
+  orig: 257, 113
+  offset: 0, 0
+  index: -1
+CHEST CLOSE2
+  rotate: false
+  xy: 799, 2
+  size: 279, 111
+  orig: 279, 111
+  offset: 0, 0
+  index: -1
+CHEST CLOSE3
+  rotate: true
+  xy: 1857, 315
+  size: 268, 172
+  orig: 268, 172
+  offset: 0, 0
+  index: -1
+CHEST CLOSE4
+  rotate: false
+  xy: 2, 68
+  size: 257, 178
+  orig: 257, 178
+  offset: 0, 0
+  index: -1
+CHEST CLOSE5
+  rotate: false
+  xy: 261, 81
+  size: 278, 165
+  orig: 278, 165
+  offset: 0, 0
+  index: -1
+CHEST CLOSE6
+  rotate: true
+  xy: 1857, 4
+  size: 309, 164
+  orig: 309, 164
+  offset: 0, 0
+  index: -1
+Image_Effect_Grow_White
+  rotate: false
+  xy: 1346, 486
+  size: 439, 439
+  orig: 439, 439
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_03
+  rotate: false
+  xy: 1787, 525
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_04
+  rotate: false
+  xy: 1979, 777
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_05
+  rotate: false
+  xy: 1879, 930
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+KEY1
+  rotate: false
+  xy: 261, 9
+  size: 162, 70
+  orig: 162, 70
+  offset: 0, 0
+  index: -1
+KEY2
+  rotate: false
+  xy: 541, 32
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
+KEY3
+  rotate: false
+  xy: 1581, 90
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
+KEY4
+  rotate: true
+  xy: 1745, 2
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
+KEY5
+  rotate: false
+  xy: 1581, 14
+  size: 162, 74
+  orig: 162, 74
+  offset: 0, 0
+  index: -1
+KEY6
+  rotate: false
+  xy: 1080, 41
+  size: 162, 90
+  orig: 162, 90
+  offset: 0, 0
+  index: -1
+OPEN
+  rotate: true
+  xy: 1979, 828
+  size: 157, 52
+  orig: 157, 52
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1346, 927
+  size: 531, 663
+  orig: 531, 663
+  offset: 0, 0
+  index: -1
+rays
+  rotate: true
+  xy: 1346, 166
+  size: 318, 509
+  orig: 318, 509
+  offset: 0, 0
+  index: -1
+rayss_1
+  rotate: false
+  xy: 2, 248
+  size: 1342, 1342
+  orig: 1342, 1342
+  offset: 0, 0
+  index: -1

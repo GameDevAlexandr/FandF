@@ -1,0 +1,216 @@
+
+3_Crocodile_mini_boss.png
+size: 1328,1328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belly
+  rotate: false
+  xy: 434, 377
+  size: 248, 274
+  orig: 1103, 980
+  offset: 430, 351
+  index: -1
+Belt
+  rotate: true
+  xy: 1243, 1107
+  size: 219, 72
+  orig: 1103, 980
+  offset: 444, 450
+  index: -1
+Body
+  rotate: false
+  xy: 684, 283
+  size: 436, 337
+  orig: 1103, 980
+  offset: 334, 585
+  index: -1
+Cloth
+  rotate: false
+  xy: 2, 46
+  size: 228, 368
+  orig: 1103, 980
+  offset: 435, 123
+  index: -1
+Crocodile L
+  rotate: true
+  xy: 2, 628
+  size: 306, 214
+  orig: 1103, 980
+  offset: 20, 671
+  index: -1
+Crocodile R
+  rotate: true
+  xy: 218, 628
+  size: 306, 214
+  orig: 1103, 980
+  offset: 786, 672
+  index: -1
+Elbow L
+  rotate: false
+  xy: 2, 416
+  size: 150, 204
+  orig: 1103, 980
+  offset: 186, 401
+  index: -1
+Elbow R
+  rotate: false
+  xy: 154, 418
+  size: 150, 202
+  orig: 1103, 980
+  offset: 780, 401
+  index: -1
+Hand L
+  rotate: false
+  xy: 1141, 850
+  size: 185, 185
+  orig: 1103, 980
+  offset: 205, 311
+  index: -1
+Hand R
+  rotate: false
+  xy: 1141, 661
+  size: 181, 187
+  orig: 1103, 980
+  offset: 727, 310
+  index: -1
+Hand pad L
+  rotate: true
+  xy: 773, 1037
+  size: 142, 467
+  orig: 1103, 980
+  offset: 97, 172
+  index: -1
+Hand pad R
+  rotate: true
+  xy: 773, 1181
+  size: 145, 468
+  orig: 1103, 980
+  offset: 877, 171
+  index: -1
+Head
+  rotate: true
+  xy: 232, 9
+  size: 301, 280
+  orig: 1103, 980
+  offset: 400, 676
+  index: -1
+Hip L
+  rotate: true
+  xy: 434, 653
+  size: 138, 251
+  orig: 1103, 980
+  offset: 386, 222
+  index: -1
+Hip R
+  rotate: true
+  xy: 434, 793
+  size: 141, 253
+  orig: 1103, 980
+  offset: 577, 220
+  index: -1
+Knee pad L
+  rotate: true
+  xy: 1122, 312
+  size: 102, 193
+  orig: 1103, 980
+  offset: 378, 195
+  index: -1
+Knee pad R
+  rotate: true
+  xy: 232, 312
+  size: 104, 193
+  orig: 1103, 980
+  offset: 619, 190
+  index: -1
+Mouth L
+  rotate: false
+  xy: 855, 169
+  size: 147, 112
+  orig: 1103, 980
+  offset: 66, 703
+  index: -1
+Mouth R
+  rotate: true
+  xy: 306, 475
+  size: 151, 112
+  orig: 1103, 980
+  offset: 900, 705
+  index: -1
+Sfera L
+  rotate: false
+  xy: 855, 35
+  size: 103, 104
+  orig: 1103, 980
+  offset: 38, 709
+  index: -1
+Sfera R
+  rotate: false
+  xy: 960, 37
+  size: 102, 102
+  orig: 1103, 980
+  offset: 975, 708
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 1176
+  size: 769, 150
+  orig: 1103, 980
+  offset: 193, 7
+  index: -1
+Shin L
+  rotate: false
+  xy: 514, 79
+  size: 167, 296
+  orig: 1103, 980
+  offset: 356, 5
+  index: -1
+Shin R
+  rotate: false
+  xy: 1122, 14
+  size: 165, 296
+  orig: 1103, 980
+  offset: 578, 6
+  index: -1
+Shoulder L
+  rotate: false
+  xy: 1141, 416
+  size: 170, 243
+  orig: 1103, 980
+  offset: 213, 560
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 683, 39
+  size: 170, 242
+  orig: 1103, 980
+  offset: 733, 560
+  index: -1
+Shoulder pads
+  rotate: false
+  xy: 2, 936
+  size: 686, 238
+  orig: 1103, 980
+  offset: 209, 686
+  index: -1
+Tall
+  rotate: true
+  xy: 690, 622
+  size: 413, 449
+  orig: 1103, 980
+  offset: 235, 99
+  index: -1
+Tall_1
+  rotate: false
+  xy: 1004, 141
+  size: 105, 140
+  orig: 1103, 980
+  offset: 199, 30
+  index: -1
+eya
+  rotate: true
+  xy: 1242, 1079
+  size: 26, 38
+  orig: 1103, 980
+  offset: 583, 867
+  index: -1

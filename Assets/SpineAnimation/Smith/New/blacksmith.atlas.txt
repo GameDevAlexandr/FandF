@@ -1,0 +1,181 @@
+
+blacksmith.png
+size: 1912,710
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAR
+  rotate: false
+  xy: 1612, 9
+  size: 188, 59
+  orig: 188, 59
+  offset: 0, 0
+  index: -1
+BODY - Smart Object Group
+  rotate: true
+  xy: 1689, 378
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+BODY 2
+  rotate: true
+  xy: 954, 8
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+CLOTH - Smart Object Group
+  rotate: false
+  xy: 377, 189
+  size: 349, 519
+  orig: 349, 519
+  offset: 0, 0
+  index: -1
+CLOTH 0
+  rotate: false
+  xy: 728, 190
+  size: 348, 518
+  orig: 348, 518
+  offset: 0, 0
+  index: -1
+CLOTH 2
+  rotate: false
+  xy: 2, 137
+  size: 373, 571
+  orig: 373, 571
+  offset: 0, 0
+  index: -1
+HAIR left
+  rotate: true
+  xy: 1480, 560
+  size: 148, 352
+  orig: 148, 352
+  offset: 0, 0
+  index: -1
+HAIR right
+  rotate: true
+  xy: 1078, 210
+  size: 174, 345
+  orig: 174, 345
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 1131, 15
+  size: 159, 193
+  orig: 159, 193
+  offset: 0, 0
+  index: -1
+HEAD 0
+  rotate: false
+  xy: 1292, 16
+  size: 158, 192
+  orig: 158, 192
+  offset: 0, 0
+  index: -1
+HEAD 2
+  rotate: false
+  xy: 1452, 18
+  size: 158, 192
+  orig: 158, 192
+  offset: 0, 0
+  index: -1
+LEFT hand
+  rotate: false
+  xy: 377, 2
+  size: 191, 185
+  orig: 191, 185
+  offset: 0, 0
+  index: -1
+LEFT hand 0
+  rotate: false
+  xy: 570, 3
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+LEFT hand 2
+  rotate: false
+  xy: 762, 4
+  size: 190, 184
+  orig: 190, 184
+  offset: 0, 0
+  index: -1
+LEFT1
+  rotate: false
+  xy: 1612, 70
+  size: 164, 138
+  orig: 164, 138
+  offset: 0, 0
+  index: -1
+LEGS
+  rotate: false
+  xy: 1078, 386
+  size: 400, 322
+  orig: 400, 322
+  offset: 0, 0
+  index: -1
+RIGHT 2
+  rotate: true
+  xy: 175, 6
+  size: 129, 170
+  orig: 129, 170
+  offset: 0, 0
+  index: -1
+RIGHT HAND
+  rotate: false
+  xy: 1480, 380
+  size: 207, 178
+  orig: 207, 178
+  offset: 0, 0
+  index: -1
+RIGHT HAND 2
+  rotate: false
+  xy: 1631, 210
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+RIGHT HAND0
+  rotate: false
+  xy: 1425, 212
+  size: 204, 166
+  orig: 204, 166
+  offset: 0, 0
+  index: -1
+RIGHT1
+  rotate: true
+  xy: 2, 5
+  size: 130, 171
+  orig: 130, 171
+  offset: 0, 0
+  index: -1
+armor left
+  rotate: true
+  xy: 1834, 580
+  size: 128, 76
+  orig: 128, 76
+  offset: 0, 0
+  index: -1
+armor right
+  rotate: true
+  xy: 1778, 87
+  size: 121, 113
+  orig: 121, 113
+  offset: 0, 0
+  index: -1
+pocket1
+  rotate: false
+  xy: 1837, 310
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+pocket2
+  rotate: false
+  xy: 1802, 24
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1

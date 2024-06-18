@@ -1,0 +1,764 @@
+{
+"skeleton": {
+	"hash": "042b+2cJHDznKeBC9NE0YPU0NxM",
+	"spine": "3.8",
+	"x": -749.04,
+	"y": -832.68,
+	"width": 1506.29,
+	"height": 1628.66,
+	"fps": 24,
+	"images": "",
+	"audio": "C:/Users/V/Desktop/DIAMOND HEAD/АНИМАЦИЯ/koloss/stones"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "ARENA", "parent": "root", "length": 165.42, "rotation": 93.2, "x": 7.64, "y": -181.81 },
+	{
+		"name": "stones_ice/stone 8",
+		"parent": "ARENA",
+		"length": 70.27,
+		"rotation": 56.54,
+		"x": 228.03,
+		"y": 475.26,
+		"skin": true
+	},
+	{
+		"name": "stones_ice/stone 7",
+		"parent": "ARENA",
+		"length": 43.18,
+		"rotation": 35.46,
+		"x": 384.38,
+		"y": 191.26,
+		"skin": true
+	},
+	{
+		"name": "stones_ice/stone 6",
+		"parent": "ARENA",
+		"length": 55.23,
+		"rotation": -34.47,
+		"x": 419.32,
+		"y": -150.11,
+		"skin": true
+	},
+	{
+		"name": "stones_ice/stone 5",
+		"parent": "ARENA",
+		"length": 62.04,
+		"rotation": -46,
+		"x": 109.14,
+		"y": -532.96,
+		"skin": true
+	},
+	{
+		"name": "stones_ice/step",
+		"parent": "ARENA",
+		"length": 52.23,
+		"rotation": 3.61,
+		"x": 364.97,
+		"y": 8.99,
+		"skin": true
+	}
+],
+"slots": [
+	{ "name": "stones_cryst_egypt/template", "bone": "root" },
+	{ "name": "stones_cryst/cryst1", "bone": "root", "attachment": "stones_cryst/cryst1" },
+	{ "name": "stones_cryst/cryst2", "bone": "root", "attachment": "stones_cryst/cryst2" },
+	{ "name": "stones_cryst/cryst3", "bone": "root", "attachment": "stones_cryst/cryst3" },
+	{ "name": "stones_cryst/cryst4", "bone": "root", "attachment": "stones_cryst/cryst4" },
+	{ "name": "stones_ice/ice8", "bone": "root", "attachment": "ice8" },
+	{ "name": "stones_cryst/shine2", "bone": "root" },
+	{ "name": "stones_ice/ice 1", "bone": "root", "attachment": "stones_ice/ice 1" },
+	{ "name": "stones_aqua/seaweed under", "bone": "root", "attachment": "seaweed under" },
+	{ "name": "stones_cryst/cryst6", "bone": "root", "attachment": "cryst4" },
+	{ "name": "stones_cryst/cryst5", "bone": "root", "attachment": "cryst1" },
+	{ "name": "ARENA", "bone": "ARENA", "attachment": "ARENA" },
+	{ "name": "stones_ice/ice6", "bone": "root", "attachment": "stones_ice/ice6" },
+	{ "name": "stones_ice/ice7", "bone": "root", "attachment": "stones_ice/ice7" },
+	{ "name": "stones_ice/step 3", "bone": "root" },
+	{ "name": "stones_ice/step4", "bone": "root" },
+	{ "name": "stones_ice/stone 8", "bone": "stones_ice/stone 8", "attachment": "stones_ice/stone 8" },
+	{ "name": "stones_ice/stone 5", "bone": "stones_ice/stone 5", "attachment": "stones_ice/stone 5" },
+	{ "name": "stones_ice/stone 6", "bone": "stones_ice/stone 6", "attachment": "stones_ice/stone 6" },
+	{ "name": "stones_ice/stone 7", "bone": "stones_ice/stone 7", "attachment": "stones_ice/stone 7" },
+	{ "name": "stones_ice/big stone", "bone": "root", "attachment": "stones_ice/big stone" },
+	{ "name": "stones_ice/step", "bone": "stones_ice/step", "attachment": "stones_ice/step" },
+	{ "name": "stones_ice/2", "bone": "root", "attachment": "stones_ice/2" },
+	{ "name": "stones_ice/1", "bone": "root", "attachment": "stones_ice/1" },
+	{ "name": "stones_ice/4", "bone": "root", "attachment": "stones_ice/4" },
+	{ "name": "stones_ice/3", "bone": "root", "attachment": "stones_ice/3" }
+],
+"skins": [
+	{
+		"name": "0",
+		"bones": [ "stones_ice/step", "stones_ice/stone 5", "stones_ice/stone 6", "stones_ice/stone 7", "stones_ice/stone 8" ],
+		"attachments": {
+			"stones_ice/step": {
+				"stones_ice/step": { "name": "stones_gh/step", "x": 21.71, "y": 0.54, "rotation": -96.81, "width": 245, "height": 91 }
+			},
+			"stones_ice/1": {
+				"stones_ice/1": { "name": "stones_gh/1", "x": -441.94, "y": -477.55, "width": 305, "height": 300 }
+			},
+			"stones_ice/2": {
+				"stones_ice/2": { "name": "stones_gh/2", "x": -628.54, "y": -310.77, "width": 240, "height": 254 }
+			},
+			"stones_ice/3": {
+				"stones_ice/3": { "name": "stones_gh/3", "x": 432.59, "y": -479.56, "width": 309, "height": 305 }
+			},
+			"stones_ice/4": {
+				"stones_ice/4": { "name": "stones_gh/4", "x": 635.74, "y": -308.28, "width": 243, "height": 257 }
+			},
+			"stones_ice/stone 5": {
+				"stones_ice/stone 5": { "name": "stones_gh/stone 5", "x": 31.52, "y": -3.1, "rotation": -47.2, "width": 166, "height": 138 }
+			},
+			"stones_ice/stone 6": {
+				"stones_ice/stone 6": { "name": "stones_gh/stone 6", "x": 26.42, "y": -3.18, "rotation": -58.74, "width": 125, "height": 65 }
+			},
+			"stones_ice/stone 7": {
+				"stones_ice/stone 7": { "name": "stones_gh/stone 7", "x": 17.77, "y": 10.74, "rotation": -128.66, "width": 97, "height": 56 }
+			},
+			"stones_ice/stone 8": {
+				"stones_ice/stone 8": { "name": "stones_gh/stone 8", "x": 38.34, "y": -11.92, "rotation": -149.74, "width": 155, "height": 127 }
+			},
+			"stones_ice/big stone": {
+				"stones_ice/big stone": { "name": "stones_gh/big stone", "x": -3.77, "y": -618.68, "width": 582, "height": 428 }
+			},
+			"ARENA": {
+				"ARENA": { "name": "stones_gh/ARENA", "type": "linkedmesh", "skin": "3", "parent": "ARENA", "width": 1302, "height": 808 }
+			}
+		}
+	},
+	{
+		"name": "1",
+		"bones": [ "stones_ice/step", "stones_ice/stone 5", "stones_ice/stone 6", "stones_ice/stone 7", "stones_ice/stone 8" ],
+		"attachments": {
+			"stones_ice/step": {
+				"stones_ice/step": { "path": "stones_ice_egypt/step", "x": 21.71, "y": 0.54, "rotation": -96.81, "width": 245, "height": 91 }
+			},
+			"stones_ice/ice 1": {
+				"stones_ice/ice 1": { "type": "linkedmesh", "path": "stones_ice_egypt/rocks", "skin": "3", "parent": "stones_ice/ice 1", "width": 1102, "height": 868 }
+			},
+			"stones_ice/1": {
+				"stones_ice/1": { "path": "stones_ice_egypt/1", "x": -441.94, "y": -477.55, "width": 309, "height": 304 }
+			},
+			"stones_ice/2": {
+				"stones_ice/2": { "path": "stones_ice_egypt/2", "x": -628.54, "y": -310.77, "width": 241, "height": 254 }
+			},
+			"stones_ice/3": {
+				"stones_ice/3": { "path": "stones_ice_egypt/3", "x": 432.59, "y": -479.56, "width": 309, "height": 307 }
+			},
+			"stones_ice/4": {
+				"stones_ice/4": { "path": "stones_ice_egypt/4", "x": 635.74, "y": -308.28, "width": 243, "height": 259 }
+			},
+			"stones_ice/stone 5": {
+				"stones_ice/stone 5": { "path": "stones_ice_egypt/stone 5", "x": 31.52, "y": -3.1, "rotation": -47.2, "width": 166, "height": 138 }
+			},
+			"stones_ice/stone 6": {
+				"stones_ice/stone 6": { "path": "stones_ice_egypt/stone 6", "x": 26.42, "y": -3.18, "rotation": -58.74, "width": 125, "height": 65 }
+			},
+			"stones_ice/stone 7": {
+				"stones_ice/stone 7": { "path": "stones_ice_egypt/stone 7", "x": 17.77, "y": 10.74, "rotation": -128.66, "width": 97, "height": 56 }
+			},
+			"stones_ice/stone 8": {
+				"stones_ice/stone 8": { "path": "stones_ice_egypt/stone 8", "x": 38.34, "y": -11.92, "rotation": -149.74, "width": 155, "height": 127 }
+			},
+			"stones_ice/big stone": {
+				"stones_ice/big stone": { "path": "stones_ice_egypt/big stone", "x": -3.77, "y": -618.68, "width": 582, "height": 428 }
+			},
+			"ARENA": {
+				"ARENA": {
+					"name": "stones_ice/ARENA",
+					"type": "linkedmesh",
+					"path": "stones_ice_egypt/ARENA",
+					"skin": "3",
+					"parent": "ARENA",
+					"width": 1302,
+					"height": 808
+				}
+			}
+		}
+	},
+	{
+		"name": "2",
+		"bones": [ "stones_ice/step", "stones_ice/stone 5", "stones_ice/stone 6", "stones_ice/stone 7", "stones_ice/stone 8" ],
+		"attachments": {
+			"stones_ice/step": {
+				"stones_ice/step": { "name": "stones_aqua/step", "x": 21.71, "y": 0.54, "rotation": -96.81, "width": 245, "height": 91 }
+			},
+			"stones_aqua/seaweed under": {
+				"seaweed under": {
+					"name": "stones_aqua/seaweed under",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 343.78, -962.56, -648.22, -962.56, -648.22, -181.56, 343.78, -181.56 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 994,
+					"height": 783
+				}
+			},
+			"stones_ice/1": {
+				"stones_ice/1": { "name": "stones_aqua/1", "x": -441.94, "y": -477.55, "width": 305, "height": 300 }
+			},
+			"stones_ice/2": {
+				"stones_ice/2": { "name": "stones_aqua/2", "x": -628.54, "y": -310.77, "width": 240, "height": 254 }
+			},
+			"stones_ice/3": {
+				"stones_ice/3": { "name": "stones_aqua/3", "x": 432.59, "y": -479.56, "width": 309, "height": 307 }
+			},
+			"stones_ice/4": {
+				"stones_ice/4": { "name": "stones_aqua/4", "x": 635.74, "y": -308.28, "width": 243, "height": 256 }
+			},
+			"stones_ice/stone 5": {
+				"stones_ice/stone 5": { "name": "stones_aqua/stone 5", "x": 31.52, "y": -3.1, "rotation": -47.2, "width": 166, "height": 138 }
+			},
+			"stones_ice/stone 6": {
+				"stones_ice/stone 6": { "name": "stones_aqua/stone 6", "x": 26.42, "y": -3.18, "rotation": -58.74, "width": 125, "height": 65 }
+			},
+			"stones_ice/stone 7": {
+				"stones_ice/stone 7": { "name": "stones_aqua/stone 7", "x": 17.77, "y": 10.74, "rotation": -128.66, "width": 97, "height": 56 }
+			},
+			"stones_ice/stone 8": {
+				"stones_ice/stone 8": { "name": "stones_aqua/stone 8", "x": 38.34, "y": -11.92, "rotation": -149.74, "width": 155, "height": 127 }
+			},
+			"stones_ice/big stone": {
+				"stones_ice/big stone": { "name": "stones_aqua/big stone", "x": -3.77, "y": -618.68, "width": 582, "height": 428 }
+			},
+			"ARENA": {
+				"ARENA": { "name": "stones_aqua/ARENA", "type": "linkedmesh", "skin": "3", "parent": "ARENA", "width": 1302, "height": 808 }
+			}
+		}
+	},
+	{
+		"name": "3",
+		"bones": [ "stones_ice/step", "stones_ice/stone 5", "stones_ice/stone 6", "stones_ice/stone 7", "stones_ice/stone 8" ],
+		"attachments": {
+			"stones_ice/ice6": {
+				"stones_ice/ice6": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -300.31, -609.82, -514.31, -609.82, -514.31, -241.82, -300.31, -241.82 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 212,
+					"height": 370
+				}
+			},
+			"stones_ice/ice7": {
+				"stones_ice/ice7": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 434.78, -811.47, 212.78, -811.47, 206.9, -390.79, 431.84, -337.87 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 206,
+					"height": 455
+				}
+			},
+			"stones_ice/ice 1": {
+				"stones_ice/ice 1": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 559.3, -86.81, -540.7, -86.81, -540.7, 779.19, 559.3, 779.19 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1100,
+					"height": 866
+				}
+			},
+			"stones_ice/1": {
+				"stones_ice/1": { "x": -441.94, "y": -477.55, "width": 309, "height": 304 }
+			},
+			"stones_ice/2": {
+				"stones_ice/2": { "x": -628.54, "y": -310.77, "width": 241, "height": 254 }
+			},
+			"stones_ice/3": {
+				"stones_ice/3": { "x": 432.59, "y": -479.56, "width": 309, "height": 307 }
+			},
+			"stones_ice/4": {
+				"stones_ice/4": { "x": 635.74, "y": -308.28, "width": 243, "height": 259 }
+			},
+			"stones_ice/stone 5": {
+				"stones_ice/stone 5": { "x": 31.52, "y": -3.1, "rotation": -47.2, "width": 166, "height": 138 }
+			},
+			"stones_ice/stone 6": {
+				"stones_ice/stone 6": { "x": 26.42, "y": -3.18, "rotation": -58.74, "width": 125, "height": 65 }
+			},
+			"stones_ice/stone 7": {
+				"stones_ice/stone 7": { "x": 17.77, "y": 10.74, "rotation": -128.66, "width": 97, "height": 56 }
+			},
+			"stones_ice/stone 8": {
+				"stones_ice/stone 8": { "x": 38.34, "y": -11.92, "rotation": -149.74, "width": 155, "height": 127 }
+			},
+			"stones_ice/step": {
+				"stones_ice/step": { "x": 21.71, "y": 0.54, "rotation": -96.81, "width": 245, "height": 91 }
+			},
+			"stones_ice/big stone": {
+				"stones_ice/big stone": { "x": -3.77, "y": -618.68, "width": 582, "height": 428 }
+			},
+			"ARENA": {
+				"ARENA": {
+					"name": "stones_ice/ARENA",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -442.49, -566.19, -369.76, 733.78, 436.98, 688.65, 364.25, -611.32 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 1302,
+					"height": 808
+				}
+			}
+		}
+	},
+	{
+		"name": "4",
+		"bones": [ "stones_ice/step", "stones_ice/stone 5", "stones_ice/stone 6", "stones_ice/stone 7", "stones_ice/stone 8" ],
+		"attachments": {
+			"stones_cryst/cryst6": {
+				"cryst4": {
+					"name": "stones_cryst/cryst4",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 534.93, -46.52, 233.58, -11.38, 322.92, 755, 624.28, 719.87 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 232,
+					"height": 590
+				}
+			},
+			"stones_ice/step": {
+				"stones_ice/step": { "name": "stones_cryst/step", "x": 21.71, "y": 0.54, "rotation": -96.81, "width": 245, "height": 91 }
+			},
+			"stones_ice/1": {
+				"stones_ice/1": { "name": "stones_cryst/1", "x": -441.94, "y": -477.55, "width": 305, "height": 304 }
+			},
+			"stones_ice/2": {
+				"stones_ice/2": { "name": "stones_cryst/2", "x": -628.54, "y": -310.77, "width": 241, "height": 254 }
+			},
+			"stones_ice/3": {
+				"stones_ice/3": { "name": "stones_cryst/3", "x": 432.59, "y": -479.56, "width": 309, "height": 306 }
+			},
+			"stones_ice/4": {
+				"stones_ice/4": { "name": "stones_cryst/4", "x": 635.74, "y": -308.28, "width": 243, "height": 259 }
+			},
+			"stones_ice/stone 5": {
+				"stones_ice/stone 5": { "name": "stones_cryst/stone 5", "x": 31.52, "y": -3.1, "rotation": -47.2, "width": 166, "height": 138 }
+			},
+			"stones_ice/stone 6": {
+				"stones_ice/stone 6": { "name": "stones_cryst/stone 6", "x": 26.42, "y": -3.18, "rotation": -58.74, "width": 125, "height": 65 }
+			},
+			"stones_ice/stone 7": {
+				"stones_ice/stone 7": { "name": "stones_cryst/stone 7", "x": 17.77, "y": 10.74, "rotation": -128.66, "width": 97, "height": 56 }
+			},
+			"stones_ice/stone 8": {
+				"stones_ice/stone 8": { "name": "stones_cryst/stone 8", "x": 38.34, "y": -11.92, "rotation": -149.74, "width": 155, "height": 127 }
+			},
+			"stones_ice/big stone": {
+				"stones_ice/big stone": { "name": "stones_cryst/big stone", "x": -3.77, "y": -618.68, "width": 582, "height": 428 }
+			},
+			"ARENA": {
+				"ARENA": { "name": "stones_cryst/ARENA", "type": "linkedmesh", "skin": "3", "parent": "ARENA", "width": 1302, "height": 808 }
+			},
+			"stones_cryst/cryst5": {
+				"cryst1": {
+					"name": "stones_cryst/cryst1",
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ -229.93, -11.23, -508.97, -45.28, -607.46, 761.92, -328.43, 795.97 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 224,
+					"height": 648
+				}
+			}
+		}
+	},
+	{
+		"name": "5",
+		"bones": [ "stones_ice/step", "stones_ice/stone 5", "stones_ice/stone 6", "stones_ice/stone 7", "stones_ice/stone 8" ],
+		"attachments": {
+			"stones_ice/step": {
+				"stones_ice/step": { "name": "stones_f/step", "x": 21.71, "y": 0.54, "rotation": -96.81, "width": 245, "height": 91 }
+			},
+			"stones_ice/1": {
+				"stones_ice/1": { "name": "stones_f/1", "x": -441.94, "y": -477.55, "width": 309, "height": 303 }
+			},
+			"stones_ice/2": {
+				"stones_ice/2": { "name": "stones_f/2", "x": -628.54, "y": -310.77, "width": 239, "height": 254 }
+			},
+			"stones_ice/3": {
+				"stones_ice/3": { "name": "stones_f/3", "x": 432.59, "y": -479.56, "width": 309, "height": 307 }
+			},
+			"stones_ice/4": {
+				"stones_ice/4": { "name": "stones_f/4", "x": 635.74, "y": -308.28, "width": 242, "height": 252 }
+			},
+			"stones_ice/stone 5": {
+				"stones_ice/stone 5": { "name": "stones_f/stone 5", "x": 31.52, "y": -3.1, "rotation": -47.2, "width": 166, "height": 138 }
+			},
+			"stones_ice/stone 6": {
+				"stones_ice/stone 6": { "name": "stones_f/stone 6", "x": 26.42, "y": -3.18, "rotation": -58.74, "width": 125, "height": 65 }
+			},
+			"stones_ice/stone 7": {
+				"stones_ice/stone 7": { "name": "stones_f/stone 7", "x": 17.23, "y": 10.06, "rotation": -128.66, "width": 97, "height": 56 }
+			},
+			"stones_ice/stone 8": {
+				"stones_ice/stone 8": { "name": "stones_f/stone 8", "x": 38.34, "y": -11.92, "rotation": -149.74, "width": 155, "height": 127 }
+			},
+			"stones_ice/big stone": {
+				"stones_ice/big stone": { "name": "stones_f/big stone", "x": -3.77, "y": -618.68, "width": 582, "height": 428 }
+			},
+			"ARENA": {
+				"ARENA": { "name": "stones_f/ARENA", "type": "linkedmesh", "skin": "3", "parent": "ARENA", "width": 1302, "height": 808 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"ARENA": {
+				"attachment": [
+					{ "time": 1.5833, "name": "ARENA" }
+				]
+			}
+		},
+		"bones": {
+			"ARENA": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			},
+			"stones_ice/stone 5": {
+				"rotate": [
+					{},
+					{ "time": 1.5, "angle": 4.43 },
+					{ "time": 3 }
+				],
+				"translate": [
+					{},
+					{ "time": 1.5, "x": -2.25, "y": -8.18 },
+					{ "time": 3 }
+				],
+				"scale": [
+					{},
+					{ "time": 1.5, "x": 1.02, "y": 1.02 },
+					{ "time": 3 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			},
+			"stones_ice/stone 6": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"translate": [
+					{},
+					{ "time": 1.4583, "x": -2.1, "y": -3.67 },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			},
+			"stones_ice/stone 7": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"translate": [
+					{},
+					{ "time": 1.4583, "x": -2.99, "y": -2.67 },
+					{ "time": 2.5, "x": 4.52, "y": -4.01 },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			},
+			"stones_ice/stone 8": {
+				"rotate": [
+					{},
+					{ "time": 1.5, "angle": 3.32 },
+					{ "time": 3 }
+				],
+				"translate": [
+					{},
+					{ "time": 1.4583, "x": 7.24, "y": 10.95 },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			},
+			"stones_ice/step": {
+				"rotate": [
+					{},
+					{ "time": 2.25, "angle": -1.33 },
+					{ "time": 3 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.8333, "x": -5.2, "y": -5.31 },
+					{ "time": 2.25, "x": -0.6, "y": -5.41 },
+					{ "time": 3 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 3 }
+				]
+			}
+		},
+		"deform": {
+			"2": {
+				"stones_aqua/seaweed under": {
+					"seaweed under": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ 3.59216, 8.97998, -3.59192, 7.18396, 0, 0, 0, 14.36804 ]
+						},
+						{ "time": 3 }
+					]
+				}
+			},
+			"3": {
+				"stones_ice/ice7": {
+					"stones_ice/ice7": [
+						{ "curve": "stepped" },
+						{ "time": 3 }
+					]
+				},
+				"stones_ice/ice 1": {
+					"stones_ice/ice 1": [
+						{},
+						{
+							"time": 1.5,
+							"vertices": [ -16.04382, -6.87592, 11.45996, -6.87592, 0, -6.87592, 0, -6.87592 ]
+						},
+						{ "time": 3 }
+					]
+				},
+				"stones_ice/ice6": {
+					"stones_ice/ice6": [
+						{ "curve": "stepped" },
+						{ "time": 3 }
+					]
+				}
+			}
+		},
+		"drawOrder": [
+			{},
+			{ "time": 3 }
+		]
+	},
+	"koloss arrived": {
+		"slots": {
+			"stones_cryst/cryst1": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff" },
+					{ "time": 0.7083, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.0417, "color": "ffffff00" }
+				]
+			},
+			"stones_cryst/cryst2": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.7083, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.0417, "color": "ffffff00" }
+				]
+			},
+			"stones_cryst/cryst3": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.7083, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.0417, "color": "ffffff00" }
+				]
+			},
+			"stones_ice/ice 1": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.7083, "color": "ffffff00", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 1.0417, "color": "ffffff00" }
+				]
+			},
+			"stones_cryst/cryst6": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff", "curve": 0.633, "c2": 0.2, "c4": 0.75 },
+					{ "time": 0.7083, "color": "ffffff00" }
+				]
+			},
+			"stones_cryst/cryst5": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff", "curve": 0.65, "c4": 0.75 },
+					{ "time": 0.7083, "color": "ffffff00" }
+				]
+			},
+			"stones_cryst/cryst4": {
+				"color": [
+					{ "time": 0.625, "color": "ffffffff", "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+					{ "time": 0.7083, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.0417, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"ARENA": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			},
+			"stones_ice/stone 8": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			},
+			"stones_ice/stone 7": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			},
+			"stones_ice/stone 6": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			},
+			"stones_ice/stone 5": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				],
+				"shear": [
+					{}
+				]
+			}
+		},
+		"deform": {
+			"3": {
+				"stones_ice/ice 1": {
+					"stones_ice/ice 1": [
+						{ "curve": 0.801, "c3": 0.878, "c4": 0.59 },
+						{
+							"time": 0.5,
+							"vertices": [ -77.32886, 60.87891, 77.32886, 60.87891, 77.32886, -60.87891, -77.32886, -60.87891 ]
+						},
+						{
+							"time": 0.7083,
+							"vertices": [ 168.20404, -132.42245, -168.20404, -132.42245, -168.20404, 132.42242, 168.20404, 132.42242 ]
+						}
+					]
+				}
+			},
+			"4": {
+				"stones_cryst/cryst6": {
+					"cryst4": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ -53.66083, 42.33308, -23.19751, 38.78173, -32.22894, -38.68951, -62.6922, -35.13818 ]
+						},
+						{
+							"time": 0.7083,
+							"vertices": [ 73.4115, -57.91442, 31.73569, -53.05595, 44.09131, 52.92987, 85.76709, 48.07141 ]
+						}
+					]
+				},
+				"stones_cryst/cryst5": {
+					"cryst1": [
+						{},
+						{
+							"time": 0.5,
+							"vertices": [ 23.65726, 38.76597, 51.8638, 42.20787, 61.82074, -39.38965, 33.6142, -42.83154 ]
+						},
+						{
+							"time": 0.7083,
+							"vertices": [ -32.3647, -53.03441, -70.95312, -57.74314, -84.57489, 53.8877, -45.98642, 58.59644 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

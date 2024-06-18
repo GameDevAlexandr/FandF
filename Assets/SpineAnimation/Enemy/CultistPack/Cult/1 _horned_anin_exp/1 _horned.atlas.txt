@@ -1,0 +1,125 @@
+
+1 _horned.png
+size: 398,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm L
+  rotate: false
+  xy: 277, 216
+  size: 65, 180
+  orig: 65, 180
+  offset: 0, 0
+  index: -1
+Arm L back
+  rotate: true
+  xy: 91, 41
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+Arm R
+  rotate: true
+  xy: 2, 89
+  size: 65, 180
+  orig: 65, 180
+  offset: 0, 0
+  index: -1
+Arm R back
+  rotate: true
+  xy: 184, 2
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+Bandage L
+  rotate: false
+  xy: 154, 161
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+Bandage R
+  rotate: true
+  xy: 277, 2
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 154, 235
+  size: 121, 161
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+ORB
+  rotate: false
+  xy: 223, 185
+  size: 47, 48
+  orig: 47, 49
+  offset: 0, 1
+  index: -1
+RIGHT ARM
+  rotate: false
+  xy: 275, 66
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 344, 224
+  size: 172, 50
+  orig: 172, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 156
+  size: 150, 240
+  orig: 150, 240
+  offset: 0, 0
+  index: -1
+horns L
+  rotate: true
+  xy: 275, 109
+  size: 105, 102
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+horns R
+  rotate: true
+  xy: 184, 50
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+left ARM
+  rotate: false
+  xy: 312, 66
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 2, 13
+  size: 87, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1
+seams L
+  rotate: false
+  xy: 379, 154
+  size: 17, 68
+  orig: 19, 68
+  offset: 2, 0
+  index: -1
+seams R
+  rotate: false
+  xy: 379, 84
+  size: 17, 68
+  orig: 19, 68
+  offset: 0, 0
+  index: -1

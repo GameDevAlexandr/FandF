@@ -1,0 +1,139 @@
+
+golem 42 export.png
+size: 634,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY
+  rotate: true
+  xy: 316, 2
+  size: 67, 108
+  orig: 67, 108
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 594, 81
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+LEFT HAND
+  rotate: true
+  xy: 426, 6
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+LEFT KNEE
+  rotate: false
+  xy: 499, 76
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+LEFT LEG
+  rotate: false
+  xy: 529, 146
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+Layer 1078 copy
+  rotate: false
+  xy: 499, 116
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 2, 11
+  size: 312, 262
+  orig: 312, 262
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 512, 2
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+RIGHT HAND
+  rotate: true
+  xy: 512, 210
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+RIGHT KNEE
+  rotate: false
+  xy: 499, 170
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+RIGHT LEG
+  rotate: false
+  xy: 529, 53
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+f1
+  rotate: true
+  xy: 594, 59
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 525, 117
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 538, 9
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+f4
+  rotate: true
+  xy: 564, 27
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 554, 117
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+f6
+  rotate: true
+  xy: 594, 37
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 598, 116
+  size: 157, 34
+  orig: 157, 34
+  offset: 0, 0
+  index: -1
+голова
+  rotate: true
+  xy: 316, 71
+  size: 202, 181
+  orig: 202, 181
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+2_kolbogolovy.png
+size: 453,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 186, 239
+  size: 16, 15
+  orig: 26, 26
+  offset: 5, 6
+  index: -1
+2
+  rotate: false
+  xy: 186, 222
+  size: 15, 15
+  orig: 26, 26
+  offset: 6, 5
+  index: -1
+3
+  rotate: false
+  xy: 373, 29
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Back body
+  rotate: true
+  xy: 397, 199
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 257
+  size: 199, 194
+  orig: 199, 194
+  offset: 0, 0
+  index: -1
+Elbow L
+  rotate: false
+  xy: 195, 58
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+Elbow R
+  rotate: true
+  xy: 237, 68
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+Finger 1 L
+  rotate: true
+  xy: 324, 91
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Finger 1 R
+  rotate: true
+  xy: 318, 57
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+Finger 2L
+  rotate: true
+  xy: 315, 21
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Finger 2R
+  rotate: false
+  xy: 396, 89
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+Hand L
+  rotate: false
+  xy: 242, 158
+  size: 84, 142
+  orig: 84, 142
+  offset: 0, 0
+  index: -1
+Hand R
+  rotate: false
+  xy: 325, 309
+  size: 86, 142
+  orig: 86, 142
+  offset: 0, 0
+  index: -1
+Head 2
+  rotate: false
+  xy: 2, 95
+  size: 99, 160
+  orig: 99, 160
+  offset: 0, 0
+  index: -1
+Hip L
+  rotate: false
+  xy: 413, 386
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+Hip R
+  rotate: false
+  xy: 413, 319
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+Sfera
+  rotate: false
+  xy: 328, 125
+  size: 66, 66
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 203, 192
+  size: 259, 37
+  orig: 259, 37
+  offset: 0, 0
+  index: -1
+Shaldow L
+  rotate: false
+  xy: 195, 3
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Shaldow R
+  rotate: true
+  xy: 260, 3
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+Shin L
+  rotate: false
+  xy: 242, 302
+  size: 81, 149
+  orig: 81, 149
+  offset: 0, 0
+  index: -1
+Shin R
+  rotate: false
+  xy: 103, 107
+  size: 81, 148
+  orig: 81, 148
+  offset: 0, 0
+  index: -1
+Shoulder L
+  rotate: true
+  xy: 147, 19
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+Shoulder L _1
+  rotate: true
+  xy: 397, 147
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 242, 110
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+Shoulder R_1
+  rotate: true
+  xy: 186, 139
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+Taz
+  rotate: true
+  xy: 328, 193
+  size: 114, 67
+  orig: 114, 67
+  offset: 0, 0
+  index: -1
+stopa L
+  rotate: true
+  xy: 70, 3
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+stopa R
+  rotate: true
+  xy: 2, 2
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+vertel L
+  rotate: false
+  xy: 377, 59
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+vertel R
+  rotate: false
+  xy: 413, 59
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1

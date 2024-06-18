@@ -1,0 +1,188 @@
+
+г3.png
+size: 1403,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ГЛАЗ
+  rotate: true
+  xy: 550, 18
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+КАМЕНЬ вверх 2
+  rotate: true
+  xy: 627, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+КАМЕНЬ вверх1
+  rotate: false
+  xy: 793, 8
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+КАМУШКИ
+  rotate: false
+  xy: 793, 27
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+КАМУШКИ copy
+  rotate: false
+  xy: 828, 27
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+КОРОНА
+  rotate: true
+  xy: 995, 46
+  size: 282, 135
+  orig: 282, 135
+  offset: 0, 0
+  index: -1
+Л УХО
+  rotate: false
+  xy: 1324, 130
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+Л УХО copy
+  rotate: true
+  xy: 1324, 9
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+ЛЕВАЯ СТОП
+  rotate: true
+  xy: 1132, 182
+  size: 146, 153
+  orig: 611, 412
+  offset: 0, 0
+  index: -1
+ЛЕВОЕ КОЛЕНО
+  rotate: false
+  xy: 863, 34
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+Левый КАМЕНЬ
+  rotate: false
+  xy: 1278, 12
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+Левый КАМЕНЬ copy
+  rotate: false
+  xy: 1286, 76
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+ПИСЯ
+  rotate: false
+  xy: 1132, 2
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+ПРАВАЯ СТОП copy
+  rotate: false
+  xy: 380, 109
+  size: 611, 412
+  orig: 611, 412
+  offset: 0, 0
+  index: -1
+ПРАВОЕ КОЛЕНО copy
+  rotate: false
+  xy: 929, 34
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+СВЕТ
+  rotate: true
+  xy: 2, 6
+  size: 515, 376
+  orig: 515, 376
+  offset: 0, 0
+  index: -1
+ТЕНЬ
+  rotate: false
+  xy: 993, 330
+  size: 391, 191
+  orig: 391, 191
+  offset: 0, 0
+  index: -1
+ШАР
+  rotate: true
+  xy: 863, 5
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+лицо1
+  rotate: false
+  xy: 627, 19
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+лицо1 copy
+  rotate: false
+  xy: 710, 19
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+лицо2
+  rotate: true
+  xy: 1182, 6
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+лицо2 copy
+  rotate: true
+  xy: 1230, 6
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+лицо3
+  rotate: false
+  xy: 380, 18
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+лицо3 copy
+  rotate: false
+  xy: 465, 18
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+рука
+  rotate: false
+  xy: 1287, 176
+  size: 114, 152
+  orig: 114, 152
+  offset: 0, 0
+  index: -1
+рука copy
+  rotate: true
+  xy: 1132, 66
+  size: 114, 152
+  orig: 114, 152
+  offset: 0, 0
+  index: -1

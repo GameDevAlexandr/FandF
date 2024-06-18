@@ -1,0 +1,118 @@
+
+Animation_Reward_Gems_Window.png
+size: 2020,2020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4.99$
+  rotate: false
+  xy: 10, 1669
+  size: 268, 151
+  orig: 268, 151
+  offset: 0, 0
+  index: -1
+BLIK
+  rotate: true
+  xy: 486, 1648
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 1073, 1417
+  size: 403, 612
+  orig: 409, 618
+  offset: 3, 3
+  index: -1
+BONUS
+  rotate: false
+  xy: 78, 1908
+  size: 154, 51
+  orig: 154, 51
+  offset: 0, 0
+  index: -1
+FREE
+  rotate: false
+  xy: 302, 1965
+  size: 85, 42
+  orig: 85, 44
+  offset: 0, 1
+  index: -1
+GEMS!
+  rotate: false
+  xy: 146, 1969
+  size: 96, 38
+  orig: 102, 44
+  offset: 3, 3
+  index: -1
+Icon_ItemIcon_Gem
+  rotate: false
+  xy: 288, 1658
+  size: 188, 162
+  orig: 188, 164
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_03
+  rotate: false
+  xy: 10, 1911
+  size: 58, 56
+  orig: 677, 355
+  offset: 41, 107
+  index: -1
+Image_Effect_Particle_04
+  rotate: true
+  xy: 252, 1968
+  size: 39, 40
+  orig: 677, 355
+  offset: 301, 79
+  index: -1
+Image_Effect_Particle_04 copy
+  rotate: true
+  xy: 252, 1968
+  size: 39, 40
+  orig: 677, 355
+  offset: 81, 252
+  index: -1
+shadow
+  rotate: false
+  xy: 10, 1977
+  size: 126, 30
+  orig: 126, 30
+  offset: 0, 0
+  index: -1
+swords1
+  rotate: true
+  xy: 10, 1830
+  size: 54, 1985
+  orig: 57, 2151
+  offset: 3, 0
+  index: -1
+swords2
+  rotate: true
+  xy: 242, 1898
+  size: 52, 1569
+  orig: 55, 1569
+  offset: 2, 0
+  index: -1
+swords3
+  rotate: true
+  xy: 397, 1960
+  size: 47, 1572
+  orig: 52, 1572
+  offset: 2, 0
+  index: -1
+text_box
+  rotate: false
+  xy: 1821, 1894
+  size: 186, 56
+  orig: 725, 1623
+  offset: 269, 711
+  index: -1
+twirl
+  rotate: false
+  xy: 706, 1490
+  size: 357, 330
+  orig: 357, 330
+  offset: 0, 0
+  index: -1

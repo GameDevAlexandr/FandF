@@ -1,0 +1,153 @@
+
+3 голем экспорт.png
+size: 1622,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CRYSTAL 1
+  rotate: false
+  xy: 577, 19
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+CRYSTAL 2
+  rotate: false
+  xy: 648, 37
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+CRYSTAL 3
+  rotate: true
+  xy: 314, 30
+  size: 81, 173
+  orig: 81, 173
+  offset: 0, 0
+  index: -1
+CRYSTAL 4
+  rotate: false
+  xy: 701, 33
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 905, 122
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+EYE copy
+  rotate: true
+  xy: 982, 48
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+EYE copy 2
+  rotate: true
+  xy: 982, 48
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+LEFT BODY
+  rotate: true
+  xy: 538, 213
+  size: 314, 534
+  orig: 314, 534
+  offset: 0, 0
+  index: -1
+LEFT HAND
+  rotate: true
+  xy: 1074, 2
+  size: 249, 265
+  orig: 249, 265
+  offset: 0, 0
+  index: -1
+LEFT HEAD
+  rotate: true
+  xy: 2, 8
+  size: 103, 154
+  orig: 103, 154
+  offset: 0, 0
+  index: -1
+LEFT HORN
+  rotate: false
+  xy: 1074, 253
+  size: 272, 274
+  orig: 272, 274
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 489, 43
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+RIGHT BODY
+  rotate: true
+  xy: 2, 207
+  size: 320, 534
+  orig: 320, 534
+  offset: 0, 0
+  index: -1
+RIGHT HAND
+  rotate: true
+  xy: 1341, 2
+  size: 249, 265
+  orig: 249, 265
+  offset: 0, 0
+  index: -1
+RIGHT HEAD
+  rotate: true
+  xy: 158, 8
+  size: 103, 154
+  orig: 103, 154
+  offset: 0, 0
+  index: -1
+RIGHT HORN
+  rotate: false
+  xy: 1348, 253
+  size: 272, 274
+  orig: 272, 274
+  offset: 0, 0
+  index: -1
+l chain 1
+  rotate: false
+  xy: 998, 136
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+l chain 2
+  rotate: false
+  xy: 593, 63
+  size: 154, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+r chain 1
+  rotate: true
+  xy: 905, 49
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+r chain 2
+  rotate: false
+  xy: 749, 63
+  size: 154, 148
+  orig: 154, 148
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 113
+  size: 589, 92
+  orig: 589, 92
+  offset: 0, 0
+  index: -1

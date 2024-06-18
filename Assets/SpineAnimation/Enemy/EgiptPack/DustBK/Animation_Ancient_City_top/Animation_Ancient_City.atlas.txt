@@ -1,0 +1,48 @@
+
+Animation_Ancient_City.png
+size: 518,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Big Blik 2
+  rotate: true
+  xy: 283, 442
+  size: 70, 124
+  orig: 1048, 1014
+  offset: 460, 390
+  index: -1
+Big Blik1
+  rotate: true
+  xy: 413, 440
+  size: 72, 73
+  orig: 1048, 1014
+  offset: 457, 581
+  index: -1
+Big blik 2__0
+  rotate: true
+  xy: 6, 207
+  size: 107, 506
+  orig: 1048, 1014
+  offset: 452, 211
+  index: -1
+Pile of sand
+  rotate: false
+  xy: 6, 402
+  size: 260, 63
+  orig: 1048, 1014
+  offset: 364, 194
+  index: -1
+Pile of sand 2
+  rotate: false
+  xy: 6, 471
+  size: 271, 41
+  orig: 1048, 1014
+  offset: 352, 194
+  index: -1
+Sand Big Center
+  rotate: true
+  xy: 6, 320
+  size: 76, 464
+  orig: 1048, 1014
+  offset: 454, 192
+  index: -1

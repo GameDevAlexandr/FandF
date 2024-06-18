@@ -1,0 +1,69 @@
+
+птичка1.png
+size: 959,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ГЛАЗ
+  rotate: false
+  xy: 921, 2
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+ЛЕВОЕ крыло
+  rotate: true
+  xy: 177, 18
+  size: 130, 178
+  orig: 135, 190
+  offset: 0, 12
+  index: -1
+ЛЕВЫЙ свет
+  rotate: true
+  xy: 516, 6
+  size: 142, 150
+  orig: 161, 193
+  offset: 16, 43
+  index: -1
+НОЖКИ
+  rotate: false
+  xy: 820, 4
+  size: 62, 28
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+ОГОНЬ
+  rotate: false
+  xy: 2, 3
+  size: 173, 145
+  orig: 301, 156
+  offset: 64, 11
+  index: -1
+ПРАВОЕ крыло
+  rotate: true
+  xy: 357, 18
+  size: 130, 157
+  orig: 130, 157
+  offset: 0, 0
+  index: -1
+ПРАВый свет
+  rotate: true
+  xy: 668, 8
+  size: 140, 150
+  orig: 153, 180
+  offset: 0, 30
+  index: -1
+ТЕЛО
+  rotate: false
+  xy: 820, 34
+  size: 99, 114
+  orig: 386, 393
+  offset: 142, 132
+  index: -1
+ТЕНЬ
+  rotate: true
+  xy: 921, 39
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1

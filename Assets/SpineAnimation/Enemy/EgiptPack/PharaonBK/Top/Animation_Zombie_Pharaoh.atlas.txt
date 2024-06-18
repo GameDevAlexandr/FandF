@@ -1,0 +1,727 @@
+
+Animation_Zombie_Pharaoh.png
+size: 785,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: true
+  xy: 573, 513
+  size: 101, 40
+  orig: 482, 700
+  offset: 185, 361
+  index: -1
+Binr 3 R bot
+  rotate: true
+  xy: 709, 411
+  size: 30, 61
+  orig: 482, 700
+  offset: 332, 419
+  index: -1
+Bint 3 R
+  rotate: false
+  xy: 620, 194
+  size: 38, 31
+  orig: 482, 700
+  offset: 126, 466
+  index: -1
+Bint 3 bot
+  rotate: false
+  xy: 746, 332
+  size: 33, 28
+  orig: 482, 700
+  offset: 128, 467
+  index: -1
+Bint 3_2 R bot
+  rotate: true
+  xy: 585, 8
+  size: 34, 45
+  orig: 482, 700
+  offset: 312, 455
+  index: -1
+Bint 4 R
+  rotate: true
+  xy: 573, 142
+  size: 46, 44
+  orig: 482, 700
+  offset: 318, 442
+  index: -1
+Bint L big
+  rotate: false
+  xy: 168, 396
+  size: 187, 124
+  orig: 482, 700
+  offset: 279, 537
+  index: -1
+Bint L7 big
+  rotate: false
+  xy: 168, 526
+  size: 192, 138
+  orig: 482, 700
+  offset: 3, 529
+  index: -1
+Bint smoll R
+  rotate: false
+  xy: 703, 447
+  size: 62, 59
+  orig: 482, 700
+  offset: 78, 473
+  index: -1
+Bint3 R
+  rotate: true
+  xy: 613, 311
+  size: 40, 60
+  orig: 482, 700
+  offset: 308, 446
+  index: -1
+Blik collar
+  rotate: false
+  xy: 6, 409
+  size: 156, 370
+  orig: 482, 700
+  offset: 150, 312
+  index: -1
+Collar_boy L
+  rotate: false
+  xy: 168, 670
+  size: 256, 109
+  orig: 482, 700
+  offset: 107, 454
+  index: -1
+Decor Center
+  rotate: false
+  xy: 619, 558
+  size: 76, 83
+  orig: 482, 700
+  offset: 197, 444
+  index: -1
+Decor Center merged
+  rotate: true
+  xy: 571, 278
+  size: 42, 36
+  orig: 482, 700
+  offset: 216, 491
+  index: -1
+Decor homs L
+  rotate: true
+  xy: 730, 512
+  size: 40, 49
+  orig: 482, 700
+  offset: 180, 571
+  index: -1
+Decor homs R
+  rotate: false
+  xy: 571, 219
+  size: 38, 53
+  orig: 482, 700
+  offset: 249, 570
+  index: -1
+Decoration collar center
+  rotate: false
+  xy: 615, 231
+  size: 47, 48
+  orig: 482, 700
+  offset: 210, 377
+  index: -1
+Finge2 L
+  rotate: true
+  xy: 668, 221
+  size: 18, 44
+  orig: 482, 700
+  offset: 3, 380
+  index: -1
+Finge22 L
+  rotate: false
+  xy: 712, 124
+  size: 34, 21
+  orig: 482, 700
+  offset: 3, 380
+  index: -1
+Finge22 R
+  rotate: true
+  xy: 654, 83
+  size: 33, 21
+  orig: 482, 700
+  offset: 418, 380
+  index: -1
+Finge2R
+  rotate: true
+  xy: 718, 221
+  size: 20, 40
+  orig: 482, 700
+  offset: 433, 383
+  index: -1
+Finge3 L
+  rotate: false
+  xy: 636, 13
+  size: 17, 33
+  orig: 482, 700
+  offset: 34, 355
+  index: -1
+Finge33 L
+  rotate: false
+  xy: 681, 92
+  size: 22, 29
+  orig: 482, 700
+  offset: 34, 352
+  index: -1
+Finge33 R
+  rotate: true
+  xy: 622, 52
+  size: 24, 30
+  orig: 482, 700
+  offset: 397, 352
+  index: -1
+Finge3R
+  rotate: false
+  xy: 764, 211
+  size: 15, 33
+  orig: 482, 700
+  offset: 406, 355
+  index: -1
+Finge44 L
+  rotate: false
+  xy: 636, 122
+  size: 26, 20
+  orig: 482, 700
+  offset: 56, 359
+  index: -1
+Finge44 R
+  rotate: true
+  xy: 658, 52
+  size: 25, 21
+  orig: 482, 700
+  offset: 372, 357
+  index: -1
+Finger 11 L
+  rotate: true
+  xy: 613, 285
+  size: 20, 48
+  orig: 482, 700
+  offset: 38, 428
+  index: -1
+Finger 11R
+  rotate: true
+  xy: 664, 198
+  size: 17, 46
+  orig: 482, 700
+  offset: 400, 429
+  index: -1
+Finger 4 L
+  rotate: false
+  xy: 760, 173
+  size: 19, 32
+  orig: 482, 700
+  offset: 65, 361
+  index: -1
+Finger 4 R
+  rotate: true
+  xy: 744, 307
+  size: 19, 35
+  orig: 482, 700
+  offset: 370, 359
+  index: -1
+Glou Tatu
+  rotate: true
+  xy: 716, 188
+  size: 27, 38
+  orig: 482, 700
+  offset: 127, 447
+  index: -1
+Hand L_1
+  rotate: false
+  xy: 280, 104
+  size: 72, 81
+  orig: 482, 700
+  offset: 24, 364
+  index: -1
+Hand R copy
+  rotate: true
+  xy: 673, 705
+  size: 74, 84
+  orig: 482, 700
+  offset: 360, 363
+  index: -1
+Homs R
+  rotate: false
+  xy: 471, 294
+  size: 93, 94
+  orig: 482, 700
+  offset: 251, 577
+  index: -1
+Kost 0
+  rotate: true
+  xy: 573, 48
+  size: 40, 43
+  orig: 482, 700
+  offset: 184, 428
+  index: -1
+Kost 1
+  rotate: false
+  xy: 751, 278
+  size: 28, 23
+  orig: 482, 700
+  offset: 188, 453
+  index: -1
+Kost 3
+  rotate: false
+  xy: 659, 21
+  size: 21, 25
+  orig: 482, 700
+  offset: 265, 437
+  index: -1
+Kost 4
+  rotate: true
+  xy: 755, 123
+  size: 44, 24
+  orig: 482, 700
+  offset: 218, 435
+  index: -1
+Kost 5
+  rotate: false
+  xy: 572, 394
+  size: 13, 13
+  orig: 482, 700
+  offset: 220, 429
+  index: -1
+Layer 50
+  rotate: false
+  xy: 622, 82
+  size: 26, 34
+  orig: 482, 700
+  offset: 228, 333
+  index: -1
+Layer 8
+  rotate: true
+  xy: 619, 647
+  size: 52, 146
+  orig: 482, 700
+  offset: 205, 266
+  index: -1
+Loskut
+  rotate: false
+  xy: 570, 326
+  size: 37, 62
+  orig: 482, 700
+  offset: 180, 429
+  index: -1
+P1
+  rotate: false
+  xy: 679, 301
+  size: 59, 41
+  orig: 482, 700
+  offset: 199, 576
+  index: -1
+P10
+  rotate: true
+  xy: 365, 267
+  size: 128, 100
+  orig: 482, 700
+  offset: 161, 372
+  index: -1
+P15
+  rotate: false
+  xy: 125, 207
+  size: 135, 183
+  orig: 482, 700
+  offset: 161, 390
+  index: -1
+P2
+  rotate: false
+  xy: 435, 6
+  size: 39, 22
+  orig: 482, 700
+  offset: 214, 555
+  index: -1
+P3
+  rotate: true
+  xy: 572, 413
+  size: 94, 33
+  orig: 482, 700
+  offset: 196, 523
+  index: -1
+P4
+  rotate: false
+  xy: 430, 719
+  size: 237, 60
+  orig: 482, 700
+  offset: 100, 503
+  index: -1
+P4 bot
+  rotate: true
+  xy: 266, 191
+  size: 199, 93
+  orig: 482, 700
+  offset: 106, 470
+  index: -1
+P5
+  rotate: true
+  xy: 366, 521
+  size: 143, 58
+  orig: 482, 700
+  offset: 171, 431
+  index: -1
+P6
+  rotate: false
+  xy: 472, 394
+  size: 94, 122
+  orig: 482, 700
+  offset: 201, 441
+  index: -1
+P8
+  rotate: false
+  xy: 365, 189
+  size: 102, 72
+  orig: 482, 700
+  offset: 184, 368
+  index: -1
+P9
+  rotate: true
+  xy: 438, 106
+  size: 77, 52
+  orig: 482, 700
+  offset: 196, 347
+  index: -1
+Pely 1 L
+  rotate: false
+  xy: 739, 69
+  size: 20, 20
+  orig: 482, 700
+  offset: 280, 464
+  index: -1
+Pely 2 L
+  rotate: false
+  xy: 712, 69
+  size: 21, 21
+  orig: 482, 700
+  offset: 151, 476
+  index: -1
+Rib cage bot
+  rotate: true
+  xy: 361, 401
+  size: 114, 105
+  orig: 482, 700
+  offset: 178, 434
+  index: -1
+Sckull bot
+  rotate: true
+  xy: 715, 247
+  size: 48, 30
+  orig: 482, 700
+  offset: 217, 347
+  index: -1
+Sfera 1
+  rotate: false
+  xy: 496, 117
+  size: 71, 71
+  orig: 482, 700
+  offset: 200, 624
+  index: -1
+Sfera 2 L
+  rotate: false
+  xy: 613, 357
+  size: 62, 61
+  orig: 482, 700
+  offset: 30, 396
+  index: -1
+Sfera 2_1 L
+  rotate: false
+  xy: 634, 447
+  size: 63, 62
+  orig: 482, 700
+  offset: 29, 396
+  index: -1
+Sfera 3 R
+  rotate: false
+  xy: 505, 47
+  size: 62, 64
+  orig: 482, 700
+  offset: 371, 387
+  index: -1
+Sfera 3 R podmena
+  rotate: false
+  xy: 218, 6
+  size: 59, 57
+  orig: 482, 700
+  offset: 346, 254
+  index: -1
+Sfera 3_1 R
+  rotate: true
+  xy: 435, 34
+  size: 66, 64
+  orig: 482, 700
+  offset: 370, 389
+  index: -1
+Shadow decor center
+  rotate: false
+  xy: 668, 155
+  size: 38, 37
+  orig: 482, 700
+  offset: 219, 485
+  index: -1
+Shoulder L
+  rotate: true
+  xy: 125, 144
+  size: 57, 86
+  orig: 482, 700
+  offset: 131, 469
+  index: -1
+Shoulder R
+  rotate: false
+  xy: 218, 69
+  size: 56, 83
+  orig: 482, 700
+  offset: 289, 469
+  index: -1
+Trapeze
+  rotate: true
+  xy: 152, 26
+  size: 112, 60
+  orig: 482, 700
+  offset: 178, 511
+  index: -1
+Veko
+  rotate: false
+  xy: 686, 14
+  size: 18, 17
+  orig: 482, 700
+  offset: 220, 354
+  index: -1
+chain 1 L
+  rotate: true
+  xy: 634, 424
+  size: 17, 69
+  orig: 482, 700
+  offset: 152, 421
+  index: -1
+chain 1 L bot
+  rotate: false
+  xy: 712, 43
+  size: 18, 20
+  orig: 482, 700
+  offset: 151, 469
+  index: -1
+chain 2 L
+  rotate: true
+  xy: 571, 194
+  size: 19, 43
+  orig: 482, 700
+  offset: 102, 368
+  index: -1
+chain 2 R
+  rotate: false
+  xy: 763, 743
+  size: 16, 36
+  orig: 482, 700
+  offset: 282, 440
+  index: -1
+chain 3 L
+  rotate: false
+  xy: 611, 437
+  size: 17, 70
+  orig: 482, 700
+  offset: 198, 337
+  index: -1
+collar
+  rotate: true
+  xy: 6, 144
+  size: 259, 113
+  orig: 482, 700
+  offset: 107, 456
+  index: -1
+decor 2 L
+  rotate: false
+  xy: 746, 366
+  size: 33, 39
+  orig: 482, 700
+  offset: 171, 616
+  index: -1
+decor 2 L bot
+  rotate: true
+  xy: 709, 96
+  size: 22, 29
+  orig: 482, 700
+  offset: 171, 617
+  index: -1
+decor 2 R bot
+  rotate: true
+  xy: 751, 250
+  size: 22, 28
+  orig: 482, 700
+  offset: 278, 616
+  index: -1
+decor 2R
+  rotate: false
+  xy: 548, 6
+  size: 31, 35
+  orig: 482, 700
+  offset: 270, 617
+  index: -1
+det collar  2 L
+  rotate: true
+  xy: 505, 6
+  size: 35, 37
+  orig: 482, 700
+  offset: 190, 394
+  index: -1
+det collar 2 R
+  rotate: true
+  xy: 712, 151
+  size: 31, 37
+  orig: 482, 700
+  offset: 247, 394
+  index: -1
+det collar L
+  rotate: false
+  xy: 217, 158
+  size: 43, 43
+  orig: 482, 700
+  offset: 174, 387
+  index: -1
+det collar R
+  rotate: true
+  xy: 623, 148
+  size: 40, 39
+  orig: 482, 700
+  offset: 249, 391
+  index: -1
+det shackle L1
+  rotate: false
+  xy: 686, 37
+  size: 20, 20
+  orig: 482, 700
+  offset: 104, 396
+  index: -1
+det shackle R1
+  rotate: true
+  xy: 736, 46
+  size: 17, 21
+  orig: 482, 700
+  offset: 341, 402
+  index: -1
+det shackle R2
+  rotate: true
+  xy: 668, 127
+  size: 22, 38
+  orig: 482, 700
+  offset: 338, 375
+  index: -1
+elbow L
+  rotate: false
+  xy: 362, 23
+  size: 67, 77
+  orig: 482, 700
+  offset: 89, 419
+  index: -1
+elbow R
+  rotate: false
+  xy: 701, 558
+  size: 69, 83
+  orig: 482, 700
+  offset: 311, 416
+  index: -1
+glou collar
+  rotate: false
+  xy: 430, 620
+  size: 183, 93
+  orig: 482, 700
+  offset: 143, 462
+  index: -1
+glou yea
+  rotate: false
+  xy: 480, 8
+  size: 19, 20
+  orig: 482, 700
+  offset: 218, 349
+  index: -1
+horns L
+  rotate: false
+  xy: 473, 194
+  size: 92, 94
+  orig: 482, 700
+  offset: 127, 577
+  index: -1
+jaw
+  rotate: false
+  xy: 573, 94
+  size: 43, 42
+  orig: 482, 700
+  offset: 214, 554
+  index: -1
+neck
+  rotate: false
+  xy: 668, 245
+  size: 41, 50
+  orig: 482, 700
+  offset: 215, 532
+  index: -1
+rib cage
+  rotate: false
+  xy: 6, 11
+  size: 140, 127
+  orig: 482, 700
+  offset: 167, 430
+  index: -1
+ring L
+  rotate: false
+  xy: 744, 95
+  size: 23, 22
+  orig: 482, 700
+  offset: 35, 427
+  index: -1
+ring R
+  rotate: true
+  xy: 685, 63
+  size: 23, 21
+  orig: 482, 700
+  offset: 392, 366
+  index: -1
+scull
+  rotate: false
+  xy: 681, 348
+  size: 59, 57
+  orig: 482, 700
+  offset: 207, 559
+  index: -1
+shackle L
+  rotate: true
+  xy: 283, 22
+  size: 76, 73
+  orig: 482, 700
+  offset: 68, 396
+  index: -1
+shackle R
+  rotate: false
+  xy: 358, 106
+  size: 74, 77
+  orig: 482, 700
+  offset: 316, 402
+  index: -1
+skirt
+  rotate: true
+  xy: 430, 522
+  size: 92, 137
+  orig: 482, 700
+  offset: 190, 291
+  index: -1
+spine
+  rotate: true
+  xy: 619, 515
+  size: 37, 105
+  orig: 482, 700
+  offset: 217, 370
+  index: -1
+veko bot
+  rotate: true
+  xy: 152, 6
+  size: 14, 11
+  orig: 482, 700
+  offset: 218, 352
+  index: -1
+yea
+  rotate: false
+  xy: 125, 396
+  size: 5, 7
+  orig: 482, 700
+  offset: 224, 355
+  index: -1

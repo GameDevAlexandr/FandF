@@ -1,0 +1,111 @@
+
+golem 41 export.png
+size: 770,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 3
+  rotate: true
+  xy: 209, 25
+  size: 89, 147
+  orig: 89, 147
+  offset: 0, 0
+  index: -1
+Layer 1085 copy
+  rotate: false
+  xy: 685, 15
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+Layer 193 copy
+  rotate: true
+  xy: 307, 7
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 527, 37
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 358, 37
+  size: 167, 77
+  orig: 167, 77
+  offset: 0, 0
+  index: -1
+Layer 41
+  rotate: true
+  xy: 536, 9
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Layer 42
+  rotate: true
+  xy: 462, 2
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+Layer 43
+  rotate: true
+  xy: 358, 3
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Layer 44
+  rotate: true
+  xy: 281, 7
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: true
+  xy: 410, 3
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Layer 46
+  rotate: true
+  xy: 209, 3
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+Layer 47
+  rotate: true
+  xy: 245, 3
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 597, 5
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 501, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 13
+  size: 205, 101
+  orig: 205, 101
+  offset: 0, 0
+  index: -1

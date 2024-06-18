@@ -1,0 +1,118 @@
+
+Animation_Reward_Gold_Window.png
+size: 1976,1976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4.99$
+  rotate: false
+  xy: 220, 1635
+  size: 268, 151
+  orig: 268, 151
+  offset: 0, 0
+  index: -1
+BLIK
+  rotate: true
+  xy: 498, 1614
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 1309, 1389
+  size: 397, 606
+  orig: 403, 612
+  offset: 3, 3
+  index: -1
+BONUS
+  rotate: false
+  xy: 10, 1873
+  size: 148, 45
+  orig: 148, 45
+  offset: 0, 0
+  index: -1
+FREE
+  rotate: false
+  xy: 10, 1928
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+GOLD!
+  rotate: false
+  xy: 99, 1928
+  size: 93, 38
+  orig: 93, 38
+  offset: 0, 0
+  index: -1
+Image_Effect_Particle_03
+  rotate: false
+  xy: 1834, 1910
+  size: 58, 56
+  orig: 677, 355
+  offset: 41, 107
+  index: -1
+Image_Effect_Particle_04
+  rotate: true
+  xy: 202, 1927
+  size: 39, 40
+  orig: 677, 355
+  offset: 301, 79
+  index: -1
+Image_Effect_Particle_04 copy
+  rotate: true
+  xy: 202, 1927
+  size: 39, 40
+  orig: 677, 355
+  offset: 81, 252
+  index: -1
+gold
+  rotate: false
+  xy: 718, 1607
+  size: 214, 179
+  orig: 214, 179
+  offset: 0, 0
+  index: -1
+shadow Gold
+  rotate: false
+  xy: 10, 1716
+  size: 200, 70
+  orig: 200, 70
+  offset: 0, 0
+  index: -1
+swords1
+  rotate: true
+  xy: 10, 1796
+  size: 38, 1956
+  orig: 41, 2136
+  offset: 1, 1
+  index: -1
+swords2
+  rotate: true
+  xy: 168, 1871
+  size: 44, 1569
+  orig: 44, 1569
+  offset: 0, 0
+  index: -1
+swords3
+  rotate: true
+  xy: 252, 1925
+  size: 41, 1572
+  orig: 41, 1572
+  offset: 0, 0
+  index: -1
+text_box
+  rotate: false
+  xy: 1747, 1844
+  size: 186, 56
+  orig: 725, 1623
+  offset: 269, 711
+  index: -1
+twirl
+  rotate: false
+  xy: 942, 1456
+  size: 357, 330
+  orig: 357, 330
+  offset: 0, 0
+  index: -1

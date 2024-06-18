@@ -1,0 +1,363 @@
+
+1_Hunter_for spine.png
+size: 756,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 622, 301
+  size: 82, 48
+  orig: 448, 582
+  offset: 183, 305
+  index: -1
+Belt__back
+  rotate: true
+  xy: 706, 268
+  size: 81, 40
+  orig: 448, 582
+  offset: 183, 321
+  index: -1
+Boddy
+  rotate: true
+  xy: 232, 121
+  size: 106, 137
+  orig: 448, 582
+  offset: 172, 301
+  index: -1
+Cloth
+  rotate: false
+  xy: 707, 568
+  size: 44, 186
+  orig: 448, 582
+  offset: 202, 139
+  index: -1
+Collar
+  rotate: false
+  xy: 232, 229
+  size: 170, 105
+  orig: 448, 582
+  offset: 139, 364
+  index: -1
+Detal
+  rotate: false
+  xy: 553, 339
+  size: 67, 66
+  orig: 448, 582
+  offset: 192, 279
+  index: -1
+Elbow L
+  rotate: true
+  xy: 404, 218
+  size: 40, 146
+  orig: 448, 582
+  offset: 128, 256
+  index: -1
+Elbow R
+  rotate: true
+  xy: 371, 110
+  size: 39, 144
+  orig: 448, 582
+  offset: 277, 257
+  index: -1
+Finger_1L
+  rotate: false
+  xy: 615, 60
+  size: 17, 49
+  orig: 448, 582
+  offset: 151, 245
+  index: -1
+Finger_1R
+  rotate: true
+  xy: 102, 38
+  size: 17, 50
+  orig: 448, 582
+  offset: 277, 244
+  index: -1
+Finger_2L
+  rotate: false
+  xy: 574, 50
+  size: 39, 56
+  orig: 448, 582
+  offset: 134, 239
+  index: -1
+Finger_2R
+  rotate: false
+  xy: 716, 414
+  size: 35, 58
+  orig: 448, 582
+  offset: 275, 238
+  index: -1
+Hand L
+  rotate: true
+  xy: 629, 122
+  size: 34, 51
+  orig: 448, 582
+  offset: 125, 244
+  index: -1
+Hand R
+  rotate: true
+  xy: 624, 158
+  size: 34, 52
+  orig: 448, 582
+  offset: 286, 244
+  index: -1
+Head
+  rotate: true
+  xy: 643, 402
+  size: 70, 71
+  orig: 448, 582
+  offset: 189, 452
+  index: -1
+Hip L
+  rotate: false
+  xy: 68, 126
+  size: 81, 204
+  orig: 448, 582
+  offset: 146, 130
+  index: -1
+Hip R
+  rotate: false
+  xy: 151, 127
+  size: 79, 203
+  orig: 448, 582
+  offset: 222, 130
+  index: -1
+Nekc
+  rotate: false
+  xy: 437, 326
+  size: 114, 90
+  orig: 448, 582
+  offset: 167, 392
+  index: -1
+Plumage L
+  rotate: true
+  xy: 203, 54
+  size: 65, 133
+  orig: 448, 582
+  offset: 146, 207
+  index: -1
+Plumage R
+  rotate: true
+  xy: 68, 57
+  size: 67, 133
+  orig: 448, 582
+  offset: 235, 207
+  index: -1
+Plume 1 L
+  rotate: true
+  xy: 517, 108
+  size: 43, 77
+  orig: 448, 582
+  offset: 124, 342
+  index: -1
+Plume 1 R
+  rotate: true
+  xy: 499, 3
+  size: 44, 74
+  orig: 448, 582
+  offset: 281, 345
+  index: -1
+Plume 2 L
+  rotate: true
+  xy: 335, 3
+  size: 31, 118
+  orig: 448, 582
+  offset: 108, 302
+  index: -1
+Plume 2 R
+  rotate: true
+  xy: 102, 2
+  size: 32, 120
+  orig: 448, 582
+  offset: 311, 299
+  index: -1
+Plume 3 L
+  rotate: true
+  xy: 338, 71
+  size: 37, 158
+  orig: 448, 582
+  offset: 94, 255
+  index: -1
+Plume 3 R
+  rotate: true
+  xy: 338, 36
+  size: 33, 159
+  orig: 448, 582
+  offset: 319, 254
+  index: -1
+Plume 4 L
+  rotate: false
+  xy: 643, 474
+  size: 62, 280
+  orig: 448, 582
+  offset: 91, 77
+  index: -1
+Plume 4 R
+  rotate: false
+  xy: 2, 49
+  size: 64, 281
+  orig: 448, 582
+  offset: 296, 77
+  index: -1
+Plume 5 L
+  rotate: false
+  xy: 514, 421
+  size: 77, 333
+  orig: 448, 582
+  offset: 80, 34
+  index: -1
+Plume 5 R
+  rotate: false
+  xy: 437, 418
+  size: 75, 336
+  orig: 448, 582
+  offset: 294, 34
+  index: -1
+Plume 6 L
+  rotate: false
+  xy: 552, 226
+  size: 55, 68
+  orig: 448, 582
+  offset: 69, 336
+  index: -1
+Plume 6R
+  rotate: true
+  xy: 499, 49
+  size: 57, 73
+  orig: 448, 582
+  offset: 324, 335
+  index: -1
+Sfera
+  rotate: true
+  xy: 509, 153
+  size: 63, 59
+  orig: 448, 582
+  offset: 193, 284
+  index: -1
+Shadow
+  rotate: true
+  xy: 593, 407
+  size: 347, 48
+  orig: 448, 582
+  offset: 49, 4
+  index: -1
+Shin L
+  rotate: true
+  xy: 404, 260
+  size: 64, 137
+  orig: 448, 582
+  offset: 149, 18
+  index: -1
+Shin R
+  rotate: true
+  xy: 371, 151
+  size: 65, 136
+  orig: 448, 582
+  offset: 234, 18
+  index: -1
+Shoulder L
+  rotate: true
+  xy: 224, 3
+  size: 49, 109
+  orig: 448, 582
+  offset: 135, 324
+  index: -1
+Shoulder R
+  rotate: true
+  xy: 622, 351
+  size: 49, 114
+  orig: 448, 582
+  offset: 260, 321
+  index: -1
+Shoulder pad L
+  rotate: true
+  xy: 570, 155
+  size: 69, 52
+  orig: 448, 582
+  offset: 107, 379
+  index: -1
+Shoulder pad R
+  rotate: false
+  xy: 624, 194
+  size: 68, 54
+  orig: 448, 582
+  offset: 273, 379
+  index: -1
+Snake Lega L
+  rotate: false
+  xy: 707, 474
+  size: 41, 92
+  orig: 448, 582
+  offset: 159, 41
+  index: -1
+Snake R
+  rotate: true
+  xy: 2, 2
+  size: 45, 98
+  orig: 448, 582
+  offset: 273, 266
+  index: -1
+Wing bask L
+  rotate: false
+  xy: 2, 332
+  size: 214, 422
+  orig: 448, 582
+  offset: 12, 30
+  index: -1
+Wing bask R
+  rotate: false
+  xy: 218, 336
+  size: 217, 418
+  orig: 448, 582
+  offset: 221, 31
+  index: -1
+claw_1 R
+  rotate: false
+  xy: 596, 111
+  size: 31, 42
+  orig: 448, 582
+  offset: 259, 13
+  index: -1
+claw_1L
+  rotate: true
+  xy: 455, 3
+  size: 31, 42
+  orig: 448, 582
+  offset: 157, 13
+  index: -1
+claw_2L
+  rotate: false
+  xy: 575, 7
+  size: 56, 41
+  orig: 448, 582
+  offset: 120, 15
+  index: -1
+claw_2R
+  rotate: false
+  xy: 553, 296
+  size: 58, 41
+  orig: 448, 582
+  offset: 270, 15
+  index: -1
+eye L
+  rotate: false
+  xy: 678, 179
+  size: 14, 13
+  orig: 448, 582
+  offset: 203, 478
+  index: -1
+eye R
+  rotate: false
+  xy: 609, 233
+  size: 13, 15
+  orig: 448, 582
+  offset: 232, 477
+  index: -1
+necklace
+  rotate: false
+  xy: 615, 250
+  size: 81, 49
+  orig: 448, 582
+  offset: 184, 417
+  index: -1

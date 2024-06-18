@@ -1,0 +1,174 @@
+
+Kollos_Shark.png
+size: 328,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Finger 1 R
+  rotate: true
+  xy: 213, 188
+  size: 28, 59
+  orig: 550, 812
+  offset: 255, 429
+  index: -1
+Finger 2 R_
+  rotate: false
+  xy: 159, 85
+  size: 32, 66
+  orig: 550, 812
+  offset: 427, 414
+  index: -1
+Finger 3 L
+  rotate: true
+  xy: 88, 97
+  size: 54, 65
+  orig: 550, 812
+  offset: 116, 360
+  index: -1
+Finger 3 L_3
+  rotate: true
+  xy: 275, 138
+  size: 32, 47
+  orig: 550, 812
+  offset: 117, 379
+  index: -1
+Finger 3 R
+  rotate: false
+  xy: 95, 23
+  size: 49, 68
+  orig: 550, 812
+  offset: 431, 402
+  index: -1
+Finger 3R_3
+  rotate: true
+  xy: 275, 69
+  size: 30, 46
+  orig: 550, 812
+  offset: 447, 424
+  index: -1
+Finger 4 L_4
+  rotate: false
+  xy: 197, 96
+  size: 36, 50
+  orig: 550, 812
+  offset: 108, 348
+  index: -1
+Finger 4 R
+  rotate: true
+  xy: 278, 176
+  size: 40, 44
+  orig: 550, 812
+  offset: 442, 368
+  index: -1
+Finger 4 R_4
+  rotate: true
+  xy: 204, 152
+  size: 30, 56
+  orig: 550, 812
+  offset: 458, 391
+  index: -1
+Finger L 1
+  rotate: false
+  xy: 204, 10
+  size: 31, 53
+  orig: 550, 812
+  offset: 259, 452
+  index: -1
+Finger L2_
+  rotate: true
+  xy: 224, 222
+  size: 39, 63
+  orig: 550, 812
+  offset: 133, 377
+  index: -1
+Finger L2_ 2
+  rotate: false
+  xy: 275, 105
+  size: 47, 27
+  orig: 550, 812
+  offset: 137, 412
+  index: -1
+Finger L4 copy
+  rotate: false
+  xy: 241, 22
+  size: 43, 41
+  orig: 550, 812
+  offset: 117, 326
+  index: -1
+Finger2  R_ 2
+  rotate: true
+  xy: 239, 95
+  size: 51, 30
+  orig: 550, 812
+  offset: 406, 454
+  index: -1
+Hand L
+  rotate: false
+  xy: 6, 245
+  size: 108, 77
+  orig: 550, 812
+  offset: 117, 381
+  index: -1
+Hand R
+  rotate: false
+  xy: 120, 256
+  size: 98, 66
+  orig: 550, 812
+  offset: 383, 424
+  index: -1
+Sfera
+  rotate: true
+  xy: 293, 231
+  size: 30, 26
+  orig: 550, 812
+  offset: 347, 568
+  index: -1
+bracelet L
+  rotate: false
+  xy: 6, 89
+  size: 76, 66
+  orig: 550, 812
+  offset: 111, 402
+  index: -1
+bracelet R
+  rotate: false
+  xy: 6, 161
+  size: 91, 78
+  orig: 550, 812
+  offset: 413, 431
+  index: -1
+chain L
+  rotate: false
+  xy: 6, 31
+  size: 83, 52
+  orig: 550, 812
+  offset: 115, 405
+  index: -1
+chain L bot
+  rotate: true
+  xy: 150, 15
+  size: 64, 48
+  orig: 550, 812
+  offset: 131, 396
+  index: -1
+chain R bot
+  rotate: false
+  xy: 120, 202
+  size: 87, 48
+  orig: 550, 812
+  offset: 408, 437
+  index: -1
+chain1 R
+  rotate: false
+  xy: 224, 267
+  size: 87, 55
+  orig: 550, 812
+  offset: 409, 447
+  index: -1
+chain2 R
+  rotate: false
+  xy: 103, 157
+  size: 86, 39
+  orig: 550, 812
+  offset: 425, 492
+  index: -1

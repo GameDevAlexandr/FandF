@@ -1,0 +1,188 @@
+
+1_caterpillar.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 6, 147
+  size: 190, 319
+  orig: 190, 319
+  offset: 0, 0
+  index: -1
+Body det 1
+  rotate: true
+  xy: 409, 198
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Body det2
+  rotate: true
+  xy: 372, 8
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 202, 370
+  size: 96, 98
+  orig: 98, 100
+  offset: 1, 1
+  index: -1
+Head L det 1
+  rotate: true
+  xy: 6, 7
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+Head Rdet 1
+  rotate: true
+  xy: 79, 7
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+Leg 1 L
+  rotate: true
+  xy: 310, 17
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+Leg 2 L
+  rotate: true
+  xy: 310, 17
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+Leg 1 R
+  rotate: true
+  xy: 202, 289
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+Leg 2 R
+  rotate: true
+  xy: 152, 6
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: false
+  xy: 174, 31
+  size: 130, 110
+  orig: 138, 114
+  offset: 4, 2
+  index: -1
+Neck 2
+  rotate: true
+  xy: 310, 288
+  size: 178, 138
+  orig: 182, 142
+  offset: 2, 2
+  index: -1
+Sfera
+  rotate: false
+  xy: 202, 320
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 351, 43
+  size: 239, 52
+  orig: 239, 52
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 202, 159
+  size: 143, 123
+  orig: 143, 123
+  offset: 0, 0
+  index: -1
+Tail  det
+  rotate: false
+  xy: 6, 31
+  size: 162, 110
+  orig: 162, 110
+  offset: 0, 0
+  index: -1
+hip 1 L
+  rotate: true
+  xy: 310, 69
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+hip 2 L
+  rotate: true
+  xy: 310, 69
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+hip 1 R
+  rotate: true
+  xy: 310, 112
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+hip 2 R
+  rotate: true
+  xy: 409, 57
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+mustache L
+  rotate: true
+  xy: 264, 288
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+mustache R
+  rotate: true
+  xy: 409, 165
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+yea det 1 L
+  rotate: false
+  xy: 252, 321
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+yea det 1 R
+  rotate: true
+  xy: 418, 242
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+yeaL
+  rotate: true
+  xy: 409, 130
+  size: 29, 35
+  orig: 29, 36
+  offset: 0, 1
+  index: -1
+yeaR
+  rotate: true
+  xy: 409, 95
+  size: 29, 34
+  orig: 29, 36
+  offset: 0, 2
+  index: -1
