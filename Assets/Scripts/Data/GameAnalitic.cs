@@ -6,7 +6,7 @@ using static CalculationData;
 using static EnumsData;
 using static AppMetrica;
 
-using Facebook.Unity;
+
 using AppsFlyerSDK;
 
 public class GameAnalitic : MonoBehaviour
@@ -21,29 +21,12 @@ public class GameAnalitic : MonoBehaviour
         Instance.ResumeSession();
         
         Application.RegisterLogCallback(ExeptionLog);
-        if (!FB.IsInitialized)
-        {
-            FB.Init(InitCallback, OnHideUnity);
-        }
-        else
-        {
-            FB.ActivateApp();
-        }
+     
         DontDestroyOnLoad(this);
         timer = Time.time;
 
 }
-    private void InitCallback()
-    {
-        if (FB.IsInitialized)
-        {
-            FB.ActivateApp();
-        }
-        else
-        {
-            Debug.Log("Failed to Initialize the Facebook SDK");
-        }
-    }
+  
 
     private void OnHideUnity(bool isGameShown)
     {
@@ -80,7 +63,7 @@ public class GameAnalitic : MonoBehaviour
         //AppsFlyer.sendEvent(key, eventValueString);
         try
         {
-            FB.LogAppEvent(key, parameters: body);
+      
         }
         catch
         {

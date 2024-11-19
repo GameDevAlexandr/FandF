@@ -1,0 +1,33 @@
+{ "skeleton": { "images": "C:/Users/Raks/Desktop/ArtGame/Character1/Enemy1/images/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Screenshot", "bone": "root", "attachment": "Screenshot" },
+	{ "name": "Слой 4", "bone": "root", "attachment": "Слой 4" },
+	{ "name": "Слой 3", "bone": "root", "attachment": "Слой 3" },
+	{ "name": "Слой 2", "bone": "root", "attachment": "Слой 2" },
+	{ "name": "Слой 1", "bone": "root", "attachment": "Слой 1" }
+],
+"skins": {
+	"default": {
+		"Screenshot": {
+			"Screenshot": { "x": 727, "y": -475, "width": 854, "height": 626 }
+		},
+		"Слой 4": {
+			"Слой 4": { "x": 718.5, "y": -185.5, "width": 143, "height": 177 }
+		},
+		"Слой 3": {
+			"Слой 3": { "x": 501, "y": -323.5, "width": 256, "height": 147 }
+		},
+		"Слой 2": {
+			"Слой 2": { "x": 940, "y": -330, "width": 232, "height": 114 }
+		},
+		"Слой 1": {
+			"Слой 1": { "x": 721, "y": -631.5, "width": 182, "height": 287 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

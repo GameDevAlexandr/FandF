@@ -68,7 +68,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 654b502d8302cda48b6ae152ab3449e1, type: 2}
+  - {fileID: 2100000, guid: 055af88eeb3c8ea45884e433bcc8befa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 525556019e655804f9ad1350a90ac5f2, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 46b3d1b7fbf74a7459f73f38ecc162d3, type: 2}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
@@ -420,7 +420,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 1.855}
+  m_AnchoredPosition: {x: 0, y: 2.24}
   m_SizeDelta: {x: 100, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &4195524908557228107

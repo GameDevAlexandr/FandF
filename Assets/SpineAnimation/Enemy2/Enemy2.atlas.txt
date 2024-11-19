@@ -1,0 +1,76 @@
+
+Enemy2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kisspng-drawing-melman-portable
+  rotate: false
+  xy: 2, 592
+  size: 432, 430
+  orig: 586, 432
+  offset: 0, 2
+  index: -1
+Слой 1
+  rotate: true
+  xy: 780, 509
+  size: 134, 161
+  orig: 134, 161
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: true
+  xy: 436, 800
+  size: 222, 382
+  orig: 222, 382
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: true
+  xy: 174, 524
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: false
+  xy: 943, 442
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: true
+  xy: 436, 565
+  size: 233, 342
+  orig: 233, 342
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: false
+  xy: 943, 546
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: false
+  xy: 820, 768
+  size: 202, 254
+  orig: 202, 254
+  offset: 0, 0
+  index: -1
+Слой 8
+  rotate: false
+  xy: 2, 466
+  size: 170, 124
+  orig: 171, 124
+  offset: 0, 0
+  index: -1
+Слой 9
+  rotate: false
+  xy: 780, 645
+  size: 212, 121
+  orig: 212, 121
+  offset: 0, 0
+  index: -1

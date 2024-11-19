@@ -1,0 +1,90 @@
+
+character1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 338
+  size: 180, 295
+  orig: 466, 485
+  offset: 180, 171
+  index: -1
+foot_l
+  rotate: true
+  xy: 796, 524
+  size: 87, 208
+  orig: 90, 208
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: true
+  xy: 796, 435
+  size: 87, 206
+  orig: 94, 206
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 691, 291
+  size: 103, 325
+  orig: 103, 325
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 691, 182
+  size: 107, 310
+  orig: 108, 310
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 796, 293
+  size: 114, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 201
+  size: 278, 57
+  orig: 279, 58
+  offset: 0, 0
+  index: -1
+sword2
+  rotate: true
+  xy: 570, 260
+  size: 373, 119
+  orig: 391, 149
+  offset: 17, 0
+  index: -1
+sword3
+  rotate: true
+  xy: 699, 618
+  size: 386, 143
+  orig: 386, 145
+  offset: 0, 1
+  index: -1
+sword4
+  rotate: false
+  xy: 184, 514
+  size: 384, 119
+  orig: 386, 122
+  offset: 1, 1
+  index: -1
+sword5
+  rotate: true
+  xy: 844, 613
+  size: 391, 132
+  orig: 394, 135
+  offset: 1, 2
+  index: -1
+Фигура 1
+  rotate: false
+  xy: 2, 635
+  size: 695, 369
+  orig: 695, 369
+  offset: 0, 0
+  index: -1

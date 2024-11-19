@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 896ef96cf68b58d43b10ecaab2bbe6ff, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 46b3d1b7fbf74a7459f73f38ecc162d3, type: 2}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0

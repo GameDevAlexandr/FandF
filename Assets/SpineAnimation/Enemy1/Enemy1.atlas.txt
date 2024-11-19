@@ -1,0 +1,41 @@
+
+Enemy1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Screenshot
+  rotate: false
+  xy: 2, 301
+  size: 196, 186
+  orig: 683, 501
+  offset: 239, 237
+  index: -1
+Слой 1
+  rotate: true
+  xy: 200, 343
+  size: 144, 227
+  orig: 146, 230
+  offset: 2, 1
+  index: -1
+Слой 2
+  rotate: true
+  xy: 396, 155
+  size: 186, 91
+  orig: 186, 91
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: false
+  xy: 200, 249
+  size: 194, 92
+  orig: 205, 118
+  offset: 11, 9
+  index: -1
+Слой 4
+  rotate: true
+  xy: 2, 193
+  size: 106, 142
+  orig: 114, 142
+  offset: 8, 0
+  index: -1

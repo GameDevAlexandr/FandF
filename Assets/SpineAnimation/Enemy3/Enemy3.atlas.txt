@@ -1,0 +1,76 @@
+
+Enemy3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Слой 10
+  rotate: true
+  xy: 2, 958
+  size: 61, 170
+  orig: 64, 170
+  offset: 0, 0
+  index: -1
+Слой 11
+  rotate: true
+  xy: 731, 824
+  size: 195, 288
+  orig: 201, 288
+  offset: 6, 0
+  index: -1
+Слой 2
+  rotate: true
+  xy: 302, 444
+  size: 244, 377
+  orig: 446, 460
+  offset: 35, 0
+  index: -1
+Слой 3
+  rotate: true
+  xy: 543, 860
+  size: 159, 186
+  orig: 159, 191
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: true
+  xy: 174, 945
+  size: 74, 190
+  orig: 74, 190
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: true
+  xy: 2, 771
+  size: 172, 315
+  orig: 172, 315
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: false
+  xy: 2, 488
+  size: 298, 281
+  orig: 298, 281
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: true
+  xy: 705, 619
+  size: 203, 301
+  orig: 203, 301
+  offset: 0, 0
+  index: -1
+Слой 8
+  rotate: true
+  xy: 319, 690
+  size: 168, 384
+  orig: 172, 384
+  offset: 4, 0
+  index: -1
+Слой 9
+  rotate: true
+  xy: 366, 940
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
