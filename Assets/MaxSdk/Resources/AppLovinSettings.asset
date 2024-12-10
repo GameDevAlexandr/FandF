@@ -18,19 +18,5 @@ MonoBehaviour:
   addApsSkAdNetworkIds: 0
   customGradleVersionUrl: 
   customGradleToolsVersion: 
-  consentFlowEnabled: 0
-  consentFlowPlatform: 0
-  consentFlowPrivacyPolicyUrl: 
-  consentFlowTermsOfServiceUrl: 
-  userTrackingUsageDescriptionEn: 
-  userTrackingUsageLocalizationEnabled: 0
-  userTrackingUsageDescriptionDe: 
-  userTrackingUsageDescriptionEs: 
-  userTrackingUsageDescriptionFr: 
-  userTrackingUsageDescriptionJa: 
-  userTrackingUsageDescriptionKo: 
-  userTrackingUsageDescriptionZhHans: 
-  userTrackingUsageDescriptionZhHant: 
-  adMobAndroidAppId: ca-app-pub-5572644294330645~5381309212
+  adMobAndroidAppId: ca-app-pub-5572644294330645~3553461181
   adMobIosAppId: 
-  showInternalSettingsInIntegrationManager: 0

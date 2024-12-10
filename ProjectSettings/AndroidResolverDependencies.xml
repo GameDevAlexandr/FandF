@@ -16,12 +16,11 @@
     <package>com.applovin.mediation:unityads-adapter:4.9.2.1</package>
     <package>com.applovin.mediation:vungle-adapter:7.1.0.0</package>
     <package>com.applovin.mediation:yandex-adapter:6.1.0.0</package>
-    <package>com.applovin:applovin-sdk:12.3.0</package>
+    <package>com.applovin:applovin-sdk:13.0.1</package>
     <package>com.appsflyer:af-android-sdk:6.12.2</package>
     <package>com.appsflyer:af-purchaseconnector-unity:2.0.0</package>
     <package>com.appsflyer:purchase-connector:2.0.0</package>
     <package>com.appsflyer:unity-wrapper:6.12.22</package>
-    <package>com.google.android.ump:user-messaging-platform:2.1.0</package>
     <package>com.squareup.picasso:picasso:2.71828</package>
     <package>com.unity3d.ads:unity-ads:[4.12.0,4.13[</package>
     <package>com.yandex.android:mobmetricalib:5.2.0</package>

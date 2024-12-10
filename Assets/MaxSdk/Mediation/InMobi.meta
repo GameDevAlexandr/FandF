@@ -1,8 +1,5 @@
 fileFormatVersion: 2
-guid: a83f2368f78aa4d6d8a4aa6026f17e28
-labels:
-- al_max
-- al_max_export_path-MaxSdk/Mediation/InMobi
+guid: f5c0c3a4ba6924953a97c5e983cc978b
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
