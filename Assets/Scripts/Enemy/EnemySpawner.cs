@@ -53,7 +53,7 @@ public class EnemySpawner : MonoBehaviour
         for (int i = 0; i < el; i++)
         {
             wawes[waveCount].enemyes[i].enemy.spawner = this;
-            _enemies.Add(Instantiate(wawes[waveCount].enemyes[i].enemy, pos[i].position, Quaternion.identity));
+            _enemies.Add(Instantiate(wawes[waveCount].enemyes[i].enemy, pos[i].position, Quaternion.identity,transform));
             //_enemies[_enemies.Count - 1].spawner = this;
         }
         SetTarget(_enemies.Count > 1 ? _enemies[1] : _enemies[0]);
@@ -90,7 +90,7 @@ public class EnemySpawner : MonoBehaviour
         _enemies.Clear();
         _enemyCounter = 0;
         EventManager.WinCompany.Invoke();
-        TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.missionComplete);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.chooseLevel);
         GameAnalitic.PlayerState("Victory");        
     }
     private void Lost()

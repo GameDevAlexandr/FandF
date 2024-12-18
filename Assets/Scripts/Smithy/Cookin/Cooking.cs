@@ -28,11 +28,11 @@ public class Cooking : MonoBehaviour
     {
         Controll.getOutUiPositionEvent.AddListener(AddSmelting);
         _areaBound = _smeltArea.bounds;
-        _forgeBound = _forgeArea.bounds;
+        _forgeBound = _forgeArea.bounds;        
         _forge.Init();
         _smelt.Init();
         StartCoroutine(AutoCraft());
-        gameMode = EnumsData.GameMode.smythy;
+        //gameMode = EnumsData.GameMode.smythy;
     }
     public void EventInit()
     {

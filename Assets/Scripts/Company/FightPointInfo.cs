@@ -30,6 +30,7 @@ public class FightPointInfo : MonoBehaviour
         _goToPoint.onClick.AddListener(GoToPoint);
         _startCompany.onClick.AddListener(Fight);
         _timeManager.everySecondEvent.AddListener(Tic);
+        _run.onClick.AddListener(Run);
     }
     public void SetData(CompanyItem item, int index, int timeTo)
     {
@@ -141,6 +142,11 @@ public class FightPointInfo : MonoBehaviour
         {
             _goToPoint.gameObject.SetActive(true);
         }
+    }
+    private void Run()
+    {
+        sonData.secondsToCompany = 0;
+        Tic();
     }
     private void OnEnable()
     {

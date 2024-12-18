@@ -35,7 +35,7 @@ public class SmeltQueue : MonoBehaviour, ICookinQueue
         smeltQueue.Add(cd);
         AddQueueContent(smeltQueue.Count - 1);
         ChangeCurrency(cd.typeIndex, false);
-        TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.startSmelting);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.fastedSmelt);
     }
 
     public void AddQueueContent(int index)

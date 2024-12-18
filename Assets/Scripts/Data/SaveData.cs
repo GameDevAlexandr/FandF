@@ -17,11 +17,12 @@ public class SaveData : MonoBehaviour
     [HideInInspector] public MiningData sMining;
     [HideInInspector] public List<AlmaData> sAlmanac;
     [HideInInspector] public int[] sAdRecovery;
-    [HideInInspector] public bool[] sTotorData;
+    [HideInInspector] public TutorialData[] sTotorData;
     [HideInInspector] public GameSettings sSettings;
     [HideInInspector] public QuestData sQuestData;
     [HideInInspector] public List<int> sEventCompanyPoint;
     [HideInInspector] public bool[] sReceivedDailyRewards;
+    [HideInInspector] public int sGameMode;
 
     public void Save(string saveName)
     {
@@ -45,7 +46,7 @@ public class SaveData : MonoBehaviour
         saveData.sQuestData = questData;
         saveData.sEventCompanyPoint = eventCompanyPoint;
         saveData.sReceivedDailyRewards = receivedDailyReward;
-
+        saveData.sGameMode = (int)gameMode;
         string data = JsonUtility.ToJson(saveData);
         PlayerPrefs.SetString(saveName, data);
         PlayerPrefs.Save();

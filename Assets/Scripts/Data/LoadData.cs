@@ -33,5 +33,6 @@ public class LoadData : MonoBehaviour
         questData = saveData.sQuestData;
         eventCompanyPoint = saveData.sEventCompanyPoint;
         receivedDailyReward = saveData.sReceivedDailyRewards;
+        gameMode = (EnumsData.GameMode)saveData.sGameMode;
     }   
 }

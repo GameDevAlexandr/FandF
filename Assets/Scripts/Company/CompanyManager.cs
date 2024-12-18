@@ -80,7 +80,7 @@ public class CompanyManager : MonoBehaviour
         {
             if(sonData.chapterUnlock <= _currentChapter)
             {
-                TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.newChapter);
+                Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.newCompany);
                 sonData.chapterUnlock = _currentChapter + 1;
                 _nextChapter.gameObject.SetActive(true);
             }

@@ -21,12 +21,13 @@ public class SaveManager : MonoBehaviour
     }
     private IEnumerator SaveTimer()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSecondsRealtime(1);
         Save();
         StartCoroutine(SaveTimer());
     }
     public void Save()
     {
+        if(!GeneralData.withoutSave && GeneralData.gameMode!= GameMode.fight)
         _save.Save("AutoSave");
     }
 }

@@ -113,8 +113,8 @@ public static class EnumsData
     }
     public enum GameMode
     {
-        fight = 0,
-        smythy =1,
+        smythy = 0,
+        fight = 1,        
         map = 2,
         mine =3,
         powerTest

@@ -66,7 +66,7 @@ public class MergeItems : MonoBehaviour, IDragHandler, IDropHandler, IBeginDragH
                 EventManager.AddForgeItem(item.type, item.level+1, 0);
                 SetData(ForgeItemBase.Base[item.type][item.level + 1]);
                 storage.RemoveItem(mItem);
-                TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.mergeComplete);
+                Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.minePreview);
             }
         }
         EventManager.SelectMergeItem.Invoke(this, false);

@@ -108,16 +108,9 @@ public class ForgeQueue : MonoBehaviour, ICookinQueue
         var itm = GetItem(0);
         RemoveItem(_cells[0], true);
         int grd = GetForgeItemGrade(itm.material);
-        EventManager.AddForgeItem(type, grd, 1);
-        if (forgeItems[(int)ForgeItemType.copperSword].items[0] >= 1)
-        {
-            TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.forgeComplete);
-        }
-        if (forgeItems[(int)ForgeItemType.commonAmulet].items[0] >= 1)
-        {
-            TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.amuletComplete);
-        }
-        GameAnalitic.Forge(type.ToString() + "_" + grd);       
+        EventManager.AddForgeItem(type, grd, 1);        
+        GameAnalitic.Forge(type.ToString() + "_" + grd);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.merge);
     }
 
     private ForgeItem GetItem(int qIndex)

@@ -195,6 +195,15 @@ public class GameAnalitic : MonoBehaviour
         purchaseEvent.Add(AFInAppEvents.VALIDATED, product.receipt!=null?"true":"false");
         AppsFlyer.sendEvent("af_purchase", purchaseEvent);
     }
+    public static void Tutorial(string iName, int iteration) 
+    {
+        Dictionary<string, object> body = new Dictionary<string, object>();
+        body.Add("BlockID", iName);
+        body.Add("IterationID", iteration);
+        body.Add("Session_Time", Time.unscaledTime);
+        body.Add("Day_Index", dateValue.dayInGame.ToString());
+        Instance.ReportEvent("Tutorial_Complete", body);
+    }
 
-    
+
 }

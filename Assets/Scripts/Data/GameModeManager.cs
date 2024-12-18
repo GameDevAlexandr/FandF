@@ -8,6 +8,16 @@ public class GameModeManager : MonoBehaviour
 {
     [SerializeField] MapSonInfo _mSonInfo;
     [SerializeField] private SwitchData[] _switchMods;
+    private void Start()
+    {
+        Debug.Log(gameMode);
+        if(gameMode == GameMode.map || gameMode == GameMode.fight)
+        {
+            Switch(GameMode.map);
+            return;
+        }
+        gameMode = GameMode.smythy;
+    }
 
     [System.Serializable]
     public struct SwitchData
@@ -23,8 +33,9 @@ public class GameModeManager : MonoBehaviour
         Sounds.chooseSound.ChangeBackground(Sounds.chooseSound.backGroundFight);
         if (sonData.figthSouls[0] != -1)
         {
-            TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.soulFight);
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.soulBattle);
         }
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.fight);
     }
     public void PowerTestMode()
     {
@@ -41,7 +52,7 @@ public class GameModeManager : MonoBehaviour
             sonData.hp = GetSonHealth();
         }
         _mSonInfo.SetData();
-        TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.fight_1);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.location);
     }
 
     public void SmithyMode()
@@ -57,18 +68,24 @@ public class GameModeManager : MonoBehaviour
         Switch(GameMode.smythy);
         if (currency[(int)CurrencyType.moonTears] > 0 && currency[(int)CurrencyType.greenStone] > 3 && !inCompany)
         {
-            TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.craftAmulet);
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amulet);
         }
+        if (forgeItems[(int)ForgeItemType.commonAmulet].items[0] >= 1 && !inCompany)
+        {
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amuletComplete);
+        }
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.buy);
     }
     public void MineMode()
     {
         Sounds.chooseSound.OverlapBackground(Sounds.chooseSound.backGroundMine);
-        Switch(GameMode.mine);
+        Switch(GameMode.mine);        
     }
 
     private void Switch(GameMode mode)
-    {
+    {        
         gameMode = mode;
+        Debug.Log(gameMode);
         for (int i = 0; i < _switchMods.Length; i++)
         {
             if(_switchMods[i].mode == mode)

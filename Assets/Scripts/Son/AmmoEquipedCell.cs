@@ -34,12 +34,10 @@ public class AmmoEquipedCell : MonoBehaviour
             EventManager.ChangrForgeitem.AddListener(AddForgeItemEvent);
             SetNotification(CheckNotifiacation());
         }
-        Debug.Log("initialisaton " + type);
     }
     public void OnClick()
     {
         _infoPanel.gameObject.SetActive(_isEquip);
-        Debug.Log("is qeuiped Cell " + _isEquip);
         if (_isEquip)
         {
             _infoPanel.SetData(_item, this, false);

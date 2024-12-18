@@ -45,7 +45,7 @@ public class DailyQuest : MonoBehaviour
 
     public void ClearDailyQuest()
     {
-        if (questData.daily == null)
+        if (questData.daily == null || questData.daily.Length==0)
         {
             return;
         }

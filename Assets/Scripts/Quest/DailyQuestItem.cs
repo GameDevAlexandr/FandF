@@ -66,6 +66,10 @@ public class DailyQuestItem : MonoBehaviour
     }
     public void SetData()
     {
+        if(questData.daily == null || questData.daily.Length ==0)
+        {
+            return;
+        }
         _progressBar.fillAmount = (float)questData.daily[_index].count / _maxCount;
         _rwCountText.text = _reward.ToString();
         if (_maxCount > 1 && questData.daily[_index].count <= _maxCount)

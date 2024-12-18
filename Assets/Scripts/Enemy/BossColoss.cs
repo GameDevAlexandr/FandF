@@ -34,6 +34,6 @@ public class BossColoss: Enemy
         base.Death();
         spawner.bkHandler.Finish();
         sonData.chapterComplete = Mathf.Max(sonData.chapterComplete, sonData.currentChapter+1);
-        TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.chapterComplete);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.bossComplete);
     }
 }

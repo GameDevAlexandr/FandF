@@ -39,32 +39,6 @@ public class TutorialHandler : MonoBehaviour
         public Button button;
         public IterationName name;
     }
-
-    private void Start()
-    {
-        if (tutorData == null)
-        {
-            tutorData = new bool[_data.Length];
-        }
-        else if (tutorData.Length < _data.Length)
-        {
-            System.Array.Resize(ref tutorData, _data.Length);
-        }
-        if (_isDisable)
-        {
-            DisableTutorial();
-            return;
-        }                
-        UnlockComplite();
-        DefineIteration();
-        //GameManager.addMoneyEvent.AddListener(AddMoneyEvent);
-        tutorEvent.AddListener(SetNewIteration);
-        for (int i = 0; i < _tButtons.Length; i++)
-        {
-            int res = i;
-            _tButtons[i].button.onClick.AddListener(() => SetNewIteration(_tButtons[res].name));
-        }
-    }
     public enum IterationName
     {
         none,
@@ -139,7 +113,7 @@ public class TutorialHandler : MonoBehaviour
         amulet_0,
         amulet_1,
         amuletComplete,
-        amulet_2,        
+        amulet_2,
         amulet_3,
         amulet_4,
         amulet_5,
@@ -185,101 +159,127 @@ public class TutorialHandler : MonoBehaviour
         forgeMaxLevel,
         buyPickAxe
     }
+    //private void Start()
+    //{
+    //    if (tutorData == null)
+    //    {
+    //        tutorData = new bool[_data.Length];
+    //    }
+    //    else if (tutorData.Length < _data.Length)
+    //    {
+    //        System.Array.Resize(ref tutorData, _data.Length);
+    //    }
+    //    if (_isDisable)
+    //    {
+    //        DisableTutorial();
+    //        return;
+    //    }                
+    //    UnlockComplite();
+    //    DefineIteration();
+    //    //GameManager.addMoneyEvent.AddListener(AddMoneyEvent);
+    //    tutorEvent.AddListener(SetNewIteration);
+    //    for (int i = 0; i < _tButtons.Length; i++)
+    //    {
+    //        int res = i;
+    //        _tButtons[i].button.onClick.AddListener(() => SetNewIteration(_tButtons[res].name));
+    //    }
+    //}
+    
 
 
-    public void SetNewIteration(int iteration)
-    {
-        if (gameObject.activeSelf)
-        {
-            Debug.Log("tutor iteration " + iteration);
-            if (!tutorData[iteration])
-            {
-                if (_data[iteration].padLock)
-                {
-                    _data[iteration].padLock.SetActive(false);
+    //public void SetNewIteration(int iteration)
+    //{
+    //    if (gameObject.activeSelf)
+    //    {
+    //        Debug.Log("tutor iteration " + iteration);
+    //        if (!tutorData[iteration])
+    //        {
+    //            if (_data[iteration].padLock)
+    //            {
+    //                _data[iteration].padLock.SetActive(false);
 
-                }
-                if (_data[iteration].unhide)
-                {
-                    _data[iteration].unhide.SetActive(true);
-                }
-                if (_data[iteration].skipIteration != IterationName.none)
-                {
-                    tutorData[DefineIteration(_data[iteration].skipIteration)] = true;
-                }
-                tData data = _data[iteration];
-                if (data.mascot)
-                {
-                    _coal.SetCoalHint(data);
-                }
-                else if (data.hole)
-                {
-                    _coal.gameObject.SetActive(false);
-                    _hole.transform.parent.gameObject.SetActive(true);
-                    _hole.SetNewHolePosition(data);
-                }
-            }
-        }
-    }
-    public void SetNewIteration(IterationName name)
-    {
-        SetNewIteration(DefineIteration(name));
-    }
+    //            }
+    //            if (_data[iteration].unhide)
+    //            {
+    //                _data[iteration].unhide.SetActive(true);
+    //            }
+    //            if (_data[iteration].skipIteration != IterationName.none)
+    //            {
+    //                tutorData[DefineIteration(_data[iteration].skipIteration)] = true;
+    //            }
+    //            tData data = _data[iteration];
+    //            if (data.mascot)
+    //            {
+    //                _coal.SetCoalHint(data);
+    //            }
+    //            else if (data.hole)
+    //            {
+    //                _coal.gameObject.SetActive(false);
+    //                _hole.transform.parent.gameObject.SetActive(true);
+    //                _hole.SetNewHolePosition(data);
+    //            }
+    //        }
+    //    }
+    //}
+    //public void SetNewIteration(IterationName name)
+    //{
+    //    SetNewIteration(DefineIteration(name));
+    //}
 
-    private void DefineIteration()
-    {
-        for (int i = 0; i < tutorData.Length; i++)
-        {
-            if (!tutorData[i] && !_data[i].trigger)
-            {
-                SetNewIteration(i);
-                return;
-            }
-        }
-    }
+    //private void DefineIteration()
+    //{
+    //    for (int i = 0; i < tutorData.Length; i++)
+    //    {
+    //        if (!tutorData[i] && !_data[i].trigger)
+    //        {
+    //            SetNewIteration(i);
+    //            return;
+    //        }
+    //    }
+    //}
 
-    private void UnlockComplite()
-    {
-        for (int i = 0; i < tutorData.Length; i++)
-        {
-            if (_data[i].padLock)
-            {
-                _data[i].padLock.SetActive(!tutorData[i]);
-            }
-            if(_data[i].unhide)
-            { 
-                _data[i].unhide.SetActive(tutorData[i]);
-            }
-        }
-    }
+    //private void UnlockComplite()
+    //{
+    //    for (int i = 0; i < tutorData.Length; i++)
+    //    {
+    //        if (_data[i].padLock)
+    //        {
+    //            _data[i].padLock.SetActive(!tutorData[i]);
+    //        }
+    //        if(_data[i].unhide)
+    //        { 
+    //            _data[i].unhide.SetActive(tutorData[i]);
+    //        }
+    //    }
+    //}
 
-    public int DefineIteration(IterationName name)
-    {
-        if(name == IterationName.none)
-        {
-            return 0;
-        }
-        for (int i = 0; i < _data.Length ; i++)
-        {
-            if(_data[i].iterationName == name)
-            {
-                return i;
-            }
-        }
-        return 0;
-    }
-    private void DisableTutorial()
-    {
-        for (int i = 0; i < tutorData.Length; i++)
-        {
-            if (_data[i].padLock)
-            {
-                _data[i].padLock.SetActive(false);
-            }
-            if (_data[i].unhide)
-            {
-                _data[i].unhide.SetActive(true);
-            }
-        }
-    }
+    //public int DefineIteration(IterationName name)
+    //{
+    //    if(name == IterationName.none)
+    //    {
+    //        return 0;
+    //    }
+    //    for (int i = 0; i < _data.Length ; i++)
+    //    {
+    //        if(_data[i].iterationName == name)
+    //        {
+    //            return i;
+    //        }
+    //    }
+    //    return 0;
+    //}
+    //private void DisableTutorial()
+    //{
+    //    for (int i = 0; i < tutorData.Length; i++)
+    //    {
+    //        if (_data[i].padLock)
+    //        {
+    //            _data[i].padLock.SetActive(false);
+    //        }
+    //        if (_data[i].unhide)
+    //        {
+    //            _data[i].unhide.SetActive(true);
+    //        }
+    //    }
+    //}
 }

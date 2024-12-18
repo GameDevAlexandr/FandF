@@ -6,13 +6,14 @@ using static EnumsData;
 public class GeneralData : MonoBehaviour
 {
     public static GameMode gameMode;
+    public static bool withoutSave;
     public static bool inCompany => !(sonData.companyIndex==0 && sonData.secondsToCompany == 0);
     public static SmithData smithData;
     public static DateValue dateValue;
     public static MiningData mining;
     public static List<AlmaData> almanac;
     public static List<int> eventCompanyPoint;
-    public static bool[] tutorData;
+    public static TutorialData[] tutorData;
     public static GameSettings settings;
     public static QuestData questData;
     public static bool[] receivedDailyReward;
@@ -192,6 +193,13 @@ public class GeneralData : MonoBehaviour
         public int count;
         public bool complete;
     }
+    [Serializable]
+    public struct TutorialData
+    {
+      public bool isStarted;
+      public bool isComplete;
+    }
+
     #region Initialize  
     private static void InitializeCurrency()
     {

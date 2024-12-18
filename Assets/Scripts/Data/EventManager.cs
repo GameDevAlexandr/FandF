@@ -46,11 +46,16 @@ public class EventManager : MonoBehaviour
     {
         if (level != -1)
         {
+            Debug.Log("forge " + type + " count " + count);
             forgeItems[(int)type].items[level] += count;            
             ChangrForgeitem.Invoke(type, level, count);
             if (level == 4 && forgeItems[(int)type].items[level] > 0)
             {
-                TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.forgeMaxLevel);
+                Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.upgradeGear);
+            }
+            if (forgeItems[(int)ForgeItemType.commonAmulet].items[0] >= 1 && gameMode == GameMode.smythy)
+            {
+                Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amuletComplete);
             }
         }
     }
@@ -75,7 +80,7 @@ public class EventManager : MonoBehaviour
             sonData.level++;
             SonLvlUp.Invoke();
             AddSonSkillPoint(1);
-            TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.levelUp);
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.lvlUp);
         }
         AddSonExperience.Invoke();
     }

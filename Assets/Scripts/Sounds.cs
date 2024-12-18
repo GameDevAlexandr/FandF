@@ -120,7 +120,7 @@ public class Sounds : MonoBehaviour
         source.Play();
         while (elapsedTime < fadeTime)
         {
-            elapsedTime += Time.deltaTime;
+            elapsedTime += Time.unscaledDeltaTime;
             source.volume = Mathf.Lerp(0, 1, elapsedTime / fadeTime);
             _curBackground.volume = Mathf.Lerp(1, 0, elapsedTime / fadeTime);
             yield return null;

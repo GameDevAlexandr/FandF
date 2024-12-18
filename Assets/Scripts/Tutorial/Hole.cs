@@ -119,13 +119,13 @@ public class Hole : MonoBehaviour
     
     private void Close()
     {
-        _isRady = false;
-        tutorData[_handler.DefineIteration(_tData.iterationName)] = true;
-        _backLock.SetActive(false);
-        _finger.SetActive(false);
-        if (_nextIteration!= TutorialHandler.IterationName.none)
-        {
-            _handler.SetNewIteration(_nextIteration);
-        }
+        //_isRady = false;
+        //tutorData[_handler.DefineIteration(_tData.iterationName)] = true;
+        //_backLock.SetActive(false);
+        //_finger.SetActive(false);
+        //if (_nextIteration!= TutorialHandler.IterationName.none)
+        //{
+        //    _handler.SetNewIteration(_nextIteration);
+        //}
     }
 }

@@ -83,7 +83,7 @@ public class Enemy : MonoBehaviour
     }
     protected virtual void Death()
     {
-        _die.transform.parent = null;
+        _die.transform.parent = transform.parent;
         _die.Play();
         spawner.DestroyEnemy(this);
         EventManager.KillEnemy(item.enemyName);

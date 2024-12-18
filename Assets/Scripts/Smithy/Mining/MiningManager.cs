@@ -11,7 +11,7 @@ public class MiningManager : MonoBehaviour
         _loadMine.SetActive(true);
         SwithPanels(true);
         _generator.Generate();
-        TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.startMining);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.mine);
     }
 
     public void SwithPanels(bool isMining)
@@ -24,7 +24,7 @@ public class MiningManager : MonoBehaviour
         { 
             _modeManager.SmithyMode();
         }
-        TutorialHandler.tutorEvent.Invoke(TutorialHandler.IterationName.finishMining);
+        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.afterMine);
     }
 
     public void CloseLoadingPanel()

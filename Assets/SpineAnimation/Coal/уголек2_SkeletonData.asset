@@ -25,7 +25,7 @@ MonoBehaviour:
     screenMaterials: []
   skeletonDataModifiers: []
   fromAnimation:
-  - appearence
+  - start
   toAnimation:
   - idle
   duration:

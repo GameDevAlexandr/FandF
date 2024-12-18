@@ -28,7 +28,7 @@ public class DateTimeManager : MonoBehaviour
             dateValue.minutesPerDay++;
             minutesInGameEvent.Invoke(dateValue.minutesInGame);
         }
-        secondesTimer += Time.deltaTime;
+        secondesTimer += Time.unscaledDeltaTime;
         if(secondesTimer >= 1)
         {
             everySecondEvent.Invoke();
