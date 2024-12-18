@@ -7,11 +7,18 @@
     <package>com.android.support:customtabs:25.3.1</package>
     <package>com.android.support:customtabs:28.+</package>
     <package>com.android.support:recyclerview-v7:28.+</package>
+<<<<<<< HEAD
     <package>com.android.support:support-v4:25.3.1</package>
     <package>com.applovin.mediation:bytedance-adapter:6.4.0.2.0</package>
     <package>com.applovin.mediation:facebook-adapter:[6.18.0.1]</package>
     <package>com.applovin.mediation:fyber-adapter:8.3.3.0</package>
     <package>com.applovin.mediation:google-adapter:[23.6.0.0]</package>
+=======
+    <package>com.applovin.mediation:bytedance-adapter:6.4.0.3.0</package>
+    <package>com.applovin.mediation:facebook-adapter:[6.18.0.1]</package>
+    <package>com.applovin.mediation:fyber-adapter:8.3.3.0</package>
+    <package>com.applovin.mediation:google-adapter:[23.6.0.1]</package>
+>>>>>>> 554f295 (замена арта на старый)
     <package>com.applovin.mediation:google-ad-manager-adapter:[23.6.0.0]</package>
     <package>com.applovin.mediation:inmobi-adapter:10.8.0.0</package>
     <package>com.applovin.mediation:ironsource-adapter:8.5.0.0.0</package>
@@ -25,6 +32,7 @@
     <package>com.appsflyer:af-purchaseconnector-unity:2.0.0</package>
     <package>com.appsflyer:purchase-connector:2.0.0</package>
     <package>com.appsflyer:unity-wrapper:6.12.22</package>
+<<<<<<< HEAD
     <package>com.facebook.android:facebook-applinks:[16.0.1,17)</package>
     <package>com.facebook.android:facebook-core:[16.0.1,17)</package>
     <package>com.facebook.android:facebook-gamingservices:[16.0.1,17)</package>
@@ -32,6 +40,9 @@
     <package>com.facebook.android:facebook-share:[16.0.1,17)</package>
     <package>com.google.android.ump:user-messaging-platform:2.+</package>
     <package>com.parse.bolts:bolts-android:1.4.0</package>
+=======
+    <package>com.google.android.ump:user-messaging-platform:2.+</package>
+>>>>>>> 554f295 (замена арта на старый)
     <package>com.squareup.picasso:picasso:2.71828</package>
     <package>com.unity3d.ads:unity-ads:[4.12.0,4.13[</package>
     <package>com.yandex.android:mobmetricalib:5.2.0</package>

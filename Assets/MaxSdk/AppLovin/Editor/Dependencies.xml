@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <dependencies>
     <androidPackages>
@@ -7,4 +8,12 @@
     <iosPods>
         <iosPod name="AppLovinSDK" version="13.0.1" />
     </iosPods>
+=======
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.google.android.ump:user-messaging-platform:2.+" />
+    </androidPackages>
+    <iosPods></iosPods>
+>>>>>>> 554f295 (замена арта на старый)
 </dependencies>
