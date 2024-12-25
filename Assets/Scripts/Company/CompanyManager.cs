@@ -40,9 +40,6 @@ public class CompanyManager : MonoBehaviour
         _nextChapter.gameObject.SetActive(sonData.chapterUnlock > 0);
         _contentRect = _scrollRect.content;
         _pointInfo.startCompanyEven.AddListener(DeactiveChangeChapterButton);
-        //EventManager.AddForgeItem(EnumsData.ForgeItemType.mithrilSword, 4, 5);
-        //EventManager.AddForgeItem(EnumsData.ForgeItemType.mitrilArmour, 4, 5);
-        //EventManager.AddForgeItem(EnumsData.ForgeItemType.uncommonAmulet, 2, 5);
         for (int i = 0; i < _chapters.Length; i++)
         {
             _chapters[i].SetActive(false);

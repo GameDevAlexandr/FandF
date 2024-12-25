@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - 7755a5ece5a38da1ada9eb1f6949eef7
+  - d6f6b0e35d2236d965db1a6a3870da96
   appIds:
-  - 435992599509928
+  - 370699635803577
   appLabels:
   - ForgeAndFury
   cookie: 1
@@ -27,7 +27,8 @@ MonoBehaviour:
   androidKeystorePath: E:\Unity\F-F\ForgeAndFury.keystore
   iosURLSuffix: 
   appLinkSchemes:
-  - list: []
+  - list:
+    - 
   uploadAccessToken: 
   autoLogAppEventsEnabled: 1
   advertiserIDCollectionEnabled: 1
