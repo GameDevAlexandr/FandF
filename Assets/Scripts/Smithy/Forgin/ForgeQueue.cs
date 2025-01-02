@@ -15,8 +15,10 @@ public class ForgeQueue : MonoBehaviour, ICookinQueue
     private int _curProgress;    
     private List<CookinQueueCell> _cells = new List<CookinQueueCell>();
     private int _curHardness { get { return forgeQueue.Count > 0 ? CookBook.forgeItem[GetItemTipe(0)].hardness : 0; } }
+    private bool _isInit;
     public void Init()
     {
+        if (_isInit) return;
         if (forgeQueue.Count > 0) 
         {
             for (int i = 0; i < forgeQueue.Count; i++)
@@ -25,6 +27,7 @@ public class ForgeQueue : MonoBehaviour, ICookinQueue
             }
             _curProgress = (int)(_curHardness * forgeQueue[0].progress);
         }
+        _isInit = true;
     }
     public void AddToQueue(int index)
     {

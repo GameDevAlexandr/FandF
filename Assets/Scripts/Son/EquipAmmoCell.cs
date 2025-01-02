@@ -7,8 +7,6 @@ using static GeneralData;
 [RequireComponent(typeof(Button))]
 public class EquipAmmoCell : MonoBehaviour
 {
-    [HideInInspector] public bool isActive;
-
     [SerializeField] private Image _icon;
     [SerializeField] private Image _back;
     [SerializeField] private Image _frame;
@@ -19,12 +17,15 @@ public class EquipAmmoCell : MonoBehaviour
     private ForgeItemType _forgeItem;
     private ForgeItem _item;
     private AmmoEquipedCell _cell;
+    public bool IsFull{ get; private set; }
     private void Awake()
     {
         GetComponent<Button>().onClick.AddListener(GetInfo);
     }
     public void SetData(ForgeItemType type, int index, AmmoEquipedCell cell)
     {
+        _back.gameObject.SetActive(true);
+        IsFull = true;
         _cell = cell;
         _forgeItem = type;
         _item = ForgeItemBase.Base[_forgeItem][index];
@@ -32,21 +33,31 @@ public class EquipAmmoCell : MonoBehaviour
         _frame.sprite = RarityBase.frames[_item.level];
         _back.sprite = RarityBase.backs[_item.material];
         _index = index;
+        transform.SetAsFirstSibling();
         ChangeCount(_forgeItem, index);
     }
 
     private void ChangeCount(ForgeItemType type, int index)
     {
-        if(isActive && type==_forgeItem && index == _index)
+        if(IsFull && type==_forgeItem && index == _index)
         {
             int count = forgeItems[(int)type].items[index];
-            gameObject.SetActive(count > 0);
+            if (count <= 0) EmptyCell();
             _count.text = forgeItems[(int)type].items[index].ToString();
         }
     }
     private void GetInfo()
     {
-        _info.gameObject.SetActive(true);
-        _info.SetData(_item,_cell, !_cell.CheckEquiped(_item));
+        if (IsFull)
+        {
+            _info.gameObject.SetActive(true);
+            _info.SetData(_item, _cell, !_cell.CheckEquiped(_item));
+        }
+    }
+    public void EmptyCell()
+    {
+        _back.gameObject.SetActive(false);
+        IsFull = false;
+        transform.SetAsLastSibling();
     }
 }

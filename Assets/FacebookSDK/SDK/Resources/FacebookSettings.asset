@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - d6f6b0e35d2236d965db1a6a3870da96
+  - 240edc1d6c1b34280325824fb16f73f8
   appIds:
-  - 370699635803577
+  - 925765966408719
   appLabels:
-  - ForgeAndFury
+  - Forge&Fury
   cookie: 1
   logging: 1
   status: 1

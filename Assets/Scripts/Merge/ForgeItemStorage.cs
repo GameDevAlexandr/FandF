@@ -13,6 +13,7 @@ public class ForgeItemStorage : MonoBehaviour
     private List<MergeItems> _items = new List<MergeItems>(); 
     private void Awake()
     {
+        CreateLine(8);
         for (int i = 0; i < forgeItems.Length; i++)
         {
             for (int j = 0; j < forgeItems[i].items.Length; j++)
@@ -24,28 +25,36 @@ public class ForgeItemStorage : MonoBehaviour
         _emptyObj.SetActive(_items.Count == 0);
     }
 
-    private void AddItem(ForgeItemType type, int level, int count)
+    private void CreateLine(int count)
     {
-        if (count > 0)
+        for (int i = 0; i < 5; i++)
         {
-            for (int i = 0; i < count; i++)
+            for (int j = 0; j < count; j++)
             {
-                var fItem = ForgeItemBase.Base[type][level];
                 _items.Add(Instantiate(_item, _storageContent));
-                _items[_items.Count-1].SetData(fItem);
-                _items[_items.Count-1].storage = this;
+                _items[_items.Count - 1].storage = this;
             }
         }
-        else if (count < 0)
+    }
+    private void AddItem(ForgeItemType type, int level, int count)
+    {
+        if (count == 0) return;
+        var fItem = ForgeItemBase.Base[type][level];
+        int last = _items.Count-1;
+        for (int i = 0; i < _items.Count; i++)
         {
-            for (int i = 0; i < _items.Count; i++)
+            if (_items[i].item == null)
             {
-                if(_items[i].item.type == type && _items[i].item.level == level)
-                {
-                    RemoveItem(_items[i]);
-                    break;
-                }
+                last = i - 1;
+                break;
             }
+        }        
+        while (count > 0)
+        {
+            last++;
+            if (_items.Count == last) CreateLine(1);
+            _items[last].SetData(fItem);
+            count--;
         }
         _notification.SetNotification(CheckIsMerge());
         _emptyObj.SetActive(_items.Count == 0);
@@ -53,7 +62,8 @@ public class ForgeItemStorage : MonoBehaviour
     public void RemoveItem(MergeItems item)
     {
         _items.Remove(item);
-        Destroy(item.gameObject);
+        _items.Add(item);
+        item.EmptyCell();
     }
     private bool CheckIsMerge()
     { 

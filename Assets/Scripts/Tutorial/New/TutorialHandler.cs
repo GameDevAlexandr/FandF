@@ -10,7 +10,6 @@ namespace Tutorial
         public static UnityEvent<IterationName> tutorEvent = new UnityEvent<IterationName>();
         public UnityEvent blockCompleteEvent = new UnityEvent();
 
-        [SerializeField] private bool _isDisable;
         [SerializeField] private CoalHintEvent _mascot;
         [SerializeField] private Hole _hole;
         [SerializeField] private tBlock[] _tutorBlock;
@@ -62,7 +61,6 @@ namespace Tutorial
         private void Start() => Init();
         public void Init()
         {
-            Debug.Log("tutor imit");
             if (_isInitialize || _tutorBlock == null)
             {
                 return;
@@ -79,9 +77,8 @@ namespace Tutorial
             {
                 if (!tutorData[i].isComplete && (tutorData[i].isStarted || i == 0))
                 {
-                    _block = i;
-                    withoutSave = true;
-                    StartIteration();
+                    _block = i;                    
+                    DisabledTutorial();
                 }
                 else if (tutorData[i].isComplete)
                 {
@@ -150,6 +147,24 @@ namespace Tutorial
             else
             {                
                 _iteration++;
+                StartIteration();
+            }
+        }
+        private void DisabledTutorial()
+        {
+            if (!gameObject.activeSelf)
+            {
+                for (int i = 0; i < _tutorBlock.Length; i++)
+                {
+                    for (int j = 0; j < _tutorBlock[i].data.Length; j++)
+                    {
+                        _tutorBlock[i].data[j].triggerEvent?.Invoke();
+                    }
+                }
+            }
+            else
+            {
+                withoutSave = true;
                 StartIteration();
             }
         }

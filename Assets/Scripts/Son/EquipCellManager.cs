@@ -24,10 +24,6 @@ public class EquipCellManager : MonoBehaviour
     {
         _curCell = cell;
         var type = cell.type;        
-        for (int i = 0; i < _ammoCells.Length; i++)
-        {
-            _ammoCells[i].isActive = false;
-        }
         int cellsCounter = 0;
         foreach (var key1 in ForgeItemBase.Base)
         {            
@@ -38,7 +34,6 @@ public class EquipCellManager : MonoBehaviour
                 {
                     if (_ammoCells.Length > cellsCounter)
                     {
-                        _ammoCells[cellsCounter].isActive = true;
                         _ammoCells[cellsCounter].SetData(fType, key2.Key,cell);
                     }
                         cellsCounter++;                    

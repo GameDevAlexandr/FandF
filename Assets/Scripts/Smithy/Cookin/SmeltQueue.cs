@@ -15,9 +15,10 @@ public class SmeltQueue : MonoBehaviour, ICookinQueue
     private int _curProgress;    
     private List<CookinQueueCell> _cells = new List<CookinQueueCell>();
     private int _curHardness { get { return smeltQueue.Count > 0 ? CookBook.item[(CurrencyType)smeltQueue[0].typeIndex].hardness : 0; } }
+    private bool _isInit;
     public void Init()
     {
-        
+        if (_isInit) return;
         if (smeltQueue.Count > 0) 
         {
             for (int i = 0; i < smeltQueue.Count; i++)
@@ -26,9 +27,11 @@ public class SmeltQueue : MonoBehaviour, ICookinQueue
             }
             _curProgress = (int)(_curHardness * smeltQueue[0].progress);
         }
+        _isInit = true;
     }
     public void AddToQueue(int index)
     {
+        Debug.Log("add smelt queue");
         CookData cd = new CookData();
         cd.typeIndex = index;
         cd.progress = 0;

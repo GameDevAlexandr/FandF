@@ -37,7 +37,7 @@ public class ForgeItemInfo : MonoBehaviour
         _equped = isEqiped;
         SetData(item);
         _equipButton.gameObject.SetActive(true);
-        _buttonText.text = !isEqiped ? "REMOVE" : "EQIP";
+        _buttonText.text = !isEqiped ? "REMOVE" : "EQUIP";
     }
 
     private void Equip(bool isEquip)
