@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 0
   _isLast: 0
   _icon: {fileID: -1414464465, guid: 10912fa65c8a5f045b1ed00b50af9eb0, type: 3}
-  _name: Common Amulet lv.1
+  _name: Common Blue Amulet
   _description: 
   _strnght: 0.35
   _figthPocket: 2

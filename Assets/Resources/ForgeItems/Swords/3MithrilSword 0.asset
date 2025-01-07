@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 0
   _isLast: 0
   _icon: {fileID: -693979437, guid: 18f6be0407eaf27428a8725e459ff750, type: 3}
-  _name: 'Mithril Sword '
+  _name: 'Common Mithril Sword '
   _description: 
   _strnght: 15
   _figthPocket: 0

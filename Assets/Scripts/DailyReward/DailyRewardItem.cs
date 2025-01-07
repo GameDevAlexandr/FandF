@@ -23,8 +23,8 @@ public class DailyRewardItem : MonoBehaviour
         _dayNumberText.text = "DAY " + (index + 1).ToString();
         _rewardIcon.sprite = _reward.icon;
         _rwCountText.text = "x" + _count;
-        SetActive(index < dateValue.dayInGame);
-        _completeImg.gameObject.SetActive(receivedDailyReward[index]);
+        SetActive(index <= dateValue.dayInGame);
+        _completeImg.gameObject.SetActive(receivedDailyReward[index]);        
     }
 
     public void SetActive(bool isActive)

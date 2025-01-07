@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 0
   _isLast: 0
   _icon: {fileID: -327213283, guid: 18f6be0407eaf27428a8725e459ff750, type: 3}
-  _name: 'Titan Sword '
+  _name: 'Common Titan Sword '
   _description: 
   _strnght: 6.5
   _figthPocket: 0

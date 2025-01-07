@@ -32,7 +32,7 @@ public class DateTimeManager : MonoBehaviour
         if(secondesTimer >= 1)
         {
             everySecondEvent.Invoke();
-            secondesTimer -=1;
+            secondesTimer = secondesTimer%1;
             CheckDate();
         }
     }

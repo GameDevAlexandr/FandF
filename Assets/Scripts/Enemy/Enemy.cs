@@ -67,7 +67,7 @@ public class Enemy : MonoBehaviour
         {
             _attakTimer -= time;
         }
-        _speedBar.fillAmount = _attakTimer / _hitTime;
+        _speedBar.fillAmount = 1-(_attakTimer / _hitTime);
     }
     private void Attak()
     {
@@ -87,6 +87,7 @@ public class Enemy : MonoBehaviour
         _die.Play();
         spawner.DestroyEnemy(this);
         EventManager.KillEnemy(item.enemyName);
+        Sounds.chooseSound.RandomPitch(Sounds.chooseSound.enemyDie, 0.1f);
         Destroy(gameObject);
     }
     

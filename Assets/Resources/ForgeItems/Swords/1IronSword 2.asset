@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 2
   _isLast: 0
   _icon: {fileID: -1484616231, guid: 18f6be0407eaf27428a8725e459ff750, type: 3}
-  _name: 'Iron Sword '
+  _name: 'Rare Iron Sword '
   _description: 
   _strnght: 3.8
   _figthPocket: 0

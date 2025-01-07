@@ -63,6 +63,7 @@ public class SonFight : MonoBehaviour
         _animation.AnimationState.SetAnimation(0, "attack1", false);
         _tGenerator.StartFly(Damage().ToString(), false, position);
         EventManager.AddSpeedTime(_speed);
+        Sounds.chooseSound.RandomPitch(Sounds.chooseSound.sonAttack, 0.1f);
     }
 
     private int Damage()

@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 0
   _isLast: 0
   _icon: {fileID: -96178122, guid: 0d4c99748307ff14aada71ba911439fc, type: 3}
-  _name: Rare Amulet lv.1
+  _name: Common Purple Amulet
   _description: 
   _strnght: 0.65
   _figthPocket: 3

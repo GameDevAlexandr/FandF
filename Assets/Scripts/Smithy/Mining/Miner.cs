@@ -42,6 +42,7 @@ public class Miner : MonoBehaviour
         GameAnalitic.StartMining();
         _takeOre.gameObject.SetActive(false);
         _steps = StepsCount();
+        ChangeSteps(0);
         _minerPosition = _mine.start;
         _spawnBounds = new Bounds((Vector2)_minerPosition, new Vector2(3, 3));
         transform.position = _mine.GlobalPosition(_minerPosition);

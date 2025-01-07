@@ -99,6 +99,7 @@ public class MinerBag : MonoBehaviour
         }
         _uploadButton.interactable = false;
         _adUploadButton.interactable = false;
+        Sounds.chooseSound.unloadOre.Play();
     }
     public void SetPrice(int distance, int steps)
     {

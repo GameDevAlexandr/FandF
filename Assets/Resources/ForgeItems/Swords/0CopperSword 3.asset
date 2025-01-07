@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 3
   _isLast: 0
   _icon: {fileID: -583469469, guid: 18f6be0407eaf27428a8725e459ff750, type: 3}
-  _name: 'Copper Sword '
+  _name: 'Epic Copper Sword '
   _description: 
   _strnght: 2
   _figthPocket: 0

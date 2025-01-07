@@ -172,6 +172,7 @@ MonoBehaviour:
   _frame: {fileID: 8619267939075362526}
   _back: {fileID: 6038027876922097180}
   _selectImg: {fileID: 8156252320626751625}
+  _mergeAnimation: {fileID: 0}
 --- !u!1 &3880592915723743932
 GameObject:
   m_ObjectHideFlags: 0

@@ -5,6 +5,7 @@ using System.Collections.Generic;
 
 public class ForgeItemStorage : MonoBehaviour
 {
+    [field: SerializeField] public UIAnimation[] MergeAnimations { get; private set; }
     [SerializeField] private MergeItems _item;
     [SerializeField] private Transform _storageContent;
     [SerializeField] private GameObject _emptyObj;
@@ -40,6 +41,20 @@ public class ForgeItemStorage : MonoBehaviour
     {
         if (count == 0) return;
         var fItem = ForgeItemBase.Base[type][level];
+
+        if (count < 0)
+        {
+            for (int i = 0; i < _items.Count; i++)
+            {
+                if(_items[i].item == fItem)
+                {
+                    RemoveItem(_items[i]);
+                    _emptyObj.SetActive(_items.Count == 0);
+                    return;
+                }
+            }
+        }
+
         int last = _items.Count-1;
         for (int i = 0; i < _items.Count; i++)
         {

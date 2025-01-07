@@ -12,7 +12,6 @@ public class CompanyManager : MonoBehaviour
     [SerializeField] private DateTimeManager _timeManager;
     [SerializeField] private MapSonInfo _mapSonInfo;
     [SerializeField] private FightPoint[] _points;
-    [SerializeField] private FightPointInfo _pointInfo;
     [SerializeField] private Button _infoButton;
     [SerializeField] private ScrollRect _scrollRect;
     [SerializeField] private RectTransform _heroRect;
@@ -39,12 +38,21 @@ public class CompanyManager : MonoBehaviour
         }
         _nextChapter.gameObject.SetActive(sonData.chapterUnlock > 0);
         _contentRect = _scrollRect.content;
-        _pointInfo.startCompanyEven.AddListener(DeactiveChangeChapterButton);
+        EventManager.StartTrevel.AddListener(DeactiveChangeChapterButton);
         for (int i = 0; i < _chapters.Length; i++)
         {
             _chapters[i].SetActive(false);
         }
         _chapters[sonData.currentChapter].SetActive(true);
+        for (int i = 0; i < _points.Length; i++)
+        {
+            if (sonData.openedCompanies.Contains(_points[i].companyIndex))
+            {
+                _points[i].gameObject.SetActive(true);
+                pointBase[101].gameObject.SetActive(false);
+                pointBase[201].gameObject.SetActive(false);
+            }
+        }
     }
     public void Init()
     {
@@ -56,6 +64,7 @@ public class CompanyManager : MonoBehaviour
                 _pointBase.Add(_points[i].companyIndex, _points[i]);
             }
         }
+        sonData.openedCompanies = sonData.openedCompanies ?? new List<int>();
         if(eventCompanyPoint== null)
         {
             EventManager.AddForgeItem(EnumsData.ForgeItemType.copperSword, 0, 1);
@@ -89,8 +98,10 @@ public class CompanyManager : MonoBehaviour
                 continue;
             }
             nextPoints[i].gameObject.SetActive(true);
+            sonData.openedCompanies.Add(nextPoints[i].companyIndex);
         }
         pointBase[sonData.companyIndex].gameObject.SetActive(false);
+        if (sonData.openedCompanies.Contains(sonData.companyIndex)) sonData.openedCompanies.Remove(sonData.companyIndex);
         _mapSonInfo.SetData();
     }
 
@@ -101,9 +112,9 @@ public class CompanyManager : MonoBehaviour
         {
             point.Value.gameObject.SetActive(false);
         }
+        sonData.openedCompanies.Clear();
         pointBase[101].gameObject.SetActive(true);
         pointBase[201].gameObject.SetActive(true);
-        //pointBase[0].gameObject.SetActive(true);
         sonData.hp = GetSonHealth();
         _mapSonInfo.SetData();
         _nextChapter.interactable = true;

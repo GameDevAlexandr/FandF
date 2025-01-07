@@ -82,6 +82,10 @@ public class SmeltQueue : MonoBehaviour, ICookinQueue
             nIt.progress = (float)_curProgress / _curHardness;
             smeltQueue[0] = nIt;
             _cells[0].ChangeProgress(nIt.progress);
+            if (Sounds.chooseSound && gameMode == GameMode.smythy)
+            {
+                Sounds.chooseSound.RandomPitch(Sounds.chooseSound.smelting, 0.1f);
+            }
             if (_curProgress >= _curHardness)
             {
                 int trail = _curProgress - _curHardness;

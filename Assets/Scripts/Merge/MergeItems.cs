@@ -45,6 +45,8 @@ public class MergeItems : MonoBehaviour, IDragHandler, IDropHandler, IBeginDragH
         _icon.sprite = item.icon;
         _frame.sprite = RarityBase.frames[item.level];
         _back.sprite = RarityBase.backs[item.material];
+        _cGroup.transform.position = transform.position;
+        _cGroup.transform.parent = transform;
     }
 
     public void OnBeginDrag(PointerEventData eventData)
@@ -79,13 +81,18 @@ public class MergeItems : MonoBehaviour, IDragHandler, IDropHandler, IBeginDragH
         if(mItem = eventData.pointerDrag.GetComponent<MergeItems>())
         {
             if(mItem!=this && item.type == mItem.item.type && item.level == mItem.item.level && !item.isLast)
-            {                
+            {
+               
                 forgeItems[(int)item.type].items[item.level]-=2;
                 forgeItems[(int)item.type].items[item.level + 1]++;
                 EventManager.AddForgeItem(item.type, item.level+1, 0);
                 SetData(ForgeItemBase.Base[item.type][item.level + 1]);
                 storage.RemoveItem(mItem);
                 Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.minePreview);
+                var a = storage.MergeAnimations[item.level-1];
+                a.transform.position = transform.position;
+                a.Play();
+                Sounds.chooseSound.megre.Play();
             }
         }
         EventManager.SelectMergeItem.Invoke(this, false);

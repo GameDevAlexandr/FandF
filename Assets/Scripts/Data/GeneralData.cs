@@ -113,6 +113,7 @@ public class GeneralData : MonoBehaviour
         public int companyIndex;
         public int secondsToCompany;
         public bool companyIsComplete;
+        public List<int> openedCompanies;
         public int[] figthSouls;
         public int[] spareSouls;
         public int[] skills;

@@ -11,6 +11,7 @@ public class TutorialHandler : MonoBehaviour
     [SerializeField] private bool _isDisable;
     [SerializeField] private CoalHintEvent _coal;
     [SerializeField] private Hole _hole;
+    [SerializeField] private AudioSource _aSource;
     [SerializeField] private TriggerButton[] _tButtons;
     [SerializeField] private tData[] _data;
 
@@ -24,6 +25,7 @@ public class TutorialHandler : MonoBehaviour
         public IterationName skipIteration;
         public bool mascot;
         [AllowNesting][ShowIf("mascot")][TextArea(0,10)] public string hinttext;
+        [AllowNesting][ShowIf("mascot")] public AudioClip _replica;
         public Transform lookObject;
         public bool trigger;
         [AllowNesting] [ShowIf("isLoock")] public bool hole;

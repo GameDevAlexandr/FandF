@@ -12,6 +12,7 @@ namespace Tutorial
 
         [SerializeField] private CoalHintEvent _mascot;
         [SerializeField] private Hole _hole;
+        [SerializeField] private AudioSource _aSource;
         [SerializeField] private tBlock[] _tutorBlock;
 
         private int _block;
@@ -29,6 +30,7 @@ namespace Tutorial
         {
             public bool mascot;
             [AllowNesting] [ShowIf("mascot")] [TextArea(0, 10)] public string message;
+            [AllowNesting] [ShowIf("mascot")] public AudioClip replica;
             [AllowNesting] [HideIf("mascot")] public Transform lookObject;
             [AllowNesting] [HideIf("mascot")] public bool hole;
             [AllowNesting] [ShowIf("hole")] public bool isCustomHole;
@@ -115,6 +117,11 @@ namespace Tutorial
             if (_tutorBlock[_block].data[_iteration].mascot)
             {
                 _mascot.SetCoalHint(_tutorBlock[_block].data[_iteration].message);
+                if (_tutorBlock[_block].data[_iteration].replica)
+                {
+                    _aSource.clip = _tutorBlock[_block].data[_iteration].replica;
+                    _aSource.Play();
+                }
             }
             else
             {

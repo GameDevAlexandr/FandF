@@ -17,6 +17,14 @@ public class GameModeManager : MonoBehaviour
             return;
         }
         gameMode = GameMode.smythy;
+        if (forgeItems[(int)ForgeItemType.commonAmulet].items[0] >= 1 && !inCompany)
+        {
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amuletComplete);
+        }
+        if (forgeItems[(int)ForgeItemType.copperSword].items[0] >= 1 && gameMode == GameMode.smythy && tutorData[0].isComplete)
+        {
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.merge);
+        }
     }
 
     [System.Serializable]
@@ -69,12 +77,12 @@ public class GameModeManager : MonoBehaviour
         if (currency[(int)CurrencyType.moonTears] > 0 && currency[(int)CurrencyType.greenStone] > 3 && !inCompany)
         {
             Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amulet);
-        }
-        if (forgeItems[(int)ForgeItemType.commonAmulet].items[0] >= 1 && !inCompany)
-        {
-            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amuletComplete);
-        }
+        }        
         Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.buy);
+        if (forgeItems[(int)ForgeItemType.copperSword].items[0] >= 1)
+        {
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.merge);
+        }
     }
     public void MineMode()
     {

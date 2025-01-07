@@ -13,9 +13,10 @@ public class Sounds : MonoBehaviour
     public AudioSource backGroundMine;
     public AudioSource backGroundFight;
     public AudioSource forgin;
+    public AudioSource smelting;
     public AudioSource sonAttack;
     public AudioSource swordAttack;
-    public AudioSource createNewSword;
+    public AudioSource megre;
     public AudioSource buyAtCoins;
     public AudioSource helpMessage;
     public AudioSource buttonCraftFigth;
@@ -39,6 +40,7 @@ public class Sounds : MonoBehaviour
     public AudioSource pickAxeKnock;
     public AudioSource mineOre;
     public AudioSource mineSteps;
+    public AudioSource unloadOre;
 
     private AudioSource _curBackground;
     private void Awake()

@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 2
   _isLast: 0
   _icon: {fileID: 2091841132, guid: 10912fa65c8a5f045b1ed00b50af9eb0, type: 3}
-  _name: Common Amulet lv.3
+  _name: Rare Green Amulet
   _description: 
   _strnght: 0.2
   _figthPocket: 1

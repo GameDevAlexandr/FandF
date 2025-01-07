@@ -10,6 +10,7 @@ public class UIAnimation : MonoBehaviour
     [SerializeField] private bool playOnAwake;
     [SerializeField] private bool playOnEnable;
     [SerializeField] private bool loop;
+    [SerializeField] private bool disabled;
     [SerializeField] private float delay;
     private Image image;
     private int currenKey;
@@ -41,6 +42,7 @@ public class UIAnimation : MonoBehaviour
                     StartCoroutine(DelayAnimation());
                 }
                 currenKey = 0;
+                if (disabled) gameObject.SetActive(false);
             }
             if (!isPlayed)
             {
@@ -56,6 +58,7 @@ public class UIAnimation : MonoBehaviour
     }
     public void Play()
     {
+        if (disabled) gameObject.SetActive(true);
         if (!isPlayed&&isEnable)
         {
             if (!image)

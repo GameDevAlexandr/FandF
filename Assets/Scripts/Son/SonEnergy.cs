@@ -24,6 +24,7 @@ public class SonEnergy : MonoBehaviour
         _timeManager.everySecondEvent.AddListener(()=>AddEnergy(1));
         _timeManager.dayInGameEvent.AddListener(FillEnergy);
         _runButton.onClick.AddListener(RunClick);
+        EventManager.StartTrevel.AddListener(() => AddEnergy(0));
     }
 
     public void RunClick()

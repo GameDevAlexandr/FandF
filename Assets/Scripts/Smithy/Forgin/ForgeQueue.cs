@@ -89,7 +89,7 @@ public class ForgeQueue : MonoBehaviour, ICookinQueue
             nIt.progress = (float)_curProgress / _curHardness;
             forgeQueue[0] = nIt;
             _cells[0].ChangeProgress(nIt.progress);
-            if (Sounds.chooseSound)
+            if (Sounds.chooseSound && gameMode == GameMode.smythy)
             {
                 Sounds.chooseSound.RandomPitch(Sounds.chooseSound.forgin, 0.1f);
             }
@@ -113,7 +113,10 @@ public class ForgeQueue : MonoBehaviour, ICookinQueue
         int grd = GetForgeItemGrade(itm.material);
         EventManager.AddForgeItem(type, grd, 1);        
         GameAnalitic.Forge(type.ToString() + "_" + grd);
-        Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.merge);
+        if (gameMode == GameMode.smythy)
+        {
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.merge);
+        }
     }
 
     private ForgeItem GetItem(int qIndex)

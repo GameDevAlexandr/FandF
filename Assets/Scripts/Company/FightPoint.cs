@@ -26,18 +26,6 @@ public class FightPoint : MonoBehaviour
             _levelText.text = "lv. " + _companyIndex;
         }
     }
-
-    private void OnClick(Vector2 position)
-    {
-       // position = Camera.main.ScreenToWorldPoint(position);
-        //if (gameMode == EnumsData.GameMode.map && !_info.gameObject.activeSelf)
-        //{
-        //    if (gameObject.activeSelf && _sprite.bounds.Contains(position))
-        //    {
-        //        _info.SetData(_item, _companyIndex, _secondsTo);                
-        //    }
-        //}
-    }
     public void OnClick()
     {
         _info.SetData(_item, _companyIndex, _secondsTo);

@@ -6,8 +6,6 @@ using static GeneralData;
 
 public class FightPointInfo : MonoBehaviour
 {
-    [HideInInspector] public UnityEvent startCompanyEven = new UnityEvent();
-
     [SerializeField] private Text _difficulty;
     [SerializeField] private Button _goToPoint;
     [SerializeField] private Button _startCompany;
@@ -106,7 +104,7 @@ public class FightPointInfo : MonoBehaviour
         }
         else
         {
-            startCompanyEven.Invoke();
+            EventManager.StartTrevel.Invoke();
         }
         Tic();
     }

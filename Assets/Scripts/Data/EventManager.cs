@@ -23,6 +23,7 @@ public class EventManager : MonoBehaviour
     public static UnityEvent<MergeItems, bool> SelectMergeItem = new UnityEvent<MergeItems,bool>();
     public static UnityEvent<string> UpdateAlmanack = new UnityEvent<string>();
     public static UnityEvent EnemyDeath = new UnityEvent();
+    public static UnityEvent StartTrevel = new UnityEvent();
     
     public static void AddCurrency(CurrencyType type, int count)
     {

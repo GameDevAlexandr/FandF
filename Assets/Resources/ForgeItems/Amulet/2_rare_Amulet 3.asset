@@ -18,7 +18,7 @@ MonoBehaviour:
   _level: 3
   _isLast: 0
   _icon: {fileID: -2070576018, guid: 0d4c99748307ff14aada71ba911439fc, type: 3}
-  _name: Rare Amulet lv.4
+  _name: Epic Purple Amulet
   _description: 
   _strnght: 0.85
   _figthPocket: 3
