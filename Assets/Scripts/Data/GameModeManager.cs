@@ -83,6 +83,10 @@ public class GameModeManager : MonoBehaviour
         {
             Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.merge);
         }
+        if (forgeItems[(int)ForgeItemType.commonAmulet].items[0] >= 1)
+        {
+            Tutorial.TutorialHandler.tutorEvent.Invoke(Tutorial.TutorialHandler.IterationName.amuletComplete);
+        }
     }
     public void MineMode()
     {

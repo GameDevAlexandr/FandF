@@ -96,7 +96,7 @@ namespace Tutorial
 
         public void SetNewIteration(IterationName name)
         {
-            if (!gameObject.activeSelf)
+            if (!gameObject.activeSelf || _iName == name)
             {
                 return;
             }

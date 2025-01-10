@@ -24,6 +24,7 @@ public class ForgeItemStorage : MonoBehaviour
         }
         EventManager.ChangrForgeitem.AddListener(AddItem);
         _emptyObj.SetActive(_items.Count == 0);
+        _notification.SetNotification(CheckIsMerge());
     }
 
     private void CreateLine(int count)
@@ -39,6 +40,7 @@ public class ForgeItemStorage : MonoBehaviour
     }
     private void AddItem(ForgeItemType type, int level, int count)
     {
+        _notification.SetNotification(CheckIsMerge());
         if (count == 0) return;
         var fItem = ForgeItemBase.Base[type][level];
 
@@ -49,7 +51,7 @@ public class ForgeItemStorage : MonoBehaviour
                 if(_items[i].item == fItem)
                 {
                     RemoveItem(_items[i]);
-                    _emptyObj.SetActive(_items.Count == 0);
+                    _emptyObj.SetActive(_items.Count == 0);                    
                     return;
                 }
             }
@@ -71,7 +73,6 @@ public class ForgeItemStorage : MonoBehaviour
             _items[last].SetData(fItem);
             count--;
         }
-        _notification.SetNotification(CheckIsMerge());
         _emptyObj.SetActive(_items.Count == 0);
     }
     public void RemoveItem(MergeItems item)

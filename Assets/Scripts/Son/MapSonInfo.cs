@@ -14,7 +14,7 @@ public class MapSonInfo : MonoBehaviour
     public void SetData()
     {
         _hpBar.fillAmount = (float)sonData.hp / GetSonHealth();
-        _hpADRecoveryButton.SetActive(sonData.hp < GetSonHealth());
+        _hpADRecoveryButton.SetActive(sonData.hp < GetSonHealth()*0.6f);
         _hpText.text = sonData.hp + "/" + GetSonHealth();
         _expBar.fillAmount =  (float)sonData.exp / SonExpForLvlUp(sonData.level);
         _expText.text = sonData.exp + "/" + SonExpForLvlUp(sonData.level);

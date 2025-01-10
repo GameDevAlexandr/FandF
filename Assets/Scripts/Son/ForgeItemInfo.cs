@@ -22,7 +22,7 @@ public class ForgeItemInfo : MonoBehaviour
     {
         _equipButton.onClick.RemoveAllListeners();
         _equipButton.onClick.AddListener(() => Equip(_equped));
-        _equipButton.gameObject.SetActive(false);
+        //_equipButton.gameObject.SetActive(false);
         _item = item;
         _frame.sprite = RarityBase.frames[item.level];
         _back.sprite = RarityBase.backs[item.material];
@@ -36,7 +36,7 @@ public class ForgeItemInfo : MonoBehaviour
         _cell = cell;
         _equped = isEqiped;
         SetData(item);
-        _equipButton.gameObject.SetActive(true);
+        //_equipButton.gameObject.SetActive(true);
         _buttonText.text = !isEqiped ? "REMOVE" : "EQUIP";
     }
 

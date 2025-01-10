@@ -36,4 +36,6 @@ public class Settings : MonoBehaviour
         settings.mute = _mute.isOn;
         _soundManager.Mute();
     }
+
+    public void GoToURL(string url)=> Application.OpenURL(url);
 }

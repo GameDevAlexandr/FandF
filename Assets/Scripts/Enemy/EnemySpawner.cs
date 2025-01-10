@@ -17,6 +17,8 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] private FinishPanel _finishPanel;
     [SerializeField] private LootSpawner _loot;
     [SerializeField] private Text _enemyCounterText;
+    [SerializeField] private Image _enemyCountBar;
+    [SerializeField] private GameObject _enemyCountObj;
     [SerializeField] private Point[] _spawnPoint;
     [SerializeField] private Transform _target;
     [SerializeField] private TextGenerator _expTG;
@@ -25,6 +27,7 @@ public class EnemySpawner : MonoBehaviour
     private CompanyItem _company;   
     private List<Enemy> _enemies = new List<Enemy>();
     private int _enemyCounter;
+    private int _maxEnemies;
     [System.Serializable]
     public struct Point
     {
@@ -46,7 +49,10 @@ public class EnemySpawner : MonoBehaviour
                     _enemyCounter++;
                 }
             }
-            _enemyCounterText.text = _enemyCounter>1? "ENEMIES: "+ _enemyCounter:"";
+            _enemyCountObj.SetActive(_enemyCounter > 1);
+            _maxEnemies = _enemyCounter;
+            _enemyCounterText.text = 0 + "/" + _maxEnemies;
+            _enemyCountBar.fillAmount = 0;
         }
         int el = wawes[waveCount].enemyes.Length;
         Transform[] pos = _spawnPoint[el - 1].spawnPoint;
@@ -66,7 +72,8 @@ public class EnemySpawner : MonoBehaviour
         EventManager.AddExpForSon(enemy.item.exp);
         _expTG.StartFly("<color=blue>EXP+ </color>" + enemy.item.exp, false);
         _enemyCounter--;
-        _enemyCounterText.text = "ENEMIES: " + _enemyCounter;
+        _enemyCounterText.text = (_maxEnemies - _enemyCounter) + "/" + _maxEnemies;
+        _enemyCountBar.fillAmount = (float)(_maxEnemies - _enemyCounter) / _maxEnemies;
         if (_enemies.Count == 0)
         {
             if (waveCount < wawes.Length)
